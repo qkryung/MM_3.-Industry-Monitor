@@ -1,0 +1,94 @@
+{
+  "ticker": "WMB",
+  "oneLiner": "천연가스 수송·집하·처리 네트워크",
+  "businessModel": "가스 생산지에서 소비지로 연결하는 파이프라인과 집하·처리시설을 운영합니다. Transco 같은 장거리망에서 발전사·유틸리티·LNG 고객의 가스 수송 요금을 받습니다. 생산량이 많은 지역과 수요가 늘어나는 지역을 연결하는 입지가 수익 기반입니다.",
+  "revenueStreams": [
+    {
+      "name": "가스 송전·저장",
+      "description": "장거리 파이프라인 용량과 운송 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.williams.com/"
+    },
+    {
+      "name": "집하·처리",
+      "description": "유정 가스를 모아 판매 가능한 품질로 처리",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.williams.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1908",
+      "event": "Williams 형제가 건설업 시작"
+    },
+    {
+      "year": "1918",
+      "event": "본사를 Tulsa로 이전"
+    },
+    {
+      "year": "1995",
+      "event": "Transco 인수로 동부 가스망 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Transco 입지",
+      "detail": "동부 대형 소비시장에 연결된 장거리망을 보유합니다."
+    },
+    {
+      "title": "가스 집중",
+      "detail": "생산부터 최종 수요까지 가스 흐름에 전문성이 있습니다."
+    },
+    {
+      "title": "증설 기반",
+      "detail": "기존 네트워크에서 추가 연결·압축 설비 기회를 얻습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "지역 의존",
+      "detail": "특정 생산지의 생산 축소는 집하 물량에 영향을 줍니다."
+    },
+    {
+      "title": "규제 심사",
+      "detail": "노선 증설과 요율은 승인·소송 위험이 있습니다."
+    },
+    {
+      "title": "자본 투입",
+      "detail": "증설 현금 지출과 수익 발생 사이에 시차가 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Kinder Morgan",
+      "ticker": "KMI",
+      "comparison": "KMI는 더 다양한 터미널·정제품 사업도 운영합니다."
+    },
+    {
+      "name": "ONEOK",
+      "ticker": "OKE",
+      "comparison": "ONEOK과는 가스 수송 대 NGL 처리·수송의 구성이 다릅니다."
+    }
+  ],
+  "macroLink": "가스발전·LNG 수요와 지역별 수송 병목이 기회를 만들며 고금리는 증설·배당 평가에 부담을 줍니다.",
+  "monitoring": [
+    "Transco 신규 계약은 언제 실제 운송량으로 전환되는가?",
+    "집하 물량 감소를 송전 성장으로 상쇄할 수 있는가?",
+    "확장 프로젝트 수익률이 자본비용을 충분히 넘는가?"
+  ],
+  "sources": [
+    {
+      "title": "Williams · 투자자 자료",
+      "url": "https://investor.williams.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Williams · 기업 연혁·사업 소개",
+      "url": "https://www.williams.com/our-company/our-history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

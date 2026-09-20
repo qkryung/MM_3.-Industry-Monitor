@@ -1,0 +1,99 @@
+{
+  "ticker": "CRM",
+  "oneLiner": "영업·고객서비스·마케팅 정보를 한곳에 모으는 기업용 구독 소프트웨어 회사.",
+  "businessModel": "기업은 영업사원·상담원 등이 사용하는 Salesforce 소프트웨어에 구독료를 냅니다. 고객 데이터, 분석, 연동 도구와 Slack 협업을 함께 판매해 이용 범위를 넓힙니다. AI 에이전트는 사용량 기반 수익 기회를 만들지만 기존 사용자 좌석 방식과 어떤 관계가 되는지 확인해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "구독·지원",
+      "description": "영업·서비스·마케팅·상거래·데이터·분석·Slack 등 소프트웨어 구독.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.salesforce.com/overview/default.aspx"
+    },
+    {
+      "name": "전문 서비스·기타",
+      "description": "도입·교육·상담 등 구독 외 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.salesforce.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1999,
+      "event": "인터넷으로 업무 소프트웨어를 제공하는 모델로 Salesforce 설립."
+    },
+    {
+      "year": 2004,
+      "event": "뉴욕증권거래소 기업공개."
+    },
+    {
+      "year": 2021,
+      "event": "Slack 인수를 완료해 협업 플랫폼 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 데이터의 축적",
+      "detail": "기업의 영업 과정·고객 기록·업무 규칙이 쌓여 교체가 복잡해집니다."
+    },
+    {
+      "title": "파트너 생태계",
+      "detail": "구축 파트너와 추가 앱이 산업별 요구에 맞게 제품을 확장합니다."
+    },
+    {
+      "title": "다양한 업무 연결",
+      "detail": "영업에서 서비스·분석·마케팅으로 고객당 제품 사용을 넓힐 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "좌석 성장 둔화",
+      "detail": "고객의 채용 축소와 라이선스 정리가 사용자 기반 매출 증가를 제한할 수 있습니다."
+    },
+    {
+      "title": "구축 복잡성",
+      "detail": "맞춤 설정·데이터 정비 비용이 커지면 도입 기간과 고객 불만이 늘어납니다."
+    },
+    {
+      "title": "AI 수익모델 전환",
+      "detail": "AI가 업무 인력을 줄이는 효과와 추가 사용료 수익을 함께 검증해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "comparison": "Dynamics·업무 생산성 제품을 묶어 경쟁합니다."
+    },
+    {
+      "name": "Oracle",
+      "ticker": "ORCL",
+      "comparison": "영업·마케팅·서비스를 다른 기업 업무 시스템과 연결해 제공합니다."
+    }
+  ],
+  "macroLink": "기업 영업·서비스 인력과 소프트웨어 예산이 수요 기반입니다. 경기 둔화 때는 신규 계약보다 기존 고객의 갱신·추가 제품 채택이 더 중요해질 수 있습니다.",
+  "monitoring": [
+    "현재 잔여 계약 의무 증가가 갱신과 신규 고객 중 어디서 나오는가?",
+    "AI 에이전트 사용이 실제 유료 계약·반복 사용으로 연결되는가?",
+    "이익률 개선이 지속 가능한 효율화인지 성장 투자 축소인지 확인했는가?"
+  ],
+  "sources": [
+    {
+      "title": "Salesforce · 공식 IR",
+      "url": "https://investor.salesforce.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Salesforce 공식 연혁",
+      "url": "https://www.salesforce.com/news/stories/the-history-of-salesforce/?bc=OTH",
+      "note": "1999년 설립·2004년 IPO와 제품·인수의 변화 확인."
+    },
+    {
+      "title": "Slack 인수 완료",
+      "url": "https://www.salesforce.com/news/press-releases/2021/07/21/salesforce-slack-deal-close/",
+      "note": "2021년 인수 완료 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

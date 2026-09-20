@@ -1,0 +1,94 @@
+{
+  "ticker": "FCX",
+  "oneLiner": "구리를 중심으로 금·몰리브덴도 생산",
+  "businessModel": "미국·남미·인도네시아 광산에서 구리를 중심으로 금·몰리브덴도 생산해 제련·산업 고객에게 판매합니다. 구리 가격뿐 아니라 광석 품위·회수율·현장 운영이 생산량과 원가를 바꿉니다. 금 부산물 수익이 구리 원가 계산을 낮출 수 있어 정의 확인이 필요합니다.",
+  "revenueStreams": [
+    {
+      "name": "구리",
+      "description": "광산에서 나온 구리 정광·금속 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.fcx.com/"
+    },
+    {
+      "name": "금·몰리브덴",
+      "description": "부산물 또는 별도 광산 제품 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.fcx.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1912",
+      "event": "Freeport Sulphur 설립"
+    },
+    {
+      "year": "1988",
+      "event": "Grasberg 발견·FCX NYSE 상장"
+    },
+    {
+      "year": "2007",
+      "event": "Phelps Dodge 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "구리 기반",
+      "detail": "전력·산업에 필요한 구리의 대형 자원을 보유합니다."
+    },
+    {
+      "title": "부산물",
+      "detail": "금·몰리브덴 수익이 자산별 비용을 완충할 수 있습니다."
+    },
+    {
+      "title": "운영 기술",
+      "detail": "장기 광산 개발·회수율 개선 경험이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "국가·허가",
+      "detail": "광산국 규제·지분·수출 조건이 달라질 수 있습니다."
+    },
+    {
+      "title": "운영 중단",
+      "detail": "지하 광산·제련·기상 사고가 생산을 제한합니다."
+    },
+    {
+      "title": "가격·품위",
+      "detail": "구리 하락과 품위 저하가 함께 오면 현금이 줄어듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Southern Copper",
+      "ticker": "SCCO",
+      "comparison": "남미 구리 자산의 원가·투자·국가 노출을 비교합니다."
+    },
+    {
+      "name": "Newmont",
+      "ticker": "NEM",
+      "comparison": "일부 구리 노출은 겹치지만 Newmont는 금 중심입니다."
+    }
+  ],
+  "macroLink": "전력망·제조업·중국 수요가 구리에 영향을 줍니다. 달러·현지 통화·금 부산물 효과도 별도로 봅니다.",
+  "monitoring": [
+    "구리 판매 증가가 품위·회수율 개선인지 일시적인가?",
+    "인도네시아 운영·허가·제련 조건은 안정적인가?",
+    "금 부산물 공제 전후 단위원가는 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Freeport-McMoRan · 투자자 자료",
+      "url": "https://investors.fcx.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Freeport-McMoRan · 기업 연혁·사업 소개",
+      "url": "https://fcx.com/about/history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

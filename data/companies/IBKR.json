@@ -1,0 +1,101 @@
+{
+  "ticker": "IBKR",
+  "oneLiner": "여러 나라의 주식·옵션·선물 등을 한 계좌에서 거래하게 하는 전자증권사입니다.",
+  "businessModel": "거래 접수·위험관리·결제를 자동화하여 개인·자문사·기관 고객에게 글로벌 시장 접근을 제공합니다. 수익은 거래 수수료, 고객 신용융자·현금의 순이자, 증권대여·관련 서비스에서 나옵니다. 고객이 맡긴 자산은 회사 매출이 아니며 계좌 증가, 계좌당 거래, 고객 자금의 구성을 함께 읽어야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "중개 수수료",
+      "description": "주식·옵션·선물 등 고객 거래 처리에 대한 보수",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.interactivebrokers.com/ir/main.php"
+    },
+    {
+      "name": "순이자수익",
+      "description": "신용융자·고객 현금·증권대여 등에서 조달과 지급이자를 반영한 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.interactivebrokers.com/ir/main.php"
+    },
+    {
+      "name": "기타 계좌·시장 서비스",
+      "description": "시장데이터·계좌 관련 서비스 등 기타 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.interactivebrokers.com/ir/main.php"
+    }
+  ],
+  "history": [
+    {
+      "year": "1977",
+      "event": "Thomas Peterffy의 옵션 시장조성 활동에서 시작됐습니다."
+    },
+    {
+      "year": "1993",
+      "event": "Interactive Brokers 전자증권 사업이 형성됐습니다."
+    },
+    {
+      "year": "2007",
+      "event": "Interactive Brokers Group이 상장했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "자동화된 비용 구조",
+      "detail": "거래·위험관리 자동화로 고객이 늘 때 비용 증가를 제한할 수 있습니다."
+    },
+    {
+      "title": "글로벌 다중자산 접근",
+      "detail": "여러 거래소·통화·상품을 연결해 전문 투자자의 이용 이유를 만듭니다."
+    },
+    {
+      "title": "계좌 성장 경로",
+      "detail": "개인뿐 아니라 자문사·브로커·기관을 통해 고객을 확보합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "금리 수입 의존",
+      "detail": "고객 현금과 신용융자의 이자수입은 정책금리 하락에 민감할 수 있습니다."
+    },
+    {
+      "title": "복잡한 상품의 꼬리위험",
+      "detail": "자동 청산이 있어도 급격한 가격 공백으로 고객 손실이 담보를 초과할 수 있습니다."
+    },
+    {
+      "title": "국가별 운영 복잡성",
+      "detail": "여러 규제·통화·시장 시간대를 지원하므로 시스템·준법 부담이 큽니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Charles Schwab",
+      "ticker": "SCHW",
+      "comparison": "IBKR는 글로벌 적극 거래·자동화, Schwab은 미국 대중·자문 생태계가 강점입니다."
+    },
+    {
+      "name": "Robinhood Markets",
+      "ticker": "HOOD",
+      "comparison": "개인 전자거래가 겹치지만 상품 범위·고객층·해외 시장 접근이 다릅니다."
+    }
+  ],
+  "macroLink": "변동성은 거래 수수료를 늘릴 수 있으나 고객 신용위험도 키웁니다. 금리는 고객현금 수익과 신용융자 수요를 반대 방향으로 움직일 수 있습니다.",
+  "monitoring": [
+    "계좌 증가가 고객자산과 수익성 있는 거래 증가를 동반하는가?",
+    "순이자수익은 금리와 고객잔액 중 어느 요인이 움직이는가?",
+    "급변장에서 증거금·자동청산이 실제 손실을 제한하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Interactive Brokers Group · 투자자 자료",
+      "url": "https://investors.interactivebrokers.com/ir/main.php",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Interactive Brokers Group · 연혁·기업 자료",
+      "url": "https://www.interactivebrokers.com/en/general/about/info-and-history.php",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

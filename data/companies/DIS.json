@@ -1,0 +1,111 @@
+{
+  "ticker": "DIS",
+  "oneLiner": "캐릭터와 이야기 하나를 영화·구독·테마파크·상품으로 확장하는 기업입니다.",
+  "businessModel": "Disney는 영화와 방송에서 만든 지식재산을 스트리밍·스포츠·테마파크·라이선스로 연결합니다. 콘텐츠가 흥행하면 여러 사업이 도움을 받지만, 방송 감소·스포츠 판권·대규모 파크 투자처럼 서로 다른 비용 구조도 동시에 관리해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "Entertainment",
+      "description": "영화·TV·스트리밍의 구독·광고·배급 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.thewaltdisneycompany.com/overview/default.aspx"
+    },
+    {
+      "name": "Sports",
+      "description": "ESPN 등 스포츠 미디어의 광고·가입·관련 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.thewaltdisneycompany.com/overview/default.aspx"
+    },
+    {
+      "name": "Experiences",
+      "description": "테마파크·리조트·크루즈와 상품 라이선스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.thewaltdisneycompany.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1923,
+      "event": "Walt와 Roy Disney가 애니메이션 스튜디오 설립."
+    },
+    {
+      "year": 2006,
+      "event": "Pixar 인수 완료."
+    },
+    {
+      "year": 2019,
+      "event": "Disney+ 서비스 출시."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "재사용 가능한 지식재산",
+      "detail": "캐릭터를 영상·놀이시설·상품으로 연결해 여러 번 수익화합니다."
+    },
+    {
+      "title": "체험 자산",
+      "detail": "테마파크는 디지털 콘텐츠와 다른 현장 경험과 진입장벽을 가집니다."
+    },
+    {
+      "title": "유통 접점",
+      "detail": "영화·방송·직접 구독을 통해 다양한 고객과 만납니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "방송 구조 변화",
+      "detail": "케이블 가입 감소를 스트리밍 이익으로 메워야 합니다."
+    },
+    {
+      "title": "높은 고정비",
+      "detail": "파크·선박·콘텐츠에는 수요가 약해져도 유지해야 하는 비용이 있습니다."
+    },
+    {
+      "title": "판권·흥행 부담",
+      "detail": "스포츠 권리료와 영화 실패가 개별 사업 이익을 흔들 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Netflix",
+      "ticker": "NFLX",
+      "comparison": "글로벌 스트리밍에서 이용 시간과 구독료를 경쟁합니다."
+    },
+    {
+      "name": "Comcast",
+      "ticker": "CMCSA",
+      "comparison": "Universal 테마파크·스튜디오·Peacock이 각각 경쟁합니다."
+    }
+  ],
+  "macroLink": "여행·소득은 파크 방문과 객단가에, 광고 경기는 미디어에, 금리·건설비는 파크 확장 수익성에 각각 작용합니다.",
+  "monitoring": [
+    "스트리밍 이익이 기존 방송 감소를 상쇄하는가?",
+    "파크 매출 증가는 방문객과 객단가 중 무엇이 이끄는가?",
+    "새 콘텐츠가 스트리밍·파크·상품으로 연결되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Walt Disney · 공식 IR",
+      "url": "https://investors.thewaltdisneycompany.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Disney · D23과 창업 연혁",
+      "url": "https://thewaltdisneycompany.com/press-releases/disney-announces-d23-the-official-community-for-disney-fans/",
+      "note": "1923년 설립의 공식 설명."
+    },
+    {
+      "title": "Disney · Pixar 인수 완료",
+      "url": "https://thewaltdisneycompany.com/press-releases/disney-completes-pixar-acquisition/",
+      "note": "2006년 거래 완료."
+    },
+    {
+      "title": "Disney · Disney+ 출시",
+      "url": "https://thewaltdisneycompany.com/news/disney-launches-today-and-a-new-era-of-disney-entertainment-begins/",
+      "note": "2019년 직접 구독 사업 확대."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

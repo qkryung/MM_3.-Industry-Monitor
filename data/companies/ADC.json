@@ -1,0 +1,94 @@
+{
+  "ticker": "ADC",
+  "oneLiner": "미국 주요 소매업체의 독립 점포와 토지를 장기로 빌려줍니다.",
+  "businessModel": "소매점 건물이나 토지를 취득·개발해 한 임차인에게 장기 순임대합니다. 임차인의 신용과 점포 입지가 핵심입니다. 토지 임대는 토지 소유자가 임대료를 받고 건물 부담을 임차인에게 맡기는 구조여서 일반 건물 임대와 자본 지출 특성이 다릅니다. 신규 취득 규모보다 자본비용 차감 후 주당 현금흐름 증가를 확인합니다.",
+  "revenueStreams": [
+    {
+      "name": "건물 순임대료",
+      "description": "미국 소매점 건물의 장기 계약 임대료입니다. 토지 임대 계약은 아래 항목과 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.agreerealty.com/overview/default.aspx"
+    },
+    {
+      "name": "토지 임대료",
+      "description": "토지만 장기로 임대한 계약의 수입입니다. 전체 임대사업의 일부이며 별도 공시 사업부를 뜻하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.agreerealty.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1971",
+      "event": "Richard Agree가 전신 Agree Development Company를 설립했습니다."
+    },
+    {
+      "year": "1994",
+      "event": "기업공개 후 상장 REIT로 운영을 시작했습니다."
+    },
+    {
+      "year": "2013",
+      "event": "Joey Agree가 CEO에 취임하며 순임대 포트폴리오 확대를 이끌었습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "단순한 임대 구조",
+      "detail": "장기 순임대 계약이 현금수입 예측을 돕습니다."
+    },
+    {
+      "title": "토지 임대 선택지",
+      "detail": "일부 토지 임대는 건물 유지·재투자 부담을 낮추는 구조를 제공합니다."
+    },
+    {
+      "title": "소매 전문성",
+      "detail": "점포 취득과 개발 과정에서 소매 임차인의 입지 요구를 축적합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "소매 업종 집중",
+      "detail": "임차인 신용이 좋아도 업종 변화와 폐점 위험이 사라지지는 않습니다."
+    },
+    {
+      "title": "외부 성장 의존",
+      "detail": "자산 취득은 차입 또는 주식 자본의 가격에 민감합니다."
+    },
+    {
+      "title": "낮은 계약 인상률",
+      "detail": "장기 계약의 고정 인상률이 높은 인플레이션을 따라가지 못할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Realty Income",
+      "ticker": "O",
+      "comparison": "지역·임차 업종·자산 유형이 더 넓은 순임대 회사입니다."
+    },
+    {
+      "name": "National Retail Properties",
+      "ticker": "NNN",
+      "comparison": "미국 소매점 순임대 중심의 비교대상입니다."
+    }
+  ],
+  "macroLink": "장기금리와 신용스프레드가 신규 투자의 매력을 좌우합니다. 소비경기는 개별 소매 임차인의 점포 수익성과 재계약 의지로 전달됩니다.",
+  "monitoring": [
+    "신규 취득 수익률이 실제 조달비용을 충분히 상회하는가?",
+    "주요 임차인의 신용 변화와 폐점 계획이 포트폴리오에 어떤 영향을 주는가?",
+    "토지 임대와 건물 임대의 잔여 기간·인상률·집중도가 어떻게 다른가?"
+  ],
+  "sources": [
+    {
+      "title": "Agree Realty · 투자자 자료",
+      "url": "https://investors.agreerealty.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Agree Realty · 연혁·기업 자료",
+      "url": "https://agreerealty.com/about/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

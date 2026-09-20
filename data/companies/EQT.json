@@ -1,0 +1,99 @@
+{
+  "ticker": "EQT",
+  "oneLiner": "애팔래치아 천연가스 생산과 운송 인프라",
+  "businessModel": "애팔래치아 셰일에서 천연가스를 생산하고 집하·수송 인프라로 소비지에 전달합니다. 발전사·가스 구매자가 고객이며, Henry Hub 가격뿐 아니라 지역 판매가 할인과 운송비가 수익을 바꿉니다. 가스가 너무 싸면 생산 시점을 조정하기도 합니다.",
+  "revenueStreams": [
+    {
+      "name": "천연가스·액체 판매",
+      "description": "셰일 가스와 동반 액체의 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.eqt.com/"
+    },
+    {
+      "name": "미드스트림",
+      "description": "집하·수송·저장 인프라와 관련 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.eqt.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1888",
+      "event": "Equitable Gas 계보에서 출발"
+    },
+    {
+      "year": "2018",
+      "event": "Equitrans Midstream 분사"
+    },
+    {
+      "year": "2024",
+      "event": "Equitrans 재인수로 생산·물류 통합"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "생산 규모",
+      "detail": "대규모 가스 자산과 표준화된 개발 경험을 보유합니다."
+    },
+    {
+      "title": "물류 통합",
+      "detail": "생산과 수송을 조정해 시장 접근을 개선할 수 있습니다."
+    },
+    {
+      "title": "저원가 자원",
+      "detail": "장거리 수평유정과 현장 효율이 비용을 낮출 여지가 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "가스가격 집중",
+      "detail": "원유 중심 기업보다 천연가스 업황에 더 직접적입니다."
+    },
+    {
+      "title": "수송 병목",
+      "detail": "애팔래치아 지역 할인·파이프라인 제한이 실현가를 낮춥니다."
+    },
+    {
+      "title": "부채·통합",
+      "detail": "인프라 인수의 재무 부담과 운영 통합을 관리해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Expand Energy",
+      "ticker": "EXE",
+      "comparison": "가스 생산 경쟁사로 분지·운송·헤지 구성을 비교합니다."
+    },
+    {
+      "name": "EOG Resources",
+      "ticker": "EOG",
+      "comparison": "EOG는 원유 비중과 자산 분산으로 상품 노출이 다릅니다."
+    }
+  ],
+  "macroLink": "미국 가스 재고·날씨·LNG 수출·가스발전 수요가 중요합니다. Henry Hub와 현지 판매가격의 차이를 함께 봅니다.",
+  "monitoring": [
+    "지역 할인과 운송비를 뺀 실현가격이 개선되는가?",
+    "감산·재개 결정은 현금흐름과 장기 개발 효율에 합리적인가?",
+    "Equitrans 통합으로 비용·부채가 실제 감소하는가?"
+  ],
+  "sources": [
+    {
+      "title": "EQT Corporation · 투자자 자료",
+      "url": "https://ir.eqt.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "EQT Corporation · 미드스트림 분사·회사 계보",
+      "url": "https://ir.eqt.com/newsroom/news-releases/news-release-details/2018/EQT-Completes-Separation-of-Midstream-Business-Begins-New-Chapter-as-Focused-Industry-Leader/default.aspx",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "EQT · Equitrans 2024 보고서",
+      "url": "https://esg.eqt.com/content/EQT_2024_Equitrans_GHG_Emissions_Supplemental_Report.pdf",
+      "note": "2024-07-22 Equitrans 인수 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

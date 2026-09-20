@@ -1,0 +1,101 @@
+{
+  "ticker": "AMT",
+  "oneLiner": "통신사 여러 곳이 같은 기지국 타워를 쓰도록 임대하고 미국 데이터센터도 운영합니다.",
+  "businessModel": "토지·타워를 확보한 뒤 통신사에게 안테나 설치 공간을 장기로 빌려줍니다. 한 타워에 추가 임차인이 들어오면 공통 고정비를 나눌 수 있지만 구조 보강비와 지상 임대료도 고려해야 합니다. 해외 타워 사업과 미국 CoreSite 데이터센터 사업이 있어 미국 무선투자만으로 전체 회사를 설명할 수 없습니다.",
+  "revenueStreams": [
+    {
+      "name": "통신시설 임대",
+      "description": "미국 및 해외의 타워·옥상 등 설치 공간 임대료입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://americantower.gcs-web.com/"
+    },
+    {
+      "name": "데이터센터",
+      "description": "CoreSite의 코로케이션·상호연결 서비스 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://americantower.gcs-web.com/"
+    },
+    {
+      "name": "서비스",
+      "description": "주로 미국 통신사 대상 부지 선정·개발 관련 서비스 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://americantower.gcs-web.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1995",
+      "event": "American Radio Systems의 자회사로 출발했습니다."
+    },
+    {
+      "year": "1998",
+      "event": "독립 상장회사로 분리됐습니다."
+    },
+    {
+      "year": "2012",
+      "event": "미국 세법상 REIT로 운영을 시작했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "다중 임차 구조",
+      "detail": "기존 타워에 통신사나 장비를 추가할 때 공통 기반시설을 활용합니다."
+    },
+    {
+      "title": "설치 대체 비용",
+      "detail": "부지·인허가·망 설계 때문에 통신사가 기존 위치를 쉽게 옮기기 어렵습니다."
+    },
+    {
+      "title": "지역·서비스 분산",
+      "detail": "여러 국가의 타워와 미국 데이터센터 수요를 함께 갖습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "고객 집중",
+      "detail": "각국 소수 통신사의 투자·합병·지급 여건에 민감합니다."
+    },
+    {
+      "title": "해외 위험",
+      "detail": "통화 약세, 현지 규제, 전력 비용과 자금 회수 조건이 달라집니다."
+    },
+    {
+      "title": "토지와 부채",
+      "detail": "임대하는 토지의 계약 만기와 회사 부채 만기가 장기 현금흐름에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Crown Castle",
+      "ticker": "CCI",
+      "comparison": "2026년 광섬유·스몰셀 매각 후 미국 타워 중심입니다."
+    },
+    {
+      "name": "SBA Communications",
+      "ticker": "SBAC",
+      "comparison": "미국과 해외 통신타워를 운영하는 직접 비교대상입니다."
+    }
+  ],
+  "macroLink": "통신사의 설비투자와 모바일 데이터 사용량이 장기 수요를 만듭니다. 금리는 차입비용을, 달러 강세는 해외 임대료 환산을 움직입니다.",
+  "monitoring": [
+    "기존 타워의 새 임차·장비 증설 수입이 통신사 통합에 따른 해지를 넘는가?",
+    "해외 현지통화 성장과 달러 환산 성장이 얼마나 다른가?",
+    "CoreSite의 전력 증설과 투자액은 별도 현금흐름으로 추적되는가?"
+  ],
+  "sources": [
+    {
+      "title": "American Tower · 투자자 자료",
+      "url": "https://americantower.gcs-web.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "American Tower · 연혁·기업 자료",
+      "url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312512086162/d278077d10k.htm",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

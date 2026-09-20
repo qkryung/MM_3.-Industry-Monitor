@@ -1,0 +1,99 @@
+{
+  "ticker": "IP",
+  "oneLiner": "섬유 기반 산업·소비재 포장",
+  "businessModel": "소비재·식품·전자상거래·산업 고객에게 골판지원지와 상자를 공급합니다. 원지 공장과 상자 공장을 연결해 물량·품질·물류를 관리합니다. DS Smith 인수와 공시된 구조 재편 때문에 지역별 수익과 과거 비교 범위를 확인해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "북미 포장",
+      "description": "골판지원지·상자와 관련 포장 솔루션",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.internationalpaper.com/investors"
+    },
+    {
+      "name": "유럽 등 포장",
+      "description": "DS Smith를 포함한 섬유 기반 포장 사업",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.internationalpaper.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1898",
+      "event": "여러 제지회사 통합으로 설립"
+    },
+    {
+      "year": "2021",
+      "event": "인쇄용지 사업 Sylvamo 분사"
+    },
+    {
+      "year": "2025",
+      "event": "DS Smith 인수 완료"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "통합 포장",
+      "detail": "원지부터 상자까지 제조·고객 대응을 연결합니다."
+    },
+    {
+      "title": "고객 규모",
+      "detail": "다양한 상품 유통의 포장 수요를 확보합니다."
+    },
+    {
+      "title": "섬유 기반",
+      "detail": "재활용·포장 설계 요구에 대응할 기반이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "박스 경기",
+      "detail": "소비·산업 고객의 재고 축소가 출하에 영향을 줍니다."
+    },
+    {
+      "title": "통합·재편",
+      "detail": "대형 인수와 분리 계획은 비용·비교 복잡성을 만듭니다."
+    },
+    {
+      "title": "공장 고정비",
+      "detail": "가동률이 낮아지면 원료비 하락에도 수익성이 약해집니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Packaging Corporation of America",
+      "ticker": "PKG",
+      "comparison": "PKG는 북미 중심 운영·고객 구성이 특징입니다."
+    },
+    {
+      "name": "Smurfit Westrock",
+      "ticker": "SW",
+      "comparison": "글로벌 종이 포장 경쟁사로 지역·인수 통합 효과를 맞춰 비교합니다."
+    }
+  ],
+  "macroLink": "상품 생산·전자상거래·산업 물동량과 연결되며 폐지·에너지·운송비가 원가를 결정합니다.",
+  "monitoring": [
+    "동일 사업 범위의 박스 출하·가격은 어떤가?",
+    "DS Smith 통합·분리 관련 비용과 현금은 계획대로인가?",
+    "공장 폐쇄·전환 후 가동률과 고객 서비스가 개선되는가?"
+  ],
+  "sources": [
+    {
+      "title": "International Paper · 투자자 자료",
+      "url": "https://www.internationalpaper.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "International Paper · 2025 연차보고서·회사 구조",
+      "url": "https://www.internationalpaper.com/resources/report/2025-annual-report",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Sylvamo 분사 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/51434/000119312521288895/d222775d8k.htm",
+      "note": "2021-10-01 분사 완료"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

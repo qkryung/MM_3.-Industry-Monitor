@@ -1,0 +1,94 @@
+{
+  "ticker": "STLD",
+  "oneLiner": "전기로 철강·금속 재활용·철강 가공",
+  "businessModel": "스크랩을 전기로에서 녹여 판재·봉형강을 만들고 재활용·철강 가공사업으로 원료와 고객을 연결합니다. 건설·제조 고객이 제품을 구매합니다. 알루미늄 등 신규 투자는 기존 철강의 현금창출과 분리해 가동·수율·자본 회수를 평가해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "철강·가공",
+      "description": "전기로 철강·조이스트·데크 등 건설 가공재",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.steeldynamics.com/"
+    },
+    {
+      "name": "재활용·확장 사업",
+      "description": "철·비철 스크랩과 신규 금속 사업",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.steeldynamics.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1993",
+      "event": "Steel Dynamics 설립"
+    },
+    {
+      "year": "1996",
+      "event": "첫 전기로 밀 가동·NASDAQ 상장"
+    },
+    {
+      "year": "2014",
+      "event": "Columbus Flat Roll 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "전기로 효율",
+      "detail": "스크랩 기반 생산과 가동 조절이 가능합니다."
+    },
+    {
+      "title": "원료 순환",
+      "detail": "재활용망이 원료 조달을 지원합니다."
+    },
+    {
+      "title": "제품 가공",
+      "detail": "철강과 건설 가공제품을 연결해 부가가치를 더합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "스프레드 변동",
+      "detail": "철강 가격과 스크랩 비용 차이가 크게 변합니다."
+    },
+    {
+      "title": "증설 위험",
+      "detail": "신규 금속 공장의 품질·고객 인증·가동이 지연될 수 있습니다."
+    },
+    {
+      "title": "건설 노출",
+      "detail": "건설 수주가 줄면 가공사업 호황도 약해집니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Nucor",
+      "ticker": "NUE",
+      "comparison": "전기로·가공·원료 모델이 유사하나 제품·증설 구성은 다릅니다."
+    },
+    {
+      "name": "Cleveland-Cliffs",
+      "ticker": "CLF",
+      "comparison": "고로·자동차강판 중심 구조와 원가 차이를 비교합니다."
+    }
+  ],
+  "macroLink": "미국 건설·제조업·스크랩 수급·수입정책이 핵심입니다. 호황기 가공 이익이 장기 평균인지 구분해야 합니다.",
+  "monitoring": [
+    "철강과 가공사업 이익이 각각 정상화되는 속도는?",
+    "신규 알루미늄 투자가 수율·인증·현금 목표를 지키는가?",
+    "성장 투자를 제외한 유지 현금이 충분한가?"
+  ],
+  "sources": [
+    {
+      "title": "Steel Dynamics · 투자자 자료",
+      "url": "https://ir.steeldynamics.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Steel Dynamics · 기업 연혁·사업 소개",
+      "url": "https://www.steeldynamics.com/history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

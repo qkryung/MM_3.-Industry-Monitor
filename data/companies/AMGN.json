@@ -1,0 +1,101 @@
+{
+  "ticker": "AMGN",
+  "oneLiner": "단백질·항체 기반 의약품을 개발하고 대규모로 생산하는 바이오제약회사입니다.",
+  "businessModel": "염증·암·일반 만성질환·희귀질환 치료제와 바이오시밀러를 판매합니다. 바이오시밀러는 기존 생물학적 의약품과 매우 유사함을 입증한 제품입니다. Amgen은 기존 제품이 바이오시밀러 경쟁을 받는 동시에 다른 회사 제품의 바이오시밀러도 판매하므로 양쪽 효과를 봐야 합니다. 인수 제품의 매출 증가와 자체 연구 성과도 구분합니다.",
+  "revenueStreams": [
+    {
+      "name": "자체·인수 혁신의약품",
+      "description": "염증·암·골건강·심혈관·희귀질환 등의 승인 의약품 판매입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.amgen.com/"
+    },
+    {
+      "name": "바이오시밀러",
+      "description": "다른 원조 생물학적 의약품과 경쟁하는 바이오시밀러 판매입니다. 혁신제품 판매와 중복하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.amgen.com/"
+    },
+    {
+      "name": "기타 협력 수입",
+      "description": "제휴·로열티 등 기타 수입입니다. 제품군 구분은 학습용이며 회사 공시 사업부 구분과 같지 않을 수 있습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.amgen.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1980",
+      "event": "Applied Molecular Genetics로 설립됐습니다."
+    },
+    {
+      "year": "1983",
+      "event": "기업공개를 실시하고 Amgen이라는 이름을 사용했습니다."
+    },
+    {
+      "year": "1989",
+      "event": "첫 의약품 Epogen의 FDA 승인을 받았습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "생물학적 제조",
+      "detail": "단백질·항체의 복잡한 생산 공정과 품질관리 경험이 있습니다."
+    },
+    {
+      "title": "제품 기반",
+      "detail": "여러 치료영역의 제품 현금흐름으로 연구와 상업화를 지원합니다."
+    },
+    {
+      "title": "연구 도구",
+      "detail": "유전학·생물학 연구 기반을 표적 선정과 후보 개발에 활용합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "성숙 제품 감소",
+      "detail": "주력 제품의 가격·특허 경쟁이 신제품 성장을 상쇄할 수 있습니다."
+    },
+    {
+      "title": "인수 부담",
+      "detail": "큰 인수 뒤 차입금·통합비용과 기대 매출 실현을 함께 확인해야 합니다."
+    },
+    {
+      "title": "임상 변동",
+      "detail": "후속 후보의 효과·안전성 결과가 장기 기대를 크게 바꿀 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "comparison": "면역질환 등 제품 시장에서 경쟁하며 특허 전환 대응도 비교할 수 있습니다."
+    },
+    {
+      "name": "Regeneron",
+      "ticker": "REGN",
+      "comparison": "항체 연구·면역·항암 분야에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "정부·민간보험 약가가 순매출을, 금리가 인수부채와 후속 연구 가치 평가를 바꿉니다. 경기보다 특허·임상·보험 접근의 영향이 직접적입니다.",
+  "monitoring": [
+    "기존 제품 감소와 신제품·바이오시밀러 증가를 분리하면 어떤가?",
+    "인수 제품 매출이 부채 이자와 추가 상업화 비용을 충분히 감당하는가?",
+    "후속 임상의 효과뿐 아니라 중단률·안전성·투여 편의가 경쟁력을 지지하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Amgen · 투자자 자료",
+      "url": "https://investors.amgen.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Amgen · 연혁·기업 자료",
+      "url": "https://www.amgen.com/about/amgen-history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

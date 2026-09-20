@@ -1,0 +1,94 @@
+{
+  "ticker": "PPG",
+  "oneLiner": "산업·항공·자동차 등 기능성 코팅",
+  "businessModel": "자동차·항공·산업·포장 고객에게 표면 보호·색상·내구성을 제공하는 코팅을 판매합니다. 고객 생산라인에서 결함·재작업을 줄이는 기술지원도 중요합니다. 사업 매각 이후에는 과거의 유리·북미 건축용 사업을 현재 실적에 그대로 연결하지 않습니다.",
+  "revenueStreams": [
+    {
+      "name": "성능·산업 코팅",
+      "description": "항공·자동차 보수·방식·포장 등 코팅",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.ppg.com/"
+    },
+    {
+      "name": "제조 고객 솔루션",
+      "description": "자동차 OEM·산업 생산용 코팅과 응용 지원",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.ppg.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1883",
+      "event": "Pittsburgh Plate Glass 설립"
+    },
+    {
+      "year": "1968",
+      "event": "PPG Industries로 사명 변경"
+    },
+    {
+      "year": "2008",
+      "event": "SigmaKalon 인수로 코팅 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "응용 기술",
+      "detail": "고객 생산 공정에 맞춘 배합·도장 기술을 제공합니다."
+    },
+    {
+      "title": "인증 관계",
+      "detail": "항공·자동차 인증은 공급업체 교체를 어렵게 할 수 있습니다."
+    },
+    {
+      "title": "최종 시장 다양성",
+      "detail": "제조·보수·항공 등 수요원이 다릅니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "산업 물량",
+      "detail": "자동차·공장 생산 둔화는 코팅 수요를 줄입니다."
+    },
+    {
+      "title": "사업 재편",
+      "detail": "매각 전후 성장률·마진 비교 범위를 맞춰야 합니다."
+    },
+    {
+      "title": "원료·환율",
+      "detail": "원료 전가 시차와 해외 매출 환산이 수익을 바꿉니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Sherwin-Williams",
+      "ticker": "SHW",
+      "comparison": "SHW는 직영 건축용 매장망이 차별적입니다."
+    },
+    {
+      "name": "Axalta",
+      "ticker": "AXTA",
+      "comparison": "자동차 보수·산업 코팅의 제품·고객 구성을 비교합니다."
+    }
+  ],
+  "macroLink": "글로벌 자동차·산업 생산과 항공 운항·정비에 연결되며 달러 강세는 해외 환산매출에 부담을 줄 수 있습니다.",
+  "monitoring": [
+    "매각 효과 제외 물량·가격 성장은 어떤가?",
+    "항공·자동차 보수 수요가 OEM 부진을 상쇄하는가?",
+    "고객 비용 절감 효과가 가격 유지력으로 이어지는가?"
+  ],
+  "sources": [
+    {
+      "title": "PPG Industries · 투자자 자료",
+      "url": "https://investor.ppg.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "PPG Industries · 공식 기업 소개·연혁",
+      "url": "https://www.ppg.com/en-AE/about-ppg",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

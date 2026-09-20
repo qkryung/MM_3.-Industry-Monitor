@@ -1,0 +1,99 @@
+{
+  "ticker": "FDX",
+  "oneLiner": "특송·소포 중심의 글로벌 운송 네트워크",
+  "businessModel": "기업과 소비자에게 시간 지정 특송·소포·국제 배송을 제공합니다. 항공·지상 네트워크를 효율적으로 연결해 서비스 요금에서 운송·인건비를 남깁니다. 2026년 Freight 분사 이후 FDX 실적은 과거 LTL 사업이 포함된 수치와 범위를 맞춰 비교해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "특송·소포",
+      "description": "국제·국내 항공 및 육상 소포 배송",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.fedex.com/"
+    },
+    {
+      "name": "물류·기타 서비스",
+      "description": "포워딩·통관·인쇄 등 관련 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.fedex.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1971",
+      "event": "Federal Express 설립"
+    },
+    {
+      "year": "1973",
+      "event": "Memphis에서 배송 운영 시작"
+    },
+    {
+      "year": "2026",
+      "event": "FedEx Freight를 FDXF로 분사"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "시간 지정 운송",
+      "detail": "항공·허브 기반 국제 특송 역량을 갖습니다."
+    },
+    {
+      "title": "글로벌 연결",
+      "detail": "통관·배송망이 국경 간 기업 거래를 지원합니다."
+    },
+    {
+      "title": "통합 효율 기회",
+      "detail": "지상·항공 운영 조정으로 중복 비용을 줄일 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "큰 고정비",
+      "detail": "항공기·허브는 물량 감소 때도 비용이 남습니다."
+    },
+    {
+      "title": "개편 위험",
+      "detail": "네트워크 효율화 과정에서 서비스 차질이 생길 수 있습니다."
+    },
+    {
+      "title": "경쟁 압박",
+      "detail": "가격 경쟁·고객 자체 배송과 무역 둔화에 노출됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "UPS",
+      "ticker": "UPS",
+      "comparison": "UPS의 노무·네트워크·고객 구성과 단위 수익을 비교합니다."
+    },
+    {
+      "name": "DHL Group",
+      "ticker": null,
+      "comparison": "국제 특송은 직접 경쟁하지만 지상·물류 사업 범위가 다릅니다."
+    }
+  ],
+  "macroLink": "세계 무역·제조업·전자상거래가 배송 수요를 좌우하고 항공 연료비·환율이 마진에 영향을 줍니다.",
+  "monitoring": [
+    "Freight 분사 후 동일 범위의 성장·마진은 어떤가?",
+    "네트워크 통합 절감과 배송 품질이 동시에 개선되는가?",
+    "국제 물량·단가 중 무엇이 실적 변화를 주도하는가?"
+  ],
+  "sources": [
+    {
+      "title": "FedEx · 투자자 자료",
+      "url": "https://investor.fedex.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "FedEx · 기업 연혁·사업 소개",
+      "url": "https://www.fedex.com/en-us/about/history.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "FedEx · Freight 분사 완료",
+      "url": "https://investor.fedex.com/news-and-events/investor-news/investor-news-details/2026/FedEx-Completes-Spin-Off-of-FedEx-Freight/default.aspx",
+      "note": "2026-06-01 완료·FDX 비교 범위 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,94 @@
+{
+  "ticker": "NOC",
+  "oneLiner": "항공·우주·방위 시스템",
+  "businessModel": "미국 정부와 동맹국에 항공·우주·센서·방위 시스템을 공급합니다. 대형 전략 프로그램은 긴 매출 기반이 되지만 개발·시험·초도 생산 단계에서는 원가 추정이 크게 바뀔 수 있습니다. 플랫폼 수주와 프로그램별 수익성을 따로 읽어야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "항공·임무·방위 시스템",
+      "description": "군용 항공기·전자·통신·방위 제품",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.northropgrumman.com/"
+    },
+    {
+      "name": "우주 시스템",
+      "description": "위성·발사·전략 억제 관련 프로그램",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.northropgrumman.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1939",
+      "event": "Northrop Aircraft 설립"
+    },
+    {
+      "year": "1994",
+      "event": "Grumman 인수"
+    },
+    {
+      "year": "2018",
+      "event": "Orbital ATK 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "전략 분야",
+      "detail": "항공·우주·억제력 관련 장기 프로그램을 보유합니다."
+    },
+    {
+      "title": "통합 기술",
+      "detail": "센서·전자·우주·플랫폼 기술을 결합합니다."
+    },
+    {
+      "title": "보안·노하우",
+      "detail": "민감한 국방 프로젝트의 경험과 자격을 축적했습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "프로그램 집중",
+      "detail": "큰 개발 계약 하나의 손실도 전체 이익을 흔듭니다."
+    },
+    {
+      "title": "예산·정책",
+      "detail": "정부 우선순위와 계약 재조정의 영향을 받습니다."
+    },
+    {
+      "title": "추정 회계",
+      "detail": "장기 계약 원가 추정 변경이 분기 손익을 바꿉니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Lockheed Martin",
+      "ticker": "LMT",
+      "comparison": "LMT는 전투기·미사일·회전익 구성이 특징입니다."
+    },
+    {
+      "name": "RTX",
+      "ticker": "RTX",
+      "comparison": "RTX의 센서·미사일과 경쟁하지만 민항 노출은 NOC가 작습니다."
+    }
+  ],
+  "macroLink": "국방·우주 예산과 비용 인플레이션을 함께 봅니다. 주문 증가가 불리한 계약 조건을 상쇄하는지 중요합니다.",
+  "monitoring": [
+    "대형 개발 프로그램의 추가 손실 위험이 줄었는가?",
+    "수주잔고 중 확정 예산 비중과 인도 시점은?",
+    "현금이익 개선이 일시적인 선수금에 의존하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Northrop Grumman · 투자자 자료",
+      "url": "https://investor.northropgrumman.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Northrop Grumman · 기업 연혁·사업 소개",
+      "url": "https://www.northropgrumman.com/who-we-are/frequently-asked-questions",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

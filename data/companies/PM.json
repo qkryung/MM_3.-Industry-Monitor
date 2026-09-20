@@ -1,0 +1,99 @@
+{
+  "ticker": "PM",
+  "oneLiner": "전통 담배의 현금과 무연 니코틴 제품의 성장을 함께 관리합니다.",
+  "businessModel": "미국 외 중심 담배 브랜드와 IQOS·ZYN 등 비연소 제품을 판매합니다. 제품이 다르면 규제·사용 방식·마진·판매 지역도 다릅니다. 무연이라는 사업 용어를 무해하다는 뜻으로 해석해서는 안 됩니다.",
+  "revenueStreams": [
+    {
+      "name": "연소 제품",
+      "description": "궐련 등 담배 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pmi.com/investor-relations/overview"
+    },
+    {
+      "name": "무연 사업",
+      "description": "가열식 담배·니코틴 파우치 등 비연소 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pmi.com/investor-relations/overview"
+    }
+  ],
+  "history": [
+    {
+      "year": 1847,
+      "event": "Philip Morris의 London 담배점이 브랜드 계보의 원류."
+    },
+    {
+      "year": 2008,
+      "event": "Altria에서 분리해 독립 상장."
+    },
+    {
+      "year": 2022,
+      "event": "Swedish Match 인수로 경구 니코틴 기반 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "제품 전환 기반",
+      "detail": "IQOS와 파우치 등 서로 다른 비연소 제품을 운영합니다."
+    },
+    {
+      "title": "글로벌 유통",
+      "detail": "여러 국가의 브랜드·판매망을 활용할 수 있습니다."
+    },
+    {
+      "title": "기존 사업 현금",
+      "detail": "전통 담배의 현금이 제품 전환 투자 재원이 됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "규제·허가",
+      "detail": "국가별 판매·표현·제품 허가가 확장을 제한할 수 있습니다."
+    },
+    {
+      "title": "궐련 감소",
+      "detail": "가격 인상이 수량 감소를 계속 상쇄하지 못할 수 있습니다."
+    },
+    {
+      "title": "인수·전환 부담",
+      "detail": "새 제품 설비·판매·차입금 비용을 회수해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "British American Tobacco",
+      "ticker": "BTI",
+      "comparison": "전통 담배·가열식·파우치·전자담배에서 경쟁합니다."
+    },
+    {
+      "name": "Altria",
+      "ticker": "MO",
+      "comparison": "미국의 담배·경구 니코틴 수요에서 경쟁 접점이 있습니다."
+    }
+  ],
+  "macroLink": "가계 구매력·담배 세금·환율과 제품 허가가 중요합니다. 경제 성장보다 흡연 인구 감소와 비연소 전환의 속도가 장기 이익에 더 직접적일 수 있습니다.",
+  "monitoring": [
+    "무연 매출 증가가 실제 이익·현금으로 이어지는가?",
+    "궐련 가격 인상이 판매량 감소를 어느 정도 상쇄하는가?",
+    "국가별 제품 허가와 유통이 성장 계획을 뒷받침하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Philip Morris International · 공식 IR",
+      "url": "https://www.pmi.com/investor-relations/overview",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "PMI · 2022 연차보고서",
+      "url": "https://www.pmi.com/resources/docs/default-source/investor_relation/pmi_2022_annualreport.pdf",
+      "note": "Altria 분리 이후 사업과 Swedish Match 편입의 공시."
+    },
+    {
+      "title": "Altria · Philip Morris의 원류",
+      "url": "https://www.altria.com/About-Altria/our-companies/philipmorrisusa",
+      "note": "1847년 공유 브랜드 계보를 확인하는 공식 역사."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

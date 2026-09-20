@@ -1,0 +1,113 @@
+{
+  "ticker": "KKR",
+  "oneLiner": "사모자산 운용·보험·장기 기업 보유를 결합한 투자회사입니다.",
+  "businessModel": "사모주식·신용·인프라·부동산 펀드의 관리·성과보수를 받고, Global Atlantic 보험사업에서 장기 책임을 뒷받침하는 자산을 운용합니다. 일부 기업을 장기 보유하는 사업도 있어 전통 운용사보다 구조가 복잡합니다. AUM은 매출이 아니며 운용부문의 FRE, 실현 성과, 보험수익과 연결 회계수익을 섞지 않아야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "운용·거래 보수",
+      "description": "펀드 관리·자문·자본시장 서비스 대가",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kkr.com/"
+    },
+    {
+      "name": "성과·투자수익",
+      "description": "성과배분과 회사 투자자산에서 발생하는 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kkr.com/"
+    },
+    {
+      "name": "보험 관련 수입",
+      "description": "Global Atlantic의 보험료·계약수입·투자수익; 보험금·계약자 비용과 함께 평가",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kkr.com/"
+    },
+    {
+      "name": "전략적 보유기업",
+      "description": "장기 보유 사업의 영업수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kkr.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1976",
+      "event": "Kohlberg·Kravis·Roberts가 회사를 설립했습니다."
+    },
+    {
+      "year": "2021",
+      "event": "Global Atlantic의 지배지분을 인수했습니다."
+    },
+    {
+      "year": "2024",
+      "event": "Global Atlantic의 남은 지분을 인수해 완전 자회사로 만들었습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "다양한 자본 기반",
+      "detail": "기관 펀드와 보험 등 서로 다른 기간의 자금원을 활용합니다."
+    },
+    {
+      "title": "기업 운영 경험",
+      "detail": "바이아웃에서 쌓은 경영지원·거래 발굴 경험을 다른 전략에 적용합니다."
+    },
+    {
+      "title": "신용·보험 연결",
+      "detail": "보험 부채에 맞는 자산을 발굴·운용하는 역할이 운용 규모를 뒷받침합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "보험 대차대조표 위험",
+      "detail": "장기 보장·해약·신용위험을 단순 수수료 사업과 별도로 평가해야 합니다."
+    },
+    {
+      "title": "지표 비교 난도",
+      "detail": "FRE·보험 영업이익·회계손익의 정의가 달라 동종사 단순 배수 비교가 어렵습니다."
+    },
+    {
+      "title": "회수·평가 변동",
+      "detail": "사모자산의 가치 하락과 매각 지연은 성과보수·모집을 약화시킵니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Blackstone",
+      "ticker": "BX",
+      "comparison": "대체운용은 유사하지만 보험 대차대조표와 장기 보유기업의 비중이 다릅니다."
+    },
+    {
+      "name": "Apollo Global Management",
+      "ticker": "APO",
+      "comparison": "보험·신용 연계에서 비교할 수 있으며 상품·자산 조성 방식이 다릅니다."
+    }
+  ],
+  "macroLink": "금리·신용스프레드는 새 투자수익과 보험부채, 차입기업의 상환능력을 동시에 바꿉니다. 회수시장의 재개가 성과보수와 신규 펀드 모집으로 이어지는지 봅니다.",
+  "monitoring": [
+    "FRE 성장에서 모집과 실제 보수 부과 개시의 기여는 각각 무엇인가?",
+    "보험 운용자산의 수익률 개선이 신용·유동성 위험을 늘리는가?",
+    "자산 매각과 성과보수 현금화가 평가이익을 따라가는가?"
+  ],
+  "sources": [
+    {
+      "title": "KKR & Co. · 투자자 자료",
+      "url": "https://ir.kkr.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "KKR & Co. · 연혁·기업 자료",
+      "url": "https://www.kkr.com/about/history/our-journey/founding-kkr",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "KKR · 2026 투자자 발표",
+      "url": "https://ir.kkr.com/media/document/8300c52e-5be1-4b90-87a2-184c51f56b55/assets/KKR_Investor_Presentation_-_March_2026.pdf?disposition=inline",
+      "note": "Global Atlantic의 2021·2024 인수와 사업구조 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

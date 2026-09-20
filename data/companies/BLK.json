@@ -1,0 +1,106 @@
+{
+  "ticker": "BLK",
+  "oneLiner": "ETF·전통·대체자산 운용과 투자관리 기술을 제공하는 회사입니다.",
+  "businessModel": "iShares ETF, 주식·채권·현금·대체투자 전략을 고객 대신 운용하고 보수를 받습니다. 고객 AUM은 고객 소유 자산이며 BlackRock의 매출이 아닙니다. 동일한 AUM도 보수율이 낮은 지수상품과 높은 대체전략의 수익 기여가 다릅니다. Aladdin 등 기술 서비스는 투자·위험관리 업무에 소프트웨어를 제공해 수입을 얻습니다.",
+  "revenueStreams": [
+    {
+      "name": "기본 운용보수",
+      "description": "ETF·펀드·별도계정의 고객자산 관리 대가",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.blackrock.com/home/default.aspx"
+    },
+    {
+      "name": "성과보수",
+      "description": "일부 전략에서 계약상 성과 조건 충족 시 받는 보수",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.blackrock.com/home/default.aspx"
+    },
+    {
+      "name": "기술·서비스",
+      "description": "Aladdin 등 투자·위험관리 기술과 관련 서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.blackrock.com/home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1988",
+      "event": "채권 운용회사로 설립됐습니다."
+    },
+    {
+      "year": "1999",
+      "event": "NYSE에 상장했습니다."
+    },
+    {
+      "year": "2009",
+      "event": "Barclays Global Investors를 인수해 iShares 기반을 확보했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "상품·유통 범위",
+      "detail": "여러 자산군과 유통망을 통해 고객 포트폴리오의 여러 필요를 충족합니다."
+    },
+    {
+      "title": "ETF 규모와 유동성",
+      "detail": "상품 규모·거래 편의·인지도가 투자자와 자문사의 선택에 영향을 줍니다."
+    },
+    {
+      "title": "기술 결합",
+      "detail": "Aladdin을 통해 운용 외 고객 업무에도 연결됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "시장가격 영향",
+      "detail": "순유입이 있어도 시장 하락으로 보수 대상 자산이 줄 수 있습니다."
+    },
+    {
+      "title": "보수 인하 경쟁",
+      "detail": "저비용 지수상품 경쟁 때문에 AUM 증가와 매출 증가가 다를 수 있습니다."
+    },
+    {
+      "title": "대체투자 통합",
+      "detail": "인수·사모자산 확대는 인력 유지·평가·문화 통합 위험을 더합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "State Street",
+      "ticker": "STT",
+      "comparison": "SPDR ETF와 운용에서 경쟁하지만 State Street는 수탁은행 사업도 큽니다."
+    },
+    {
+      "name": "Blackstone",
+      "ticker": "BX",
+      "comparison": "대체자산에서 겹치나 BX는 사모시장 중심이고 BLK는 ETF·공모운용 기반이 넓습니다."
+    }
+  ],
+  "macroLink": "주식·채권 가격이 보수 대상 자산에 영향을 주고 금리·위험 선호는 현금·채권·주식 간 자금 이동을 바꿉니다. 순유입의 금액보다 상품별 보수 효과를 확인합니다.",
+  "monitoring": [
+    "순유입이 기본보수 성장으로 얼마나 연결되는가?",
+    "ETF·현금·대체자산 구성 변화로 실효 보수율이 달라지는가?",
+    "Aladdin과 인수한 사모시장 사업이 유기적으로 성장하는가?"
+  ],
+  "sources": [
+    {
+      "title": "BlackRock · 투자자 자료",
+      "url": "https://ir.blackrock.com/home/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "BlackRock · 연혁·기업 자료",
+      "url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "BlackRock · BGI·iShares 계보",
+      "url": "https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter",
+      "note": "2009년 인수 배경 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

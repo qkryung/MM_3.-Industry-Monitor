@@ -1,0 +1,440 @@
+{
+  "id": "energy",
+  "name": "에너지",
+  "en": "Energy",
+  "code": "10",
+  "color": "#c18a4b",
+  "summary": "원유·천연가스를 찾아 생산하고, 운반하고, 연료로 바꾸는 산업입니다.",
+  "concept": "에너지는 원자재 가격 자체보다 기업이 가치사슬의 어디에서 돈을 버는지부터 구분해야 합니다. 생산기업은 판매가격과 생산원가의 차이, 정유사는 원유를 제품으로 바꾸는 마진, 파이프라인은 운송·저장 수수료가 핵심입니다. 같은 유가 상승에도 이익 방향이 다를 수 있습니다. 전기를 공급하는 발전·전력회사는 보통 유틸리티에서, 태양광 장비는 기업의 주력 사업에 따라 기술·산업재 등에서 공부합니다.",
+  "drivers": [
+    "세계 원유·천연가스 수요와 산유국·셰일 공급의 균형",
+    "유가·가스 가격·정제마진과 기업별 실제 판매가격",
+    "설비투자 규율, 생산원가, 배당·자사주 매입 여력"
+  ],
+  "watch": [
+    "매주 EIA 원유·제품 재고를 계절 평균 및 정유 가동률과 함께 확인",
+    "분기마다 생산량·단위원가·설비투자·현금흐름의 연결 확인",
+    "LNG 수출·파이프라인 병목·장기계약이 가격 노출을 바꾸는지 확인"
+  ],
+  "risks": [
+    "공급 충격과 경기 둔화에 따른 원자재 가격 급변",
+    "환경·안전 사고와 인허가 지연, 자산 복구 비용",
+    "호황기 과잉투자와 높은 부채가 불황기 현금흐름을 압박"
+  ],
+  "valueChain": [
+    "탐사·개발",
+    "생산·집하",
+    "운송·저장",
+    "정제·판매"
+  ],
+  "macro": {
+    "growth": "경기 확장은 운송·산업용 연료 수요를 돕지만 공급 증가가 가격 효과를 상쇄할 수 있습니다.",
+    "rates": "금리 상승은 개발·인프라 자금 조달과 원유 수요에 부담입니다. 저부채 기업과 고부채 기업을 구분합니다.",
+    "inflation": "에너지 가격 상승은 생산기업의 매출에 유리할 수 있지만 서비스·인건비와 설비투자 비용도 올립니다.",
+    "dollar": "달러 강세는 달러로 거래되는 원자재 수요에 부담이 될 수 있습니다. 지정학·공급 요인이 더 강할 때도 있습니다."
+  },
+  "valuation": "정상 유가 가정의 EV/EBITDA와 잉여현금흐름을 먼저 비교합니다. 생산기업은 매장량·감산율·유지 투자, 파이프라인은 계약과 부채, 정유사는 중간 수준의 정제마진을 따로 반영합니다.",
+  "pitfall": "호황기 이익으로 계산한 낮은 PER를 곧바로 저평가라고 보지 않습니다. 유가 1개로 모든 하위산업의 실적을 설명하는 것도 피합니다.",
+  "related": [
+    "materials",
+    "industrials",
+    "utilities",
+    "consumer-discretionary"
+  ],
+  "sources": [
+    {
+      "title": "EIA · 에너지 생산·소비 구조",
+      "url": "https://www.eia.gov/energyexplained/us-energy-facts/",
+      "note": "에너지 종류·수요처의 기초 설명 · 확인 2026-09-20"
+    },
+    {
+      "title": "EIA · 정유 생산과 제품 가격",
+      "url": "https://www.eia.gov/finance/markets/products/production.php",
+      "note": "정제능력·제품 구성·공급 제약의 관계 · 확인 2026-09-20"
+    },
+    {
+      "title": "ExxonMobil · 사업부 구조",
+      "url": "https://corporate.exxonmobil.com/who-we-are/our-global-organization/business-divisions",
+      "note": "생산·제품 솔루션·저탄소 사업 구분 · 확인 2026-09-20"
+    },
+    {
+      "title": "ConocoPhillips · 투자자 정보",
+      "url": "https://www.conocophillips.com/investor-relations/",
+      "note": "독립 탐사·생산 사업 및 COP 상장 정보 · 확인 2026-09-20"
+    },
+    {
+      "title": "Kinder Morgan · 투자자 정보",
+      "url": "https://ir.kindermorgan.com/",
+      "note": "파이프라인·저장 사업과 공시 접근 · 확인 2026-09-20"
+    },
+    {
+      "title": "Shell · 주주 FAQ",
+      "url": "https://www.shell.com/investors/information-for-shareholders/shareholder-faqs.html",
+      "note": "SHEL의 NYSE 상장 ADS 구조 확인 · 확인 2026-09-20"
+    }
+  ],
+  "industries": [
+    {
+      "id": "energy-integrated",
+      "name": "통합 석유·가스",
+      "en": "Integrated Oil & Gas",
+      "summary": "원유 생산부터 정유·화학·판매까지 함께 운영하는 대형 에너지 기업입니다.",
+      "mechanics": "유전에서 원유·가스를 생산해 판매하고, 정유소·화학 공장에서는 원료를 연료와 소재로 바꿉니다. 생산부문과 가공부문의 업황이 일부 상쇄될 수 있지만 전체적으로 원자재 가격에 영향을 받습니다. 프로젝트 규모가 커서 투자 결정과 실제 현금 회수 사이에 여러 해가 걸립니다.",
+      "watch": [
+        "신규 저원가 생산 프로젝트의 가동 일정",
+        "생산·정유·화학 부문별 이익 기여도",
+        "배당·자사주 매입이 차입 없이 가능한지"
+      ],
+      "kpis": [
+        {
+          "name": "생산량",
+          "meaning": "하루 생산한 원유·가스 환산량",
+          "read": "가격 효과와 물량 효과를 나눠 읽습니다. 인수 증가분도 분리합니다."
+        },
+        {
+          "name": "ROCE",
+          "meaning": "투입 자본 대비 사업 이익률",
+          "read": "동일 유가 환경에서 비교하며 일회성 자산 매각을 확인합니다."
+        },
+        {
+          "name": "배당 후 잉여현금흐름",
+          "meaning": "영업현금에서 투자와 배당을 지출한 뒤 남는 돈",
+          "read": "낮은 유가에서도 유지되는지 확인해야 환원의 지속성을 판단할 수 있습니다."
+        }
+      ],
+      "risks": [
+        "대형 개발 프로젝트의 비용 초과·지연",
+        "정유·화학 약세가 생산부문 호조를 상쇄"
+      ],
+      "valuation": "부문별 정상 이익을 합산하거나 중간 유가의 현금흐름으로 평가합니다. 탐사·개발 투자와 탄소감축 투자를 별도로 봅니다.",
+      "questions": [
+        "현재 이익 개선은 원자재 가격 덕분인가, 단위원가·생산성 개선 덕분인가?",
+        "환원 규모가 커진 동시에 미래 생산 기반에 필요한 투자를 줄이지 않았는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "XOM",
+          "name": "ExxonMobil Holdings",
+          "exchange": "NYSE",
+          "business": "탐사·생산, 정유·화학을 통합 운영하는 에너지 기업",
+          "watch": "저원가 생산 확대와 투자 대비 현금 회수",
+          "ir": "https://investor.exxonmobil.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CVX",
+          "name": "Chevron",
+          "exchange": "NYSE",
+          "business": "원유·가스 생산과 정유·판매를 운영",
+          "watch": "대형 프로젝트 생산량과 인수자산 통합",
+          "ir": "https://www.chevron.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SHEL",
+          "name": "Shell",
+          "exchange": "NYSE",
+          "business": "원유·가스, LNG, 연료 판매를 운영하는 글로벌 기업",
+          "watch": "LNG 계약 구조와 사업별 투자 수익",
+          "ir": "https://www.shell.com/investors.html",
+          "kind": "ADR"
+        }
+      ]
+    },
+    {
+      "id": "energy-exploration",
+      "name": "탐사·생산",
+      "en": "Exploration & Production",
+      "summary": "지하 자원을 개발해 원유와 가스를 판매합니다. 가격과 생산비 차이가 이익의 출발점입니다.",
+      "mechanics": "광구를 확보하고 시추·완결 작업을 거쳐 원유·가스를 생산합니다. 기존 유정 생산량은 자연스럽게 감소하므로 생산량을 유지하는 데도 투자가 필요합니다. 석유 비중, 천연가스 비중, 운송비, 가격 헤지 여부에 따라 같은 원자재 시장에서도 현금흐름이 달라집니다.",
+      "watch": [
+        "원유·가스별 판매 비중과 실현 가격",
+        "기존 유정 감소율과 신규 유정 생산성",
+        "유지 설비투자와 성장 설비투자의 구분"
+      ],
+      "kpis": [
+        {
+          "name": "실현 판매가격",
+          "meaning": "운송·품질·계약 조건이 반영된 실제 판매 단가",
+          "read": "WTI·Henry Hub와의 차이가 커지는 원인을 봅니다."
+        },
+        {
+          "name": "단위 운영비",
+          "meaning": "생산 한 단위에 필요한 현장 운영 비용",
+          "read": "감가상각·운송·개발비 포함 범위가 기업마다 다른지 확인합니다."
+        },
+        {
+          "name": "유지 투자 후 FCF",
+          "meaning": "생산 수준을 유지하는 투자 이후 남는 현금",
+          "read": "유가 하락 시나리오에서 부채·배당을 감당하는지 점검합니다."
+        }
+      ],
+      "risks": [
+        "유정 고갈과 개발 실패로 생산 기반 악화",
+        "원자재 급락과 높은 부채의 동시 압박"
+      ],
+      "valuation": "중간 원자재 가격의 EV/EBITDA·FCF와 자산가치를 교차 확인합니다. 생산량당 기업가치만 비교하면 원가·가스 비중 차이를 놓칩니다.",
+      "questions": [
+        "생산량 유지에 실제로 얼마의 투자비가 필요한가?",
+        "가격 헤지가 단기 방어와 상승 기회 제한에 각각 어떤 영향을 주는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "COP",
+          "name": "ConocoPhillips",
+          "exchange": "NYSE",
+          "business": "미국·해외 자산을 보유한 독립 탐사·생산 기업",
+          "watch": "자산별 원가·생산량·자본배분",
+          "ir": "https://www.conocophillips.com/investor-relations/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "EOG",
+          "name": "EOG Resources",
+          "exchange": "NYSE",
+          "business": "미국 중심 원유·천연가스 개발·생산 기업",
+          "watch": "유정 생산성과 가스 노출 변화",
+          "ir": "https://investors.eogresources.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "OXY",
+          "name": "Occidental Petroleum",
+          "exchange": "NYSE",
+          "business": "원유·가스 생산과 미드스트림·탄소관리 사업",
+          "watch": "부채 감축과 생산자산 현금 창출",
+          "ir": "https://www.oxy.com/investors/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "FANG",
+          "name": "Diamondback Energy",
+          "business": "퍼미안 분지 중심 원유·가스 개발",
+          "watch": "인수자산 통합·유정 생산성·자본 효율",
+          "ir": "https://ir.diamondbackenergy.com/",
+          "exchange": "NASDAQ",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "EQT",
+          "name": "EQT Corporation",
+          "business": "애팔래치아 천연가스 생산과 운송 인프라",
+          "watch": "가스 실현가격·수송능력·생산조절",
+          "ir": "https://ir.eqt.com/",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "energy-midstream",
+      "name": "파이프라인·미드스트림·LNG",
+      "en": "Midstream, Pipelines & LNG",
+      "summary": "원유·가스를 모아 처리하고 저장·운송하는 에너지의 연결망입니다.",
+      "mechanics": "생산지와 정유소·발전소·수출터미널을 연결하고 이용료를 받습니다. 물량이나 예약 용량에 기반한 계약은 가격 변동을 완충할 수 있지만 모든 계약이 고정 수수료인 것은 아닙니다. 연결 지역의 생산량과 고객의 신용, 신규 파이프라인 인허가가 중요합니다.",
+      "watch": [
+        "고정 수수료·물량 연동·원자재 연동 계약 비중",
+        "LNG 수출터미널·발전소와 연결되는 신규 수요",
+        "신규 프로젝트 비용과 계약 확보율"
+      ],
+      "kpis": [
+        {
+          "name": "운송·처리 물량",
+          "meaning": "네트워크를 통과하거나 처리한 원유·가스 양",
+          "read": "가격과 별개로 자산 이용률이 개선되는지 봅니다."
+        },
+        {
+          "name": "순부채/EBITDA",
+          "meaning": "연간 현금창출력에 비해 부채가 얼마나 큰지",
+          "read": "금리와 신규 투자 부담을 함께 봅니다."
+        },
+        {
+          "name": "배당 커버리지",
+          "meaning": "배당 가능한 현금 대비 실제 배당 부담",
+          "read": "기업별 조정 현금흐름 정의와 유지 투자 공제를 확인합니다."
+        }
+      ],
+      "risks": [
+        "인허가·환경 분쟁으로 건설 지연",
+        "고객 생산 축소·파산과 계약 재협상"
+      ],
+      "valuation": "EV/EBITDA와 배당을 뒷받침하는 현금흐름, 부채 만기를 함께 비교합니다. MLP와 일반 법인은 구조·세무가 달라 같은 배당률로 단순 비교하지 않습니다.",
+      "questions": [
+        "유가가 하락해도 유지되는 수익은 계약상 어느 정도인가?",
+        "신규 투자 수익이 자금 조달 비용을 충분히 넘는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "KMI",
+          "name": "Kinder Morgan",
+          "exchange": "NYSE",
+          "business": "천연가스·석유제품 파이프라인과 저장 터미널",
+          "watch": "가스 운송 수요와 신규 프로젝트 수익",
+          "ir": "https://ir.kindermorgan.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "WMB",
+          "name": "Williams",
+          "exchange": "NYSE",
+          "business": "천연가스 수송·집하·처리 네트워크",
+          "watch": "Transco 확장과 고객 물량",
+          "ir": "https://investor.williams.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "OKE",
+          "name": "ONEOK",
+          "exchange": "NYSE",
+          "business": "천연가스액·원유·가스의 처리·운송·저장",
+          "watch": "인수자산 통합과 부채 관리",
+          "ir": "https://ir.oneok.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LNG",
+          "name": "Cheniere Energy",
+          "business": "미국 천연가스 액화·수출과 장기 LNG 판매 계약",
+          "watch": "액화설비 가동·장기 계약·증설 비용",
+          "ir": "https://lngir.cheniere.com/",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "energy-refining",
+      "name": "정유·연료",
+      "en": "Refining & Fuels",
+      "summary": "원유를 휘발유·경유·항공유로 바꾸며 제품 가격과 원료 비용의 차이에서 수익을 얻습니다.",
+      "mechanics": "정유사는 원유를 사서 정제한 뒤 여러 연료를 판매합니다. 핵심은 유가의 절대 수준보다 제품 판매가격에서 원유·에너지·운영 비용을 뺀 정제 수익입니다. 설비 구성에 따라 처리 가능한 원유와 제품 생산 비중이 다르며 정기 보수 때 생산량이 줄어듭니다.",
+      "watch": [
+        "휘발유·경유별 재고와 계절 수요",
+        "원유 종류 간 가격차와 정유소 처리 능력",
+        "정기보수·비계획 가동중단·환경 비용"
+      ],
+      "kpis": [
+        {
+          "name": "크랙 스프레드",
+          "meaning": "석유제품 가격과 원유 가격의 대표적 차이",
+          "read": "시장 참고치이며 개별 기업의 실제 정제마진과 같지 않습니다."
+        },
+        {
+          "name": "정유 가동률",
+          "meaning": "정유 설비를 실제 가동한 비율",
+          "read": "가동률 상승과 보수비·안전 비용을 함께 확인합니다."
+        },
+        {
+          "name": "배럴당 정제마진",
+          "meaning": "처리 원유 한 배럴에서 창출한 정제 수익",
+          "read": "기업별 원가 포함 범위와 지역 구성을 맞춰 비교합니다."
+        }
+      ],
+      "risks": [
+        "제품 공급 과잉으로 마진 급락",
+        "설비 사고·환경 규제로 비용과 생산 손실 발생"
+      ],
+      "valuation": "정상 정제마진의 EV/EBITDA와 유지보수 후 FCF를 봅니다. 일시적 공급 부족기에 기록한 이익을 장기 이익으로 고정하지 않습니다.",
+      "questions": [
+        "높은 마진이 수요 증가 때문인가, 일시적 경쟁 설비 중단 때문인가?",
+        "표준 크랙 스프레드와 이 회사 실제 수익의 차이는 무엇인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "MPC",
+          "name": "Marathon Petroleum",
+          "exchange": "NYSE",
+          "business": "미국 정유·연료 판매와 미드스트림 지분 사업",
+          "watch": "정유마진·가동률·MPLX 현금 기여",
+          "ir": "https://www.marathonpetroleum.com/Investors/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "VLO",
+          "name": "Valero Energy",
+          "exchange": "NYSE",
+          "business": "정유·재생디젤·에탄올 생산",
+          "watch": "지역별 정제마진과 재생연료 수익",
+          "ir": "https://investorvalero.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PSX",
+          "name": "Phillips 66",
+          "exchange": "NYSE",
+          "business": "정유·미드스트림·화학·판매 복합 사업",
+          "watch": "사업별 현금 기여와 비용 개선",
+          "ir": "https://investor.phillips66.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "energy-services",
+      "name": "유전 서비스·장비",
+      "en": "Oilfield Services & Equipment",
+      "summary": "생산기업에 시추·완결·생산 기술과 장비를 제공하는 산업입니다.",
+      "mechanics": "자원을 직접 팔기보다 고객의 개발 예산에서 매출이 나옵니다. 시추 장비·수압파쇄·저류층 평가·생산설비·디지털 기술을 제공하며 서비스 단가와 가동률이 이익을 좌우합니다. 미국 육상 단기 투자와 해외·해양 장기 프로젝트는 사이클이 다를 수 있습니다.",
+      "watch": [
+        "고객의 북미·해외 설비투자 계획",
+        "장비 가동률과 서비스 단가",
+        "LNG·해양·디지털 사업의 수주 전환"
+      ],
+      "kpis": [
+        {
+          "name": "리그·완결 활동",
+          "meaning": "시추 장비와 신규 유정 완결 작업의 규모",
+          "read": "단순 리그 수보다 유정 생산성·작업 강도도 봅니다."
+        },
+        {
+          "name": "수주/매출",
+          "meaning": "신규 수주가 현재 매출을 얼마나 보충하는지",
+          "read": "장비 사업의 미래 매출 가시성을 보여주지만 취소 가능성이 있습니다."
+        },
+        {
+          "name": "영업이익률",
+          "meaning": "서비스·장비 매출에서 남는 영업이익 비율",
+          "read": "단가 상승과 인건비·장비 비용 상승을 구분합니다."
+        }
+      ],
+      "risks": [
+        "고객 투자 축소가 매출에 시차를 두고 반영",
+        "기술·장비 과잉 공급으로 가격 협상력 하락"
+      ],
+      "valuation": "정상 투자 사이클의 EV/EBITDA와 FCF를 봅니다. 장비 수주잔고와 서비스 매출을 구분하고 지역별 업황을 반영합니다.",
+      "questions": [
+        "유가 상승이 실제 고객 예산 증가로 이어졌는가?",
+        "수주 증가가 이익률·현금 회수 개선으로 이어지는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "SLB",
+          "name": "SLB",
+          "exchange": "NYSE",
+          "business": "저류층·시추·생산·디지털 유전 서비스",
+          "watch": "해외 활동과 기술 서비스 수익성",
+          "ir": "https://investorcenter.slb.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "HAL",
+          "name": "Halliburton",
+          "exchange": "NYSE",
+          "business": "완결·생산 및 시추 평가 서비스",
+          "watch": "북미 완결 활동과 장비 가동률",
+          "ir": "https://ir.halliburton.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "BKR",
+          "name": "Baker Hughes",
+          "exchange": "NASDAQ",
+          "business": "유전 서비스와 LNG·가스 등 에너지 장비",
+          "watch": "산업·에너지 기술 수주 전환",
+          "ir": "https://investors.bakerhughes.com/",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

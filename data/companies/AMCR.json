@@ -1,0 +1,104 @@
+{
+  "ticker": "AMCR",
+  "oneLiner": "소비재·식품·의료용 연포장·경질포장",
+  "businessModel": "식품·음료·의료·생활용품 회사에 연포장 필름·파우치·용기 등 포장재를 공급합니다. 고객은 제품 보존·안전·유통 편의에 비용을 지불합니다. 원료가격 연동 계약 때문에 매출이 감소해도 판매 물량이나 단위이익이 같은 방향은 아닐 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "연포장",
+      "description": "식품·의료·생활용 필름·파우치 등",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.amcor.com/investors"
+    },
+    {
+      "name": "경질·기타 포장",
+      "description": "병·용기·클로저 등 고객 포장 솔루션",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.amcor.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1860년대",
+      "event": "호주 제지 사업에서 계보 시작"
+    },
+    {
+      "year": "2019",
+      "event": "Bemis 인수"
+    },
+    {
+      "year": "2025",
+      "event": "Berry Global 결합으로 포장 범위 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 관계",
+      "detail": "대형 소비재·의료 고객의 포장 설계에 참여합니다."
+    },
+    {
+      "title": "제품 기술",
+      "detail": "보존·경량화·재활용성을 함께 설계합니다."
+    },
+    {
+      "title": "글로벌 공급",
+      "detail": "다국적 고객에게 여러 지역에서 공급할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "인수 부담",
+      "detail": "통합 비용·부채·조직 복잡성이 커질 수 있습니다."
+    },
+    {
+      "title": "고객 협상력",
+      "detail": "대형 브랜드가 가격 인하·공급 다변화를 요구합니다."
+    },
+    {
+      "title": "재활용 규제",
+      "detail": "소재 전환·설비 투자와 고객 인증이 필요합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Sealed Air",
+      "ticker": null,
+      "comparison": "보호·식품 포장의 실제 경쟁사입니다. 2026년 4월 CD&R 인수로 비상장 전환했으며 제품·고객 구성은 Amcor와 다릅니다."
+    },
+    {
+      "name": "Sonoco",
+      "ticker": "SON",
+      "comparison": "종이·금속 등 포장 소재와 고객 범위가 다릅니다."
+    }
+  ],
+  "macroLink": "필수소비재 수요가 일부 완충하지만 고객 재고·수지 가격·환율이 매출과 현금에 영향을 줍니다.",
+  "monitoring": [
+    "원료 전가를 제거한 물량·마진은 어떤가?",
+    "Berry 결합의 시너지와 부채 축소가 실현되는가?",
+    "재활용 포장 개발비를 고객이 가격에 반영하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Amcor · 투자자 자료",
+      "url": "https://www.amcor.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Amcor · 기업 연혁·사업 소개",
+      "url": "https://www.amcor.com/about/overview/history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Berry 결합 완료",
+      "url": "https://www.amcor.com/media/news/amcor-completes-combination-with-berry-global",
+      "note": "2025-04-30 완료"
+    },
+    {
+      "title": "경쟁사 Sealed Air 비상장 전환",
+      "url": "https://sealedair.gcs-web.com/news-releases/news-release-details/sealed-air-announces-completion-acquisition-cdr",
+      "note": "2026-04-09 CD&R 인수 완료. 경쟁 사업은 존재하지만 미국 상장 티커는 표시하지 않음"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

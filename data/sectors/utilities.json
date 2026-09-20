@@ -1,0 +1,384 @@
+{
+  "id": "utilities",
+  "name": "유틸리티",
+  "en": "Utilities",
+  "code": "55",
+  "color": "#73956e",
+  "summary": "전기·가스·물을 지속적으로 공급하며 규제와 인프라 투자 구조가 이익을 결정합니다.",
+  "concept": "유틸리티는 먼저 규제 사업과 경쟁 발전을 구분합니다. 규제 회사는 당국이 인정한 자산과 요금 체계를 통해 투자비·운영비와 허용 수익을 회수합니다. 경쟁 발전회사는 전력 시장가격·계약·발전원가에서 이익이 생깁니다. 따라서 전력 수요가 늘었다고 모든 회사의 이익이 같은 속도로 늘지 않으며, 송배전·발전·소매판매 중 어느 역할인지가 중요합니다.",
+  "drivers": [
+    "지역 전력·가스·물 수요와 데이터센터·공장 연결",
+    "규제 자산 증가·허용 자기자본이익률·요금 승인",
+    "금리·건설비·발전원가·장기 전력판매계약"
+  ],
+  "watch": [
+    "분기별 설비투자 계획·자금 조달·신용지표 확인",
+    "요금 심사와 대형 고객 연결 계약의 실제 진척",
+    "기상·발전소 가동률·도매 전력가격을 사업 유형별로 해석"
+  ],
+  "risks": [
+    "요금 인상이 비용 증가를 따라가지 못하는 규제 시차",
+    "대형 건설 지연·재해·산불·수질 관련 책임",
+    "부채 조달 비용과 증자에 따른 주당 이익 희석"
+  ],
+  "valueChain": [
+    "발전·원수 확보",
+    "송전·정수",
+    "배전·배관",
+    "고객 공급·요금 회수"
+  ],
+  "macro": {
+    "growth": "일상 수요는 비교적 안정적이나 산업·데이터센터 부하가 지역 성장률을 바꿀 수 있습니다.",
+    "rates": "부채와 장기 투자가 많아 금리 상승이 비용·가치평가에 부담입니다. 요금에 반영되기까지 시간이 걸릴 수 있습니다.",
+    "inflation": "인건비·자재·연료비 상승이 요금에 얼마나 빨리 전가되는지가 핵심입니다. 승인 전에는 현금흐름이 압박받을 수 있습니다.",
+    "dollar": "미국 내 규제 사업의 직접 환율 노출은 상대적으로 작지만 수입 장비·해외 사업의 영향은 별도로 봅니다."
+  },
+  "valuation": "규제 회사는 정상 PER·배당 지속성·규제 자산 성장과 허용 수익률을, 경쟁 발전은 헤지와 발전원가를 반영한 EV/EBITDA·FCF를 봅니다. 배당률만으로 비교하지 않습니다.",
+  "pitfall": "전력 수요 증가를 곧바로 주주 이익 증가로 연결하지 않습니다. 건설비·요금 승인·자금 조달·고객 계약을 거쳐야 하며 경쟁 발전의 위험은 규제 전력과 다릅니다.",
+  "related": [
+    "energy",
+    "industrials",
+    "technology",
+    "real-estate",
+    "materials"
+  ],
+  "sources": [
+    {
+      "title": "EIA · 전기요금의 결정 요인",
+      "url": "https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php",
+      "note": "연료·건설·기상·규제와 전기요금의 관계 · 확인 2026-09-20"
+    },
+    {
+      "title": "Duke Energy · 투자자 정보",
+      "url": "https://investors.duke-energy.com/",
+      "note": "규제 전력·가스 사업 자료 · 확인 2026-09-20"
+    },
+    {
+      "title": "NextEra Energy · 투자자 정보",
+      "url": "https://www.investor.nexteraenergy.com/",
+      "note": "FPL·에너지 개발 사업 구분 및 NEE 상장 정보 · 확인 2026-09-20"
+    },
+    {
+      "title": "Constellation · 투자자 정보",
+      "url": "https://investors.constellationenergy.com/",
+      "note": "CEG NASDAQ 상장 및 발전 사업 확인 · 확인 2026-09-20"
+    },
+    {
+      "title": "Constellation · 2026년 2분기 결과",
+      "url": "https://investors.constellationenergy.com/news-releases/news-release-details/constellation-reports-second-quarter-2026-results",
+      "note": "2026-08-06; Calpine 통합을 반영한 사업 범위 확인 · 확인 2026-09-20"
+    },
+    {
+      "title": "Vistra · 투자자 정보",
+      "url": "https://investor.vistracorp.com/",
+      "note": "VST NYSE 상장 및 발전·소매 통합 모델 확인 · 확인 2026-09-20"
+    },
+    {
+      "title": "American Water · 투자자 정보",
+      "url": "https://ir.amwater.com/",
+      "note": "상하수도 사업·규제·투자 자료 · 확인 2026-09-20"
+    },
+    {
+      "title": "AEP · 주주 FAQ",
+      "url": "https://www.aep.com/investors/stock/faq/",
+      "note": "AEP NASDAQ 상장 확인 · 확인 2026-09-20"
+    }
+  ],
+  "industries": [
+    {
+      "id": "utilities-regulated",
+      "name": "규제 전력·송배전",
+      "en": "Regulated Electric Utilities",
+      "summary": "정해진 지역에 전력을 공급하고 규제 당국이 승인한 요금으로 비용과 수익을 회수합니다.",
+      "mechanics": "발전·전력망에 투자한 금액 중 규제 당국이 인정한 자산을 기준으로 수익을 얻습니다. 투자한다고 바로 모든 비용을 돌려받는 것은 아니며 필요성·효율성·허용 수익률 심사를 거칩니다. 고객 사용량 외에도 비용 전가 조항과 요금 구조가 매출·이익을 좌우합니다.",
+      "watch": [
+        "규제 자산 증가율과 허용 수익률",
+        "요금 심사 일정·비용 회수 장치",
+        "대형 부하 연결의 계약 확정·건설·가동 단계"
+      ],
+      "kpis": [
+        {
+          "name": "Rate base",
+          "meaning": "요금 산정에 인정되는 규제 자산",
+          "read": "계획 투자액 전체와 같지 않으며 실제 승인·가동을 확인합니다."
+        },
+        {
+          "name": "실현 ROE vs 허용 ROE",
+          "meaning": "실제 자기자본 수익과 규제가 허용한 수익의 차이",
+          "read": "격차가 크면 비용 회수 지연이나 운영 문제를 살핍니다."
+        },
+        {
+          "name": "FFO/부채",
+          "meaning": "일상 사업 현금창출력 대비 부채 부담 지표",
+          "read": "기업·신용평가사별 정의가 다르므로 일관된 기준으로 봅니다."
+        }
+      ],
+      "risks": [
+        "요금 승인 지연·투자비 불인정",
+        "재해·건설비 증가·증자로 인한 주당 성장 둔화"
+      ],
+      "valuation": "PER와 배당을 규제 자산 성장·실현 ROE·재무 건전성과 연결합니다. 이익 성장에 필요한 증자도 반영합니다.",
+      "questions": [
+        "설비투자는 언제부터 요금에 반영되고 그 전의 자금은 어떻게 조달하는가?",
+        "대형 고객이 계획을 취소하면 남는 인프라 비용을 누가 부담하는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "DUK",
+          "name": "Duke Energy",
+          "exchange": "NYSE",
+          "business": "미국 여러 주의 규제 전력·가스 공급",
+          "watch": "요금 승인·전력망 투자·자금 조달",
+          "ir": "https://investors.duke-energy.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SO",
+          "name": "Southern Company",
+          "exchange": "NYSE",
+          "business": "미국 남동부 중심 전력·가스 유틸리티",
+          "watch": "규제 자산·발전설비 운영·투자 회수",
+          "ir": "https://investor.southerncompany.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AEP",
+          "name": "American Electric Power",
+          "exchange": "NASDAQ",
+          "business": "규제 전력 공급과 대규모 송전망",
+          "watch": "송전 투자·규제 수익·고객 부하",
+          "ir": "https://www.aep.com/investors/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "EXC",
+          "name": "Exelon",
+          "business": "미국 도시권의 규제 전력·가스 송배전",
+          "watch": "요금 승인·규제 자산·자금 조달",
+          "ir": "https://investors.exeloncorp.com/",
+          "exchange": "NASDAQ",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "XEL",
+          "name": "Xcel Energy",
+          "business": "전력·가스 공급과 규제 발전·전력망",
+          "watch": "요금 회수·에너지 전환·재해 책임",
+          "ir": "https://investors.xcelenergy.com/",
+          "exchange": "NASDAQ",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "utilities-diversified",
+      "name": "복합 유틸리티·에너지 개발",
+      "en": "Diversified Utilities & Energy Development",
+      "summary": "규제 전력·가스와 발전·인프라 개발을 함께 보유한 기업군을 비교합니다.",
+      "mechanics": "규제 사업의 반복 수익과 발전·재생에너지·인프라 개발의 프로젝트 수익이 함께 존재합니다. 같은 기업 안에서도 허용 수익률, 장기 전력판매계약, 시장 노출이 다르므로 사업부별로 나눠 봐야 합니다. 사업 매각·지분 파트너·자금 조달이 연결 실적과 위험을 바꿀 수 있습니다.",
+      "watch": [
+        "규제·계약·시장 노출 사업의 이익 비중",
+        "발전 개발 수주잔고의 인허가·계통 연결·가동 일정",
+        "자산 매각·지분 조달과 모회사 보증·부채"
+      ],
+      "kpis": [
+        {
+          "name": "사업별 EPS 기여",
+          "meaning": "사업부별로 주당 이익을 얼마나 만드는지",
+          "read": "일회성 매각 이익과 반복 이익을 구분합니다."
+        },
+        {
+          "name": "개발 잔고·가동 용량",
+          "meaning": "계약한 프로젝트와 실제 운영하는 발전 용량",
+          "read": "수주 규모보다 착공·상업운전 전환율을 봅니다."
+        },
+        {
+          "name": "투자 대비 자금 조달",
+          "meaning": "설비투자에 필요한 부채·자본·자산 매각 규모",
+          "read": "연결 제외 부채에도 보증·추가 출자 의무가 남는지 확인합니다."
+        }
+      ],
+      "risks": [
+        "정책·세제·인허가 변화로 프로젝트 수익 저하",
+        "사업 구조 복잡성과 대형 거래·자금 조달 부담"
+      ],
+      "valuation": "규제 사업과 개발·계약 사업의 가치를 따로 계산한 뒤 순부채·소수지분을 조정합니다. 단일 PER로 위험 차이를 덮지 않습니다.",
+      "questions": [
+        "규제 사업과 개발 사업 중 실제 이익·현금 성장의 주체는 어디인가?",
+        "프로젝트 수주가 가동되기까지 남은 승인과 투자비는 무엇인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "NEE",
+          "name": "NextEra Energy",
+          "exchange": "NYSE",
+          "business": "FPL 규제 전력과 발전·에너지 인프라 개발",
+          "watch": "규제 자산·개발 프로젝트·자금 조달·공시된 거래 진척",
+          "ir": "https://www.investor.nexteraenergy.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SRE",
+          "name": "Sempra",
+          "exchange": "NYSE",
+          "business": "규제 전력·가스와 에너지 인프라 지분 사업",
+          "watch": "규제 투자·인프라 지분 변화·부채 범위",
+          "ir": "https://www.sempra.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "DTE",
+          "name": "DTE Energy",
+          "exchange": "NYSE",
+          "business": "미시간 전력·가스와 에너지 솔루션 사업",
+          "watch": "요금 심사·전력망 투자·사업별 수익",
+          "ir": "https://ir.dteenergy.com/home/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ATO",
+          "name": "Atmos Energy",
+          "business": "규제 천연가스 배급·주내 파이프라인",
+          "watch": "배관 교체·요금 회수·규제 투자",
+          "ir": "https://www.investors.atmosenergy.com/overview/",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "utilities-competitive-power",
+      "name": "경쟁 발전·전력 소매",
+      "en": "Independent Power & Retail Electricity",
+      "summary": "전력을 생산·판매하고 시장 가격과 계약 구조의 차이에서 이익을 얻습니다.",
+      "mechanics": "발전소에서 만든 전력을 도매시장이나 장기계약으로 판매하고, 일부는 가정·기업 소매 고객에게도 공급합니다. 수익은 판매 전력가격과 연료·운영 비용의 차이입니다. 발전과 소매가 서로 위험을 완충할 수 있으나 기상 급변·발전소 중단·헤지 담보 요구가 동시에 발생할 수 있습니다.",
+      "watch": [
+        "지역별 전력·용량 가격과 연료 비용",
+        "가격 헤지 비중·기간·장기 전력판매계약",
+        "발전 가동률·정비·소매 고객 수익과 유동성"
+      ],
+      "kpis": [
+        {
+          "name": "헤지된 발전량",
+          "meaning": "미래 판매가격을 이미 고정한 발전 비중",
+          "read": "현물가격 상승이 실적에 반영되는 시차를 설명합니다."
+        },
+        {
+          "name": "발전 이용률",
+          "meaning": "가능한 발전량 대비 실제 발전량",
+          "read": "발전원별 특성과 계획 정비를 감안해 비교합니다."
+        },
+        {
+          "name": "조정 EBITDA·FCF",
+          "meaning": "파생상품 평가 등을 조정한 이익과 실제 잉여현금",
+          "read": "비현금 헤지 평가와 실제 현금 정산·담보를 구분합니다."
+        }
+      ],
+      "risks": [
+        "예상치 못한 발전 중단과 비싼 대체 전력 구매",
+        "전력시장 규칙·계약 변경·연료 및 기상 변동"
+      ],
+      "valuation": "정상 전력가격·헤지·정비비를 반영한 EV/EBITDA·FCF를 사용합니다. 계약된 수익과 미계약 미래 가격 기대를 분리합니다.",
+      "questions": [
+        "전력가격 상승분 중 실제 주주 현금에 남는 부분은 언제, 얼마나 발생하는가?",
+        "장기 고객 계약의 가격·물량·운영 의무가 발전소 위험을 충분히 보상하는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "CEG",
+          "name": "Constellation Energy",
+          "exchange": "NASDAQ",
+          "business": "원자력·가스 등 발전과 전력 공급; Calpine 통합 반영",
+          "watch": "발전원별 수익·장기 계약·인수 통합",
+          "ir": "https://investors.constellationenergy.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "VST",
+          "name": "Vistra",
+          "exchange": "NYSE",
+          "business": "가스·원자력 등 발전과 소매 전력 통합",
+          "watch": "발전·소매 헤지와 유동성·정비",
+          "ir": "https://investor.vistracorp.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NRG",
+          "name": "NRG Energy",
+          "exchange": "NYSE",
+          "business": "전력 소매·발전·스마트홈 서비스",
+          "watch": "소매 고객 마진과 발전·소매 균형",
+          "ir": "https://investors.nrg.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "utilities-water",
+      "name": "상하수도",
+      "en": "Water Utilities",
+      "summary": "안전한 물을 공급하고 하수를 처리하며 지역 인프라 투자와 요금 회수로 수익을 얻습니다.",
+      "mechanics": "정수장·배관·처리시설을 운영하고 규제 요금으로 운영비와 투자 수익을 회수합니다. 수요가 필수적이어도 절수·기상·누수·노후시설 교체가 판매량과 비용에 영향을 줍니다. 작은 수도 사업 인수와 시설 개선이 성장 경로가 될 수 있지만 규제 승인과 인수 가격을 확인해야 합니다.",
+      "watch": [
+        "노후 배관 교체와 수질 관련 투자",
+        "요금 심사·규제 자산·실현 수익률",
+        "인수 후 투자 의무와 물 사용량·누수"
+      ],
+      "kpis": [
+        {
+          "name": "규제 자산 성장",
+          "meaning": "요금 회수 기반이 되는 인정 자산의 증가",
+          "read": "인수 가격 전체가 요금 기반으로 인정되는 것은 아닙니다."
+        },
+        {
+          "name": "고객 수·판매량",
+          "meaning": "공급 가구·사업장과 판매한 물의 양",
+          "read": "날씨·절수·요금 구조가 수익에 미치는 영향을 나눠 봅니다."
+        },
+        {
+          "name": "자본투자·실현 ROE",
+          "meaning": "시설 투자와 실제 자기자본 수익률",
+          "read": "투자 증가가 요금 승인과 주당 이익으로 이어지는지 확인합니다."
+        }
+      ],
+      "risks": [
+        "오염·가뭄·재난과 수질 개선 비용",
+        "요금 인상 제약·금리 상승·인수 과다 지급"
+      ],
+      "valuation": "정상 PER·규제 자산·배당 지속성을 함께 봅니다. 낮은 경기 민감도가 높은 매입 가격의 위험까지 없애지는 않습니다.",
+      "questions": [
+        "수질·누수 개선 투자비를 언제 요금으로 회수할 수 있는가?",
+        "인수 성장에 필요한 자본 비용과 실제 허용 수익률의 차이는 얼마인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "AWK",
+          "name": "American Water Works",
+          "exchange": "NYSE",
+          "business": "미국 상하수도 공급·시설 운영",
+          "watch": "요금 심사·시설 투자·인수 및 거래 공시",
+          "ir": "https://ir.amwater.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AWR",
+          "name": "American States Water",
+          "exchange": "NYSE",
+          "business": "규제 수도·전력과 군 시설 수도 서비스",
+          "watch": "캘리포니아 요금 결정·계약 서비스",
+          "ir": "https://www.aswater.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CWT",
+          "name": "California Water Service Group",
+          "exchange": "NYSE",
+          "business": "캘리포니아 등 여러 주의 수도·하수도 서비스",
+          "watch": "요금 조정·시설 투자·수질 비용",
+          "ir": "https://www.calwatergroup.com/investors",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

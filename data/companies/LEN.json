@@ -1,0 +1,101 @@
+{
+  "ticker": "LEN",
+  "oneLiner": "표준화된 주택과 토지 운영 효율을 바탕으로 집을 공급하는 건설사입니다.",
+  "businessModel": "주택 건설·판매에 모기지·권원 서비스를 연결합니다. Everything’s Included 상품과 토지 보유 부담을 줄이는 운영이 중요한 관찰점입니다. 자산을 덜 보유해도 토지 구입 약정과 인센티브 비용이 사라지는 것은 아닙니다.",
+  "revenueStreams": [
+    {
+      "name": "주택 건설",
+      "description": "주택·관련 토지 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.lennar.com/"
+    },
+    {
+      "name": "금융 서비스",
+      "description": "주택 구매자의 모기지·권원 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.lennar.com/"
+    },
+    {
+      "name": "다가구·기타",
+      "description": "다가구 개발과 그 외 사업 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.lennar.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1954,
+      "event": "F&R Builders로 창업."
+    },
+    {
+      "year": 1971,
+      "event": "Lennar로 이름을 바꾸고 기업공개."
+    },
+    {
+      "year": 2018,
+      "event": "CalAtlantic 인수로 사업 규모 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "표준 상품",
+      "detail": "옵션을 묶은 제품 운영이 구매·조달·건설 과정을 단순하게 할 수 있습니다."
+    },
+    {
+      "title": "대규모 지역망",
+      "detail": "여러 시장에서 주택을 공급해 수요와 자재 협상에 규모를 활용합니다."
+    },
+    {
+      "title": "자본 효율 지향",
+      "detail": "토지 운영 구조를 바꿔 장기간 묶이는 자본을 줄이려 합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "토지 계약 부담",
+      "detail": "직접 보유를 줄여도 미래 매입 의무와 상대방 위험을 봐야 합니다."
+    },
+    {
+      "title": "주문·마진 교환",
+      "detail": "판매 속도를 유지하기 위해 가격·금리 혜택을 늘릴 수 있습니다."
+    },
+    {
+      "title": "사업 재편 비교",
+      "detail": "분사·거래 후 과거 자산·이익을 단순 비교하면 왜곡될 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "D.R. Horton",
+      "ticker": "DHI",
+      "comparison": "대규모 주택 공급과 가격 접근성에서 경쟁합니다."
+    },
+    {
+      "name": "PulteGroup",
+      "ticker": "PHM",
+      "comparison": "제품·구매자군 구성과 자본수익률 전략을 비교할 수 있습니다."
+    }
+  ],
+  "macroLink": "모기지 금리와 가계 소득이 월 납입액을 통해 작용합니다. 토지·자재비뿐 아니라 금리 보조 후 실제 판매 마진을 확인합니다.",
+  "monitoring": [
+    "주택 인도 증가가 인센티브 비용을 제외한 마진 개선으로 이어지는가?",
+    "토지 보유 축소가 실제 현금 회수와 자본수익률을 높이는가?",
+    "수주잔고와 취소율이 인도 계획을 뒷받침하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Lennar · 공식 IR",
+      "url": "https://investors.lennar.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Lennar · 공식 연혁",
+      "url": "https://www.lennar.com/about/history",
+      "note": "1954년 원류·1971년 기업공개·2018년 CalAtlantic 결합."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

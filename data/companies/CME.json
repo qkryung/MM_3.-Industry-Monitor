@@ -1,0 +1,101 @@
+{
+  "ticker": "CME",
+  "oneLiner": "금리·주가지수·원자재 가격 위험을 거래·관리하는 파생상품 시장입니다.",
+  "businessModel": "CME·CBOT·NYMEX·COMEX에서 선물·옵션 거래와 청산을 제공하고 수수료를 받습니다. 거래되는 계약의 명목금액이나 증거금 전부가 회사 매출은 아닙니다. 계약당 수수료와 거래량이 주요 수입을 결정하며 시세데이터 구독도 있습니다. 기존 유동성이 풍부할수록 참여자가 같은 시장에 모이는 특성이 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "청산·거래 수수료",
+      "description": "선물·옵션 등의 체결·청산 및 관련 거래 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.cmegroup.com/investor-relations.html"
+    },
+    {
+      "name": "시장데이터·정보",
+      "description": "실시간·과거 시세와 정보 이용료",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.cmegroup.com/investor-relations.html"
+    },
+    {
+      "name": "기타 서비스",
+      "description": "접속·연결 등 시장 운영 관련 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.cmegroup.com/investor-relations.html"
+    }
+  ],
+  "history": [
+    {
+      "year": "1898",
+      "event": "CME 전신의 농산물 거래소가 설립됐습니다."
+    },
+    {
+      "year": "2007",
+      "event": "CME와 CBOT가 결합했습니다."
+    },
+    {
+      "year": "2008",
+      "event": "NYMEX와 COMEX를 인수해 에너지·금속 기반을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "집중된 유동성",
+      "detail": "참여자가 많은 기준 계약은 경쟁자가 거래를 옮겨오기 어렵게 만듭니다."
+    },
+    {
+      "title": "위험관리 필수성",
+      "detail": "기업·기관이 금리·환율·상품가격을 헤지할 때 이용합니다."
+    },
+    {
+      "title": "거래와 데이터",
+      "detail": "거래 활동이 시세·정보 서비스의 가치를 함께 만듭니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "거래량 변동",
+      "detail": "수익은 가격 방향보다 헤지·투자 활동 변화에 민감합니다."
+    },
+    {
+      "title": "청산 꼬리위험",
+      "detail": "극단적 시장 충격에서 회원 부도·증거금 부족을 관리해야 합니다."
+    },
+    {
+      "title": "규제·수수료 압력",
+      "detail": "시장구조 변화와 경쟁상품이 계약당 수익을 제한할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Intercontinental Exchange",
+      "ticker": "ICE",
+      "comparison": "에너지·금융 파생에서 경쟁하며 ICE에는 NYSE·모기지 기술도 있습니다."
+    },
+    {
+      "name": "Nasdaq",
+      "ticker": "NDAQ",
+      "comparison": "주식·옵션·데이터 시장은 일부 겹치나 CME는 선물·청산이 중심입니다."
+    }
+  ],
+  "macroLink": "금리 불확실성·원자재 변동은 헤지 수요를 늘릴 수 있습니다. 시장이 조용하거나 위험을 줄이는 방향으로 참여자가 이탈하면 거래가 줄 수 있어 변동성 수혜를 단정하지 않습니다.",
+  "monitoring": [
+    "금리·주가지수·에너지 등 어떤 상품이 거래 증가를 이끄는가?",
+    "계약 구성 변화가 계약당 수수료를 낮추지 않는가?",
+    "미결제약정·데이터 수요가 일회성 거래 급증과 다른 추세를 보이는가?"
+  ],
+  "sources": [
+    {
+      "title": "CME Group · 투자자 자료",
+      "url": "https://www.cmegroup.com/investor-relations.html",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "CME Group · 연혁·기업 자료",
+      "url": "https://investor.cmegroup.com/static-files/8eba0018-2f57-4f8f-a739-97f882bf7a27",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

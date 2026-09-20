@@ -1,0 +1,94 @@
+{
+  "ticker": "GE",
+  "oneLiner": "민간·군용 항공엔진과 정비 서비스",
+  "businessModel": "항공기 제작사에 민간·군용 엔진을 공급하고 항공사·운용자에게 부품·정비·장기 서비스를 제공합니다. 엔진 판매 뒤 수십 년의 운항이 반복 서비스를 만듭니다. GE는 현재 GE Aerospace이며 GE Vernova·GE HealthCare와 별도 회사입니다.",
+  "revenueStreams": [
+    {
+      "name": "민간 엔진·서비스",
+      "description": "엔진 판매·부품·오버홀·장기 정비",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.geaerospace.com/investor-relations"
+    },
+    {
+      "name": "방산·추진 기술",
+      "description": "군용 엔진·추진 및 관련 시스템",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.geaerospace.com/investor-relations"
+    }
+  ],
+  "history": [
+    {
+      "year": "1892",
+      "event": "General Electric 설립"
+    },
+    {
+      "year": "1974",
+      "event": "Safran 계보와 CFM International 설립"
+    },
+    {
+      "year": "2024",
+      "event": "GE Vernova 분사 후 항공우주 중심으로 전환"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "엔진 설치 기반",
+      "detail": "운항 중인 엔진이 정비·부품 수요를 만듭니다."
+    },
+    {
+      "title": "인증 장벽",
+      "detail": "안전 인증과 기체 설계 채택에는 긴 시간이 필요합니다."
+    },
+    {
+      "title": "합작 생태계",
+      "detail": "CFM 등 파트너십이 고객·기술 기반을 넓힙니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "공급 병목",
+      "detail": "단조·주조·부품·정비 인력이 인도를 제한합니다."
+    },
+    {
+      "title": "품질·보증",
+      "detail": "엔진 결함은 수리·보상·신뢰 비용을 만듭니다."
+    },
+    {
+      "title": "민항 수요",
+      "detail": "여행 둔화와 항공사 재무 악화가 서비스에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "RTX",
+      "ticker": "RTX",
+      "comparison": "Pratt & Whitney 엔진과 경쟁하나 RTX에는 방산·Collins도 포함됩니다."
+    },
+    {
+      "name": "Rolls-Royce",
+      "ticker": null,
+      "comparison": "광동체 엔진 중심 경쟁사로 엔진 종류·서비스 계약이 다릅니다."
+    }
+  ],
+  "macroLink": "세계 비행시간과 항공사 운항 경제성이 정비를, 항공기 제작사의 생산량이 신규 엔진 판매를 좌우합니다.",
+  "monitoring": [
+    "정비 작업 적체와 부품 공급이 개선되는가?",
+    "서비스 매출이 가격 외 실제 작업량으로 성장하는가?",
+    "신형 엔진의 내구성·보증 비용과 장기 수익은 어떤가?"
+  ],
+  "sources": [
+    {
+      "title": "GE Aerospace · 투자자 자료",
+      "url": "https://www.geaerospace.com/investor-relations",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "GE Aerospace · 항공우주 독립 회사 출범",
+      "url": "https://www.geaerospace.com/news/articles/we-are-go-ge-aerospace-will-build-legacy-invention",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

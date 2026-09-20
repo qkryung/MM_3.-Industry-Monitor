@@ -1,0 +1,94 @@
+{
+  "ticker": "UNP",
+  "oneLiner": "미국 서부를 중심으로 화물을 운송하는 철도망",
+  "businessModel": "미국 서부 철도망에서 농산물·화학·자동차·산업재·컨테이너를 운송합니다. 고객은 거리·물량·서비스에 따른 운임을 냅니다. 선로·기관차 고정비가 커서 노선 밀도와 운행 효율이 중요하고, 속도 개선이 안전·고객 신뢰와 함께 유지돼야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "벌크·산업 화물",
+      "description": "곡물·비료·석탄·화학·금속 운송",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.unionpacific.com/"
+    },
+    {
+      "name": "프리미엄 운송",
+      "description": "자동차·컨테이너 복합운송",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.unionpacific.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1862",
+      "event": "Pacific Railway Act로 설립"
+    },
+    {
+      "year": "1869",
+      "event": "대륙횡단 철도 연결 참여"
+    },
+    {
+      "year": "1996",
+      "event": "Southern Pacific 합병"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "희소 노선",
+      "detail": "새 대륙 규모 철도망 건설은 입지·자본 제약이 큽니다."
+    },
+    {
+      "title": "운송 효율",
+      "detail": "장거리 대량 운송에서 트럭 대비 효율을 얻습니다."
+    },
+    {
+      "title": "다양한 화물",
+      "detail": "여러 산업의 물동량을 운송합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "운영 고정비",
+      "detail": "물량이 줄면 단위 비용 부담이 커집니다."
+    },
+    {
+      "title": "안전·노무",
+      "detail": "사고·노사 문제는 비용과 규제 압력을 높입니다."
+    },
+    {
+      "title": "화물 변화",
+      "detail": "석탄 감소·무역 경로·고객 물류전략 변화가 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "BNSF",
+      "ticker": null,
+      "comparison": "Berkshire 계열 비상장 철도 자회사로 미국 서부 주요 경쟁사입니다."
+    },
+    {
+      "name": "CSX",
+      "ticker": "CSX",
+      "comparison": "CSX는 미국 동부망이므로 같은 철도라도 지역·화물 구성을 맞춰 봅니다."
+    }
+  ],
+  "macroLink": "제조업·농산물·무역 물량이 핵심이며 연료 할증료가 유가 영향을 일부 완충합니다.",
+  "monitoring": [
+    "운행 효율 개선과 서비스·안전 지표가 함께 좋아지는가?",
+    "가격을 올려도 고객 물량을 유지하는가?",
+    "신규 거래·합병 공시가 노선·규제 위험을 바꾸는가?"
+  ],
+  "sources": [
+    {
+      "title": "Union Pacific · 투자자 자료",
+      "url": "https://investor.unionpacific.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Union Pacific · 기업 연혁·사업 소개",
+      "url": "https://www.up.com/about-us/history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

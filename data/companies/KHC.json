@@ -1,0 +1,114 @@
+{
+  "ticker": "KHC",
+  "oneLiner": "유명 소스와 간편식 브랜드를 보유한 글로벌 식품 회사입니다.",
+  "businessModel": "Heinz 소스와 Kraft 식품 등을 소매·외식 채널에 공급합니다. 비용 절감만으로 성장하기 어려워 브랜드·제품 투자와 판매량을 함께 봅니다. 분사 작업 중단과 거래소 이전 같은 회사 조치도 실제 완료 단계와 날짜를 구분해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "북미",
+      "description": "미국·캐나다의 소스·간편식·가공식품 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kraftheinzcompany.com/"
+    },
+    {
+      "name": "해외",
+      "description": "북미 외 시장의 식품·소스 등 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kraftheinzcompany.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1869,
+      "event": "H.J. Heinz 사업 시작."
+    },
+    {
+      "year": 1903,
+      "event": "Kraft 사업의 원류 설립."
+    },
+    {
+      "year": 2015,
+      "event": "Kraft와 Heinz 합병으로 현재 회사 출범."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "일상 브랜드",
+      "detail": "소스·간편식의 익숙한 브랜드가 반복 구매를 지원합니다."
+    },
+    {
+      "title": "소스의 확장성",
+      "detail": "가정·외식·국제 시장에서 제품 사용 경로를 넓힐 수 있습니다."
+    },
+    {
+      "title": "생산·유통 규모",
+      "detail": "다양한 식품의 조달·제조·판매 기반을 공유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "성숙 제품 수요",
+      "detail": "일부 가공식품은 소비 습관·건강 선호 변화에 노출됩니다."
+    },
+    {
+      "title": "수량·가격 교환",
+      "detail": "판매가격을 올려도 구매량·점유율이 떨어질 수 있습니다."
+    },
+    {
+      "title": "재편·자산 평가",
+      "detail": "분사 계획 변화와 브랜드 가치 조정이 비교·자본 배분을 어렵게 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "General Mills",
+      "ticker": "GIS",
+      "comparison": "가정용 포장식품·간편식 진열과 소비를 경쟁합니다."
+    },
+    {
+      "name": "Conagra Brands",
+      "ticker": "CAG",
+      "comparison": "냉동·포장식품에서 가격·제품 편의성을 경쟁합니다."
+    }
+  ],
+  "macroLink": "농산물·포장비와 소비자의 저가 선택이 함께 작용합니다. 명목 가격 상승보다 브랜드 투자 후 실제 판매량이 돌아오는지 확인합니다.",
+  "monitoring": [
+    "가격 인상 이후 판매량이 안정되고 점유율이 유지되는가?",
+    "브랜드·제품 투자 증가가 소비자 수요를 회복시키는가?",
+    "재편 방향이 바뀌어도 현금과 부채 관리가 일관적인가?"
+  ],
+  "sources": [
+    {
+      "title": "Kraft Heinz · 공식 IR",
+      "url": "https://ir.kraftheinzcompany.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Kraft Heinz · Heinz 150주년",
+      "url": "https://news.kraftheinzcompany.com/press-releases-details/2019/HEINZ-Relishes-150-Years/default.aspx",
+      "note": "1869년 Heinz 원류."
+    },
+    {
+      "title": "Kraft Heinz · 2017 회사 보고서",
+      "url": "https://www.kraftheinzcompany.com/sustainability/pdf/KHC_CSR_2017_Full.pdf",
+      "note": "Kraft·Heinz 브랜드 계보와 합병 후 구조의 역사 자료."
+    },
+    {
+      "title": "Kraft Heinz · FY2025 실적 발표",
+      "url": "https://ir.kraftheinzcompany.com/media/document/467efebc-ed00-42fe-9277-420090994aff/assets/EX_99.1_-_ER_Q4_2025_vfinal3.pdf?disposition=inline",
+      "note": "분사 관련 작업 pause 명시."
+    },
+    {
+      "title": "Kraft Heinz · NYSE 이전 발표",
+      "url": "https://ir.kraftheinzcompany.com/news/kraft-heinz-to-transfer-stock-exchange-listing-to-nyse/0f3f933b-8f7f-4c91-a860-0cb6457f9d6f",
+      "note": "2026-09-14 예정일 발표와 SEC 현재 NYSE 목록을 대조."
+    },
+    {
+      "title": "Kraft Heinz · 거래소 이전 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000057/khc-20260824.htm",
+      "note": "보통주는 2026-09-14 NYSE 이전 예정·승인, 일부 채권은 Nasdaq에 유지. SEC 상장 목록은 NYSE이며 발행사 제출 API에는 Nasdaq이 남아 있어 갱신 결과에 차이를 기록했습니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

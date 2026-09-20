@@ -1,0 +1,511 @@
+{
+  "id": "financials",
+  "name": "금융",
+  "en": "Financials",
+  "code": "40",
+  "color": "#396CAB",
+  "summary": "돈을 빌려주고, 위험을 맡고, 자산과 거래를 연결하며 이자와 수수료를 얻는 산업입니다.",
+  "concept": "은행은 돈의 조달비용과 대출수익의 차이, 보험사는 위험을 인수한 대가, 운용사는 고객 자산을 관리한 대가를 받습니다. 거래소와 결제회사는 금융 거래가 흐르는 기반시설을 제공합니다. 같은 금융이라도 대차대조표에 신용위험을 직접 쌓는 사업과 수수료 중심 사업은 다르게 읽어야 합니다. 아래 6개 묶음은 학습용 분류입니다. GICS에서 Visa·Mastercard 같은 결제 처리 서비스는 금융이며, 부동산 담보대출에 투자하는 Mortgage REIT도 금융에 속합니다.",
+  "drivers": [
+    "신용 수요와 자산건전성: 대출이 늘어도 회수하지 못하면 이익은 남지 않습니다.",
+    "금리·수익률곡선·조달비용: 자산 수익률과 예금·채권 비용이 서로 다른 속도로 움직입니다.",
+    "시장 활동과 고객 자금: 증시 수준, 거래량, 기업 인수·상장, 자금 유입이 수수료를 만듭니다."
+  ],
+  "watch": [
+    "실적은 이자이익·수수료이익·대손비용으로 나누고 일회성 투자손익을 구분합니다.",
+    "예금 유출, 연체, 보험 손해율, 고객 순유입 등 업종별 선행지표를 먼저 봅니다.",
+    "규제자본 여력과 배당·자사주 매입은 함께 읽습니다. 환원이 늘어도 자본이 약해지면 지속하기 어렵습니다."
+  ],
+  "risks": [
+    "대출·보험의 손실이 뒤늦게 드러나 충당금이나 준비금이 급증할 수 있습니다.",
+    "규제·소송·사이버 사고가 영업허가, 수수료 구조, 신뢰를 훼손할 수 있습니다.",
+    "높은 차입과 단기 조달은 금리 변화·유동성 충격을 증폭합니다."
+  ],
+  "valueChain": [
+    "예금·보험료·고객자금",
+    "대출·투자·위험인수",
+    "거래·결제·자산관리",
+    "이자·수수료·보험이익"
+  ],
+  "macro": {
+    "growth": "경기 확장은 대출·결제·기업금융 수요를 늘릴 수 있습니다. 둔화 시 거래 수수료보다 신용손실이 늦게 악화할 수 있습니다.",
+    "rates": "금리 상승이 은행에 무조건 좋은 것은 아닙니다. 대출 재가격 속도, 예금 금리 경쟁, 보유채권 평가손익을 함께 봅니다. 보험사는 재투자수익률과 부채 민감도를 비교합니다.",
+    "inflation": "명목 결제액과 보험료는 커질 수 있지만 사고 수리비·의료비·임금도 늘어납니다. 가격 인상 속도가 비용 증가를 따라가는지 확인합니다.",
+    "dollar": "해외 사업의 달러 환산 실적과 신흥국 신용부담에 영향을 줍니다. 미국 내수형 금융사와 글로벌 네트워크 회사를 구분합니다."
+  },
+  "valuation": "은행은 P/B(주가/주당순자산)·P/TBV(주가/주당유형순자산)를 ROE·ROTCE(자기자본·유형자본 수익률)와 함께 봅니다. 보험은 정상화된 인수이익과 자본, 결제·거래소·운용사는 P/E(주가수익비율)와 현금흐름을 주로 비교합니다. 금융사의 부채는 영업의 원재료인 경우가 많아 제조업식 EV/EBITDA를 은행에 그대로 적용하지 않습니다.",
+  "pitfall": "낮은 P/B가 저평가를 뜻하지는 않습니다. 자산 부실, 낮은 지속가능 수익률, 추가 자본 필요성을 반영한 값일 수 있습니다. 은행·보험·결제회사를 같은 배수로 한 줄에 세우는 것도 피합니다.",
+  "related": [
+    "real-estate",
+    "consumer-discretionary",
+    "technology"
+  ],
+  "sources": [
+    {
+      "title": "MSCI · GICS 분류 체계",
+      "url": "https://www.msci.com/indexes/index-resources/gics",
+      "note": "섹터·산업의 계층과 주된 사업 기준. 본 문서의 하위 묶음은 학습용 · 2026-09-20 확인"
+    },
+    {
+      "title": "S&P·MSCI · 2023 GICS 개편",
+      "url": "https://press.spglobal.com/2022-03-31-S-P-DOW-JONES-INDICES-AND-MSCI-ANNOUNCE-REVISIONS-TO-THE-GLOBAL-INDUSTRY-CLASSIFICATION-STANDARD-GICS-R-STRUCTURE-IN-2023",
+      "note": "2022-03-31 발표. 결제 처리 서비스를 금융으로 이동한 배경 · 2026-09-20 확인"
+    },
+    {
+      "title": "FDIC · 은행업 분기 지표",
+      "url": "https://qbpgraphbook-d.fdic.gov/",
+      "note": "순이자마진·예금·자본·대출건전성 지표 원문 · 2026-09-20 확인"
+    },
+    {
+      "title": "JPMorganChase · 투자자 자료",
+      "url": "https://www.jpmorganchase.com/ir",
+      "note": "사업부·은행 실적·규제자본 확인 · 2026-09-20 확인"
+    },
+    {
+      "title": "Visa · 투자자 FAQ",
+      "url": "https://investor.visa.com/investor-resources/faq/default.aspx",
+      "note": "미국 NYSE 보통주 V 확인 · 2026-09-20 확인"
+    },
+    {
+      "title": "Chubb · 투자자 자료",
+      "url": "https://investors.chubb.com/Home/default.aspx",
+      "note": "손해보험 인수와 상품군의 사업 구조 · 2026-09-20 확인"
+    },
+    {
+      "title": "SEC · 기업 티커·거래소 목록",
+      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+      "note": "현재 대표기업의 티커·거래소를 공개 목록과 교차검증. BRK.B는 SEC의 BRK-B와 같은 종목 · 2026-09-20 확인"
+    }
+  ],
+  "industries": [
+    {
+      "id": "financials-banks",
+      "name": "은행",
+      "en": "Banks",
+      "summary": "예금을 모아 대출하고, 이자 차익과 금융서비스 수수료를 얻습니다.",
+      "mechanics": "은행의 핵심은 싸고 안정적으로 조달한 돈을 손실을 감당할 수 있는 고객에게 빌려주는 일입니다. 순이자이익은 받은 이자에서 지급한 이자를 뺀 금액입니다. 여기서 인건비·시스템 비용과 예상 대출손실 충당금 등을 차감하면 이익이 남습니다. 대출잔액이 늘더라도 비싼 예금으로 조달하거나 부실이 커지면 이익은 줄 수 있습니다.",
+      "watch": [
+        "예금 증가율과 무이자예금 비중: 조달 기반이 유지되는지 확인",
+        "소비자·상업용 부동산·기업대출별 연체와 대손충당금",
+        "장단기 금리 변화와 대출·예금 재가격 시차"
+      ],
+      "kpis": [
+        {
+          "name": "NIM · 순이자마진",
+          "meaning": "순이자이익을 평균 이자수익자산으로 나눈 비율",
+          "read": "상승 원인이 대출금리인지 조달비용 하락인지 분리합니다."
+        },
+        {
+          "name": "순상각률 · Net charge-off rate",
+          "meaning": "회수불능으로 처리한 대출에서 회수액을 뺀 금액의 비율",
+          "read": "연체율·충당금과 함께 보면 손실이 앞으로 더 늘지 판단하는 데 도움이 됩니다."
+        },
+        {
+          "name": "CET1 비율",
+          "meaning": "보통주 중심 핵심자본을 위험가중자산으로 나눈 규제지표",
+          "read": "은행별 규제 요구치 대비 여유를 비교합니다. 높다는 이유만으로 수익성이 좋은 것은 아닙니다."
+        }
+      ],
+      "risks": [
+        "예금이 빠져나가 비싼 조달로 대체되거나 자산을 손실 매각할 위험",
+        "대출 집중과 보유채권 금리 위험이 동시에 드러날 가능성"
+      ],
+      "valuation": "P/TBV와 지속가능 ROTCE를 짝지어 비교합니다. 정상 신용비용을 반영한 P/E도 보되 경기 고점의 낮은 충당금을 장기 이익으로 가정하지 않습니다.",
+      "questions": [
+        "예금 비용이 올라가도 대출 수익률이 이를 따라갈 수 있는가?",
+        "손실에 가장 취약한 대출은 어느 고객·지역·담보에 집중되어 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "JPM",
+          "name": "JPMorgan Chase",
+          "exchange": "NYSE",
+          "business": "소비자은행·기업금융·투자은행·자산관리의 복합 금융그룹",
+          "watch": "순이자이익, 카드 신용비용, CET1",
+          "ir": "https://www.jpmorganchase.com/ir",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "BAC",
+          "name": "Bank of America",
+          "exchange": "NYSE",
+          "business": "소비자·기업은행과 Merrill 자산관리·글로벌 시장 사업",
+          "watch": "예금 비용, 보유증권, 유형자본 수익률",
+          "ir": "https://investor.bankofamerica.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo",
+          "exchange": "NYSE",
+          "business": "미국 소비자·상업은행과 자산관리",
+          "watch": "대출 성장, 비용 효율, 신용손실",
+          "ir": "https://www.wellsfargo.com/about/investor-relations/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "USB",
+          "name": "U.S. Bancorp",
+          "exchange": "NYSE",
+          "business": "미국 상업은행·결제·자산관리",
+          "watch": "예금 비용, Elavon 결제, 신용비용",
+          "ir": "https://ir.usbank.com/overview/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "financials-brokers",
+      "name": "증권·투자은행",
+      "en": "Brokers & Investment Banking",
+      "summary": "기업의 자금 조달과 투자자의 거래·자산관리를 연결합니다.",
+      "mechanics": "투자은행은 기업 인수합병 자문과 주식·채권 발행을 돕고 수수료를 받습니다. 시장조성·매매 사업은 고객 거래를 처리하며 스프레드와 수수료를 얻습니다. 증권 플랫폼은 고객 자산에 대한 관리보수, 예탁 현금의 이자수익, 거래 관련 수익을 결합합니다. 수익이 같은 금융사라도 IPO·M&A에 민감한 회사와 고객 자산 기반이 큰 회사는 경기 민감도가 다릅니다.",
+      "watch": [
+        "IPO·M&A의 발표액보다 실제 완료·수수료 인식 시점",
+        "고객 현금의 고금리 상품 이동과 이자수익 변화",
+        "자산관리 순유입과 보수 기반 자산의 비중"
+      ],
+      "kpis": [
+        {
+          "name": "IB 수수료",
+          "meaning": "투자은행의 인수합병 자문·주식·채권 인수 수익",
+          "read": "딜 수와 딜 규모, 전년의 낮은 기저를 구분합니다."
+        },
+        {
+          "name": "고객 순신규자산",
+          "meaning": "시장 가격 변동을 제외한 고객 자금의 순유입",
+          "read": "주가 상승으로 커진 고객자산과 영업력에 의한 유입을 구분합니다."
+        },
+        {
+          "name": "보상비용률",
+          "meaning": "급여·성과급 등 보상비용의 매출 대비 비율",
+          "read": "수익이 늘어도 성과급이 비슷하게 늘면 이익 개선은 제한됩니다."
+        }
+      ],
+      "risks": [
+        "시장 급변으로 거래 재고 손실이나 거래상대방 손실이 발생",
+        "기업금융 거래가 연기되고 고객 현금이 이동해 복수 수익원이 약화"
+      ],
+      "valuation": "정상화 P/E와 ROE를 기본으로 보고 투자은행은 자본 대비 수익, 자산관리 플랫폼은 반복 수수료 비중을 추가로 비교합니다. 거래가 활황인 한 분기의 이익을 연율화하지 않습니다.",
+      "questions": [
+        "실적 개선이 반복 관리보수 때문인가, 몇 건의 대형 거래 때문인가?",
+        "고객 현금이 이동할 때 잃는 이자수익을 다른 수수료가 메울 수 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "GS",
+          "name": "Goldman Sachs",
+          "exchange": "NYSE",
+          "business": "투자은행·시장조성 및 자산·부유층 자산관리",
+          "watch": "IB 수수료, 거래수익, ROE",
+          "ir": "https://www.goldmansachs.com/investor-relations",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley",
+          "exchange": "NYSE",
+          "business": "기관증권, 자산관리, 투자운용",
+          "watch": "자산관리 순유입과 세전이익률",
+          "ir": "https://www.morganstanley.com/about-us-ir",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SCHW",
+          "name": "Charles Schwab",
+          "exchange": "NYSE",
+          "business": "개인 증권·자산관리 플랫폼과 은행 서비스",
+          "watch": "고객 현금 이동, 순신규자산, 조달비용",
+          "ir": "https://www.aboutschwab.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "IBKR",
+          "name": "Interactive Brokers Group",
+          "exchange": "NASDAQ",
+          "business": "글로벌 전자증권 중개·신용융자·고객 현금 관리",
+          "watch": "계좌 성장, 거래활동, 순이자이익",
+          "ir": "https://investors.interactivebrokers.com/ir/main.php",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "financials-insurance",
+      "name": "보험",
+      "en": "Insurance",
+      "summary": "보험료를 먼저 받고 미래의 손실을 부담하며, 그 사이 자금을 운용합니다.",
+      "mechanics": "손해보험사는 자동차 사고·재산 손실처럼 불확실한 사건의 위험을 가격에 반영합니다. 받은 보험료에서 보험금과 사업비를 뺀 인수이익에 투자수익이 더해집니다. 생명보험은 장기 약속을 하므로 자산과 부채의 만기·금리 민감도 관리가 중요합니다. 아래 기업은 손해보험·생명보험 및 보험 중심 복합그룹 사례이며, 건강보험은 헬스케어에서 따로 공부합니다.",
+      "watch": [
+        "보험료 인상 속도와 사고 빈도·건당 손해액의 차이",
+        "이전 연도 준비금의 환입 또는 추가 적립",
+        "자연재해 노출과 재보험으로 넘긴 위험의 범위"
+      ],
+      "kpis": [
+        {
+          "name": "합산비율 · Combined ratio",
+          "meaning": "손해율과 사업비율을 합친 손해보험 수익성 지표",
+          "read": "대체로 100% 미만이면 투자수익 제외 인수흑자입니다. 대재해·준비금 효과를 분리합니다."
+        },
+        {
+          "name": "순수입보험료",
+          "meaning": "재보험 출재 등을 반영한 보험료 규모",
+          "read": "가격 인상과 계약 건수 증가를 나눠 성장의 질을 봅니다."
+        },
+        {
+          "name": "준비금 발전 · Reserve development",
+          "meaning": "과거 사고의 최종 비용 예상이 달라지며 생기는 조정",
+          "read": "반복적인 추가 적립은 처음 손해를 과소 추정했을 가능성을 뜻합니다."
+        }
+      ],
+      "risks": [
+        "대형 재해·소송 배상액·수리비가 예상보다 빠르게 증가",
+        "수익을 좋게 보이게 하려고 준비금을 부족하게 쌓을 가능성"
+      ],
+      "valuation": "P/B와 정상화 ROE, 인수이익과 투자이익을 구분한 P/E를 함께 봅니다. Berkshire는 보험 외 철도·에너지·제조·투자자산도 있어 순수 보험사와 직접 비교하기 어렵습니다.",
+      "questions": [
+        "보험료 인상이 고객 이탈 없이 손해액 상승을 상쇄하고 있는가?",
+        "좋은 합산비율이 본업 개선인가, 재해가 적었거나 준비금을 환입한 결과인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "BRK.B",
+          "name": "Berkshire Hathaway Class B",
+          "exchange": "NYSE",
+          "business": "보험·재보험을 중심으로 철도·에너지·제조 및 투자자산 보유",
+          "watch": "보험 인수이익·유동성; 순수 보험사 비교 주의",
+          "ir": "https://www.berkshirehathaway.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CB",
+          "name": "Chubb",
+          "exchange": "NYSE",
+          "business": "기업·개인 손해보험, 재보험 및 생명보험",
+          "watch": "합산비율, 보험료, 대재해 손실",
+          "ir": "https://investors.chubb.com/Home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PGR",
+          "name": "Progressive",
+          "exchange": "NYSE",
+          "business": "미국 자동차보험 중심 손해보험",
+          "watch": "계약 수, 사고 빈도·심도, 합산비율",
+          "ir": "https://investors.progressive.com/home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MET",
+          "name": "MetLife",
+          "exchange": "NYSE",
+          "business": "기업 복지보험·생명보험·퇴직 및 자산운용",
+          "watch": "보험손익, 투자수익, 자산·부채 만기",
+          "ir": "https://investor.metlife.com/overview/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "financials-asset-management",
+      "name": "자산운용·대체투자",
+      "en": "Asset Management & Alternatives",
+      "summary": "고객의 자산을 관리하고 보수와 성과에 따른 수익을 받습니다.",
+      "mechanics": "전통 운용사는 주식·채권·ETF 등 운용자산에 일정 보수율을 적용합니다. 대체투자 운용사는 사모주식·부동산·신용·인프라 펀드 등을 운용하고 관리보수와 성과보수를 받습니다. AUM이 커져도 저보수 상품 비중이 늘면 매출은 같은 속도로 늘지 않습니다. 성과보수는 자산을 팔아 실현할 때와 회계상 평가할 때가 달라 현금 수익을 별도로 읽어야 합니다.",
+      "watch": [
+        "순유입과 시장 평가이익을 분리한 운용자산 성장",
+        "보수 부과 자산과 저보수 ETF·고보수 대체자산 구성",
+        "투자 회수·분배와 다음 펀드 모집의 연결"
+      ],
+      "kpis": [
+        {
+          "name": "AUM · 운용자산",
+          "meaning": "고객을 대신해 운용하는 자산의 규모",
+          "read": "증가분을 신규 유입·시장 상승·인수로 분해합니다."
+        },
+        {
+          "name": "FRE · 수수료 관련 이익",
+          "meaning": "대체운용사의 반복 관리보수 중심 이익 지표",
+          "read": "회사별 조정 정의와 주식보상 처리 차이를 확인합니다."
+        },
+        {
+          "name": "성과보수 실현액",
+          "meaning": "투자 성과에 따라 실제 인식·실현하는 보수",
+          "read": "미실현 평가이익과 구분하고 회수시장의 상황을 함께 봅니다."
+        }
+      ],
+      "risks": [
+        "시장 하락·자금 유출로 자산과 보수율이 동시에 감소",
+        "회수시장 경색과 사모자산 평가의 시차로 수익이 지연"
+      ],
+      "valuation": "전통 운용사는 정상화 P/E와 유기적 수수료 성장, 대체운용사는 FRE와 실현 성과보수·보험 등 별도 사업을 나눠 봅니다. 회사별 비회계기준 조정이 다르므로 배수 정의를 맞춥니다.",
+      "questions": [
+        "운용자산 증가가 실제 수수료와 주당 이익으로 이어지는가?",
+        "미실현 성과보수가 현금화되려면 어떤 매각·상장 조건이 필요한가?"
+      ],
+      "companies": [
+        {
+          "ticker": "BLK",
+          "name": "BlackRock",
+          "exchange": "NYSE",
+          "business": "iShares ETF, 전통·대체자산 운용과 투자기술",
+          "watch": "순유입, 보수율, 대체자산 구성",
+          "ir": "https://ir.blackrock.com/home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "BX",
+          "name": "Blackstone",
+          "exchange": "NYSE",
+          "business": "부동산·사모주식·신용 등 대체투자 운용",
+          "watch": "보수 부과 자산, FRE, 실현 성과보수",
+          "ir": "https://ir.blackstone.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "KKR",
+          "name": "KKR & Co.",
+          "exchange": "NYSE",
+          "business": "대체투자 운용과 보험·전략적 보유사업",
+          "watch": "펀드 모집·회수, FRE, 보험사업 위험",
+          "ir": "https://ir.kkr.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "financials-payments",
+      "name": "결제 네트워크·처리",
+      "en": "Payments",
+      "summary": "소비자·가맹점·은행 사이에서 결제가 안전하게 이동하도록 돕습니다.",
+      "mechanics": "카드 네트워크는 발급은행과 가맹점 측 은행을 연결하고 거래 처리·국경 간 결제 등에서 수익을 얻습니다. Visa·Mastercard는 일반적으로 카드 대출의 원금을 직접 제공하는 발급은행과 역할이 다릅니다. PayPal 같은 지갑·가맹점 처리 사업은 결제 접점과 가맹점 서비스를 운영합니다. 총 결제액은 회사 매출이 아니며, 처리수수료·고객 인센티브·거래비용을 차감한 수익성을 봐야 합니다.",
+      "watch": [
+        "소비 성장과 현금에서 디지털 결제로의 전환",
+        "해외여행·전자상거래에 연결되는 국경 간 결제",
+        "고객 인센티브, 가맹점 가격, 대체 결제수단의 경쟁"
+      ],
+      "kpis": [
+        {
+          "name": "결제금액·처리건수",
+          "meaning": "네트워크나 플랫폼을 통과한 거래 규모와 횟수",
+          "read": "금액 증가가 물가 상승인지 이용 확대인지 나눠 봅니다."
+        },
+        {
+          "name": "국경 간 거래 성장",
+          "meaning": "국가가 다른 발급·가맹점 사이 거래의 성장",
+          "read": "일반 국내 결제와 수익률이 다를 수 있어 비중 변화가 중요합니다."
+        },
+        {
+          "name": "순수익률 · Take rate",
+          "meaning": "결제액 대비 매출 등으로 계산하는 수익화 비율",
+          "read": "회사별 총액·순액 표시와 거래 구성 차이가 있어 동일 정의로 비교합니다."
+        }
+      ],
+      "risks": [
+        "수수료 규제·반독점 소송과 실시간 계좌이체 등 대체수단 확산",
+        "부정거래·보안사고·대형 고객의 협상력이 비용을 늘림"
+      ],
+      "valuation": "P/E와 잉여현금흐름 수익률을 성장의 지속성·마진과 비교합니다. 높은 처리액 성장만으로 가치를 판단하지 말고 주식보상·고객 인센티브·거래비용을 반영합니다.",
+      "questions": [
+        "결제액이 늘어날 때 회사에 남는 수익도 같은 방향으로 늘어나는가?",
+        "이 회사는 결제 네트워크, 지갑, 가맹점 처리, 대출 중 어디서 이익을 얻는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "V",
+          "name": "Visa",
+          "exchange": "NYSE",
+          "business": "글로벌 카드 결제 네트워크와 부가서비스",
+          "watch": "결제량, 국경 간 거래, 고객 인센티브",
+          "ir": "https://investor.visa.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MA",
+          "name": "Mastercard",
+          "exchange": "NYSE",
+          "business": "글로벌 결제 네트워크·보안·데이터 서비스",
+          "watch": "거래 성장, 부가서비스, 규제",
+          "ir": "https://investor.mastercard.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PYPL",
+          "name": "PayPal Holdings",
+          "exchange": "NASDAQ",
+          "business": "PayPal·Venmo 지갑과 가맹점 결제 처리",
+          "watch": "브랜드 결제 성장, 거래마진, 활성 이용",
+          "ir": "https://investor.paypal-corp.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "financials-exchanges",
+      "name": "거래소·금융정보",
+      "en": "Exchanges & Financial Data",
+      "summary": "거래·청산·데이터를 제공하며 금융시장의 기반시설을 운영합니다.",
+      "mechanics": "거래소는 매수자와 매도자를 연결하고 거래 수수료를 받습니다. 청산은 거래가 이행되도록 증거금과 위험을 관리하는 기능입니다. 시세 데이터, 지수, 분석·시장 소프트웨어, 상장 관련 서비스는 구독성 수입을 만듭니다. 시장이 하락해도 위험관리 거래가 많아져 수익이 늘 수 있어 은행이나 자산운용사와 같은 방향으로만 움직이지 않습니다.",
+      "watch": [
+        "거래량과 계약당 수수료를 따로 확인",
+        "반복 구독매출 비중 및 갱신·가격 인상",
+        "상품군별 변동성·미결제약정과 청산 위험"
+      ],
+      "kpis": [
+        {
+          "name": "ADV · 일평균 거래량",
+          "meaning": "하루 평균 거래된 주식·파생상품 계약 수",
+          "read": "거래일 수와 계약 종류를 맞춰 비교합니다."
+        },
+        {
+          "name": "계약당 매출",
+          "meaning": "거래 한 건·계약당 평균 수익",
+          "read": "저수수료 상품 비중이 커지면 거래량보다 매출 성장이 작아집니다."
+        },
+        {
+          "name": "반복 매출 성장",
+          "meaning": "데이터·구독·소프트웨어 등 지속 계약 수입의 성장",
+          "read": "인수 효과를 뺀 유기적 성장과 고객 유지율을 봅니다."
+        }
+      ],
+      "risks": [
+        "거래 규정 변화·경쟁 플랫폼·데이터 가격 규제로 수익 저하",
+        "청산회원 부도나 장애·해킹이 운영 신뢰를 손상"
+      ],
+      "valuation": "P/E와 EV/EBITDA(기업가치/이자·세금·감가상각 전 이익), 잉여현금흐름을 보되 인수 부채와 반복 매출 비중을 함께 평가합니다.",
+      "questions": [
+        "높아진 거래량은 일회성 충격인가, 상품의 구조적 이용 증가인가?",
+        "시장 활동이 줄어도 데이터·소프트웨어 수입이 얼마나 남는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "CME",
+          "name": "CME Group",
+          "exchange": "NASDAQ",
+          "business": "금리·주가지수·통화·원자재 파생상품 거래소",
+          "watch": "상품별 거래량, 계약당 수익, 청산",
+          "ir": "https://www.cmegroup.com/investor-relations.html",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ICE",
+          "name": "Intercontinental Exchange",
+          "exchange": "NYSE",
+          "business": "거래소·NYSE·채권 데이터·모기지 기술",
+          "watch": "거래와 데이터 매출, 주택금융 활동",
+          "ir": "https://ir.theice.com/home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NDAQ",
+          "name": "Nasdaq",
+          "exchange": "NASDAQ",
+          "business": "거래소·시장기술·금융 소프트웨어·지수 서비스",
+          "watch": "반복매출, 금융기술 성장, 인수 부채",
+          "ir": "https://ir.nasdaq.com/",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

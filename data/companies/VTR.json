@@ -1,0 +1,111 @@
+{
+  "ticker": "VTR",
+  "oneLiner": "고령자 주거와 의료시설을 보유하며 운영이익과 임대료를 함께 얻습니다.",
+  "businessModel": "고령자 주거 운영형 포트폴리오, 운영사에 빌려주는 순임대 자산, 외래 의료·연구시설을 보유합니다. 운영형은 입주자 요금에서 인력·시설 비용을 빼는 구조이고 임대형은 운영사의 지급능력이 중요합니다. 같은 헬스케어 부동산이라도 시설 유형과 계약 방식에 따라 경기·의료정책 민감도가 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "고령자 주거 운영",
+      "description": "운영형 시설의 입주자 요금입니다. 돌봄·식사·인력 비용을 뺀 수익을 봅니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.ventasreit.com/overview/default.aspx"
+    },
+    {
+      "name": "순임대·의료시설 임대",
+      "description": "운영사 또는 의료·연구 임차인이 내는 임대료와 관련 비용 회수입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.ventasreit.com/overview/default.aspx"
+    },
+    {
+      "name": "대출·기타 수입",
+      "description": "관련 금융 투자 이자와 관리 등 기타 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.ventasreit.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1998",
+      "event": "Vencor의 의료 운영사업과 부동산을 분리하는 재편으로 헬스케어 REIT 기반을 형성했습니다."
+    },
+    {
+      "year": "2011",
+      "event": "Nationwide Health Properties 인수를 완료했습니다."
+    },
+    {
+      "year": "2015",
+      "event": "Care Capital Properties 분리로 전문간호시설 자산 구조를 재편했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "서로 다른 시설 수요",
+      "detail": "고령자 주거와 의료·연구 공간을 통해 여러 수요 기반에 접근합니다."
+    },
+    {
+      "title": "운영 개선 여지",
+      "detail": "고령자 주거 입주율 회복이 고정비 활용도를 높일 수 있습니다."
+    },
+    {
+      "title": "전문 관계망",
+      "detail": "의료기관과 운영사 관계가 자산 발굴·운용에 활용됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "운영사 위험",
+      "detail": "임차 운영사의 수익성 악화는 지급 능력과 계약 재협상으로 이어집니다."
+    },
+    {
+      "title": "비용 민감도",
+      "detail": "운영형 자산은 인건비와 보험·시설비 상승에 직접 노출됩니다."
+    },
+    {
+      "title": "시설별 차이",
+      "detail": "연구소 수요와 고령자 주거 수요가 반대로 움직일 수 있어 전체 숫자가 원인을 가립니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Welltower",
+      "ticker": "WELL",
+      "comparison": "고령자 주거 중심의 직접 비교대상입니다."
+    },
+    {
+      "name": "Healthpeak",
+      "ticker": "DOC",
+      "comparison": "의료 외래시설·연구소 비중이 커 다른 포트폴리오 구성을 보여줍니다."
+    }
+  ],
+  "macroLink": "고령화와 의료서비스 수요는 장기 배경입니다. 단기에는 고용 비용, 운영사 현금흐름, 장기금리가 수익과 자산 가치를 결정합니다.",
+  "monitoring": [
+    "고령자 주거 운영형의 매출 증가율이 비용 증가율보다 높은가?",
+    "순임대 운영사의 임대료 지급 여력이 개선되는가?",
+    "시설 유형별 동일자산 순영업이익과 신규 투자 수익률은 어떠한가?"
+  ],
+  "sources": [
+    {
+      "title": "Ventas · 투자자 자료",
+      "url": "https://ir.ventasreit.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Ventas · 연혁·기업 자료",
+      "url": "https://www.sec.gov/Archives/edgar/data/740260/000095010901500060/d89089ex9911.pdf",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Ventas · Nationwide 인수 완료",
+      "url": "https://ir.ventasreit.com/news/news-details/2011/Ventas-Completes-76-Billion-Acquisition-of-Nationwide-Health--Properties/default.aspx",
+      "note": "2011년 인수 완료와 사업 범위 확인."
+    },
+    {
+      "title": "Care Capital · 분리 관련 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1639947/000104746916009939/a2226912zs-11.htm",
+      "note": "2015년 분리 법인과 자산 형성 과정 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

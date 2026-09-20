@@ -1,0 +1,116 @@
+{
+  "ticker": "NKE",
+  "oneLiner": "스포츠 성능과 브랜드를 신발·의류 판매로 바꾸는 회사입니다.",
+  "businessModel": "제품 개발·마케팅에 집중하고 외부 생산업체를 활용합니다. 도매 파트너와 자체 매장·앱에서 Nike·Jordan·Converse 제품을 판매합니다. 직접 판매 비중을 늘리면 매출총이익 기회와 함께 재고·매장·광고 비용도 커집니다.",
+  "revenueStreams": [
+    {
+      "name": "신발",
+      "description": "Nike·Jordan·Converse 등의 신발 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.nike.com/Home/default.aspx"
+    },
+    {
+      "name": "의류",
+      "description": "운동·일상 의류 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.nike.com/Home/default.aspx"
+    },
+    {
+      "name": "장비 및 기타",
+      "description": "스포츠 장비·액세서리·라이선스 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.nike.com/Home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1964,
+      "event": "Blue Ribbon Sports로 사업 시작."
+    },
+    {
+      "year": 1971,
+      "event": "Nike 브랜드와 Swoosh 도입."
+    },
+    {
+      "year": 1980,
+      "event": "주식시장 상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "스포츠 관계",
+      "detail": "선수·팀·대회와의 관계가 제품 신뢰와 노출을 만듭니다."
+    },
+    {
+      "title": "글로벌 브랜드",
+      "detail": "여러 종목·지역에 인지도를 갖고 제품을 확장합니다."
+    },
+    {
+      "title": "개발·판매 접점",
+      "detail": "성능 개발과 소비자 데이터·소매 접점을 연결할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "브랜드 유행",
+      "detail": "브랜드가 강해도 특정 신발·제품의 인기는 바뀔 수 있습니다."
+    },
+    {
+      "title": "채널 균형",
+      "detail": "직판 확대와 도매 관계가 충돌하면 판매 접근성이 떨어질 수 있습니다."
+    },
+    {
+      "title": "재고·조달 위험",
+      "detail": "외부 생산·관세·과잉 재고가 할인과 비용을 늘립니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "adidas",
+      "ticker": "ADS.DE",
+      "comparison": "스포츠 신발·의류와 선수·팀 계약에서 직접 경쟁합니다."
+    },
+    {
+      "name": "Deckers / HOKA",
+      "ticker": "DECK",
+      "comparison": "러닝·일상 신발의 성능·브랜드 선택을 경쟁합니다."
+    }
+  ],
+  "macroLink": "소비자의 선택 지출·스포츠 유행·중국 소비와 환율·관세가 연결됩니다. 보고 매출보다 정상가 판매와 재고 회전을 먼저 읽습니다.",
+  "monitoring": [
+    "신제품이 할인 없이 판매되고 재구매를 만드는가?",
+    "도매·직판이 균형 있게 성장하는가?",
+    "재고 감소가 과도한 가격 할인에 의존하지 않는가?"
+  ],
+  "sources": [
+    {
+      "title": "Nike · 공식 IR",
+      "url": "https://investors.nike.com/Home/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Nike · Swoosh 역사",
+      "url": "https://about.nike.com/en/magazine/nike-swoosh-logo-history",
+      "note": "1971년 브랜드 전환의 공식 회고."
+    },
+    {
+      "title": "Nike · 투자자 자료",
+      "url": "https://investors.nike.com/investors/news-events-and-reports/",
+      "note": "기업 원류·상장과 사업 구조를 확인하는 연차보고서 경로."
+    },
+    {
+      "title": "Nike 창업·본사 역사",
+      "url": "https://about.nike.com/nl/magazine/the-definitive-history-of-nikes-world-campus",
+      "note": "1964년 Blue Ribbon Sports 사업 원류 확인."
+    },
+    {
+      "title": "Nike 2012년 주주총회 기록",
+      "url": "https://investors.nike.com/files/doc_events/NIKE%20Inc.%20Annual%20Shareholders%20Meeting%20Transcript%209-20-2012.pdf",
+      "note": "1980년 12월 최초 상장 언급 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

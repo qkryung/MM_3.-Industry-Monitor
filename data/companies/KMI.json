@@ -1,0 +1,101 @@
+{
+  "ticker": "KMI",
+  "oneLiner": "천연가스·석유제품 파이프라인과 저장 터미널",
+  "businessModel": "생산자·정유사·발전사에 파이프라인과 저장 공간을 제공하고 물량·예약 용량에 따른 요금을 받습니다. 천연가스 운송이 핵심이며 일부 사업은 원자재 가격에도 노출됩니다. 생산자와 달리 유가보다 계약의 질·물량·투자 회수가 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "가스 파이프라인",
+      "description": "장기 수송·저장·처리 계약 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kindermorgan.com/"
+    },
+    {
+      "name": "제품 파이프라인·터미널",
+      "description": "연료 운송과 액체·벌크 저장·하역 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kindermorgan.com/"
+    },
+    {
+      "name": "CO₂ 관련 사업",
+      "description": "이산화탄소 운송·공급 및 관련 생산사업",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kindermorgan.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1997",
+      "event": "Kinder Morgan Energy Partners 출범"
+    },
+    {
+      "year": "2011",
+      "event": "KMI NYSE 재상장"
+    },
+    {
+      "year": "2014",
+      "event": "주요 상장 파트너십을 KMI로 통합"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "연결망",
+      "detail": "주요 생산지·소비지·수출터미널을 잇습니다."
+    },
+    {
+      "title": "계약 기반",
+      "detail": "용량 예약 등 계약이 단기 가격 노출을 줄일 수 있습니다."
+    },
+    {
+      "title": "확장 기회",
+      "detail": "기존 노선 증설은 신규 노선보다 입지상 이점이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "인허가",
+      "detail": "환경·지역사회 분쟁이 건설을 지연할 수 있습니다."
+    },
+    {
+      "title": "부채·금리",
+      "detail": "인프라 투자와 차환에 필요한 자본이 큽니다."
+    },
+    {
+      "title": "물량·고객",
+      "detail": "계약 종료 후 요율과 고객 신용은 보장되지 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Williams",
+      "ticker": "WMB",
+      "comparison": "Williams는 Transco 등 가스망 중심이며 노선별 최종 수요를 비교합니다."
+    },
+    {
+      "name": "ONEOK",
+      "ticker": "OKE",
+      "comparison": "ONEOK은 NGL 처리·수송과 정제품·원유 연결이 더 두드러집니다."
+    }
+  ],
+  "macroLink": "금리·LNG 수출·가스발전 수요가 핵심입니다. 가스 가격 상승 자체보다 더 많은 가스를 운송할 계약이 필요한지가 중요합니다.",
+  "monitoring": [
+    "성장 프로젝트에 장기 고객 계약이 먼저 확보됐는가?",
+    "현금흐름에서 유지 투자와 배당을 뺀 뒤 여유가 있는가?",
+    "규제·인허가가 수익 개시 시점을 얼마나 미루는가?"
+  ],
+  "sources": [
+    {
+      "title": "Kinder Morgan · 투자자 자료",
+      "url": "https://ir.kindermorgan.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Kinder Morgan · 기업 연혁·사업 소개",
+      "url": "https://kindermorgan.com/About-Us/History",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

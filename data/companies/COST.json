@@ -1,0 +1,94 @@
+{
+  "ticker": "COST",
+  "oneLiner": "회원에게 적은 품목을 낮은 가격에 대량 판매하고 회원료를 받습니다.",
+  "businessModel": "창고형 매장의 효율과 대량 매입으로 상품 가격을 낮추고 회원 갱신을 유도합니다. 상품 마진을 무리하게 높이기보다 가격 신뢰를 지키는 구조입니다. 회원료가 중요하지만 전체 상품 운영 비용과 신규 창고 투자도 확인해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "상품·부대 사업",
+      "description": "식품·일반상품·주유·약국 등 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.costco.com/overview/default.aspx"
+    },
+    {
+      "name": "회원료",
+      "description": "연간 회원 가입·갱신 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.costco.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1976,
+      "event": "전신 Price Club이 첫 창고형 매장 개점."
+    },
+    {
+      "year": 1983,
+      "event": "첫 Costco 창고 개점."
+    },
+    {
+      "year": 1993,
+      "event": "Costco와 Price Club 합병."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "회원 갱신 구조",
+      "detail": "회비를 내고 반복 방문하는 고객 기반이 있습니다."
+    },
+    {
+      "title": "집중된 품목",
+      "detail": "적은 품목에 매입량을 집중해 가격과 재고 효율을 높입니다."
+    },
+    {
+      "title": "Kirkland 브랜드",
+      "detail": "자체 브랜드가 가성비와 상품 차별성을 보완합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "가격 약속의 제약",
+      "detail": "비용이 오를 때 상품 마진을 크게 올리기 어렵습니다."
+    },
+    {
+      "title": "창고 성장 비용",
+      "detail": "새 지역 진출은 부지·인력·물류·고객 확보가 필요합니다."
+    },
+    {
+      "title": "높은 기대 가능성",
+      "detail": "사업이 안정적이어도 시장의 성장 기대가 너무 높으면 주가 위험이 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Walmart / Sam’s Club",
+      "ticker": "WMT",
+      "comparison": "미국 회원제 창고 고객을 직접 경쟁합니다."
+    },
+    {
+      "name": "BJ’s Wholesale",
+      "ticker": "BJ",
+      "comparison": "회원제 창고와 식료품·주유 고객을 경쟁합니다."
+    }
+  ],
+  "macroLink": "가계는 지출을 아끼기 위해 대량 구매를 늘릴 수 있지만 비필수 상품은 줄일 수 있습니다. 주유 가격이 기존점 성장률에 주는 효과를 분리합니다.",
+  "monitoring": [
+    "회원 갱신율과 유료 회원 수가 함께 늘어나는가?",
+    "주유·환율을 제외한 기존점 거래가 개선되는가?",
+    "신규 창고의 생산성이 기존 점포 수준에 접근하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Costco Wholesale · 공식 IR",
+      "url": "https://investor.costco.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Costco · 회사 정보와 역사",
+      "url": "https://www.costco.com/f/-/company-information",
+      "note": "Price Club·Costco 원류와 1993년 합병."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

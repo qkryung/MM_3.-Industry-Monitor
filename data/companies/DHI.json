@@ -1,0 +1,108 @@
+{
+  "ticker": "DHI",
+  "oneLiner": "다양한 가격대의 주택을 빠르게 건설·인도하는 미국 주택건설사입니다.",
+  "businessModel": "토지를 확보해 주택을 지은 뒤 구매자에게 인도합니다. 금융·토지개발·임대주택 사업이 건설을 보완합니다. 주문만 보는 대신 완공 재고·인도 속도·금리 보조 비용을 함께 봐야 집을 팔아 남기는 현금을 이해할 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "주택 건설",
+      "description": "단독주택 건설·판매 및 관련 토지 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.drhorton.com/"
+    },
+    {
+      "name": "토지개발",
+      "description": "Forestar 등의 외부 고객 대상 토지개발·판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.drhorton.com/"
+    },
+    {
+      "name": "임대 사업",
+      "description": "단독·다가구 임대 자산의 개발·운영·판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.drhorton.com/"
+    },
+    {
+      "name": "금융 서비스",
+      "description": "구매자 모기지·권원 등 관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.drhorton.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1978,
+      "event": "텍사스 Fort Worth에서 주택건설 시작."
+    },
+    {
+      "year": 1992,
+      "event": "주식시장 상장."
+    },
+    {
+      "year": 2002,
+      "event": "미국 인도 주택 수 기준 선두에 올라 규모 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "가격대와 지역 분산",
+      "detail": "여러 지역·구매자층을 대상으로 수요를 나눕니다."
+    },
+    {
+      "title": "건설 규모",
+      "detail": "반복 설계·자재 조달·현장 운영의 규모 효과를 활용합니다."
+    },
+    {
+      "title": "토지·금융 연결",
+      "detail": "토지 공급과 구매 금융을 함께 관리해 인도 과정을 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "초기 구매자 부담",
+      "detail": "월 납입액 상승은 진입 가격대 주택 수요를 직접 제약합니다."
+    },
+    {
+      "title": "재고·인센티브",
+      "detail": "빨리 팔기 위한 할인과 금리 보조가 마진을 희생할 수 있습니다."
+    },
+    {
+      "title": "토지·임대 자본",
+      "detail": "토지와 임대 개발에 묶인 자금은 수요 악화 시 회수가 늦습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Lennar",
+      "ticker": "LEN",
+      "comparison": "대규모 주택 인도와 가격 지원·토지 운영에서 경쟁합니다."
+    },
+    {
+      "name": "PulteGroup",
+      "ticker": "PHM",
+      "comparison": "첫 구매·상향 이동·활동형 은퇴 고객 등에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "모기지 금리·소득·주택 공급 부족이 주문을 결정합니다. 금리가 높아도 신축 판매자가 금리 보조를 제공할 수 있어 기존 주택시장과 다른 흐름이 가능합니다.",
+  "monitoring": [
+    "순주문과 취소율이 금리 지원 확대 없이 개선되는가?",
+    "완공 재고가 매출보다 빨리 늘지 않는가?",
+    "토지·임대 투자 후 영업현금이 남는가?"
+  ],
+  "sources": [
+    {
+      "title": "D.R. Horton · 공식 IR",
+      "url": "https://investor.drhorton.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "D.R. Horton · 2024 연차보고서",
+      "url": "https://investor.drhorton.com/~/media/Files/D/D-R-Horton-IR/documents/2024-dhi-annual-report.pdf",
+      "note": "창업·상장 연혁과 사업 구분. 역사적 기준 자료입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,99 @@
+{
+  "ticker": "INTC",
+  "oneLiner": "PC·서버 프로세서 설계와 반도체 제조를 함께 수행하는 회사.",
+  "businessModel": "PC와 서버용 프로세서를 설계해 판매하면서 자체 공장을 운영합니다. 외부 설계 회사의 칩을 생산하는 파운드리도 확대하려 합니다. 제품 사업의 시장 경쟁력과 제조 공정·가동률은 별개 문제이며, 내부 부문 간 매출을 연결 매출에 다시 더하면 중복됩니다.",
+  "revenueStreams": [
+    {
+      "name": "제품 사업",
+      "description": "PC·서버 프로세서와 관련 플랫폼·네트워크 제품의 외부 고객 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.intc.com/"
+    },
+    {
+      "name": "외부 파운드리·기타",
+      "description": "외부 고객을 위한 제조·패키징 서비스 등. 파운드리 부문 내부 거래는 연결 매출에서 제거됩니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.intc.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1968,
+      "event": "Robert Noyce와 Gordon Moore가 Intel 설립."
+    },
+    {
+      "year": 1971,
+      "event": "기업공개 및 초기 상용 마이크로프로세서 시대 진입."
+    },
+    {
+      "year": 1985,
+      "event": "80386 프로세서를 도입하며 x86 컴퓨팅을 발전시킴."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "x86 설치 기반",
+      "detail": "기업과 PC의 기존 소프트웨어·운영 경험이 제품 선택에 영향을 줍니다."
+    },
+    {
+      "title": "설계와 제조 경험",
+      "detail": "공정·패키징·제품 설계를 함께 조정할 수 있는 인력과 설비를 보유합니다."
+    },
+    {
+      "title": "기업 고객 관계",
+      "detail": "PC 제조사와 데이터센터 고객의 인증·배포 과정에서 오랜 관계를 갖고 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "공정 전환 부담",
+      "detail": "신공정 지연이나 낮은 수율은 제품 경쟁력과 공장 수익성을 동시에 압박합니다."
+    },
+    {
+      "title": "서버 경쟁",
+      "detail": "AMD와 ARM 기반 자체 칩이 고객의 선택지를 넓힙니다."
+    },
+    {
+      "title": "파운드리 현금 소요",
+      "detail": "외부 고객 확보 전에 공장 투자·개발 비용이 먼저 발생할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "comparison": "PC·서버 CPU에서 직접 경쟁하며 외부 파운드리를 사용합니다."
+    },
+    {
+      "name": "TSMC",
+      "ticker": "TSM",
+      "comparison": "외부 고객 반도체 제조에서 경쟁하는 전업 파운드리입니다."
+    }
+  ],
+  "macroLink": "PC 교체와 기업 서버 투자가 제품 수요를 좌우합니다. 제조업 보조금·전력·건설 비용과 장기 금리는 공장 투자와 자금 조달에도 중요합니다.",
+  "monitoring": [
+    "제품 점유율 변화와 제조 부문의 손익 개선을 분리해 확인했는가?",
+    "신공정의 실제 외부 양산 고객·수율·출하 일정이 확인되는가?",
+    "설비투자와 운영 손실을 충당할 현금·자산 매각·지원금의 조건은 무엇인가?"
+  ],
+  "sources": [
+    {
+      "title": "Intel · 공식 IR",
+      "url": "https://www.intc.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Intel 역사 연차보고서",
+      "url": "https://www.intel.com/content/www/us/en/history/virtual-vault/articles/historical-annual-report-list.html",
+      "note": "1968년 설립·1971년 상장 및 연도별 사업 자료."
+    },
+    {
+      "title": "Intel 공식 역사 타임라인",
+      "url": "https://timeline.intel.com/",
+      "note": "프로세서와 제조 기술의 주요 전환점 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

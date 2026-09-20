@@ -1,0 +1,101 @@
+{
+  "ticker": "LLY",
+  "oneLiner": "당뇨·비만 치료제를 중심으로 항암·면역·신경계 의약품을 개발하고 판매합니다.",
+  "businessModel": "의약품을 연구·임상시험·승인·생산한 뒤 유통사와 의료체계를 통해 판매합니다. Mounjaro와 Zepbound처럼 같은 성분도 적응증과 보험 적용이 다르면 상업화 경로가 달라집니다. 처방 수가 늘어도 리베이트·할인으로 순매출 단가가 낮아질 수 있습니다. 생산능력, 보험 접근성, 임상 근거가 함께 있어야 잠재 환자가 실제 매출로 이어집니다.",
+  "revenueStreams": [
+    {
+      "name": "당뇨·비만 의약품",
+      "description": "Mounjaro·Zepbound·Trulicity·인슐린 등 제품의 할인·리베이트 차감 후 판매 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.lilly.com/"
+    },
+    {
+      "name": "항암 의약품",
+      "description": "Verzenio 등 항암 제품 판매입니다. 당뇨·비만 제품군과 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.lilly.com/"
+    },
+    {
+      "name": "면역·신경계 및 기타 의약품",
+      "description": "Taltz 등 면역질환과 신경계 등 나머지 제품군·관련 협력 수입입니다. 학습용 치료영역 구분이며 공식 별도 사업부를 뜻하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.lilly.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1876",
+      "event": "Eli Lilly가 인디애나폴리스에서 회사를 설립했습니다."
+    },
+    {
+      "year": "1923",
+      "event": "인슐린을 상업적으로 공급하기 시작했습니다."
+    },
+    {
+      "year": "1982",
+      "event": "유전자 재조합 기술 기반 인슐린 Humulin을 출시했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "대사질환 경험",
+      "detail": "오랜 당뇨 연구·생산·판매 경험을 비만 등 인접 질환으로 연결합니다."
+    },
+    {
+      "title": "제품과 후속 연구",
+      "detail": "기존 치료제 매출과 후속 약물·적응증 연구가 함께 존재합니다."
+    },
+    {
+      "title": "생산 투자 능력",
+      "detail": "대규모 생산·공급망 투자를 통해 의약품 수요를 공급으로 전환할 역량을 갖습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대사질환 집중",
+      "detail": "몇 개 성장 제품의 경쟁·가격·안전성 변화가 전체 기대에 큰 영향을 줍니다."
+    },
+    {
+      "title": "순가격 불확실성",
+      "detail": "보험 적용 확대는 환자를 늘리는 대신 리베이트와 가격 압박을 동반할 수 있습니다."
+    },
+    {
+      "title": "높은 투자 부담",
+      "detail": "공장과 임상에 먼저 지출하며 수요·승인·경쟁 변화에 따라 회수 결과가 달라집니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Novo Nordisk",
+      "ticker": "NVO",
+      "comparison": "당뇨·비만에서 직접 경쟁하며 제형·효과·공급·보험 접근성을 비교합니다."
+    },
+    {
+      "name": "Amgen",
+      "ticker": "AMGN",
+      "comparison": "여러 치료영역에서 경쟁하고 비만 후속 후보 등 연구개발 경쟁도 있습니다."
+    }
+  ],
+  "macroLink": "고령화·만성질환은 수요 기반이지만 보험 급여와 가계 부담이 실제 접근을 결정합니다. 금리는 먼 미래 파이프라인의 평가에, 환율은 해외 판매의 달러 환산에 영향을 줍니다.",
+  "monitoring": [
+    "처방 증가가 생산 제약 완화와 순매출 증가로 이어지는가?",
+    "보험 적용 확대 후 환자당 순가격과 치료 지속률은 어떻게 변하는가?",
+    "후속 치료제의 효과·안전성·투여 편의가 기존 제품과 경쟁약 대비 무엇을 개선하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Eli Lilly · 투자자 자료",
+      "url": "https://investor.lilly.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Eli Lilly · 연혁·기업 자료",
+      "url": "https://www.lilly.com/about/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

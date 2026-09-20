@@ -1,0 +1,99 @@
+{
+  "ticker": "VRTX",
+  "oneLiner": "낭포성 섬유증 치료를 핵심으로 유전질환과 통증 등으로 확장하는 제약회사입니다.",
+  "businessModel": "질병의 생물학적 원인을 겨냥한 의약품을 개발·판매합니다. 낭포성 섬유증은 CFTR 단백질 기능 이상과 관련된 유전질환으로, Vertex의 주요 제품은 특정 변이에 맞춰 그 기능을 개선합니다. 이 핵심 사업의 현금흐름으로 다른 질환을 연구합니다. 새로운 치료 분야는 기존 CF의 판매망·환자 구조와 달라 출시 속도를 따로 평가해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "낭포성 섬유증 제품",
+      "description": "Trikafta/Kaftrio 등 CF 치료 제품 판매입니다. 국가·연령·유전자 변이별 적용 확대가 중요합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.vrtx.com/"
+    },
+    {
+      "name": "기타 승인 제품",
+      "description": "유전자·세포 치료와 통증 등 CF 이외 제품의 상업화 수입입니다. 파이프라인 후보의 잠재 시장을 실제 매출로 포함하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.vrtx.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1989",
+      "event": "Vertex가 설립됐습니다."
+    },
+    {
+      "year": "1991",
+      "event": "기업공개를 실시했습니다."
+    },
+    {
+      "year": "2012",
+      "event": "CF 원인 단백질을 겨냥한 Kalydeco의 FDA 승인을 받았습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "질환 이해",
+      "detail": "CFTR에 대한 연구와 여러 조합 치료제 개발 경험을 축적했습니다."
+    },
+    {
+      "title": "현금 창출 기반",
+      "detail": "상업화된 CF 제품이 후속 연구와 신규 영역의 자금을 지원합니다."
+    },
+    {
+      "title": "환자·의료진 관계",
+      "detail": "희귀질환 전문기관과 보험 접근 경험이 CF 사업의 기반입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "CF 집중",
+      "detail": "핵심 질환 시장의 침투가 높아질수록 신규 성장의 원천을 찾아야 합니다."
+    },
+    {
+      "title": "새 영역 실행",
+      "detail": "유전자치료·통증 치료는 CF와 다른 제조·처방·보험 경로가 필요합니다."
+    },
+    {
+      "title": "후속 연구 위험",
+      "detail": "연구 단계의 생물학적 타당성과 실제 임상 성공은 다릅니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "BioMarin",
+      "ticker": "BMRN",
+      "comparison": "희귀 유전질환·유전자치료에서 환자 접근과 개발 자원을 두고 경쟁합니다. CF 동일 약물의 직접 경쟁사는 아닙니다."
+    },
+    {
+      "name": "Alnylam",
+      "ticker": "ALNY",
+      "comparison": "유전적 원인을 겨냥한 희귀질환 치료에서 다른 기술 접근을 가진 경쟁사입니다."
+    }
+  ],
+  "macroLink": "희귀질환 치료비 보장과 국가별 급여 협상이 실제 환자 확대를 좌우합니다. 금리 변화는 장기 파이프라인 가치에 영향을 주지만 CF 수익 기반을 따로 평가해야 합니다.",
+  "monitoring": [
+    "CF 성장에서 신규 국가·연령 확대와 기존 제품 전환이 각각 얼마나 기여하는가?",
+    "CF 밖 신제품은 승인 이후 실제 치료·처방 환자가 얼마나 늘고 있는가?",
+    "새 치료의 제조·치료센터·보험 승인 절차가 출시 병목이 되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Vertex Pharmaceuticals · 투자자 자료",
+      "url": "https://investors.vrtx.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Vertex Pharmaceuticals · 연혁·기업 자료",
+      "url": "https://investors.vrtx.com/investor-resources/faqs",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Vertex · Kalydeco 승인 이력",
+      "url": "https://investors.vrtx.com/news-releases/news-release-details/fda-approves-kalydecotm-ivacaftor-first-medicine-treat",
+      "note": "2012 FDA 승인과 CFTR 기반 치료의 기초 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,94 @@
+{
+  "ticker": "RBLX",
+  "oneLiner": "이용자가 만든 게임·가상 경험을 유통하고 가상 재화 판매를 중개합니다.",
+  "businessModel": "Roblox는 직접 모든 게임을 만드는 대신 개발자가 경험을 만들도록 도구·유통·결제 인프라를 제공합니다. 이용자가 Robux를 구매하고 사용하면 일부를 개발자에게 지급합니다. 결제 시점과 매출 인식 시점이 달라 bookings와 매출을 분리해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "소모형 가상 재화",
+      "description": "한 번 사용하면 소진되는 가상 재화·기능의 사용 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.roblox.com/"
+    },
+    {
+      "name": "지속형 가상 재화",
+      "description": "일정 기간 사용되는 아이템·권리와 관련한 기간별 매출 인식.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.roblox.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 2004,
+      "event": "Roblox 법인 설립."
+    },
+    {
+      "year": 2006,
+      "event": "Roblox 플랫폼 공개와 서비스 기반 형성."
+    },
+    {
+      "year": 2021,
+      "event": "뉴욕증권거래소 직접 상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "창작자 생태계",
+      "detail": "개발자가 콘텐츠를 공급해 경험의 종류를 넓힙니다."
+    },
+    {
+      "title": "친구 관계",
+      "detail": "친구와 함께 사용하는 구조가 재방문 이유가 됩니다."
+    },
+    {
+      "title": "통합 제작 도구",
+      "detail": "제작·배포·결제 도구를 제공해 개발자가 이용자를 만나는 비용을 낮춥니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "안전·신뢰 비용",
+      "detail": "미성년 이용자 보호와 콘텐츠 심사에 지속 지출이 필요합니다."
+    },
+    {
+      "title": "현금과 회계의 차이",
+      "detail": "선불 결제가 있어도 개발자 지급·인프라·보상 비용을 감당해야 합니다."
+    },
+    {
+      "title": "연령과 콘텐츠 확대",
+      "detail": "고연령 이용자 확보가 기존 경험의 인기를 자동으로 이어주지는 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Epic Games / Fortnite",
+      "ticker": "비상장",
+      "comparison": "창작자 제작 경험과 소셜 게임 시간을 경쟁합니다."
+    },
+    {
+      "name": "Microsoft / Minecraft",
+      "ticker": "MSFT",
+      "comparison": "창작·소셜 놀이 기반이 겹치며 게임 생태계 구조는 다릅니다."
+    }
+  ],
+  "macroLink": "가계의 소액 디지털 소비와 개발자 경제에 연결됩니다. 경기보다 이용 시간·결제율·인프라 단위 비용의 변화를 먼저 읽는 편이 유용합니다.",
+  "monitoring": [
+    "이용자·시간 증가가 결제와 개발자 수입으로 연결되는가?",
+    "안전·인프라 비용이 매출보다 빠르게 늘지 않는가?",
+    "기존 인기 경험 밖으로 창작자와 이용자 기반이 넓어지는가?"
+  ],
+  "sources": [
+    {
+      "title": "Roblox · 공식 IR",
+      "url": "https://ir.roblox.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Roblox · 2023 연차보고서",
+      "url": "https://ir.roblox.com/files/doc_financials/2023/ar/roblox-2024-proxy-and-2023-annual-report.pdf",
+      "note": "법인 설립·상장·가상 재화의 매출 인식 구조."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,106 @@
+{
+  "ticker": "GM",
+  "oneLiner": "북미 자동차 판매의 현금과 금융 사업으로 기술 전환을 추진하는 회사입니다.",
+  "businessModel": "Chevrolet·GMC·Cadillac·Buick 차량을 판매하고 GM Financial이 할부·리스 금융을 제공합니다. 북미 트럭·SUV 수익과 전기차 투자, 중국 사업을 구분해 봅니다. 차량 판매 이익과 대출 이익은 서로 다른 위험을 가집니다.",
+  "revenueStreams": [
+    {
+      "name": "북미 자동차",
+      "description": "미국 등 북미의 차량·부품·관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.gm.com/"
+    },
+    {
+      "name": "해외 자동차",
+      "description": "북미 외 자동차 사업 및 관련 수입; 지분법 투자 손익은 매출과 구분.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.gm.com/"
+    },
+    {
+      "name": "GM Financial",
+      "description": "차량 대출·리스 등 금융 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.gm.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1908,
+      "event": "William Durant가 General Motors 설립."
+    },
+    {
+      "year": 2009,
+      "event": "회생 절차 이후 새 GM 출범."
+    },
+    {
+      "year": 2010,
+      "event": "주식시장 재상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "트럭·SUV 기반",
+      "detail": "북미의 브랜드·딜러·생산 기반이 현금창출을 뒷받침합니다."
+    },
+    {
+      "title": "규모의 조달",
+      "detail": "여러 브랜드·차종에 부품과 기술을 공유할 수 있습니다."
+    },
+    {
+      "title": "금융 접점",
+      "detail": "할부·리스로 판매를 지원하고 고객 관계를 유지합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "경기·북미 의존",
+      "detail": "수익성 높은 차종의 판매가 약해지면 이익이 크게 흔들립니다."
+    },
+    {
+      "title": "전환 비용",
+      "detail": "전기차 설비·개발 지출과 기존 공장 유지비가 겹칩니다."
+    },
+    {
+      "title": "금융·해외 위험",
+      "detail": "연체·잔존가치와 중국 경쟁을 별도로 관리해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Ford Motor",
+      "ticker": "F",
+      "comparison": "북미 픽업·SUV·상용차에서 직접 경쟁합니다."
+    },
+    {
+      "name": "Toyota Motor",
+      "ticker": "TM",
+      "comparison": "품질·하이브리드·글로벌 유통망으로 경쟁합니다."
+    }
+  ],
+  "macroLink": "미국 고용과 신용, 자동차 대출금리가 판매에 전달됩니다. 금속·인건비·관세와 중고차 가격은 제조·금융 마진을 각각 바꿉니다.",
+  "monitoring": [
+    "북미 이익률을 유지하려고 할인과 재고를 늘리고 있지 않은가?",
+    "전기차 판매 확대가 손실 축소로 이어지는가?",
+    "GM Financial 연체와 리스 잔존가치가 안정적인가?"
+  ],
+  "sources": [
+    {
+      "title": "General Motors · 공식 IR",
+      "url": "https://investor.gm.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "GM · 기업 원류",
+      "url": "https://www.gm.com/heritage",
+      "note": "1908년 설립과 기업 계보."
+    },
+    {
+      "title": "GM 투자자 주식 정보·FAQ",
+      "url": "https://investors.gm.com/shareholders/stock-information/",
+      "note": "2009년 새 법인·자산 인수와 2010년 NYSE 재상장 확인. 전신 구주와 현 보통주는 구분."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

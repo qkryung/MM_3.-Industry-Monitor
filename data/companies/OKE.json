@@ -1,0 +1,94 @@
+{
+  "ticker": "OKE",
+  "oneLiner": "천연가스액·원유·가스의 처리·운송·저장",
+  "businessModel": "가스 생산자의 원료를 모아 처리하고 천연가스액을 분리·운송·저장합니다. 원유와 정제품 파이프라인도 운영합니다. 고객은 생산자·정유·화학·수출 업체이며, 물량과 계약 수수료를 기반으로 자산망을 채울수록 효율이 좋아집니다.",
+  "revenueStreams": [
+    {
+      "name": "가스액·가스 서비스",
+      "description": "집하·처리·분리와 NGL 운송·저장",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.oneok.com/"
+    },
+    {
+      "name": "정제품·원유 서비스",
+      "description": "파이프라인 수송·저장·터미널",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.oneok.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1906",
+      "event": "오클라호마 가스 파이프라인 사업으로 출범"
+    },
+    {
+      "year": "2014",
+      "event": "ONE Gas를 분사"
+    },
+    {
+      "year": "2023",
+      "event": "Magellan 인수로 정제품·원유 사업 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "연결된 자산",
+      "detail": "집하·처리·분리·수송을 연결해 고객 편의를 높입니다."
+    },
+    {
+      "title": "제품 다양화",
+      "detail": "가스액 외 정제품·원유 사업이 수익원을 넓힙니다."
+    },
+    {
+      "title": "규모 효율",
+      "detail": "인수 자산의 노선·시설 최적화 여지가 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "통합 부담",
+      "detail": "대형 인수가 재무·운영 통합 위험을 만듭니다."
+    },
+    {
+      "title": "생산량 의존",
+      "detail": "가스·원유 생산자의 활동이 처리 물량을 결정합니다."
+    },
+    {
+      "title": "원자재 노출",
+      "detail": "일부 계약·판매는 고정 수수료만으로 설명되지 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Williams",
+      "ticker": "WMB",
+      "comparison": "WMB는 장거리 천연가스 송전에 더 집중합니다."
+    },
+    {
+      "name": "Kinder Morgan",
+      "ticker": "KMI",
+      "comparison": "KMI와는 지역·제품·계약 구성과 부채를 비교합니다."
+    }
+  ],
+  "macroLink": "셰일 생산량·화학용 NGL 수요·수출과 연결됩니다. 유가 변화보다 자산별 물량과 수수료 회수가 우선입니다.",
+  "monitoring": [
+    "인수 효과를 뺀 기존 사업 물량은 늘고 있는가?",
+    "시너지와 부채 감축이 계획대로 진행되는가?",
+    "원자재 가격에 직접 노출된 이익은 어느 정도인가?"
+  ],
+  "sources": [
+    {
+      "title": "ONEOK · 투자자 자료",
+      "url": "https://ir.oneok.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "ONEOK · 기업 연혁·사업 소개",
+      "url": "https://www.oneok.com/about-us/our-growth-journey",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

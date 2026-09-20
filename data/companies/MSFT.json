@@ -1,0 +1,111 @@
+{
+  "ticker": "MSFT",
+  "oneLiner": "업무용 소프트웨어·클라우드·PC 생태계에 구독과 사용료를 받는 회사.",
+  "businessModel": "Microsoft 365는 사용자 수와 계약 가격에 따라, Azure는 고객의 컴퓨팅·저장·AI 사용량에 따라 수입이 발생합니다. Windows·게임·검색 등도 함께 운영합니다. AI 도입이 매출을 늘릴 수 있지만 데이터센터 투자와 전력·감가상각 비용도 증가하므로 사용 증가와 수익성을 같이 봅니다.",
+  "revenueStreams": [
+    {
+      "name": "생산성·업무 프로세스",
+      "description": "Microsoft 365, Dynamics, LinkedIn 등 업무·협업 서비스.",
+      "share": 42.19,
+      "period": "FY2026 · 2026-06-30 종료",
+      "sourceUrl": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+    },
+    {
+      "name": "지능형 클라우드",
+      "description": "Azure와 서버 제품·기업 서비스 등 클라우드·인프라 사업.",
+      "share": 41.52,
+      "period": "FY2026 · 2026-06-30 종료",
+      "sourceUrl": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+    },
+    {
+      "name": "개인용 컴퓨팅",
+      "description": "Windows, 기기, Xbox·게임, 검색 광고 등.",
+      "share": 16.29,
+      "period": "FY2026 · 2026-06-30 종료",
+      "sourceUrl": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+    }
+  ],
+  "history": [
+    {
+      "year": 1975,
+      "event": "Bill Gates와 Paul Allen이 Microsoft 설립."
+    },
+    {
+      "year": 1986,
+      "event": "기업공개."
+    },
+    {
+      "year": 2010,
+      "event": "Windows Azure가 일반 제공되며 클라우드 플랫폼 확장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "업무 환경의 연결",
+      "detail": "메일·문서·협업·보안·개발 도구가 연결되어 고객 도입과 추가 판매에 유리합니다."
+    },
+    {
+      "title": "기업 고객 기반",
+      "detail": "기존 소프트웨어 계약과 파트너망이 클라우드·AI 도입 통로가 됩니다."
+    },
+    {
+      "title": "여러 수익원",
+      "detail": "사용자 구독, 클라우드 사용료, 운영체제·게임 수입이 서로 다른 수요를 갖습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "AI 투자 선행",
+      "detail": "데이터센터 비용이 먼저 발생하고 고객 유료 사용 증가가 뒤따를 수 있습니다."
+    },
+    {
+      "title": "보안·신뢰 문제",
+      "detail": "광범위한 기업·공공 고객이 사용하는 만큼 장애·침해의 영향이 큽니다."
+    },
+    {
+      "title": "규제와 파트너 관계",
+      "detail": "번들 판매·경쟁 규제와 주요 AI 파트너의 전략 변화가 사업 조건을 바꿀 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "comparison": "AWS가 클라우드 인프라에서 Azure와 경쟁합니다."
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "comparison": "Google Cloud와 업무용 Workspace가 경쟁합니다."
+    }
+  ],
+  "macroLink": "기업 고용은 업무용 좌석 수에, IT 예산은 클라우드 사용에 영향을 줍니다. 금리·전력·건설 비용은 대규모 AI 인프라 투자 채산성에 연결됩니다.",
+  "monitoring": [
+    "Azure 성장에서 AI 사용과 기존 워크로드가 각각 기여하는가?",
+    "Copilot의 유료 채택이 갱신·좌석당 매출 증가로 이어지는가?",
+    "설비투자 증가 이후 감가상각·클라우드 마진·현금흐름은 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Microsoft · 공식 IR",
+      "url": "https://www.microsoft.com/en-us/Investor/",
+      "note": "사업·제품·공시 확인 경로. 아래 비중은 명시된 회계기간의 원문 매출에서 계산했으며 현재 실시간 수치가 아닙니다."
+    },
+    {
+      "title": "Microsoft 공식 연혁",
+      "url": "https://news.microsoft.com/about/",
+      "note": "1975년 설립·1986년 IPO·2010년 Azure 일반 제공 확인."
+    },
+    {
+      "title": "Microsoft 역사 자료",
+      "url": "https://learn.microsoft.com/en-us/shows/history/",
+      "note": "연도별 제품·기업 발전 과정 확인."
+    },
+    {
+      "title": "Microsoft FY2026 실적 발표",
+      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "note": "2026-07-29 발표, 연간 부문 매출 합계 331,839백만 USD. 비중은 각 항목÷표시 항목 합계로 산출하고 소수 둘째 자리 반올림."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

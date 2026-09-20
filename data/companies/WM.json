@@ -1,0 +1,99 @@
+{
+  "ticker": "WM",
+  "oneLiner": "폐기물 수거·매립·재활용·환경 서비스",
+  "businessModel": "가정·사업장·지자체에서 폐기물을 수거해 자사·외부 처리시설로 보내고 매립·재활용·특수 폐기물 서비스를 제공합니다. 고객은 수거·처리 요금을 내며, 자체 매립지와 촘촘한 노선은 처리비·운송비 효율을 만듭니다.",
+  "revenueStreams": [
+    {
+      "name": "수거·매립·이송",
+      "description": "폐기물 수거 계약과 처리시설 이용료",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.wm.com/"
+    },
+    {
+      "name": "재활용·환경 서비스",
+      "description": "재활용·매립가스·의료 폐기물 등 관련 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.wm.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1968",
+      "event": "전신 Waste Management 설립"
+    },
+    {
+      "year": "1998",
+      "event": "USA Waste와 합병"
+    },
+    {
+      "year": "2024",
+      "event": "Stericycle 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "매립지 진입장벽",
+      "detail": "허가·입지 확보가 어려운 처리 자산을 보유합니다."
+    },
+    {
+      "title": "노선 밀도",
+      "detail": "고객이 밀집할수록 수거 단위비용을 낮출 수 있습니다."
+    },
+    {
+      "title": "반복 계약",
+      "detail": "일상적인 폐기물 발생이 반복 수요를 만듭니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "환경 의무",
+      "detail": "매립지 폐쇄·오염·복구 비용은 장기간 남습니다."
+    },
+    {
+      "title": "인수 통합",
+      "detail": "의료 폐기물 등 신규 사업 통합에는 비용이 필요합니다."
+    },
+    {
+      "title": "가격·물량",
+      "detail": "가격 인상과 산업 물량 감소가 동시에 나타날 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Republic Services",
+      "ticker": "RSG",
+      "comparison": "전국 폐기물·환경 사업 경쟁사로 시설·가격·물량을 비교합니다."
+    },
+    {
+      "name": "Waste Connections",
+      "ticker": "WCN",
+      "comparison": "시장 선택·지역 밀도·수거 방식이 달라 단순 규모 비교를 피합니다."
+    }
+  ],
+  "macroLink": "경기 둔화는 산업·건설 폐기물에 영향을 주고 임금·연료·설비비는 요금 인상 필요를 높입니다.",
+  "monitoring": [
+    "요금 인상이 고객 이탈 없이 원가를 상쇄하는가?",
+    "Stericycle 통합과 현금 회수가 계획대로인가?",
+    "재활용·가스 투자 수익을 상품가격 효과와 구분했는가?"
+  ],
+  "sources": [
+    {
+      "title": "Waste Management · 투자자 자료",
+      "url": "https://investors.wm.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Waste Management · 사업 모델·회사 계보 자료",
+      "url": "https://investors.wm.com/static-files/e6ee342a-1cfe-4db9-ba2c-31241f0f8ec6",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Stericycle 인수 완료",
+      "url": "https://investors.wm.com/news-releases/news-release-details/wm-completes-acquisition-stericycle",
+      "note": "2024-11-04 완료"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

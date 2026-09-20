@@ -1,0 +1,104 @@
+{
+  "ticker": "KDP",
+  "oneLiner": "청량음료와 커피를 함께 운영하며 대형 인수·사업 재편을 진행하는 회사입니다.",
+  "businessModel": "Dr Pepper 등 음료를 판매하고 Keurig 커피 기기·캡슐과 커피 브랜드를 운영합니다. 2026년 4월 JDE Peet’s 인수 완료로 커피 사업 범위가 넓어졌습니다. 인수 완료와 이후 독립 회사 분리 계획은 서로 다른 단계입니다.",
+  "revenueStreams": [
+    {
+      "name": "청량음료",
+      "description": "탄산·비탄산 음료 브랜드 및 관련 유통.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.keurigdrpepper.com/"
+    },
+    {
+      "name": "커피",
+      "description": "Keurig 기기·캡슐·커피와 편입된 JDE Peet’s 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.keurigdrpepper.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1885,
+      "event": "Dr Pepper 음료의 원류 탄생."
+    },
+    {
+      "year": 2018,
+      "event": "Keurig Green Mountain과 Dr Pepper Snapple 결합."
+    },
+    {
+      "year": 2026,
+      "event": "JDE Peet’s 인수 완료로 글로벌 커피 사업 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "음료 유통망",
+      "detail": "여러 음료 브랜드를 공급하는 북미 유통 기반이 있습니다."
+    },
+    {
+      "title": "기기·소모품 관계",
+      "detail": "Keurig 설치 기기는 반복적인 캡슐 수요와 연결됩니다."
+    },
+    {
+      "title": "커피 사업 폭",
+      "detail": "인수로 브랜드·채널·지역의 커피 수요를 넓혔습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "거래·부채 부담",
+      "detail": "대형 인수 자금과 통합 비용을 운영 현금으로 감당해야 합니다."
+    },
+    {
+      "title": "가정용 커피 변화",
+      "detail": "기기 설치·캡슐 소비가 성숙하거나 외부 커피 소비로 이동할 수 있습니다."
+    },
+    {
+      "title": "재편 비교 난도",
+      "detail": "분사 계획·인수 연결로 과거 매출·마진 비교 범위가 달라집니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Coca-Cola",
+      "ticker": "KO",
+      "comparison": "북미 청량음료·유통에서 직접 경쟁합니다."
+    },
+    {
+      "name": "Nestlé",
+      "ticker": "NESN.SW",
+      "comparison": "커피 브랜드·가정용 시스템과 글로벌 유통을 경쟁합니다."
+    }
+  ],
+  "macroLink": "커피 원두·알루미늄·설탕·가계 소비와 금리가 연결됩니다. 특히 이번 인수의 차입비용과 커피 물가 전가를 기존 음료 수요와 분리합니다.",
+  "monitoring": [
+    "JDE 편입을 제외한 기존 음료·커피 수요는 어떤가?",
+    "커피 원가 상승을 물량 손실 없이 전가하는가?",
+    "인수 통합·부채 축소·후속 분사 일정이 각각 어떤 단계인가?"
+  ],
+  "sources": [
+    {
+      "title": "Keurig Dr Pepper · 공식 IR",
+      "url": "https://investors.keurigdrpepper.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "KDP · 2018 결합 발표",
+      "url": "https://www.keurigdrpepper.com/dr-pepper-snapple-and-keurig-green-mountain-to-merge-creating-a-challenger-in-the-beverage-industry-with-a-world-class-portfolio-of-iconic-brands-and-an-unrivaled-nationwide-distribution-capability/",
+      "note": "현재 회사의 결합 원류 설명."
+    },
+    {
+      "title": "KDP · JDE Peet’s 인수 완료",
+      "url": "https://www.keurigdrpepper.com/keurig-dr-pepper-acquires-jde-peets-and-announces-rafael-oliveira-as-ceo-of-future-global-coffee-co/",
+      "note": "2026-04-01 완료 발표. 후속 회사 분리는 별도 미래 단계."
+    },
+    {
+      "title": "Dr Pepper 140주년 공식 기사",
+      "url": "https://www.keurigdrpepper.com/140-years-of-flavor-dr-peppers-legacy-of-innovation/",
+      "note": "1885년 브랜드 시작과 현 KDP 법인 형성을 구분."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,101 @@
+{
+  "ticker": "THC",
+  "oneLiner": "병원과 USPI 외래 수술센터를 운영하고 의료비 청구·수납 서비스도 제공합니다.",
+  "businessModel": "Tenet은 병원 진료와 USPI의 외래 수술, Conifer의 청구·수납 관리 서비스를 운영합니다. 외래 수술센터는 의사·의료기관과 공동 소유하는 경우가 있어 연결 영업이익 전부가 보통주주에게 귀속되지 않습니다. 병원 매각과 수술센터 취득으로 사업 비중이 변하므로 같은 시설의 성장과 매각 차익을 분리합니다.",
+  "revenueStreams": [
+    {
+      "name": "병원 운영",
+      "description": "병원 입원·외래·응급 진료의 순수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tenethealth.com/home/default.aspx"
+    },
+    {
+      "name": "USPI 외래 수술",
+      "description": "외래 수술·관련 시설의 진료 수입입니다. 비지배 지분에 귀속되는 이익을 함께 확인합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tenethealth.com/home/default.aspx"
+    },
+    {
+      "name": "Conifer",
+      "description": "병원 등의 청구·수납·관련 관리 서비스 수입입니다. 그룹 내부거래는 연결에서 제거합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tenethealth.com/home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1969",
+      "event": "전신 National Medical Enterprises가 기업공개를 통해 초기 병원 기반을 확대했습니다."
+    },
+    {
+      "year": "1995",
+      "event": "American Medical International 인수 후 Tenet Healthcare로 이름을 변경했습니다."
+    },
+    {
+      "year": "2015",
+      "event": "USPI와 사업을 결합해 외래 수술 플랫폼을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "외래 수술 기반",
+      "detail": "입원보다 짧은 체류로 가능한 시술의 외래 전환에 참여합니다."
+    },
+    {
+      "title": "의사 파트너십",
+      "detail": "수술센터 공동 소유·운영 관계가 전문 시술 수요를 연결합니다."
+    },
+    {
+      "title": "수납 역량",
+      "detail": "Conifer가 청구·회수 업무와 외부 고객 서비스를 제공합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "공동소유 해석",
+      "detail": "연결 실적 성장과 주주 귀속 이익 성장 사이에 차이가 있을 수 있습니다."
+    },
+    {
+      "title": "사업 재편",
+      "detail": "병원 처분 수익은 반복 수입이 아니고 남은 사업의 비교 기준을 바꿉니다."
+    },
+    {
+      "title": "보험·인력",
+      "detail": "보험 지급 압박과 의료 인력 비용이 병원·수술센터 모두에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "HCA Healthcare",
+      "ticker": "HCA",
+      "comparison": "더 큰 병원망과 외래시설을 운영하는 경쟁사입니다."
+    },
+    {
+      "name": "Surgery Partners",
+      "ticker": "SGRY",
+      "comparison": "외래 수술 중심의 직접 비교대상입니다."
+    }
+  ],
+  "macroLink": "보험의 비용 절감 유인은 외래 시술 전환을 돕지만 지급 단가를 압박하기도 합니다. 고용·보험 가입·인력 임금·금리는 수요와 비용에 연결됩니다.",
+  "monitoring": [
+    "USPI 동일시설 수술량·시술 구성·건당 수입이 함께 개선되는가?",
+    "비지배 지분을 뺀 주주 귀속 현금흐름이 증가하는가?",
+    "자산 매각 대금이 부채 축소·재투자로 어떻게 배분되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Tenet Healthcare · 투자자 자료",
+      "url": "https://investor.tenethealth.com/home/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Tenet Healthcare · 연혁·기업 자료",
+      "url": "https://www.tenethealth.com/about/our-history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,106 @@
+{
+  "ticker": "BX",
+  "oneLiner": "부동산·사모주식·신용 등에 고객 자금을 투자하는 대체자산 운용사입니다.",
+  "businessModel": "기관·개인 고객의 펀드를 운용하며 약정·운용자산 등에 기초한 관리보수와 성과보수를 받습니다. 직접 소유한 펀드 지분의 투자손익도 있습니다. 펀드가 보유한 빌딩이나 기업의 매출 전체가 Blackstone의 매출은 아닙니다. 반복 관리보수의 성장과 자산을 팔아 성과를 현금화하는 속도를 따로 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "관리·자문보수",
+      "description": "부동산·사모주식·신용 등 펀드 관리와 자문 대가",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.blackstone.com/overview/default.aspx"
+    },
+    {
+      "name": "성과배분·성과보수",
+      "description": "펀드 성과 조건에 따라 귀속되는 수익; 미실현·실현 구분 필요",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.blackstone.com/overview/default.aspx"
+    },
+    {
+      "name": "자기자본 투자수익",
+      "description": "회사 보유 펀드 지분 등 투자에서 발생하는 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.blackstone.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1985",
+      "event": "Stephen Schwarzman과 Peter Peterson이 설립했습니다."
+    },
+    {
+      "year": "2007",
+      "event": "공개 상장 파트너십으로 상장했습니다."
+    },
+    {
+      "year": "2019",
+      "event": "일반 주식회사 형태로 전환했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "사모시장 운용 규모",
+      "detail": "투자 발굴·자금 모집·운영 지원을 여러 전략에 활용합니다."
+    },
+    {
+      "title": "장기 펀드자본",
+      "detail": "일부 자금은 장기간 약정되어 단기 시장가격에 따른 즉시 유출이 제한됩니다."
+    },
+    {
+      "title": "다양한 자금 모집 경로",
+      "detail": "기관 외 개인·보험 등 고객 경로로 보수 기반을 넓힐 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "회수시장 의존",
+      "detail": "매각·상장시장이 닫히면 실현 성과보수와 고객 분배가 늦어집니다."
+    },
+    {
+      "title": "부동산·신용 사이클",
+      "detail": "공실·차환·차입기업 부실이 펀드 성과와 모집에 영향을 줍니다."
+    },
+    {
+      "title": "환매·평가 시차",
+      "detail": "일부 개인용 상품의 유동성 약속과 비상장 자산 평가를 이해해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "KKR",
+      "ticker": "KKR",
+      "comparison": "사모자산 운용은 겹치지만 KKR는 직접 보험사업과 전략적 보유사업이 차별점입니다."
+    },
+    {
+      "name": "Apollo Global Management",
+      "ticker": "APO",
+      "comparison": "대체운용 경쟁자이며 Apollo는 보험·신용 연계의 비중과 모델이 다릅니다."
+    }
+  ],
+  "macroLink": "높은 금리는 신규 신용투자 수익률을 높이는 동시에 차입기업·부동산의 부담과 회수 난도를 높입니다. 금리만으로 전체 운용사 이익 방향을 정할 수 없습니다.",
+  "monitoring": [
+    "보수 부과 자산은 신규 모집·투자 집행·회수 중 무엇에 의해 변하는가?",
+    "실현 성과보수와 미실현 평가이익을 분리하면 현금 창출은 어떤가?",
+    "기존 펀드의 분배가 다음 펀드 모집을 지지하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Blackstone · 투자자 자료",
+      "url": "https://ir.blackstone.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Blackstone · 연혁·기업 자료",
+      "url": "https://ir.blackstone.com/files/doc_financials/annual_reports/BX_07AR_online.pdf",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Blackstone · 주식회사 전환",
+      "url": "https://www.blackstone.com/news/press/blackstone-completes-conversion-to-a-corporation/",
+      "note": "2019년 전환 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

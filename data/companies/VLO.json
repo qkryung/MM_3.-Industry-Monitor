@@ -1,0 +1,94 @@
+{
+  "ticker": "VLO",
+  "oneLiner": "정유·재생디젤·에탄올 생산",
+  "businessModel": "원유를 정제해 연료 도매업체·항공사·산업 고객에게 판매하고 재생디젤·에탄올도 생산합니다. 복잡한 정유 공정은 다양한 원료를 처리하는 데 도움이 되지만 유가 방향보다 제품 가격과 원가의 차이가 이익을 결정합니다.",
+  "revenueStreams": [
+    {
+      "name": "정유",
+      "description": "휘발유·경유·항공유 등 석유 연료 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investorvalero.com/"
+    },
+    {
+      "name": "재생디젤·에탄올",
+      "description": "바이오 원료를 이용한 연료와 관련 제품 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investorvalero.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1980",
+      "event": "가스 사업 분사로 Valero 설립"
+    },
+    {
+      "year": "1984",
+      "event": "Corpus Christi 정유시설 가동"
+    },
+    {
+      "year": "2005",
+      "event": "Premcor 인수로 정유 자산 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "공정 유연성",
+      "detail": "정유소별 원유 선택과 제품 조합을 조정할 수 있습니다."
+    },
+    {
+      "title": "연료 생산 기반",
+      "detail": "걸프 연안 자산과 수출 접근성이 사업을 지원합니다."
+    },
+    {
+      "title": "제품 다변화",
+      "detail": "재생디젤·에탄올은 석유 정유와 다른 수요·정책에 연결됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "정제마진",
+      "detail": "정제품 공급 증가가 가격차를 압박합니다."
+    },
+    {
+      "title": "정책 의존",
+      "detail": "재생연료 수익은 크레딧·규제·원료 가격에 민감합니다."
+    },
+    {
+      "title": "지역 비용",
+      "detail": "캘리포니아 등 지역별 환경·운영 비용을 분리해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Marathon Petroleum",
+      "ticker": "MPC",
+      "comparison": "MPC는 MPLX 미드스트림 기여를 따로 조정해 비교합니다."
+    },
+    {
+      "name": "Phillips 66",
+      "ticker": "PSX",
+      "comparison": "PSX는 화학·수송 사업이 더해져 단일 정유 배수 비교가 어렵습니다."
+    }
+  ],
+  "macroLink": "휘발유·경유 소비와 재고, 원유 종류별 할인, 바이오연료 정책이 각각 다른 경로로 작용합니다.",
+  "monitoring": [
+    "제품별 마진이 수요 개선인지 경쟁 설비 중단 덕분인지?",
+    "재생디젤 이익에서 정책 크레딧 의존도는 어떤가?",
+    "시설 보수·폐쇄가 물량과 유지비에 어떤 영향을 주는가?"
+  ],
+  "sources": [
+    {
+      "title": "Valero Energy · 투자자 자료",
+      "url": "https://investorvalero.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Valero Energy · 기업 연혁·사업 소개",
+      "url": "https://www.valero.com/about/our-history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

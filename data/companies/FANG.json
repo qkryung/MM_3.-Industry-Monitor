@@ -1,0 +1,99 @@
+{
+  "ticker": "FANG",
+  "oneLiner": "퍼미안 분지 중심 원유·가스 개발",
+  "businessModel": "서부 텍사스 퍼미안 분지에서 원유·가스·천연가스액을 생산합니다. 인접 광구를 묶어 긴 수평유정·공유 시설로 개발하고 생산물을 판매합니다. 같은 분지 안에서도 암석·층·운송 조건이 달라 생산량보다 투자 대비 현금 회수가 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "원유 판매",
+      "description": "퍼미안 생산 원유를 정유·유통 고객에게 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.diamondbackenergy.com/"
+    },
+    {
+      "name": "가스·천연가스액",
+      "description": "동반 생산된 가스와 액체 제품 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.diamondbackenergy.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2011",
+      "event": "현 상장 법인 설립"
+    },
+    {
+      "year": "2012",
+      "event": "NASDAQ 기업공개"
+    },
+    {
+      "year": "2024",
+      "event": "Endeavor 합병 완료"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "밀집 광구",
+      "detail": "인접 자산 통합으로 개발·물류 효율을 높일 여지가 있습니다."
+    },
+    {
+      "title": "퍼미안 경험",
+      "detail": "분지에 특화된 운영·지질 데이터가 축적됩니다."
+    },
+    {
+      "title": "규모 확대",
+      "detail": "통합 구매·시설 활용에서 단위비 절감 기회를 얻습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "지역 집중",
+      "detail": "퍼미안 규제·전력·물·가스 병목이 동시에 영향을 줍니다."
+    },
+    {
+      "title": "인수 집행",
+      "detail": "인수 가격과 추가 부채를 생산성 개선으로 회수해야 합니다."
+    },
+    {
+      "title": "유정 감소",
+      "detail": "높은 초기 생산 이후 재투자가 계속 필요합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "EOG Resources",
+      "ticker": "EOG",
+      "comparison": "EOG는 다른 분지·가스 자산도 있어 지역 집중도가 다릅니다."
+    },
+    {
+      "name": "Occidental",
+      "ticker": "OXY",
+      "comparison": "OXY는 퍼미안 외 해외·탄소관리·자본구조를 별도로 봅니다."
+    }
+  ],
+  "macroLink": "유가·유전 서비스 비용·퍼미안 가스 수송 여건이 중요하며 생산량 증가가 가스 처분 비용을 동반할 수 있습니다.",
+  "monitoring": [
+    "Endeavor 통합의 단위비 절감이 실제로 나타나는가?",
+    "유정당 성과를 시추 길이·암석 품질을 맞춰 비교했는가?",
+    "퍼미안 가스 병목과 물 처리 비용은 관리되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Diamondback Energy · 투자자 자료",
+      "url": "https://ir.diamondbackenergy.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Diamondback Energy · 초기 10-K·법인 및 상장 연혁",
+      "url": "https://ir.diamondbackenergy.com/node/8311/html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Diamondback · Endeavor 통합 완료",
+      "url": "https://www.diamondbackenergy.com/news-releases/news-release-details/diamondback-energy-inc-closes-merger-endeavor-energy-resources",
+      "note": "2024년 거래 완료 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

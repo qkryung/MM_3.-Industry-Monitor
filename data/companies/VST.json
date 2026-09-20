@@ -1,0 +1,104 @@
+{
+  "ticker": "VST",
+  "oneLiner": "가스·원자력 등 발전과 소매 전력 통합",
+  "businessModel": "Luminant 발전소에서 전력을 생산하고 TXU Energy 등 소매 브랜드로 가정·기업에 판매합니다. 발전과 소매를 함께 보유하면 전력가격 상승의 일부를 내부적으로 상쇄할 수 있지만 물량·지역·시간이 정확히 맞지는 않습니다. 원전·가스·석탄·저장 자산과 헤지 계약의 조합으로 현금을 만드는 사업입니다.",
+  "revenueStreams": [
+    {
+      "name": "발전·도매",
+      "description": "발전 전력·용량 판매와 관련 시장 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.vistracorp.com/"
+    },
+    {
+      "name": "소매 에너지",
+      "description": "TXU Energy 등 브랜드의 고객 계약과 전력 공급",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.vistracorp.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2016",
+      "event": "전신 사업의 회생 절차 종료 후 독립 Vistra 출범"
+    },
+    {
+      "year": "2018",
+      "event": "Dynegy와 합병해 발전·시장 범위 확대"
+    },
+    {
+      "year": "2024",
+      "event": "Energy Harbor 인수로 원전·소매 사업 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "수직 결합",
+      "detail": "발전 물량과 소매 수요를 함께 관리하는 구조입니다."
+    },
+    {
+      "title": "발전 분산",
+      "detail": "여러 연료·지역의 발전소가 일부 운전 위험을 분산합니다."
+    },
+    {
+      "title": "소매 브랜드",
+      "detail": "고객 유지·상품 설계 경험이 고객 확보 비용을 관리하는 기반입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "극단 날씨",
+      "detail": "수요 급증 때 발전이 멈추면 비싼 전력 구매 부담이 생깁니다."
+    },
+    {
+      "title": "안전·복구",
+      "detail": "발전소·배터리 사고는 운영 중단과 복구 책임을 만듭니다."
+    },
+    {
+      "title": "환경·헤지",
+      "detail": "석탄 규제와 헤지 담보·만기 변화가 현금에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Constellation Energy",
+      "ticker": "CEG",
+      "comparison": "CEG와 원전·발전·소매가 겹치지만 지역·고객 계약 구성이 다릅니다."
+    },
+    {
+      "name": "NRG Energy",
+      "ticker": "NRG",
+      "comparison": "NRG는 Vivint 스마트홈과 수요 반응 사업이 차별화 요소입니다."
+    }
+  ],
+  "macroLink": "텍사스·미국 전력 수요와 가스 가격이 발전 마진을 움직이며, 헤지 만기에 따라 실적 반영이 분산됩니다.",
+  "monitoring": [
+    "발전 가동률과 헤지 물량이 소매 고객 수요를 맞추는가?",
+    "원전·가스 사업의 현금 증가가 정비·환경·안전 지출을 상쇄하는가?",
+    "소매 고객 이탈과 확보 비용이 전력 판매 마진을 잠식하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Vistra · 투자자 자료",
+      "url": "https://investor.vistracorp.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Vistra · 기업 연혁·사업 소개",
+      "url": "https://investor.vistracorp.com/download/Vistra_2016-Annual-Report-Final.pdf",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Vistra · Dynegy 합병 완료",
+      "url": "https://hub.vistracorp.com/wp-content/uploads/2018/04/Vistra-Dynegy-Merger-Close-News-Release-4-9-18-FINAL.pdf",
+      "note": "2018년 합병 연혁"
+    },
+    {
+      "title": "Vistra · Energy Harbor 인수 완료",
+      "url": "https://investor.vistracorp.com/2024-03-01-Vistra-Completes-Energy-Harbor-Acquisition",
+      "note": "2024년 원전·소매 사업 확대"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

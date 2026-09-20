@@ -1,0 +1,441 @@
+{
+  "id": "industrials",
+  "name": "산업재",
+  "en": "Industrials",
+  "code": "20",
+  "color": "#78909c",
+  "summary": "공장·인프라·운송을 움직이는 장비와 서비스를 제공하는 실물경제의 실행 부문입니다.",
+  "concept": "산업재는 기업과 정부가 투자하고 물건을 이동시키는 과정에서 수익을 얻습니다. 장비 제조사는 신규 투자와 교체 수요, 운송사는 물동량과 운임, 방산은 국방 예산과 계약, 서비스는 반복 고객과 운영 효율을 봅니다. 수주가 먼저 움직이고 매출·이익·현금이 뒤따르는 사업이 많아서 실적 숫자만 보면 사이클 전환을 늦게 알아챌 수 있습니다.",
+  "drivers": [
+    "제조업·건설·기업 설비투자와 정부 인프라·국방 예산",
+    "신규 수주·수주잔고가 매출로 전환되는 속도",
+    "가격 인상력과 인건비·원재료·운송비의 균형"
+  ],
+  "watch": [
+    "월별 제조업 신규 주문·산업생산·철도 물동량 확인",
+    "분기별 수주잔고의 취소·납기 지연·고객 구성을 점검",
+    "매출 성장 대비 영업현금과 재고·매출채권을 비교"
+  ],
+  "risks": [
+    "경기 침체 시 고객 투자 연기와 물동량 감소",
+    "고정가격 계약의 비용 초과와 공급망 병목",
+    "인건비·노사 문제·품질 사고로 생산 및 서비스 차질"
+  ],
+  "valueChain": [
+    "고객 투자·발주",
+    "장비·부품 제작",
+    "설치·운송",
+    "유지보수·서비스"
+  ],
+  "macro": {
+    "growth": "경기 개선은 장비 수주와 물동량에 대체로 우호적입니다. 국방·폐기물처럼 다른 수요 동인을 가진 분야도 있습니다.",
+    "rates": "높은 금리는 고객의 장비 구매·건설 투자와 기업 인수 자금 조달에 부담을 줍니다.",
+    "inflation": "판매가격을 올리기 전에 자재·인건비가 상승하면 이익률이 낮아집니다. 계약의 비용 전가 조항을 봅니다.",
+    "dollar": "달러 강세는 해외 매출 환산과 수출 가격 경쟁력에 부담이 될 수 있습니다. 현지 생산·조달은 일부 완충합니다."
+  },
+  "valuation": "중간 경기 수준의 PER·EV/EBITDA와 ROIC, FCF 전환율을 함께 봅니다. 반복 서비스 매출과 장기 수주가 많아도 계약 품질·운전자본 부담을 확인합니다.",
+  "pitfall": "큰 수주잔고를 곧바로 큰 이익으로 해석하지 않습니다. 취소·납기·원가 조건 때문에 매출과 현금이 예상보다 늦거나 적게 실현될 수 있습니다.",
+  "related": [
+    "materials",
+    "energy",
+    "technology",
+    "utilities",
+    "consumer-discretionary"
+  ],
+  "sources": [
+    {
+      "title": "Caterpillar · 기업 개요",
+      "url": "https://investors.caterpillar.com/overview/",
+      "note": "건설·자원·동력 관련 사업 구조 · 확인 2026-09-20"
+    },
+    {
+      "title": "Eaton · 투자자 정보",
+      "url": "https://www.eaton.com/us/en-us/company/investor-relations.html",
+      "note": "전력관리·항공우주 등 사업 구조와 ETN 정보 · 확인 2026-09-20"
+    },
+    {
+      "title": "AAR · 철도 산업 경제지표",
+      "url": "https://www.aar.org/rail-industry-overview/",
+      "note": "철도 물동량을 제조업·실물 경기와 연결하는 학습 자료 · 확인 2026-09-20"
+    },
+    {
+      "title": "RTX · 투자자 정보",
+      "url": "https://investors.rtx.com/",
+      "note": "민간 항공과 방산 사업 공시 · 확인 2026-09-20"
+    },
+    {
+      "title": "FedEx · Freight 분사 완료",
+      "url": "https://investor.fedex.com/news-and-events/investor-news/investor-news-details/2026/FedEx-Completes-Spin-Off-of-FedEx-Freight/default.aspx",
+      "note": "2026-06-01 FDXF 분사 및 FDX 상장 유지 확인 · 확인 2026-09-20"
+    },
+    {
+      "title": "WM · 투자자 정보",
+      "url": "https://investors.wm.com/",
+      "note": "폐기물 서비스 사업 공시 · 확인 2026-09-20"
+    }
+  ],
+  "industries": [
+    {
+      "id": "industrials-machinery",
+      "name": "기계·중장비",
+      "en": "Machinery & Heavy Equipment",
+      "summary": "건설·광산·농업·발전에 사용하는 장비와 부품을 판매합니다.",
+      "mechanics": "새 장비 판매가 초기 매출을 만들고, 설치된 장비가 늘수록 부품·정비 수요가 생깁니다. 딜러가 사가는 물량과 최종 고객이 쓰는 장비 수요는 다를 수 있습니다. 장비 금융을 제공하는 경우 판매 이익 외에 신용·잔존가치 위험도 함께 생깁니다.",
+      "watch": [
+        "건설·광산·농업 등 고객별 투자 사이클",
+        "딜러 재고와 실제 소매 판매의 차이",
+        "부품·서비스·금융 사업의 이익 기여"
+      ],
+      "kpis": [
+        {
+          "name": "소매 판매량",
+          "meaning": "딜러가 최종 고객에게 판매한 장비",
+          "read": "제조사 출하 증가가 재고 축적인지 실제 수요인지 구분합니다."
+        },
+        {
+          "name": "수주잔고",
+          "meaning": "아직 매출로 인식하지 않은 주문",
+          "read": "납기 정상화로 잔고가 줄어드는 경우와 수요 약화를 구분합니다."
+        },
+        {
+          "name": "재고 회전일수",
+          "meaning": "재고가 매출로 바뀌는 데 걸리는 기간",
+          "read": "매출 둔화와 동시에 늘면 할인·생산 조정 가능성을 봅니다."
+        }
+      ],
+      "risks": [
+        "고객 투자와 농가·광산 수익 악화",
+        "재고 조정·장비 금융 연체·중고 가격 하락"
+      ],
+      "valuation": "사이클 중간 이익의 PER·EV/EBITDA를 활용하고 제조업 부채와 금융 자회사 부채를 구분합니다.",
+      "questions": [
+        "장비 수요는 교체 수요인가, 호황기의 신규 확장 수요인가?",
+        "출하보다 소매 판매가 느린데 딜러 재고가 쌓이고 있지는 않은가?"
+      ],
+      "companies": [
+        {
+          "ticker": "CAT",
+          "name": "Caterpillar",
+          "exchange": "NYSE",
+          "business": "건설·광산 장비와 엔진·동력 시스템",
+          "watch": "최종 장비 수요와 딜러 재고",
+          "ir": "https://investors.caterpillar.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "DE",
+          "name": "Deere & Company",
+          "exchange": "NYSE",
+          "business": "농기계·정밀농업 기술과 건설 장비",
+          "watch": "농가 소득·중고 장비 가격·딜러 재고",
+          "ir": "https://investor.deere.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CMI",
+          "name": "Cummins",
+          "exchange": "NYSE",
+          "business": "엔진·발전 시스템·관련 부품과 서비스",
+          "watch": "트럭 생산과 발전 수요의 차이",
+          "ir": "https://investor.cummins.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "URI",
+          "name": "United Rentals",
+          "business": "건설·산업 장비 임대와 특수 솔루션",
+          "watch": "임대단가·장비 가동·중고 매각",
+          "ir": "https://investors.unitedrentals.com/",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "industrials-aerospace",
+      "name": "항공우주·방산",
+      "en": "Aerospace & Defense",
+      "summary": "항공기·엔진·군사 시스템을 만들고 오랜 기간 유지보수 서비스를 제공합니다.",
+      "mechanics": "민간 항공은 항공기 생산과 비행시간, 방산은 정부 예산과 다년 계약에서 매출이 발생합니다. 엔진·부품은 판매 이후 정비가 반복될 수 있습니다. 장기 고정가격 개발 계약은 수주가 커도 원가 초과가 발생하면 손실이 날 수 있어 계약 조건이 중요합니다.",
+      "watch": [
+        "민간 항공 생산 속도와 애프터마켓 수요",
+        "국방 예산이 실제 계약·인도로 이어지는 시점",
+        "고정가격 프로젝트 손실과 품질 비용"
+      ],
+      "kpis": [
+        {
+          "name": "수주잔고·수주/매출",
+          "meaning": "미래 인도할 계약 규모와 신규 계약 보충률",
+          "read": "예산이 확정된 계약인지와 취소 조건을 확인합니다."
+        },
+        {
+          "name": "애프터마켓 성장",
+          "meaning": "기존 항공기의 부품·정비 매출 증가율",
+          "read": "비행시간 회복과 가격 인상 효과를 분리합니다."
+        },
+        {
+          "name": "현금 전환율",
+          "meaning": "이익 대비 실제 창출한 영업현금 비율",
+          "read": "선수금·납품 일정 때문에 분기 변동이 클 수 있습니다."
+        }
+      ],
+      "risks": [
+        "프로그램 지연·품질 문제와 비용 초과",
+        "수출 규제·예산 집행 지연·고객 집중"
+      ],
+      "valuation": "민항·방산·정비의 이익을 구분하고 정상 현금흐름과 수주 품질을 평가합니다. 회계상 장기 계약 이익 추정 변경을 점검합니다.",
+      "questions": [
+        "증가한 예산이 어느 제품의 계약과 현금으로 연결되는가?",
+        "이번 이익 조정은 일회성인가, 남은 계약의 원가 가정도 바꾸는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "RTX",
+          "name": "RTX",
+          "exchange": "NYSE",
+          "business": "Pratt & Whitney·Collins Aerospace·Raytheon을 통한 민항·방산",
+          "watch": "엔진 정비·품질 비용과 방산 인도",
+          "ir": "https://investors.rtx.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LMT",
+          "name": "Lockheed Martin",
+          "exchange": "NYSE",
+          "business": "전투기·미사일·우주·방산 시스템",
+          "watch": "주요 프로그램 납품과 계약 수익성",
+          "ir": "https://investors.lockheedmartin.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NOC",
+          "name": "Northrop Grumman",
+          "exchange": "NYSE",
+          "business": "항공·우주·방위 시스템",
+          "watch": "장기 개발 프로그램 원가와 현금 회수",
+          "ir": "https://investor.northropgrumman.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "GE",
+          "name": "GE Aerospace",
+          "business": "민간·군용 항공엔진과 정비 서비스",
+          "watch": "비행시간·정비 인도·엔진 생산",
+          "ir": "https://www.geaerospace.com/investor-relations",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "industrials-electrical",
+      "name": "전력장비·자동화",
+      "en": "Electrical Equipment & Automation",
+      "summary": "전기를 안전하게 쓰고 공장을 효율적으로 운영하도록 장비·제어 시스템을 공급합니다.",
+      "mechanics": "배전·전력관리 장비, 모션·제어 부품, 공장 자동화 시스템을 판매합니다. 전력망·데이터센터·제조업 투자와 연결되며 설치 기반이 늘면 교체·서비스 기회가 생깁니다. 수주 확대가 증설·인력·납기 부담을 동반하므로 수주 숫자와 이익률을 함께 읽어야 합니다.",
+      "watch": [
+        "데이터센터·전력망·일반 제조업의 수요 차이",
+        "수주 성장과 납기·생산능력 확대",
+        "소프트웨어·서비스 반복 매출과 고객 투자 예산"
+      ],
+      "kpis": [
+        {
+          "name": "유기적 매출 성장",
+          "meaning": "인수·환율을 제외한 사업 자체 성장률",
+          "read": "가격과 물량을 구분해 실제 수요를 확인합니다."
+        },
+        {
+          "name": "수주·수주잔고",
+          "meaning": "새 주문과 아직 인도하지 않은 주문",
+          "read": "같은 수주가 여러 공급사에 중복 발주됐는지 점검합니다."
+        },
+        {
+          "name": "증분 이익률",
+          "meaning": "매출 증가분 중 영업이익으로 남는 비율",
+          "read": "증설 비용을 흡수하며 규모의 효과가 나타나는지 봅니다."
+        }
+      ],
+      "risks": [
+        "고객 투자 계획 취소와 중복 주문 정상화",
+        "부품 부족·급격한 증설로 납기 및 품질 악화"
+      ],
+      "valuation": "성장률뿐 아니라 정상 영업이익률·ROIC·현금 전환을 함께 비교합니다. 미래 수요가 이미 높은 배수에 반영됐는지도 확인합니다.",
+      "questions": [
+        "현재 수주 증가의 최종 고객과 실제 착공·가동 일정이 확인되는가?",
+        "매출 성장을 위해 필요한 증설이 자본 수익률을 낮추지는 않는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "ETN",
+          "name": "Eaton",
+          "exchange": "NYSE",
+          "business": "전력관리·배전 장비와 항공우주 등 사업",
+          "watch": "전력 부문 수주·납기·생산 확대",
+          "ir": "https://www.eaton.com/us/en-us/company/investor-relations.html",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PH",
+          "name": "Parker-Hannifin",
+          "exchange": "NYSE",
+          "business": "산업·항공우주용 모션·제어 시스템",
+          "watch": "산업 주문과 항공우주 서비스 수요",
+          "ir": "https://investors.parker.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ROK",
+          "name": "Rockwell Automation",
+          "exchange": "NYSE",
+          "business": "공장 제어·자동화 하드웨어와 소프트웨어",
+          "watch": "고객 자동화 투자와 유통 재고",
+          "ir": "https://www.rockwellautomation.com/en-us/investors.html",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "GEV",
+          "name": "GE Vernova",
+          "business": "발전 터빈·전력망 장비·풍력 및 서비스",
+          "watch": "전력장비 수주·서비스·풍력 수익성",
+          "ir": "https://www.gevernova.com/investors",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "industrials-transport",
+      "name": "철도·물류",
+      "en": "Railroads & Logistics",
+      "summary": "상품을 이동시키고 공급망을 운영하며 물동량·가격·네트워크 효율로 수익을 만듭니다.",
+      "mechanics": "철도는 긴 거리의 대량 화물에, 택배·특송은 시간과 배송 밀도에 강점이 있습니다. 매출은 물량과 단가가 만들고 연료·인건비·설비 비용이 차감됩니다. 네트워크 고정비가 커 물량 변동의 이익 영향이 크며 물량을 늘리는 것보다 수익성 좋은 화물을 선별하는 전략도 중요합니다.",
+      "watch": [
+        "철도 품목별 물동량과 국제·국내 택배 물량",
+        "운임·할증료와 고객 믹스",
+        "노무비·연료비·배송 밀도·서비스 품질"
+      ],
+      "kpis": [
+        {
+          "name": "물동량·일평균 소포",
+          "meaning": "운송한 화물·택배의 실제 양",
+          "read": "전자상거래·제조업·원자재별 수요를 나눠 봅니다."
+        },
+        {
+          "name": "수익/단위",
+          "meaning": "화물 또는 소포 한 건당 평균 매출",
+          "read": "단가 인상과 무거운 화물·고가 서비스 비중 변화를 구분합니다."
+        },
+        {
+          "name": "영업비율",
+          "meaning": "매출 대비 영업비용 비율",
+          "read": "낮을수록 효율적이지만 서비스 저하를 동반한 비용 절감인지 확인합니다."
+        }
+      ],
+      "risks": [
+        "경기 둔화와 저가 경쟁·고객 이탈",
+        "노사 분쟁·사고·기상 악화로 네트워크 중단"
+      ],
+      "valuation": "경기 중간 이익과 유지 투자 후 FCF를 봅니다. 리스·연금·부채를 함께 확인하고 분사 전후 실적 범위를 맞춥니다.",
+      "questions": [
+        "평균 단가 상승이 가격 협상력 때문인가, 저가 물량 이탈 때문인가?",
+        "효율 개선 후에도 배송·운송 서비스 품질이 유지되는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "UNP",
+          "name": "Union Pacific",
+          "exchange": "NYSE",
+          "business": "미국 서부를 중심으로 화물을 운송하는 철도망",
+          "watch": "품목별 물동량과 네트워크 효율",
+          "ir": "https://investor.unionpacific.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "UPS",
+          "name": "United Parcel Service",
+          "exchange": "NYSE",
+          "business": "택배·국제 운송·공급망 솔루션",
+          "watch": "일평균 배송량·단가·노무비",
+          "ir": "https://investors.ups.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "FDX",
+          "name": "FedEx",
+          "exchange": "NYSE",
+          "business": "특송·소포 중심의 글로벌 운송 네트워크",
+          "watch": "2026-06-01 Freight 분사 후 실적 비교 범위와 비용 효율",
+          "ir": "https://investor.fedex.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "industrials-services",
+      "name": "환경·기업 서비스",
+      "en": "Environmental & Commercial Services",
+      "summary": "폐기물 처리·유니폼·시설 관리처럼 기업과 지역사회가 반복적으로 필요로 하는 서비스입니다.",
+      "mechanics": "수거·처리·세탁·방문 서비스를 계약으로 제공해 반복 매출을 만듭니다. 고객 밀도가 높으면 같은 노선으로 더 많은 고객을 서비스할 수 있어 비용 효율이 좋아집니다. 폐기물은 매립·처리시설 허가가 진입장벽이며 기업 서비스는 고객 유지와 교차 판매가 중요합니다.",
+      "watch": [
+        "가격 인상과 고객 이탈·물량 감소의 균형",
+        "노선 밀도·자동화와 인건비 부담",
+        "인수 후 통합·매립지 관리·환경 비용"
+      ],
+      "kpis": [
+        {
+          "name": "가격·물량 성장",
+          "meaning": "매출 증가를 요금과 처리·서비스 양으로 분리",
+          "read": "가격만 올라 매출이 늘었는지 최종 수요도 성장하는지 봅니다."
+        },
+        {
+          "name": "고객 유지율",
+          "meaning": "기존 고객이 계약을 이어가는 정도",
+          "read": "계약 기간과 측정 기준이 다른 기업끼리 직접 비교하지 않습니다."
+        },
+        {
+          "name": "FCF 전환",
+          "meaning": "순이익이 투자 후 현금으로 바뀌는 비율",
+          "read": "차량·시설 교체 투자와 환경 의무 지출을 포함해 확인합니다."
+        }
+      ],
+      "risks": [
+        "노무·차량·시설 유지 비용 상승",
+        "환경 책임과 인수 가격 과다 지급"
+      ],
+      "valuation": "반복 매출의 질을 PER·EV/EBITDA·FCF와 함께 평가합니다. 높은 안정성만으로 어떤 가격도 정당화되지는 않습니다.",
+      "questions": [
+        "가격 인상 후에도 고객 수와 계약 유지가 견조한가?",
+        "인수 성장을 제외한 기존 사업의 물량과 이익은 어떻게 변했는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "WM",
+          "name": "Waste Management",
+          "exchange": "NYSE",
+          "business": "폐기물 수거·매립·재활용·환경 서비스",
+          "watch": "가격 대비 물량과 시설 투자 수익",
+          "ir": "https://investors.wm.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "RSG",
+          "name": "Republic Services",
+          "exchange": "NYSE",
+          "business": "폐기물·재활용·환경 처리 서비스",
+          "watch": "고객 가격·물량·인수 통합",
+          "ir": "https://investor.republicservices.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CTAS",
+          "name": "Cintas",
+          "exchange": "NASDAQ",
+          "business": "유니폼 대여와 시설·안전 관련 서비스",
+          "watch": "고객 유지·신규 영업·서비스 비용",
+          "ir": "https://www.cintas.com/investors/",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

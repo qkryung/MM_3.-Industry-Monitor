@@ -1,0 +1,99 @@
+{
+  "ticker": "PH",
+  "oneLiner": "산업·항공우주용 모션·제어 시스템",
+  "businessModel": "공장·중장비·항공기에 들어가는 유압·공압·여과·밀봉·연료·모션 제어 부품을 공급합니다. 고객 장비가 정밀하고 안전하게 움직이도록 돕는 사업으로, 신규 장비 생산 외에 유지·교체 수요도 발생합니다.",
+  "revenueStreams": [
+    {
+      "name": "산업용 제어",
+      "description": "모션·유체·여과·밀봉 부품과 시스템",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.parker.com/"
+    },
+    {
+      "name": "항공우주",
+      "description": "항공기 연료·유압·제동 등 시스템과 정비",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.parker.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1917",
+      "event": "Parker Appliance 설립"
+    },
+    {
+      "year": "1957",
+      "event": "Hannifin 인수로 Parker Hannifin 형성"
+    },
+    {
+      "year": "2022",
+      "event": "Meggitt 인수로 항공우주 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "제품 다양성",
+      "detail": "여러 산업의 핵심 소형 부품을 공급합니다."
+    },
+    {
+      "title": "설계 채택",
+      "detail": "고객 장비에 채택되면 교체·인증 비용이 발생합니다."
+    },
+    {
+      "title": "서비스 수요",
+      "detail": "항공·산업 설치 기반이 반복 부품 수요를 만듭니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "산업 사이클",
+      "detail": "일반 제조업 주문 감소를 피하기 어렵습니다."
+    },
+    {
+      "title": "인수 부담",
+      "detail": "항공우주 확대의 통합·부채 관리를 해야 합니다."
+    },
+    {
+      "title": "품질 책임",
+      "detail": "핵심 부품 결함은 고객의 큰 비용으로 이어집니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Eaton",
+      "ticker": "ETN",
+      "comparison": "항공우주 일부가 겹치지만 Eaton은 전기 사업이 큽니다."
+    },
+    {
+      "name": "Emerson",
+      "ticker": "EMR",
+      "comparison": "Emerson은 공정·제어 자동화, Parker는 물리적 모션·유체에 강점이 다릅니다."
+    }
+  ],
+  "macroLink": "일반 제조업 신규 주문과 항공 비행시간을 나눠 봅니다. 항공 서비스가 산업용 장비 약세를 완충할 수 있습니다.",
+  "monitoring": [
+    "산업용 주문 바닥과 유통 재고는 확인되는가?",
+    "Meggitt 통합 후 현금·마진이 개선되는가?",
+    "항공 신규판매와 정비 비중 변화는 무엇인가?"
+  ],
+  "sources": [
+    {
+      "title": "Parker-Hannifin · 투자자 자료",
+      "url": "https://investors.parker.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Parker-Hannifin · 기업 연혁·사업 소개",
+      "url": "https://www.parker.com/content/dam/Parker-com/About-Us/Literature/Parker-100-Year-Journey_rev2.pdf",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Meggitt 인수 공시",
+      "url": "https://investors.parker.com/sec-filings/all-sec-filings/content/0001193125-22-244768/d241657d8k.htm",
+      "note": "2022-09-12 인수 완료"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

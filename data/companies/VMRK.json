@@ -1,0 +1,109 @@
+{
+  "ticker": "VMRK",
+  "oneLiner": "AvalonBay와 Equity Residential이 합쳐진 미국 임대아파트 운영회사입니다.",
+  "businessModel": "2026년 8월 합병으로 출범한 주거 REIT로, 아파트를 소유·운영하고 신규 주택을 개발해 입주자에게 임대합니다. 월세가 주 수입이고 주차·편의시설 등 부가수입이 더해집니다. 합병 전 두 회사 실적과 새 회사 실적은 연결 범위가 다릅니다. 과거 EQR 또는 AVB의 매출 증가율을 그대로 VMRK의 유기적 성장률로 해석해서는 안 됩니다. CIK 906107에 이어지는 2025 연간 및 2026년 2분기 공시는 합병 전 Equity Residential의 연결 실적입니다. 2026년 8월 출범한 통합 Vivmark의 연간·분기 실적으로 해석하거나 AvalonBay와 임의 합산하지 않습니다.",
+  "revenueStreams": [
+    {
+      "name": "주거 임대료",
+      "description": "입주자가 내는 아파트 월세입니다. 신규 계약·갱신 계약·빈집 기간이 실효 임대료를 결정합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.vivmarkresidential.com/"
+    },
+    {
+      "name": "주거 관련 부가수입",
+      "description": "주차와 기타 거주 관련 비용·서비스 수입입니다. 핵심 아파트 임대와 연결된 수입이며 독립 사업부로 보지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.vivmarkresidential.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2026-05",
+      "event": "AvalonBay Communities와 Equity Residential이 동등합병 계획을 발표했습니다. 두 상장 주거 REIT의 운영·개발 역량이 새 회사의 기반입니다."
+    },
+    {
+      "year": "2026-08-17",
+      "event": "합병이 완료되며 Vivmark Residential이 출범했습니다."
+    },
+    {
+      "year": "2026-08-18",
+      "event": "새 티커 VMRK의 뉴욕증권거래소 거래 개시일로 안내됐습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "운영 규모",
+      "detail": "아파트 운영·구매·마케팅을 통합해 단지당 비용을 줄일 여지가 있습니다. 실현 여부는 비용 지표로 검증해야 합니다."
+    },
+    {
+      "title": "개발 기반",
+      "detail": "기존 양사의 개발 경험과 진행 중 프로젝트를 이어받습니다."
+    },
+    {
+      "title": "임차시장 분산",
+      "detail": "여러 주요 도시의 아파트를 운영해 단일 지역의 수요에만 의존하지 않습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "통합 실행",
+      "detail": "시스템·조직 통합 비용과 서비스 혼선이 예상 절감액을 줄일 수 있습니다."
+    },
+    {
+      "title": "짧은 통합 이력",
+      "detail": "새 연결회사로서 긴 실적 기록이 없어 비교 가능 재무자료를 따로 확인해야 합니다."
+    },
+    {
+      "title": "공급·임대 규제",
+      "detail": "지역별 신축 공급과 임대료 규제는 임대료 인상 및 개발 수익을 제한합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Essex Property Trust",
+      "ticker": "ESS",
+      "comparison": "서부 해안 아파트에 더 집중해 지역 민감도가 다릅니다."
+    },
+    {
+      "name": "MAA",
+      "ticker": "MAA",
+      "comparison": "선벨트 아파트 비중이 큰 비교대상으로 고용·신축 공급 구성이 다릅니다."
+    }
+  ],
+  "macroLink": "지역 고용·임금이 임대료 지불 능력을, 주택담보대출 금리가 주택 구매와 임대 선택을 바꿉니다. 장기금리는 개발비와 자산 평가에도 영향을 줍니다.",
+  "monitoring": [
+    "합병 영향을 제거한 동일자산 임대수입과 비용이 어떻게 변하는가?",
+    "통합 비용을 뺀 실제 비용 절감이 입주자 유지율 악화 없이 나타나는가?",
+    "개발 중인 아파트의 잔여 투자금과 입주 시작 일정은 무엇인가?"
+  ],
+  "sources": [
+    {
+      "title": "Vivmark Residential · 투자자 자료",
+      "url": "https://investors.vivmarkresidential.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Vivmark Residential · 연혁·기업 자료",
+      "url": "https://investors.vivmarkresidential.com/news-events/press-releases/detail/113/vivmark-residential-launches-as-one-of-the-countrys-leading-real-estate-companies",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Vivmark · 합병 완료 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/906107/000114036126033377/ef20080318_8k.htm",
+      "note": "2026-08-17 합병 완료 및 상장 변경. 통합 이전 재무자료 비교에 주의."
+    },
+    {
+      "title": "Equity Residential · 2025 연차보고서",
+      "url": "https://s1.q4cdn.com/843629197/files/doc_financials/2025/ar/EQR_2025_Annual_Report.pdf",
+      "note": "PDF 69쪽·인쇄 F-8. 2025년 연결 손익계산서의 REVENUES는 Rental income 한 항목입니다. 합병 전 EQR 범위입니다."
+    },
+    {
+      "title": "Equity Residential · 2026년 2분기 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526326170/eqr-20260630.htm",
+      "note": "2026-07-30 공시, 2026-06-30 종료 3개월과 6개월을 구분합니다. 합병 전 EQR 범위입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

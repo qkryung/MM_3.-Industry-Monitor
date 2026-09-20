@@ -1,0 +1,507 @@
+{
+  "id": "consumer-discretionary",
+  "name": "경기소비재",
+  "en": "Consumer Discretionary",
+  "code": "25",
+  "color": "#E6A453",
+  "summary": "소득과 소비심리에 따라 지출을 늘리거나 미룰 수 있는 상품·서비스 산업입니다.",
+  "concept": "자동차, 의류, 외식, 여행, 주택처럼 소비자가 구매 시기와 수준을 선택할 수 있는 분야입니다. 핵심 질문은 사람들이 더 많이 사는지, 더 비싼 것을 사는지, 할인 덕분에 사는지입니다. 같은 소비재라도 프랜차이즈는 로열티 중심이고 제조업·유통업은 재고와 설비가 중요하므로 사업 모델부터 나눠 읽습니다.",
+  "drivers": [
+    "고용·실질임금·가처분소득: 물가를 제외하고 실제 구매력이 늘어나는지 봅니다.",
+    "소비자 신용과 금리: 자동차·주택은 월 납입액이 구매 결정을 크게 바꿉니다.",
+    "소비 우선순위와 브랜드: 상품에서 경험으로, 고가에서 저가로 이동하는 수요를 살핍니다."
+  ],
+  "watch": [
+    "총매출에서 가격 효과와 판매량·방문객 변화를 분리합니다.",
+    "재고가 매출보다 빠르게 늘면 향후 할인과 마진 압력을 의심합니다.",
+    "저소득·고소득, 미국·해외, 신규·기존 고객을 나눠 소비의 차이를 확인합니다."
+  ],
+  "risks": [
+    "실업 증가·신용 악화에 따른 수요 급감",
+    "과잉 재고·가격 인하·판촉 경쟁으로 마진 훼손",
+    "유행 변화·관세·공급망 차질·고정비 부담"
+  ],
+  "valueChain": [
+    "소비자 수요·기획",
+    "조달·제조·서비스 준비",
+    "매장·온라인 판매",
+    "재구매·브랜드 형성"
+  ],
+  "macro": {
+    "growth": "경기 둔화는 고가·선택적 소비에 먼저 영향을 줄 수 있습니다. 다만 저가 유통으로 소비가 이동하면 기업별 결과는 달라집니다.",
+    "rates": "금리 상승은 자동차·주택 월 납입 부담을 높입니다. 여행·브랜드 기업도 차입비용과 주식 가치평가에 영향을 받습니다.",
+    "inflation": "임금과 원재료 상승이 비용을 높이고 가계의 선택 지출 여력을 줄입니다. 가격 인상 뒤 판매량이 유지되는지 봅니다.",
+    "dollar": "달러 강세는 해외 매출 환산에 부담이지만 해외 조달비나 미국인의 해외여행 구매력에는 도움이 될 수 있습니다."
+  },
+  "valuation": "경기 정점의 높은 이익 때문에 PER이 낮아 보일 수 있습니다. 정상적인 수요 수준의 이익, 재고·리스·차입 부담, 경기 하강 시 현금흐름을 함께 봅니다. 프랜차이즈와 직접 운영 기업은 매출 규모만으로 비교하지 않습니다.",
+  "pitfall": "매출 증가를 소비 회복으로 단정하지 마세요. 가격 인상, 인수, 신규 출점만으로도 매출은 늘 수 있고 기존 점포 방문객은 감소할 수 있습니다.",
+  "related": [
+    "consumer-staples",
+    "financials",
+    "real-estate",
+    "industrials"
+  ],
+  "sources": [
+    {
+      "title": "MSCI · GICS 분류 체계",
+      "url": "https://www.msci.com/indexes/index-resources/gics",
+      "note": "상위 경기소비재 분류의 기준. 아래 트리는 사업 구조에 따른 학습용 묶음입니다."
+    },
+    {
+      "title": "미국 Census · 소매판매 통계",
+      "url": "https://www.census.gov/retail/sales.html",
+      "note": "소매·외식 수요 모니터링. 계절조정 수치여도 물가 상승은 제거되지 않는다는 점에 유의합니다."
+    },
+    {
+      "title": "NAHB · 주택시장지수",
+      "url": "https://www.nahb.org/news-and-economics/housing-economics/indices/housing-market-index",
+      "note": "주택건설업자 관점의 판매·구매자 방문·기대 측정 자료입니다."
+    },
+    {
+      "title": "Amazon · 공식 투자자 관계",
+      "url": "https://ir.aboutamazon.com/overview/default.aspx",
+      "note": "전자상거래와 AWS가 함께 있는 복합 기업의 사업부별 공시 확인 경로입니다."
+    },
+    {
+      "title": "McDonald’s · 공식 투자자 관계",
+      "url": "https://corporate.mcdonalds.com/corpmcd/investors.html",
+      "note": "프랜차이즈·직영의 매출과 이익 구조를 구분하는 기업 사례입니다."
+    },
+    {
+      "title": "SEC · 미국 상장 티커·거래소 목록",
+      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+      "note": "2026-09-20 티커·거래소 대조. 대표 기업은 시가총액 순위나 추천 순위가 아닙니다."
+    }
+  ],
+  "industries": [
+    {
+      "id": "consumer-discretionary-autos",
+      "name": "자동차·모빌리티",
+      "en": "Automobiles",
+      "summary": "자동차를 제조·판매하고 금융·서비스로 추가 수익을 얻습니다.",
+      "mechanics": "차량 판매대수에 평균 판매가격을 곱한 매출에서 부품·배터리·인건비·개발비를 차감합니다. 공장은 고정비가 커서 생산량 변화가 이익에 큰 영향을 줍니다. 할부금융이 있는 회사는 자동차 수익성과 대출의 신용위험도 나눠 봅니다.",
+      "watch": [
+        "판매대수 증가가 할인·금융 지원 확대를 동반하는지 확인",
+        "전기차·하이브리드·내연기관의 판매 구성과 수익성 비교",
+        "완성차·딜러 재고와 리스 차량 중고가격 확인"
+      ],
+      "kpis": [
+        {
+          "name": "판매대수 / 인도량",
+          "meaning": "기간 중 고객 또는 판매망에 공급한 자동차 수",
+          "read": "소매 판매와 도매 출하의 차이를 확인합니다."
+        },
+        {
+          "name": "ASP",
+          "meaning": "Average Selling Price, 차량 한 대당 평균 판매가격",
+          "read": "가격 인하인지 고급 차종 비중 감소인지 분리합니다."
+        },
+        {
+          "name": "자동차 영업·매출총이익률",
+          "meaning": "차량 사업에서 매출 대비 남는 이익",
+          "read": "금융부문과 규제 크레딧 등 일회성 성격을 구분합니다."
+        }
+      ],
+      "risks": [
+        "가격 경쟁·리콜·보증 비용·공장 가동률 하락",
+        "전환 투자 부담과 대출 연체·중고차 잔존가치 하락"
+      ],
+      "valuation": "금융 자회사 부채와 자동차 사업 순현금을 구분합니다. 정상화된 판매량과 마진을 사용하고 신규 사업 기대를 기존 자동차 이익과 나눠 평가합니다.",
+      "questions": [
+        "판매량을 늘리기 위해 한 대당 얼마를 할인하고 있는가?",
+        "기술 전환 투자 후에도 현금이 남는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "TSLA",
+          "name": "Tesla",
+          "exchange": "NASDAQ",
+          "business": "전기차·에너지저장·관련 소프트웨어",
+          "watch": "인도량·자동차 마진·에너지 사업·투자 지출",
+          "ir": "https://ir.tesla.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "GM",
+          "name": "General Motors",
+          "exchange": "NYSE",
+          "business": "미국 중심 완성차와 자동차 금융",
+          "watch": "북미 마진·딜러 재고·전기차 투자·신용손실",
+          "ir": "https://investor.gm.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "TM",
+          "name": "Toyota Motor",
+          "exchange": "NYSE",
+          "business": "글로벌 완성차·하이브리드와 금융",
+          "watch": "판매 구성·엔화·생산·차량 금융; 일본 기업 ADR",
+          "ir": "https://global.toyota/en/ir/",
+          "kind": "ADR"
+        },
+        {
+          "ticker": "F",
+          "name": "Ford Motor",
+          "exchange": "NYSE",
+          "business": "Ford·Lincoln 자동차, 상용차 서비스와 자동차 금융",
+          "watch": "Ford Pro·보증비용·전기차 손익·Ford Credit",
+          "ir": "https://shareholder.ford.com/Home/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-discretionary-retail",
+      "name": "전자상거래·전문 유통",
+      "en": "Broadline & Specialty Retail",
+      "summary": "상품을 골라 고객에게 효율적으로 전달하는 유통 산업입니다.",
+      "mechanics": "직접 사들인 상품의 판매 차익이나 입점업체 수수료로 돈을 법니다. 물류·매장·반품·재고 관리가 이익을 좌우하며 광고와 회원 서비스도 수익원이 됩니다. 온라인 거래총액이 모두 회사 매출로 인식되는 것은 아닙니다.",
+      "watch": [
+        "기존점 매출을 구매 건수와 객단가로 분해",
+        "재고 증가율·할인율·반품비·물류비 확인",
+        "광고·회원료 같은 부가 사업의 이익 기여 확인"
+      ],
+      "kpis": [
+        {
+          "name": "기존점 매출 성장률",
+          "meaning": "비교 가능한 기존 매장·채널의 매출 변화",
+          "read": "출점 효과를 제외하되 회사별 비교 대상 정의를 확인합니다."
+        },
+        {
+          "name": "재고 회전율",
+          "meaning": "일정 기간 재고가 판매로 바뀌는 속도",
+          "read": "낮아지면 할인 위험을 점검하되 계절별 사전 확보도 구분합니다."
+        },
+        {
+          "name": "매출총이익률",
+          "meaning": "판매액에서 상품 원가를 뺀 비율",
+          "read": "할인·상품 구성·도난 손실·운송비 영향을 살핍니다."
+        }
+      ],
+      "risks": [
+        "과잉 재고와 온라인 가격 경쟁",
+        "물류·인건비·관세·반품 및 도난 비용 상승"
+      ],
+      "valuation": "영업마진·재고 운전자본·리스 부담을 함께 비교합니다. 총액 매출과 수수료 순액 매출이 섞인 회사끼리 매출 배수만 비교하지 않습니다.",
+      "questions": [
+        "이 유통업체가 고객에게 주는 이유는 가격·선택·편의 중 무엇인가?",
+        "물류와 신규 매장 투자가 고객 유지와 이익으로 돌아오는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "AMZN",
+          "name": "Amazon",
+          "exchange": "NASDAQ",
+          "business": "전자상거래·마켓플레이스·광고·AWS",
+          "watch": "소매 마진·배송비·광고·AWS; 복합 사업",
+          "ir": "https://ir.aboutamazon.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "HD",
+          "name": "Home Depot",
+          "exchange": "NYSE",
+          "business": "주택 보수·건자재 전문 유통",
+          "watch": "기존점 매출·대형 구매·전문 시공업자 수요",
+          "ir": "https://ir.homedepot.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "TJX",
+          "name": "TJX Companies",
+          "exchange": "NYSE",
+          "business": "할인 의류·생활용품 오프프라이스 유통",
+          "watch": "고객 방문·상품 조달·재고 회전",
+          "ir": "https://investor.tjx.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LOW",
+          "name": "Lowe’s Companies",
+          "exchange": "NYSE",
+          "business": "주택 보수·건자재·가전 전문 유통",
+          "watch": "기존점 거래·전문 고객·온라인·보수 수요",
+          "ir": "https://corporate.lowes.com/investors",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-discretionary-homebuilders",
+      "name": "주택 건설",
+      "en": "Homebuilding",
+      "summary": "토지를 확보하고 주택을 지어 인도하며 수익을 얻습니다.",
+      "mechanics": "토지·자재·인건비를 선투입한 뒤 주택 인도 때 매출과 이익을 인식합니다. 신규 주문은 미래 매출의 단서지만 취소될 수 있습니다. 토지를 직접 오래 보유하는지 옵션으로 확보하는지에 따라 자본 부담과 위험이 달라집니다.",
+      "watch": [
+        "모기지 금리와 건설사의 금리 보조·인센티브",
+        "신규 주문·취소율·미인도 계약의 흐름",
+        "토지 매입·건설 중 재고와 현금 회수 속도"
+      ],
+      "kpis": [
+        {
+          "name": "순주문",
+          "meaning": "신규 계약에서 취소 계약을 뺀 주문 규모",
+          "read": "가격 할인에 의존한 주문인지 함께 확인합니다."
+        },
+        {
+          "name": "수주잔고",
+          "meaning": "계약은 맺었지만 아직 인도하지 않은 주택",
+          "read": "향후 매출의 단서이며 취소·납기 위험이 있습니다."
+        },
+        {
+          "name": "주택 매출총이익률",
+          "meaning": "인도 매출 대비 토지·건설 원가를 뺀 이익 비율",
+          "read": "인센티브와 금리 보조가 어디에 반영되는지 확인합니다."
+        }
+      ],
+      "risks": [
+        "높은 금리와 고용 악화로 구매 취소·주문 감소",
+        "토지·완공 재고 장기화와 원가 상승"
+      ],
+      "valuation": "PER에 P/B(주가순자산비율), 재고 품질, 투자자본수익률을 더합니다. 땅의 장부가치가 현금화 가치와 같다고 가정하지 않습니다.",
+      "questions": [
+        "현재 마진은 자연스러운 수요 덕분인가, 금리 보조 덕분인가?",
+        "주문이 줄어들면 토지와 공사 지출을 얼마나 조절할 수 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "DHI",
+          "name": "D.R. Horton",
+          "exchange": "NYSE",
+          "business": "미국 주택 건설과 관련 금융",
+          "watch": "순주문·취소율·가격 지원·재고 회전",
+          "ir": "https://investor.drhorton.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LEN",
+          "name": "Lennar",
+          "exchange": "NYSE",
+          "business": "미국 주택 건설과 금융 서비스",
+          "watch": "토지 운영 방식·인도량·주택 마진",
+          "ir": "https://investors.lennar.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PHM",
+          "name": "PulteGroup",
+          "exchange": "NYSE",
+          "business": "생애 단계별 주택 브랜드와 금융",
+          "watch": "주문·평균 판매가격·자본수익률",
+          "ir": "https://www.pultegroup.com/investor-relations/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-discretionary-travel",
+      "name": "여행·숙박·크루즈",
+      "en": "Travel, Lodging & Leisure",
+      "summary": "여행 수요를 예약·숙박·운항 매출로 바꾸는 산업입니다.",
+      "mechanics": "예약 플랫폼은 중개 수수료를, 호텔 브랜드는 운영·프랜차이즈 수수료를, 크루즈는 객실과 선내 소비 매출을 얻습니다. 같은 여행업이라도 선박·호텔을 직접 보유하면 고정비와 부채가 커집니다. 예약 증가가 실제 투숙·탑승과 현금 회수로 이어지는지 확인합니다.",
+      "watch": [
+        "여행 예약의 가격·수량·취소율 변화",
+        "직접 예약과 검색 광고 등 고객 확보 비용",
+        "사업별 자산 보유·부채·연료·운영 비용 구조"
+      ],
+      "kpis": [
+        {
+          "name": "예약 객실박수",
+          "meaning": "판매된 객실 수에 숙박 일수를 곱한 수요 지표",
+          "read": "가격 효과를 제외한 물량을 파악하되 취소 반영을 확인합니다."
+        },
+        {
+          "name": "RevPAR",
+          "meaning": "Revenue per Available Room, 판매 가능한 객실당 매출",
+          "read": "객실 단가 × 가동률이며 호텔 중심 지표입니다."
+        },
+        {
+          "name": "순수익률 / 단위당 수익",
+          "meaning": "크루즈 등의 공급 단위당 매출·수익 지표",
+          "read": "환율·연료·공급 증가와 기업별 정의를 함께 확인합니다."
+        }
+      ],
+      "risks": [
+        "경기·전염병·전쟁·기상이변으로 여행 수요 급변",
+        "공급 확대·높은 차입금·플랫폼 광고 의존"
+      ],
+      "valuation": "자산이 가벼운 중개·브랜드와 선박을 보유한 회사를 구분합니다. EBITDA 배수에 유지보수 투자·부채와 순현금을 함께 반영합니다.",
+      "questions": [
+        "예약이 늘어난 이유가 여행객 증가인가, 단가 상승인가?",
+        "수요가 감소해도 줄일 수 없는 비용은 얼마나 되는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "BKNG",
+          "name": "Booking Holdings",
+          "exchange": "NASDAQ",
+          "business": "Booking.com 등 온라인 여행 예약",
+          "watch": "객실박수·예약액·직접 예약·마케팅 효율",
+          "ir": "https://ir.bookingholdings.com/overview/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MAR",
+          "name": "Marriott International",
+          "exchange": "NASDAQ",
+          "business": "호텔 브랜드·운영·프랜차이즈",
+          "watch": "RevPAR·신규 객실·수수료 매출",
+          "ir": "https://marriott.gcs-web.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "RCL",
+          "name": "Royal Caribbean Group",
+          "exchange": "NYSE",
+          "business": "글로벌 크루즈 운영",
+          "watch": "예약·승객 수익·선박 투자·차입금",
+          "ir": "https://www.rclinvestor.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "HLT",
+          "name": "Hilton Worldwide",
+          "exchange": "NYSE",
+          "business": "호텔 브랜드 프랜차이즈·운영과 일부 직접 보유",
+          "watch": "RevPAR·객실 순증·개발 파이프라인·수수료",
+          "ir": "https://ir.hilton.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-discretionary-restaurants",
+      "name": "외식·프랜차이즈",
+      "en": "Restaurants",
+      "summary": "식사 경험과 브랜드를 직접 판매하거나 가맹점 수수료를 받습니다.",
+      "mechanics": "직영점은 음식 매출에서 식재료·임금·임대료를 뺀 금액을 벌고, 프랜차이즈 본사는 가맹점 매출에 연동한 로열티와 임대료 등을 받습니다. 가맹 비중이 높으면 본사 매출은 작아 보여도 이익률은 높을 수 있습니다. 가맹점 수익성이 나빠지면 신규 출점도 둔화됩니다.",
+      "watch": [
+        "기존점 매출을 방문객 수와 객단가로 분해",
+        "가격 인상이 방문 빈도와 메뉴 구성을 바꾸는지 확인",
+        "임금·식재료·매장 생산성과 가맹점 수익성 확인"
+      ],
+      "kpis": [
+        {
+          "name": "기존점 매출",
+          "meaning": "일정 기간 이상 운영된 매장의 매출 변화",
+          "read": "메뉴 가격 상승만으로 성장했는지 확인합니다."
+        },
+        {
+          "name": "고객 거래 건수",
+          "meaning": "고객 방문·구매의 빈도를 보여주는 지표",
+          "read": "매출보다 먼저 브랜드 수요 변화를 보일 수 있습니다."
+        },
+        {
+          "name": "매장 수준 이익률",
+          "meaning": "본사 공통비 등을 빼기 전 매장 수익성 지표",
+          "read": "GAAP 영업이익과 다르고 기업별 제외 비용을 확인합니다."
+        }
+      ],
+      "risks": [
+        "가격 저항과 저가 판촉 경쟁",
+        "인건비·식품 비용·식품 안전 사고 및 브랜드 훼손"
+      ],
+      "valuation": "가맹 비중과 성장 출점 수를 맞춰 비교합니다. 높은 본사 마진만 보고 가맹점의 투자 회수 기간과 부채를 놓치지 않습니다.",
+      "questions": [
+        "고객이 가격 인상 뒤에도 같은 빈도로 방문하는가?",
+        "신규 매장 한 곳이 투자금을 회수하는 데 얼마나 걸리는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "MCD",
+          "name": "McDonald’s",
+          "exchange": "NYSE",
+          "business": "글로벌 패스트푸드 프랜차이즈와 부동산 임대",
+          "watch": "기존점 매출·방문객·가맹점 수익성",
+          "ir": "https://corporate.mcdonalds.com/corpmcd/investors.html",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SBUX",
+          "name": "Starbucks",
+          "exchange": "NASDAQ",
+          "business": "커피 매장 직영·라이선스 운영",
+          "watch": "거래 건수·객단가·매장 생산성·중국 사업",
+          "ir": "https://investor.starbucks.com/ir-home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CMG",
+          "name": "Chipotle Mexican Grill",
+          "exchange": "NYSE",
+          "business": "미국 중심 패스트캐주얼 직영 매장",
+          "watch": "거래 건수·신규 출점·매장 마진",
+          "ir": "https://ir.chipotle.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-discretionary-apparel",
+      "name": "의류·스포츠·신발",
+      "en": "Apparel & Footwear",
+      "summary": "브랜드와 제품의 차별성을 가격과 반복 구매로 연결합니다.",
+      "mechanics": "제품을 기획해 외부 제조업체에 생산을 맡기고 도매상이나 자체 매장·온라인에서 판매합니다. 직접 판매는 중간 마진을 가져오지만 매장·물류·광고비도 부담합니다. 유행 예측이 틀리면 남은 재고를 할인해 팔아 이익률이 떨어집니다.",
+      "watch": [
+        "브랜드별 신제품 반응과 정상가 판매 비중",
+        "직접 판매와 도매 채널의 균형",
+        "재고 증가·할인·지역별 성장의 차이"
+      ],
+      "kpis": [
+        {
+          "name": "브랜드 / 지역별 매출",
+          "meaning": "어떤 브랜드와 시장에서 성장했는지 보여주는 지표",
+          "read": "한 브랜드나 특정 지역에 성장이 집중되는지 확인합니다."
+        },
+        {
+          "name": "재고 대 매출 성장",
+          "meaning": "재고 증가율과 매출 증가율의 차이",
+          "read": "재고가 앞서가면 판촉·평가손실 위험을 점검합니다."
+        },
+        {
+          "name": "매출총이익률",
+          "meaning": "매출에서 제품 원가 등을 차감한 비율",
+          "read": "가격·할인·운송·직판 비중에 따른 변화를 분해합니다."
+        }
+      ],
+      "risks": [
+        "유행 변화·경쟁 브랜드 등장·과잉 출점",
+        "재고 할인·도매업체 주문 축소·관세와 공급망 집중"
+      ],
+      "valuation": "브랜드 성장의 지속성, 정상가 판매, 재고 회전을 함께 봅니다. 직판 비중 상승만으로 수익성 개선을 가정하지 않습니다.",
+      "questions": [
+        "소비자가 다음 제품도 이 브랜드에서 살 이유가 있는가?",
+        "성장을 위해 할인과 광고비를 얼마나 늘리고 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "NKE",
+          "name": "Nike",
+          "exchange": "NYSE",
+          "business": "스포츠 신발·의류 브랜드",
+          "watch": "브랜드 수요·도매 관계·재고·정상가 판매",
+          "ir": "https://investors.nike.com/Home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LULU",
+          "name": "lululemon athletica",
+          "exchange": "NASDAQ",
+          "business": "프리미엄 운동·일상 의류",
+          "watch": "미주 기존점·해외 성장·신제품·재고",
+          "ir": "https://corporate.lululemon.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "DECK",
+          "name": "Deckers Outdoor",
+          "exchange": "NYSE",
+          "business": "HOKA·UGG 등 신발 브랜드",
+          "watch": "브랜드별 성장·직판·도매·재고",
+          "ir": "https://ir.deckers.com/",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

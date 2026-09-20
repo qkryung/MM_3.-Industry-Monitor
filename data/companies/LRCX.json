@@ -1,0 +1,99 @@
+{
+  "ticker": "LRCX",
+  "oneLiner": "반도체의 미세한 구조를 깎고 쌓는 식각·증착 장비를 공급하는 회사.",
+  "businessModel": "웨이퍼 위 불필요한 재료를 제거하는 식각, 얇은 막을 쌓는 증착, 세정 장비를 판매합니다. 납품 이후에는 부품과 유지보수·성능 개선을 제공합니다. 3차원 NAND와 복잡한 트랜지스터 구조는 필요한 공정을 늘릴 수 있지만 메모리 업체의 투자 사이클이 주문을 흔듭니다.",
+  "revenueStreams": [
+    {
+      "name": "신규 제조 장비",
+      "description": "식각·증착·세정 장비를 반도체 공장에 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.lamresearch.com/"
+    },
+    {
+      "name": "설치 기반 지원",
+      "description": "가동 중인 장비의 부품·서비스·업그레이드 및 기존 공정용 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.lamresearch.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1980,
+      "event": "David Lam이 Lam Research 설립."
+    },
+    {
+      "year": 1984,
+      "event": "LRCX로 상장."
+    },
+    {
+      "year": 2012,
+      "event": "Novellus Systems를 인수해 증착 역량 강화."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고난도 식각 기술",
+      "detail": "깊고 좁은 구조를 정밀하게 가공하는 역량이 첨단 메모리 공정에서 중요합니다."
+    },
+    {
+      "title": "설치 기반 누적",
+      "detail": "고객 공장에 설치된 장비가 부품·유지보수와 업그레이드 수요로 연결됩니다."
+    },
+    {
+      "title": "공정 복잡도 수혜",
+      "detail": "회로가 입체화될수록 단순 웨이퍼 수 증가와 별개로 가공 단계가 늘 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "메모리 투자 노출",
+      "detail": "DRAM·NAND 업체의 공급 조절과 투자 축소에 민감합니다."
+    },
+    {
+      "title": "첨단 공정 채택 경쟁",
+      "detail": "신제품이 연구 단계에서 좋아 보여도 고객의 실제 양산 라인 채택이 필요합니다."
+    },
+    {
+      "title": "수출 제한",
+      "detail": "중국 등 특정 고객에 대한 판매 제한과 서비스 규제가 사업 범위를 줄일 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Applied Materials",
+      "ticker": "AMAT",
+      "comparison": "증착·재료 가공 영역에서 경쟁하며 제품 범위가 더 넓습니다."
+    },
+    {
+      "name": "Tokyo Electron",
+      "ticker": "8035.T",
+      "comparison": "식각·증착·세정 등에서 경쟁하는 일본 상장사입니다."
+    }
+  ],
+  "macroLink": "메모리 가격이 회복되어도 고객이 설비투자를 재개하기까지 시차가 있습니다. 장비 출하와 고객의 가동률·서비스 수요를 나누어 봐야 합니다.",
+  "monitoring": [
+    "NAND 적층 증가가 고객의 장비 주문으로 이어지는가?",
+    "서비스 성장이 설치 대수 증가인지 고객 가동률 회복인지 구분했는가?",
+    "차세대 식각·증착 제품의 양산 채택이 확대되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Lam Research · 공식 IR",
+      "url": "https://investor.lamresearch.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Lam Research 공식 연혁",
+      "url": "https://www.lamresearch.com/company/history/",
+      "note": "1980년 설립·1984년 IPO·2012년 Novellus 인수 확인."
+    },
+    {
+      "title": "Lam Research 회사 개요",
+      "url": "https://www.lamresearch.com/company/company-overview/",
+      "note": "제조 장비·고객 지원 모델 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

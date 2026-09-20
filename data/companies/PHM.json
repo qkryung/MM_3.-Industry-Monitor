@@ -1,0 +1,99 @@
+{
+  "ticker": "PHM",
+  "oneLiner": "생애 단계별 브랜드로 첫 주택·이사·은퇴 주거 수요를 다루는 건설사입니다.",
+  "businessModel": "Pulte·Centex·Del Webb 등 브랜드로 주택을 판매하고 구매 금융을 제공합니다. 가격대와 구매 목적이 다른 고객을 다루기 때문에 모든 주문이 같은 금리 민감도를 갖지는 않습니다. 판매량뿐 아니라 토지 회전과 투자수익률을 보는 회사입니다.",
+  "revenueStreams": [
+    {
+      "name": "주택 건설",
+      "description": "여러 브랜드의 주택·관련 토지 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pultegroup.com/investor-relations/"
+    },
+    {
+      "name": "금융 서비스",
+      "description": "모기지·권원 등 구매 과정의 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pultegroup.com/investor-relations/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1950,
+      "event": "Bill Pulte가 주택 사업 시작."
+    },
+    {
+      "year": 1969,
+      "event": "주식시장 상장."
+    },
+    {
+      "year": 2009,
+      "event": "Centex 인수로 첫 주택 구매자 시장 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "생애 단계별 브랜드",
+      "detail": "첫 구매자·상향 이동·활동형 은퇴 고객을 나눠 다룹니다."
+    },
+    {
+      "title": "Del Webb 기반",
+      "detail": "은퇴 주거 커뮤니티의 브랜드와 운영 경험이 있습니다."
+    },
+    {
+      "title": "수익률 중심 운영",
+      "detail": "출점·토지·생산 결정을 자본 회수 관점에서 점검할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "주택 경기 노출",
+      "detail": "브랜드를 나눠도 고용·금리 악화가 주문을 줄일 수 있습니다."
+    },
+    {
+      "title": "토지 취득 시점",
+      "detail": "비싼 시기에 확보한 토지는 이후 마진·평가손실에 부담이 됩니다."
+    },
+    {
+      "title": "건설 일정",
+      "detail": "인력·자재·인허가 지연은 인도와 현금 회수를 늦춥니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "D.R. Horton",
+      "ticker": "DHI",
+      "comparison": "진입 가격대에서 특히 공급 규모와 가격을 경쟁합니다."
+    },
+    {
+      "name": "Lennar",
+      "ticker": "LEN",
+      "comparison": "제품 구성·토지 운영·주문 유치가 비교 대상입니다."
+    }
+  ],
+  "macroLink": "고령화는 Del Webb 수요의 배경이지만 금리·주택 자산 매각·구매자의 소득이 실제 계약을 결정합니다. 신규 주문을 고객군별로 봅니다.",
+  "monitoring": [
+    "첫 구매자와 은퇴 고객의 주문 흐름이 다른가?",
+    "인도 증가와 토지 회전이 투자수익률 개선으로 이어지는가?",
+    "금리 보조·옵션 혜택을 감안한 주택 마진이 유지되는가?"
+  ],
+  "sources": [
+    {
+      "title": "PulteGroup · 공식 IR",
+      "url": "https://www.pultegroup.com/investor-relations/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "PulteGroup · 회사 개요",
+      "url": "https://www.pultegroup.com/",
+      "note": "1950년 원류와 브랜드·구매자군 설명."
+    },
+    {
+      "title": "PulteGroup 공식 연혁",
+      "url": "https://s22.q4cdn.com/957797852/files/doc_downloads/2021/History-Timeline-Updated-July-2021.pdf",
+      "note": "1950년 첫 주택 사업·1969년 IPO·2009년 Centex 결합 연혁."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

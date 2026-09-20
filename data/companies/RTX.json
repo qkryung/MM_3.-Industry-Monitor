@@ -1,0 +1,94 @@
+{
+  "ticker": "RTX",
+  "oneLiner": "Pratt & Whitney·Collins Aerospace·Raytheon을 통한 민항·방산",
+  "businessModel": "Pratt & Whitney 엔진, Collins 항공 시스템, Raytheon 방산 제품을 항공기 제작사·항공사·정부에 판매합니다. 민항은 비행시간·신규 기체·정비가, 방산은 예산·계약·인도가 수익을 만듭니다. 부문마다 비용과 회수기간이 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "민간 항공",
+      "description": "엔진·항공 시스템 신규 판매와 부품·정비",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.rtx.com/"
+    },
+    {
+      "name": "방위 시스템",
+      "description": "미사일·레이더·방공 등 정부 계약",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.rtx.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1922",
+      "event": "Raytheon의 전신 회사 설립"
+    },
+    {
+      "year": "2020",
+      "event": "Raytheon과 United Technologies 항공사업 통합"
+    },
+    {
+      "year": "2023",
+      "event": "RTX Corporation으로 사명 변경"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "항공 설치 기반",
+      "detail": "판매한 엔진·시스템은 정비 수요를 만듭니다."
+    },
+    {
+      "title": "수요 분산",
+      "detail": "민항과 방산 고객의 예산 동인이 다릅니다."
+    },
+    {
+      "title": "인증 장벽",
+      "detail": "안전·군사 규격과 장기 개발이 진입을 어렵게 합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "엔진 품질",
+      "detail": "결함·검사는 비용·정비능력·고객 보상에 영향을 줍니다."
+    },
+    {
+      "title": "공급망",
+      "detail": "부품·주조·인력 부족이 인도를 제한합니다."
+    },
+    {
+      "title": "고정가격 계약",
+      "detail": "원가 상승이 장기 방산 계약 손실로 이어질 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "comparison": "GE는 민항 엔진·서비스 집중도가 더 높습니다."
+    },
+    {
+      "name": "Lockheed Martin",
+      "ticker": "LMT",
+      "comparison": "LMT는 방산 플랫폼 중심으로 민항 정비 노출이 다릅니다."
+    }
+  ],
+  "macroLink": "항공 여객·비행시간과 국방 예산을 따로 봅니다. 수요보다 정비·공급 능력이 단기 이익의 병목일 수 있습니다.",
+  "monitoring": [
+    "엔진 검사·정비 지연과 고객 보상이 줄어드는가?",
+    "방산 수주가 적정 마진의 인도로 전환되는가?",
+    "애프터마켓 성장 중 가격과 실제 작업량의 기여는?"
+  ],
+  "sources": [
+    {
+      "title": "RTX · 투자자 자료",
+      "url": "https://investors.rtx.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "RTX · 2020년 합병 완료 자료",
+      "url": "https://investors.rtx.com/static-files/1d0010bd-9a41-4be8-b797-0048967463ae",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

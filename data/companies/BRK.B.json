@@ -1,0 +1,113 @@
+{
+  "ticker": "BRK.B",
+  "oneLiner": "보험·철도·에너지·제조업과 투자자산을 함께 보유한 복합기업입니다.",
+  "businessModel": "보험료를 먼저 받아 보험금을 나중에 지급하는 동안 생기는 운용자금, 즉 float를 투자합니다. 보험이 인수흑자를 낼수록 이 자금의 경제성이 좋아지지만 공짜·무위험 자본은 아닙니다. BNSF 철도, 에너지·유틸리티, 제조·서비스·소매 자회사도 영업현금을 만듭니다. 보유주식 평가손익 때문에 회계 순이익이 크게 흔들려 영업이익과 구분해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "보험료",
+      "description": "GEICO·일반보험·재보험의 보장 제공 수입; 보험금·사업비를 빼기 전 금액",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.berkshirehathaway.com/"
+    },
+    {
+      "name": "보험 투자수익",
+      "description": "채권이자·주식배당 등 보험 운용자산 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.berkshirehathaway.com/"
+    },
+    {
+      "name": "철도·에너지",
+      "description": "BNSF 운송과 전력·가스 등 자회사 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.berkshirehathaway.com/"
+    },
+    {
+      "name": "제조·서비스·소매",
+      "description": "산업·소비재·유통·서비스 자회사들의 매출",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.berkshirehathaway.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1955",
+      "event": "Berkshire Fine Spinning과 Hathaway Manufacturing이 합병했습니다."
+    },
+    {
+      "year": "1965",
+      "event": "Buffett의 투자 파트너십이 경영권을 확보했습니다."
+    },
+    {
+      "year": "1967",
+      "event": "National Indemnity 인수로 보험업에 진출했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "사업과 유동성의 조합",
+      "detail": "여러 영업사업과 투자자산을 통해 현금의 용도와 시기를 조절할 수 있습니다."
+    },
+    {
+      "title": "장기 자본배분",
+      "detail": "상장시장 매각 압박이 적은 자회사 구조로 장기 투자를 수행할 수 있습니다."
+    },
+    {
+      "title": "보험 운용 기반",
+      "detail": "인수규율이 유지되면 보험 float가 투자자산의 기반이 됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "규모의 제약",
+      "detail": "매우 큰 자본을 배치할 충분한 기회를 찾기 어렵습니다."
+    },
+    {
+      "title": "대재해·장기 보험책임",
+      "detail": "큰 재해나 과거 계약의 예상 초과 손실은 보험과 유동성을 압박합니다."
+    },
+    {
+      "title": "복합기업 분석 난도",
+      "detail": "철도·유틸리티·보험·주식 평가를 따로 이해해야 하며 단일 P/E는 왜곡될 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Chubb",
+      "ticker": "CB",
+      "comparison": "보험 인수에서 비교할 수 있지만 Berkshire는 철도·제조·투자자산까지 보유합니다."
+    },
+    {
+      "name": "Progressive",
+      "ticker": "PGR",
+      "comparison": "자동차보험은 GEICO와 경쟁하지만 PGR는 상대적으로 보험에 집중합니다."
+    }
+  ],
+  "macroLink": "경기는 철도 물동량·제조·소매에, 금리는 현금·채권 재투자수익에, 물가는 보험금과 건설비에 작용합니다. 여러 경로를 한 방향의 금리 수혜로 단순화하지 않습니다.",
+  "monitoring": [
+    "보험 인수이익과 투자수익을 분리하면 각각 어떤 변화가 있는가?",
+    "BNSF와 에너지 사업은 유지투자 후 얼마나 현금을 남기는가?",
+    "현금 축적·인수·주식투자·자사주 매입의 기회비용은 무엇인가?"
+  ],
+  "sources": [
+    {
+      "title": "Berkshire Hathaway Class B · 투자자 자료",
+      "url": "https://www.berkshirehathaway.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Berkshire Hathaway Class B · 연혁·기업 자료",
+      "url": "https://berkshirehathaway.com/SpecialLetters/WEB%20past%20present%20future%202014.pdf",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Berkshire · 연차보고서",
+      "url": "https://www.berkshirehathaway.com/reports.html",
+      "note": "사업별 수입과 보험·투자 회계는 연차보고서 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

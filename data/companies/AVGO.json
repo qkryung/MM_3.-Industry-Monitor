@@ -1,0 +1,104 @@
+{
+  "ticker": "AVGO",
+  "oneLiner": "네트워크·맞춤형 반도체와 VMware 등 기업 인프라 소프트웨어를 함께 운영하는 회사.",
+  "businessModel": "통신·데이터센터·스마트폰에 들어가는 전문 반도체를 고객의 제품 설계에 맞춰 공급합니다. 소프트웨어에서는 가상화·메인프레임·보안 도구의 구독과 유지보수로 수익을 냅니다. AI 칩 공급사와 기업 소프트웨어 회사의 성격이 공존하므로 전체 성장률보다 두 사업의 이익과 현금흐름을 나눠 읽어야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "반도체 솔루션",
+      "description": "맞춤형 AI 가속기, 네트워크·무선·스토리지·광통신 반도체.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.broadcom.com/"
+    },
+    {
+      "name": "인프라 소프트웨어",
+      "description": "VMware 가상화와 CA·Symantec 계열 기업 소프트웨어의 구독·유지보수.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.broadcom.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 2005,
+      "event": "현 기업 계보의 Avago가 Agilent 반도체 사업에서 독립."
+    },
+    {
+      "year": 2016,
+      "event": "Avago와 Broadcom 결합으로 Broadcom 이름을 사용."
+    },
+    {
+      "year": 2023,
+      "event": "VMware 인수를 완료해 인프라 소프트웨어 사업 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "설계 단계 고객 관계",
+      "detail": "고객 시스템에 채택된 특수 칩은 교체에 재설계·검증이 필요합니다."
+    },
+    {
+      "title": "맞춤 칩과 연결망",
+      "detail": "AI 계산용 맞춤 칩뿐 아니라 서버를 연결하는 반도체 수요도 확보합니다."
+    },
+    {
+      "title": "기업 소프트웨어 기반",
+      "detail": "업무 핵심 시스템에 깊이 들어간 제품의 구독·유지보수 수입이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "고객 집중",
+      "detail": "일부 대형 고객의 설계 변경이나 내재화가 반도체 매출에 큰 영향을 줄 수 있습니다."
+    },
+    {
+      "title": "가격 정책 마찰",
+      "detail": "소프트웨어 계약 재편이 단기 수익을 높여도 고객 이탈·대체 제품 검토를 촉진할 수 있습니다."
+    },
+    {
+      "title": "인수 후 부담",
+      "detail": "대형 인수의 부채·무형자산 상각과 통합 비용을 현금 창출과 함께 확인해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "comparison": "범용 AI GPU·네트워크와 Broadcom의 맞춤 칩·네트워크가 경쟁과 보완 관계를 가집니다."
+    },
+    {
+      "name": "Marvell Technology",
+      "ticker": "MRVL",
+      "comparison": "맞춤형 데이터센터 반도체와 연결 제품에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "클라우드 AI 투자와 스마트폰 수요에 반응하면서 기업 소프트웨어 갱신의 영향을 받습니다. 금리는 인수 부채의 조달 비용에도 연결됩니다.",
+  "monitoring": [
+    "AI 반도체 성장과 비AI 반도체 회복을 구분했는가?",
+    "맞춤 칩 고객 수와 실제 양산 프로그램이 늘어나는가?",
+    "VMware 계약 재편 이후 갱신·이탈·현금 수입은 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Broadcom · 공식 IR",
+      "url": "https://investors.broadcom.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Avago 2008년 연차보고서",
+      "url": "https://investors.broadcom.com/static-files/fa6ad3ae-d5a0-4b57-aa74-712d888756d8",
+      "note": "Avago의 2005년 설립·사업 계보 확인."
+    },
+    {
+      "title": "VMware 인수 완료",
+      "url": "https://www.broadcom.com/company/news/financial-releases/61541",
+      "note": "2023년 인수 완료 및 현재 사업 성격 확인."
+    },
+    {
+      "title": "Broadcom 2016년 연차재무제표",
+      "url": "https://investors.broadcom.com/static-files/feff9a46-cee0-4f27-a387-bd806a47d946",
+      "note": "2016-02-01 Avago·Broadcom 결합 완료 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

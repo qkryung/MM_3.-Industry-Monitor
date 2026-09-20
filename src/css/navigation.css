@@ -1,0 +1,34 @@
+/* Sector directory. Shared color tokens preserve both archive themes. */
+.directory-heading{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:23px 10px 11px;letter-spacing:1.5px}
+.directory-total{font-size:8px;letter-spacing:.8px;font-weight:550;color:var(--muted)}
+.sector-directory{display:grid;gap:3px}
+.sector-directory .tree-group{border:1px solid transparent;border-radius:9px;transition:background .15s,border-color .15s}
+.sector-directory .tree-group:hover{background:var(--panel);border-color:var(--border-soft)}
+.sector-directory .tree-group.is-expanded{background:var(--panel);border-color:var(--border-soft)}
+.sector-directory .tree-group.is-current{background:var(--panel);border-color:var(--border);box-shadow:var(--shadow)}
+.sector-directory .tree-head{position:relative;min-height:56px;padding:0 4px 0 2px}
+.sector-directory .tree-group.is-current .tree-head:before{content:'';position:absolute;left:-1px;top:13px;bottom:13px;width:3px;border-radius:0 3px 3px 0;background:var(--sector)}
+.sector-directory .sector-nav-link{display:flex;align-items:center;gap:11px;min-width:0;padding:9px 7px;border-radius:7px;color:var(--text2)}
+.sector-nav-icon{display:grid;place-items:center;flex:0 0 30px;height:30px;border:1px solid var(--border);border-radius:8px;color:var(--text2);background:var(--panel)}
+.sector-nav-icon svg{width:17px;height:17px}
+.sector-nav-copy{display:flex;flex-direction:column;gap:2px;min-width:0}
+.sector-nav-copy strong{font-size:12px;line-height:1.4;letter-spacing:-.2px;font-weight:600;white-space:nowrap}
+.sector-nav-copy small{display:flex;align-items:center;gap:5px;color:var(--muted);font-size:9px;line-height:1.5;font-weight:450;font-variant-numeric:tabular-nums}
+.sector-nav-copy small>span{color:var(--border);font-size:10px}
+.sector-directory .sector-nav-link.active{color:var(--accent2)}
+.sector-nav-link.active .sector-nav-icon{color:var(--accent2);background:var(--accent-tint);border-color:var(--border)}
+.sector-nav-link.active .sector-nav-copy strong{font-weight:750}
+.sector-directory .tree-toggle{display:grid;place-items:center;flex:0 0 28px;height:32px;padding:6px;border:1px solid transparent;border-radius:6px;color:var(--muted)}
+.sector-directory .tree-toggle svg{width:14px;height:14px;transition:transform .15s}
+.sector-directory .tree-toggle[aria-expanded=true] svg{transform:rotate(90deg)}
+.sector-directory .tree-toggle:hover{border-color:var(--border);background:var(--panel2);color:var(--text)}
+.sector-directory .tree-children{margin:1px 10px 11px 24px;padding:1px 0 0 13px;border-left:1px solid var(--border)}
+.sector-directory .tree-children a{position:relative;display:flex;align-items:center;gap:5px;padding:7px 8px;margin:2px 0;border-radius:5px;min-height:30px;color:var(--muted);font-size:10px;line-height:1.5}
+.sector-directory .tree-children a:before{content:'';position:absolute;left:-14px;top:50%;width:9px;height:1px;background:var(--border)}
+.sector-directory .tree-children a:hover{background:var(--panel2);color:var(--text)}
+.sector-directory .tree-children a.active{background:var(--accent-tint);color:var(--accent2);font-weight:650}
+.industry-nav-name{flex:1;min-width:0;word-break:keep-all;overflow-wrap:anywhere}
+.industry-nav-count{font:9px var(--mono);color:var(--muted);min-width:17px;text-align:center;flex-shrink:0}
+.industry-complete{font-size:10px;color:var(--green)}
+.tree-children a.active .industry-nav-count{color:var(--accent2)}
+@media(max-width:760px){.sector-directory .tree-head{min-height:59px}.sector-directory .tree-toggle{height:44px;flex-basis:36px}.sector-directory .tree-children a{min-height:36px;font-size:11px}.sector-nav-copy strong{font-size:13px}.sector-nav-copy small{font-size:10px}}

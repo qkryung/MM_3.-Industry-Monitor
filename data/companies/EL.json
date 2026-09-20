@@ -1,0 +1,113 @@
+{
+  "ticker": "EL",
+  "oneLiner": "고급 화장품 브랜드를 피부관리·메이크업·향수 등에 걸쳐 운영합니다.",
+  "businessModel": "Estée Lauder·Clinique·La Mer·M·A·C·Jo Malone·Tom Ford 등 브랜드를 소매·직판·여행소매로 판매합니다. 생활용품 분류 안에서도 프레스티지 소비의 성격이 강해 경기·중국·여행에 더 민감합니다. 브랜드별 수요와 채널 재고를 구분해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "스킨케어",
+      "description": "피부관리 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.elcompanies.com/en/investors"
+    },
+    {
+      "name": "메이크업",
+      "description": "색조·메이크업 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.elcompanies.com/en/investors"
+    },
+    {
+      "name": "향수",
+      "description": "향수와 관련 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.elcompanies.com/en/investors"
+    },
+    {
+      "name": "헤어·기타",
+      "description": "헤어케어·라이선스 등 기타 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.elcompanies.com/en/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": 1946,
+      "event": "Estée와 Joseph Lauder가 회사 설립."
+    },
+    {
+      "year": 1995,
+      "event": "뉴욕증권거래소 상장."
+    },
+    {
+      "year": 2023,
+      "event": "Tom Ford 브랜드 인수 완료."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "프레스티지 브랜드",
+      "detail": "서로 다른 가격대·고객 취향을 다루는 브랜드군이 있습니다."
+    },
+    {
+      "title": "뷰티 개발·마케팅",
+      "detail": "제품 연구와 브랜드 경험을 연결하는 역량이 있습니다."
+    },
+    {
+      "title": "채널 폭",
+      "detail": "백화점·전문점·온라인·여행소매로 여러 접점을 운영합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "중국·여행 노출",
+      "detail": "중국 소비와 공항·면세 채널의 재고 조정이 실적에 큰 영향을 줍니다."
+    },
+    {
+      "title": "신생 브랜드 경쟁",
+      "detail": "소셜·직판 브랜드가 고객 관심과 매장 공간을 빠르게 확보할 수 있습니다."
+    },
+    {
+      "title": "재고·고정비",
+      "detail": "성장이 둔화되면 브랜드 투자·매장·조직 비용이 마진을 압박합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "L’Oréal",
+      "ticker": "OR.PA",
+      "comparison": "프레스티지와 대중 뷰티 브랜드·연구개발·유통을 경쟁합니다."
+    },
+    {
+      "name": "Shiseido",
+      "ticker": "4911.T",
+      "comparison": "아시아·프레스티지 스킨케어와 여행소매에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "소비심리·관광 흐름·중국 수요와 환율이 중요합니다. 필수소비재라는 상위 분류만으로 수요가 안정적이라고 가정하지 않습니다.",
+  "monitoring": [
+    "중국·여행소매의 최종 소비와 출하 재고가 균형을 찾는가?",
+    "성장하는 브랜드가 약한 브랜드의 감소를 상쇄하는가?",
+    "비용 절감 후에도 신제품·마케팅 경쟁력이 유지되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Estée Lauder Companies · 공식 IR",
+      "url": "https://www.elcompanies.com/en/investors",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Estée Lauder · 공식 연혁",
+      "url": "https://www.elcompanies.com/en/who-we-are/our-heritage",
+      "note": "1946년 창업·1995년 상장 등 브랜드·회사 역사."
+    },
+    {
+      "title": "Estée Lauder · Tom Ford 인수 완료",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2023/04-28-2023-171511000",
+      "note": "2023년 브랜드 인수 완료 발표."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

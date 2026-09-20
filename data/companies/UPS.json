@@ -1,0 +1,94 @@
+{
+  "ticker": "UPS",
+  "oneLiner": "택배·국제 운송·공급망 솔루션",
+  "businessModel": "기업·소비자의 소포를 육상·항공 네트워크로 배송하고 국제 통관·공급망 서비스를 제공합니다. 고객은 배송 속도·무게·거리·서비스에 따라 지불합니다. 같은 지역에 배송을 모을수록 효율이 높아져 물량보다 수익성 있는 밀도와 고객 구성이 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "미국 소포",
+      "description": "미국 내 육상·항공 배송",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.ups.com/"
+    },
+    {
+      "name": "국제·공급망",
+      "description": "국제 배송·포워딩·물류 솔루션",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.ups.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1907",
+      "event": "American Messenger 설립"
+    },
+    {
+      "year": "1919",
+      "event": "United Parcel Service 이름 사용"
+    },
+    {
+      "year": "1999",
+      "event": "기업공개"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "통합 네트워크",
+      "detail": "광범위한 집하·배송·항공 연결을 갖습니다."
+    },
+    {
+      "title": "기업 고객",
+      "detail": "기업 배송과 헬스케어 등 특수 물류 관계를 보유합니다."
+    },
+    {
+      "title": "배송 밀도",
+      "detail": "노선·자동화·데이터로 건당 비용을 줄일 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "인건비",
+      "detail": "노동집약적 운영과 임금 계약이 비용에 중요합니다."
+    },
+    {
+      "title": "고객 집중",
+      "detail": "대형 전자상거래 고객 변화가 물량·밀도를 바꿉니다."
+    },
+    {
+      "title": "가격 경쟁",
+      "detail": "택배 대체 공급과 자체 배송망이 경쟁합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "FedEx",
+      "ticker": "FDX",
+      "comparison": "FedEx는 국제 특송·네트워크 개편을 비교합니다."
+    },
+    {
+      "name": "DHL Group",
+      "ticker": null,
+      "comparison": "DHL은 국제 특송·포워딩·계약물류 구성이 다릅니다."
+    }
+  ],
+  "macroLink": "소비·전자상거래·세계 무역이 물량을, 임금·연료·환율이 비용을 움직입니다.",
+  "monitoring": [
+    "저수익 물량 축소 후 노선 밀도·마진은 개선되는가?",
+    "평균 단가 상승은 가격 효과인가 고객 구성 변화인가?",
+    "자동화 절감이 인건비 증가를 상쇄하는가?"
+  ],
+  "sources": [
+    {
+      "title": "United Parcel Service · 투자자 자료",
+      "url": "https://investors.ups.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "United Parcel Service · 기업 연혁·사업 소개",
+      "url": "https://about.ups.com/us/en/our-company/our-history.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

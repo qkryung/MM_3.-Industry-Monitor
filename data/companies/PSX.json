@@ -1,0 +1,101 @@
+{
+  "ticker": "PSX",
+  "oneLiner": "정유·미드스트림·화학·판매 복합 사업",
+  "businessModel": "정유소에서 연료를 만들고 파이프라인·저장시설·마케팅망으로 고객에게 전달합니다. 화학 합작사업에서도 이익을 얻습니다. 소비자는 비슷한 연료를 사지만 회사의 수익은 정제·물류·화학 각각의 가격차와 가동률에서 발생합니다.",
+  "revenueStreams": [
+    {
+      "name": "정유·마케팅",
+      "description": "석유 연료·윤활유·브랜드 유통",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.phillips66.com/"
+    },
+    {
+      "name": "미드스트림",
+      "description": "원유·가스액 수송·분리·저장",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.phillips66.com/"
+    },
+    {
+      "name": "화학",
+      "description": "합작회사 기반 석유화학 제품의 이익 기여",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.phillips66.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1917",
+      "event": "Phillips Petroleum 설립"
+    },
+    {
+      "year": "2002",
+      "event": "Conoco와 Phillips 합병"
+    },
+    {
+      "year": "2012",
+      "event": "ConocoPhillips에서 분사·PSX 상장"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "복합 포트폴리오",
+      "detail": "정유·화학·물류 사이클이 완전히 같지 않습니다."
+    },
+    {
+      "title": "인프라 연결",
+      "detail": "주요 원료 생산지와 공장을 연결합니다."
+    },
+    {
+      "title": "제품 유통",
+      "detail": "도매·브랜드·특수제품 고객 접점을 갖습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "동시 불황",
+      "detail": "정유와 화학이 동시에 약해지면 분산 효과가 작습니다."
+    },
+    {
+      "title": "대형 투자",
+      "detail": "전환·증설 투자는 수익 실현까지 시간이 필요합니다."
+    },
+    {
+      "title": "지분 구조",
+      "detail": "합작·연결 사업의 매출과 이익 기여를 구분해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Marathon Petroleum",
+      "ticker": "MPC",
+      "comparison": "정유와 미드스트림 비교가 가능하지만 연결 지분 차이가 있습니다."
+    },
+    {
+      "name": "Valero",
+      "ticker": "VLO",
+      "comparison": "Valero는 화학 합작 기여가 없어 정유 순수 비교에 가깝습니다."
+    }
+  ],
+  "macroLink": "연료 소비·화학 수요·NGL 가격과 연결됩니다. 원유 한 가지보다 사업별 제품 스프레드를 추적합니다.",
+  "monitoring": [
+    "정유 개선과 화학·미드스트림 기여를 분리하면 무엇이 성장하는가?",
+    "사업 재편 후 반복 현금흐름은 얼마나 남는가?",
+    "설비 전환의 비용·가동 일정은 계약 수요와 맞는가?"
+  ],
+  "sources": [
+    {
+      "title": "Phillips 66 · 투자자 자료",
+      "url": "https://investor.phillips66.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Phillips 66 · 기업 연혁·사업 소개",
+      "url": "https://www.phillips66.com/history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

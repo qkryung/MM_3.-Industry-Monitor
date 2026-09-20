@@ -1,0 +1,104 @@
+{
+  "ticker": "JNJ",
+  "oneLiner": "혁신 의약품과 의료기기를 함께 판매하는 대형 헬스케어 회사입니다.",
+  "businessModel": "의약품 사업은 항암·면역 등 처방약에서, MedTech는 심혈관·수술·정형외과·시력 관리 등 의료기기에서 수입을 얻습니다. 2023년 소비자 건강사업 Kenvue를 분리했으므로 과거의 밴드·구강청결제 중심 이미지와 현재 사업구조를 구분해야 합니다. 약품은 특허와 임상, 의료기기는 시술량과 제품 채택이 핵심입니다.",
+  "revenueStreams": [
+    {
+      "name": "Innovative Medicine",
+      "description": "항암·면역·신경계 등 혁신 처방의약품의 순매출입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.investor.jnj.com/overview/default.aspx"
+    },
+    {
+      "name": "MedTech",
+      "description": "수술·심혈관·정형외과·시력 관리 등 의료기기·관련 제품 수입입니다. Kenvue 소비자 제품 매출은 현재 JNJ 매출에 더하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.investor.jnj.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1886",
+      "event": "Johnson 형제들이 회사를 설립했습니다."
+    },
+    {
+      "year": "1944",
+      "event": "뉴욕증권거래소에서 주식 거래를 시작했습니다."
+    },
+    {
+      "year": "2023",
+      "event": "Kenvue 분리를 완료하고 의약품·의료기기 중심 구조로 전환했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "다른 수익 동력",
+      "detail": "의약품과 의료기기의 특허·수술 사이클이 달라 단일 제품군 의존을 완화합니다."
+    },
+    {
+      "title": "글로벌 상업화",
+      "detail": "의료기관·유통·규제 대응망이 신제품의 여러 국가 출시를 지원합니다."
+    },
+    {
+      "title": "연구·인수 역량",
+      "detail": "내부 연구와 외부 기술 도입을 병행할 자원과 경험이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "특허 만료",
+      "detail": "큰 의약품의 독점기간 종료는 신제품 성장과 상쇄해 읽어야 합니다."
+    },
+    {
+      "title": "법적 부담",
+      "detail": "제품 책임 소송·합의와 규제 이슈가 현금 지출 및 불확실성을 만듭니다."
+    },
+    {
+      "title": "사업 복잡성",
+      "detail": "인수·분리·사업 재편이 성장률과 조정이익의 비교 가능성을 낮춥니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Merck & Co.",
+      "ticker": "MRK",
+      "comparison": "의약품 중 항암·백신 분야가 강한 비교대상입니다."
+    },
+    {
+      "name": "Medtronic",
+      "ticker": "MDT",
+      "comparison": "의료기기 부문에서 심혈관·수술·신경계 제품 경쟁을 비교합니다."
+    },
+    {
+      "name": "Stryker",
+      "ticker": "SYK",
+      "comparison": "정형외과와 수술 장비에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "의료 수요는 경기보다 보험·의료예산과 고령화에 연결됩니다. 병원 자금 사정은 장비 구매에, 환율은 해외 약품·기기 판매에 영향을 줍니다.",
+  "monitoring": [
+    "특허 만료 제품 감소를 어떤 신제품의 실제 매출이 대체하는가?",
+    "MedTech의 성장이 시술 증가·점유율·인수 중 어디서 나오는가?",
+    "법적 지급과 사업 재편 비용을 반영해도 현금흐름이 유지되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Johnson & Johnson · 투자자 자료",
+      "url": "https://www.investor.jnj.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Johnson & Johnson · 연혁·기업 자료",
+      "url": "https://www.jnj.com/our-heritage/timeline",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "JNJ · Kenvue 분리 후 재무 범위",
+      "url": "https://www.investor.jnj.com/investor-news/news-details/2023/Johnson--Johnson-Announces-Updated-Financials-and-2023-Guidance-Following-Completion-of-the-Kenvue-Separation/default.aspx",
+      "note": "2023년 소비자 건강사업 분리 완료와 계속영업 비교 기준."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

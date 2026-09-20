@@ -1,0 +1,106 @@
+{
+  "ticker": "MS",
+  "oneLiner": "기관증권과 개인 자산관리를 연결하는 글로벌 금융회사입니다.",
+  "businessModel": "기관 고객에게 자문·발행·거래 서비스를 제공하면서 부유층 자문, E*TRADE 자기주도 투자, 직장 주식보상 관리로 개인 고객을 확보합니다. 고객자산에 대한 보수와 고객 현금·대출의 순이자수입이 자산관리 이익을 만듭니다. 시장 상승으로 자산이 커진 효과와 실제 고객 순유입을 분리해야 영업력을 읽을 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "기관증권",
+      "description": "투자은행 자문·발행·시장거래·금융 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.morganstanley.com/about-us-ir"
+    },
+    {
+      "name": "자산관리",
+      "description": "개인 고객 관리보수·중개·예금·대출의 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.morganstanley.com/about-us-ir"
+    },
+    {
+      "name": "투자운용",
+      "description": "기관·개인 펀드와 전략의 관리·성과보수",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.morganstanley.com/about-us-ir"
+    }
+  ],
+  "history": [
+    {
+      "year": "1935",
+      "event": "투자은행 파트너십으로 설립됐습니다."
+    },
+    {
+      "year": "1997",
+      "event": "Dean Witter와 합병해 개인 금융 기반을 확대했습니다."
+    },
+    {
+      "year": "2020",
+      "event": "E*TRADE 인수로 온라인 투자·직장 주식보상 접점을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "다중 고객 유입 경로",
+      "detail": "직장·온라인·자문 채널을 연결해 고객의 자산 규모 변화에 맞춰 서비스를 확대할 수 있습니다."
+    },
+    {
+      "title": "반복 관리보수",
+      "detail": "자산관리 기반이 기업금융 수수료의 변동을 일부 완충합니다."
+    },
+    {
+      "title": "기관·개인 연결",
+      "detail": "기업금융 관계와 경영진·직원 자산관리를 연결할 기회가 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "증시 수준 의존",
+      "detail": "고객자산 평가액 하락은 관리보수 감소로 이어집니다."
+    },
+    {
+      "title": "고객 현금 이동",
+      "detail": "예금이 머니마켓펀드 등으로 이동하면 순이자수입이 줄 수 있습니다."
+    },
+    {
+      "title": "통합·판매 관행 위험",
+      "detail": "자문·온라인·은행을 결합한 운영은 시스템과 고객보호 통제를 요구합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Goldman Sachs",
+      "ticker": "GS",
+      "comparison": "기관증권의 직접 경쟁자이나 MS는 개인 자산관리 비중과 유통경로가 다릅니다."
+    },
+    {
+      "name": "Charles Schwab",
+      "ticker": "SCHW",
+      "comparison": "온라인·자산관리·고객현금에서 겹치지만 SCHW는 투자은행 사업이 핵심이 아닙니다."
+    }
+  ],
+  "macroLink": "증시·채권시장 수준은 관리보수에, 금리는 고객 현금수입에, M&A·IPO 환경은 기관증권에 작용합니다. 고객 순유입이 자산가격 하락을 얼마나 상쇄하는지 봅니다.",
+  "monitoring": [
+    "직장·E*TRADE 고객이 보수형 자문으로 전환되는가?",
+    "순신규자산과 시장 평가효과를 분리하면 성장률은 어떤가?",
+    "자산관리 마진 변화가 비용 효율인지 금리 효과인지 구분되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Morgan Stanley · 투자자 자료",
+      "url": "https://www.morganstanley.com/about-us-ir",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Morgan Stanley · 연혁·기업 자료",
+      "url": "https://www.morganstanley.com/about-us/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Morgan Stanley · E*TRADE 거래",
+      "url": "https://www.morganstanley.com/press-releases/morgan-stanley-to-acquire-e-trade",
+      "note": "2020년 거래 배경과 자산관리 채널 확대"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

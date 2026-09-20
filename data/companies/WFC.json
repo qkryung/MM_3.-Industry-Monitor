@@ -1,0 +1,118 @@
+{
+  "ticker": "WFC",
+  "oneLiner": "미국 가계와 기업의 일상 금융이 중심인 대형 은행입니다.",
+  "businessModel": "소비자·소기업 금융, 상업은행, 기업·투자은행, 자산관리 서비스를 제공합니다. 주요 수익은 대출·증권의 순이자이익과 결제·카드·신탁·자문 등 수수료입니다. 넓은 영업 기반을 효율적으로 운영하는 능력과 위험관리·규제 개선 비용이 함께 중요합니다. 주택대출의 신규 취급과 기존 대출 관리도 금리와 주택거래에 다르게 반응합니다.",
+  "revenueStreams": [
+    {
+      "name": "소비자·소기업 금융",
+      "description": "카드·주택·자동차·개인 금융과 계좌 서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.wellsfargo.com/about/investor-relations/"
+    },
+    {
+      "name": "상업은행",
+      "description": "중견기업 대출·리스·현금관리 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.wellsfargo.com/about/investor-relations/"
+    },
+    {
+      "name": "기업·투자은행",
+      "description": "대기업 금융·상업용 부동산·시장거래·자문 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.wellsfargo.com/about/investor-relations/"
+    },
+    {
+      "name": "자산·투자관리",
+      "description": "투자관리·중개·신탁과 관련 은행서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.wellsfargo.com/about/investor-relations/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1852",
+      "event": "Henry Wells와 William Fargo가 금융·운송 서비스를 시작했습니다."
+    },
+    {
+      "year": "1998",
+      "event": "Norwest와 합병한 회사가 Wells Fargo 이름을 유지했습니다."
+    },
+    {
+      "year": "2008",
+      "event": "Wachovia를 인수해 미국 내 영업 기반을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "생활 금융 기반",
+      "detail": "여러 지역의 개인·기업 고객 관계에서 예금과 대출·수수료를 확보합니다."
+    },
+    {
+      "title": "개선 가능한 비용 구조",
+      "detail": "점포·시스템·업무 단순화가 진행되면 같은 매출에서 남는 이익을 높일 여지가 있습니다."
+    },
+    {
+      "title": "기업금융 연결",
+      "detail": "상업대출 고객에게 자금관리·리스·시장 서비스를 추가 제공할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "통제 개선의 비용",
+      "detail": "준법·위험관리 체계를 유지하고 과거 문제를 해결하는 데 상당한 자원이 필요합니다."
+    },
+    {
+      "title": "부동산·가계 신용",
+      "detail": "담보가 있어도 공실·실업·자산가격 하락 시 손실이 발생합니다."
+    },
+    {
+      "title": "예금 경쟁",
+      "detail": "고객이 고금리 상품으로 이동하면 조달비용이 커지고 순이자마진이 눌립니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Bank of America",
+      "ticker": "BAC",
+      "comparison": "소비자·상업은행은 겹치지만 BAC는 Merrill과 해외 시장거래가 더 큰 차별점입니다."
+    },
+    {
+      "name": "U.S. Bancorp",
+      "ticker": "USB",
+      "comparison": "미국 은행·결제 영역이 겹치며 USB의 가맹점 결제 사업과 비교할 수 있습니다."
+    }
+  ],
+  "macroLink": "주택금리와 거래량은 모기지 수수료에, 고용과 기업 활동은 대출손실에 연결됩니다. 정책금리 변화의 영향은 예금 가격 조정과 대출 만기에 따라 달라집니다.",
+  "monitoring": [
+    "비용 절감이 고객 서비스·통제 수준을 유지하면서 이뤄지는가?",
+    "상업용 부동산의 연체와 충당금이 어느 용도에 집중되는가?",
+    "대출 성장과 순이자마진 변화가 동시에 개선되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Wells Fargo · 투자자 자료",
+      "url": "https://www.wellsfargo.com/about/investor-relations/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Wells Fargo · 연혁·기업 자료",
+      "url": "https://www.wellsfargo.com/about/corporate/history/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Wells Fargo · Wachovia 인수",
+      "url": "https://www.wellsfargo.com/about/corporate/wachovia/",
+      "note": "2008년 인수 확인"
+    },
+    {
+      "title": "Wells Fargo · 주주 정보",
+      "url": "https://www.wellsfargo.com/about/investor-relations/shareholder-information/",
+      "note": "1998년 Norwest 계보 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

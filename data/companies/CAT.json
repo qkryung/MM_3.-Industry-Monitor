@@ -1,0 +1,94 @@
+{
+  "ticker": "CAT",
+  "oneLiner": "건설·광산 장비와 엔진·동력 시스템",
+  "businessModel": "건설사·광산·발전 고객에게 장비와 엔진을 판매하고 딜러를 통해 부품·정비를 제공합니다. 장비 판매 뒤에도 사용기간 동안 서비스 매출이 이어집니다. 딜러 출하와 실제 현장 판매를 나눠야 재고 축적을 수요 성장으로 오해하지 않습니다.",
+  "revenueStreams": [
+    {
+      "name": "건설·광산 장비",
+      "description": "굴착기·로더·광산 트럭과 부품",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.caterpillar.com/"
+    },
+    {
+      "name": "동력·서비스·금융",
+      "description": "엔진·발전·정비와 장비 금융",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.caterpillar.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1925",
+      "event": "Holt와 Best 합병으로 출범"
+    },
+    {
+      "year": "1931",
+      "event": "첫 디젤엔진 생산"
+    },
+    {
+      "year": "2011",
+      "event": "Bucyrus 인수로 광산 장비 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "딜러망",
+      "detail": "현장 가까이에서 장비·정비를 연결합니다."
+    },
+    {
+      "title": "설치 기반",
+      "detail": "사용 중인 장비가 교체·부품 수요를 만듭니다."
+    },
+    {
+      "title": "다양한 수요",
+      "detail": "건설·광산·발전 사이클이 모두 같지는 않습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "경기 민감",
+      "detail": "고객 투자 연기가 장비 수요를 낮춥니다."
+    },
+    {
+      "title": "재고 시차",
+      "detail": "딜러 재고 조정은 공장 출하를 더 크게 흔듭니다."
+    },
+    {
+      "title": "금융 위험",
+      "detail": "연체·중고 장비 가치 하락을 함께 부담합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Deere",
+      "ticker": "DE",
+      "comparison": "Deere는 농업 노출이 크고 CAT은 광산·동력 비중이 특징입니다."
+    },
+    {
+      "name": "Komatsu",
+      "ticker": null,
+      "comparison": "건설·광산 장비의 실제 경쟁사로 지역·딜러망을 비교합니다."
+    }
+  ],
+  "macroLink": "건설·광산 투자와 원자재 수익이 주문을 결정하며 금리 상승은 고객 장비 구매·금융에 부담입니다.",
+  "monitoring": [
+    "딜러 출하와 소매 판매 차이가 커지는가?",
+    "부품·동력 수요가 건설장비 약세를 완충하는가?",
+    "가격 인상 후에도 장비 점유율·가동이 유지되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Caterpillar · 투자자 자료",
+      "url": "https://investors.caterpillar.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Caterpillar · 기업 연혁·사업 소개",
+      "url": "https://www.caterpillar.com/en/company/about-caterpillar/history.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

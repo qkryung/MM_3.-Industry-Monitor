@@ -1,0 +1,106 @@
+{
+  "ticker": "EQIX",
+  "oneLiner": "여러 기업의 서버와 통신망을 한곳에 두고 서로 연결해 주는 데이터센터 회사입니다.",
+  "businessModel": "고객이 서버를 설치할 공간·전력·냉각을 제공하는 코로케이션과 고객 간 데이터 연결을 판매합니다. 통신사·클라우드·금융회사 등이 가까이 모일수록 새로운 고객도 연결 편의를 얻는 구조입니다. 건물 면적보다 전력 용량·연결 생태계·서비스 신뢰도가 중요하며, 대형 고객용 xScale 사업은 공동투자 구조도 확인해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "코로케이션",
+      "description": "서버 공간·전력 등 기본 수용 서비스의 반복 사용료입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.equinix.com/"
+    },
+    {
+      "name": "상호연결",
+      "description": "크로스커넥트와 디지털 연결 서비스의 반복 사용료입니다. 코로케이션 수입과 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.equinix.com/"
+    },
+    {
+      "name": "설치·기타 서비스",
+      "description": "초기 설치 및 전문 지원 등입니다. 일회성 수입과 반복 사용료의 차이를 확인합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.equinix.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1998",
+      "event": "Equinix가 설립됐습니다."
+    },
+    {
+      "year": "2000",
+      "event": "기업공개로 상장했습니다."
+    },
+    {
+      "year": "2015",
+      "event": "미국 세법상 REIT로 운영을 시작했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "연결 생태계",
+      "detail": "다양한 네트워크와 고객이 모일수록 같은 시설에서 연결할 유인이 커집니다."
+    },
+    {
+      "title": "이전 부담",
+      "detail": "서버 이전과 통신 연결 변경에는 비용·장애 위험이 있어 고객 유지에 도움이 됩니다."
+    },
+    {
+      "title": "글로벌 고객 지원",
+      "detail": "다국적 기업이 여러 지역에서 일관된 서비스와 계약을 이용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "전력 확보",
+      "detail": "전력망 접속 지연과 냉각 제약이 수요를 실제 매출로 전환하는 속도를 제한합니다."
+    },
+    {
+      "title": "투자 부담",
+      "detail": "증설비와 유지 투자 후 남는 현금을 AFFO와 함께 확인해야 합니다."
+    },
+    {
+      "title": "대형 고객 경쟁",
+      "detail": "클라우드 업체가 자체 데이터센터를 짓거나 가격 협상력을 높일 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Digital Realty",
+      "ticker": "DLR",
+      "comparison": "대형 전력 단위 임대와 코로케이션을 함께 운영합니다."
+    },
+    {
+      "name": "American Tower / CoreSite",
+      "ticker": "AMT",
+      "comparison": "CoreSite를 통해 미국 코로케이션·상호연결 분야에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "클라우드·AI 투자가 수요를 늘려도 전력·건설 공급 제약이 성장 시점을 결정합니다. 금리와 환율은 글로벌 증설 자금과 달러 환산 실적에 영향을 줍니다.",
+  "monitoring": [
+    "신규 수주 중 실제 전력 공급과 서비스 개시가 가능한 물량은 얼마인가?",
+    "기존 고객의 연결 수·서비스 구매 확대가 신규 시설 투자 없이도 성장하는가?",
+    "AFFO 증가와 유지·증설 투자 후 현금흐름이 같은 방향인가?"
+  ],
+  "sources": [
+    {
+      "title": "Equinix · 투자자 자료",
+      "url": "https://investor.equinix.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Equinix · 연혁·기업 자료",
+      "url": "https://investor.equinix.com/about-equinix/faq",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Equinix · REIT 전환 공시",
+      "url": "https://investor.equinix.com/sec-filings/all-sec-filings/content/0001193125-15-272652/d944848d10q.htm",
+      "note": "2015-01-01 REIT 전환 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,94 @@
+{
+  "ticker": "DE",
+  "oneLiner": "농기계·정밀농업 기술과 건설 장비",
+  "businessModel": "농가에 트랙터·수확기·정밀농업 기술을, 건설 고객에게 토공·도로 장비를 판매합니다. 딜러·금융·부품망이 장비 수명주기를 지원합니다. 농업에서는 곡물가격 자체보다 농가가 비용을 내고도 남기는 현금과 교체 필요가 구매를 좌우합니다.",
+  "revenueStreams": [
+    {
+      "name": "농업·잔디 장비",
+      "description": "대형 농기계·소형 장비·정밀농업 솔루션",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.deere.com/"
+    },
+    {
+      "name": "건설·산림·금융",
+      "description": "토공·도로·산림 장비와 구매 금융",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.deere.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1837",
+      "event": "John Deere가 강철 쟁기 제작"
+    },
+    {
+      "year": "1918",
+      "event": "Waterloo Gasoline Engine 인수로 트랙터 진입"
+    },
+    {
+      "year": "2017",
+      "event": "Wirtgen 인수로 도로 장비 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "농업 생태계",
+      "detail": "기계·작업 데이터·딜러 지원을 연결합니다."
+    },
+    {
+      "title": "정밀 기술",
+      "detail": "파종·살포 효율 개선이 고객 원가를 줄일 수 있습니다."
+    },
+    {
+      "title": "브랜드·유통",
+      "detail": "농가의 정비·중고 거래망이 교체 구매를 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "농가 사이클",
+      "detail": "곡물 수익 악화와 중고 재고는 신규 판매를 압박합니다."
+    },
+    {
+      "title": "고가 장비",
+      "detail": "금리가 오르면 할부·리스 부담이 커집니다."
+    },
+    {
+      "title": "기술 비용",
+      "detail": "자율·정밀 기술 채택이 기대보다 느릴 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "AGCO",
+      "ticker": "AGCO",
+      "comparison": "AGCO는 여러 농기계 브랜드로 경쟁하며 지역·작물 구성이 다릅니다."
+    },
+    {
+      "name": "CNH Industrial",
+      "ticker": "CNH",
+      "comparison": "Case IH·New Holland와 농기계·딜러·금융을 비교합니다."
+    }
+  ],
+  "macroLink": "곡물가격·농업 투입비·금리의 조합이 농가 현금과 장비 교체를 결정합니다.",
+  "monitoring": [
+    "농가 소득과 중고 장비 재고는 개선되는가?",
+    "정밀농업 기능의 유료 채택·고객 효과는 확인되는가?",
+    "생산 감축이 딜러 재고와 현금을 정상화하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Deere & Company · 투자자 자료",
+      "url": "https://investor.deere.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Deere & Company · 기업 연혁·사업 소개",
+      "url": "https://www.deere.com/en-us/our-company/explore-john-deere/history-heritage",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

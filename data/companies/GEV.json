@@ -1,0 +1,101 @@
+{
+  "ticker": "GEV",
+  "oneLiner": "발전 터빈·전력망 장비·풍력 및 서비스",
+  "businessModel": "발전사·유틸리티·산업 고객에게 가스터빈·발전 서비스·전력망 장비·풍력 터빈을 공급합니다. 전기를 직접 판매하는 유틸리티와 달리 발전·송전 투자 예산이 매출 원천입니다. 신규 장비는 수주·제조 후 인도되고 설치 이후 장기 정비가 이어집니다.",
+  "revenueStreams": [
+    {
+      "name": "Power",
+      "description": "가스·증기 등 발전장비와 수명주기 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.gevernova.com/investors"
+    },
+    {
+      "name": "Electrification",
+      "description": "전력망·변압·전력변환·소프트웨어",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.gevernova.com/investors"
+    },
+    {
+      "name": "Wind",
+      "description": "육상·해상 풍력 장비와 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.gevernova.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1892",
+      "event": "GE 설립을 통해 전력장비 계보 형성"
+    },
+    {
+      "year": "2015",
+      "event": "GE가 Alstom 전력·그리드 사업 인수"
+    },
+    {
+      "year": "2024",
+      "event": "GE에서 분사해 독립 상장"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "발전 설치 기반",
+      "detail": "기존 터빈의 정비·부품 수요가 있습니다."
+    },
+    {
+      "title": "전력망 기술",
+      "detail": "발전·송배전의 여러 장비를 제공합니다."
+    },
+    {
+      "title": "장기 주문",
+      "detail": "대형 프로젝트가 미래 인도 가시성을 줄 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "풍력 집행",
+      "detail": "보증·품질·프로젝트 원가가 수익을 압박할 수 있습니다."
+    },
+    {
+      "title": "장기 계약",
+      "detail": "원가·납기 변화가 고정가격 주문에 불리합니다."
+    },
+    {
+      "title": "기대 선반영",
+      "detail": "전력 부족 이야기가 실제 주문·이익보다 앞설 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Siemens Energy",
+      "ticker": null,
+      "comparison": "가스터빈·그리드·풍력 구성과 정비 수익을 비교합니다."
+    },
+    {
+      "name": "Eaton",
+      "ticker": "ETN",
+      "comparison": "Eaton은 배전·전력관리 중심이라 대형 발전 터빈과 구분합니다."
+    }
+  ],
+  "macroLink": "전력 수요·유틸리티 투자·데이터센터 증설이 기회를 만들지만 인허가·자금조달·설비 공급에 시차가 있습니다.",
+  "monitoring": [
+    "터빈·그리드 수주가 적정 가격·납기로 확보되는가?",
+    "풍력 사업의 품질·현금 손실이 줄어드는가?",
+    "설치 기반 서비스가 신규 장비 사이클을 완충하는가?"
+  ],
+  "sources": [
+    {
+      "title": "GE Vernova · 투자자 자료",
+      "url": "https://www.gevernova.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "GE Vernova · 독립 분사·사업 구조",
+      "url": "https://www.gevernova.com/news/articles/ge-vernova-completes-spin",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

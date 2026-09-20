@@ -1,0 +1,101 @@
+{
+  "ticker": "KR",
+  "oneLiner": "식료품 판매와 자체 브랜드·약국·주유를 연결하는 미국 유통사입니다.",
+  "businessModel": "여러 지역 브랜드의 슈퍼마켓에서 식품과 생활 상품을 팔고 약국·주유를 함께 제공합니다. 자체 브랜드와 고객 구매 데이터 기반 광고가 수익을 보완합니다. 온라인 매출은 늘어도 주문 처리·배송비를 반영해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "식료품·일반·약국",
+      "description": "슈퍼마켓 식품·생활상품·약국 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kroger.com/overview/default.aspx"
+    },
+    {
+      "name": "주유",
+      "description": "주유소 연료 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kroger.com/overview/default.aspx"
+    },
+    {
+      "name": "기타 서비스",
+      "description": "소매 미디어·관련 서비스 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.kroger.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1883,
+      "event": "Barney Kroger가 Cincinnati에 식료품점 개점."
+    },
+    {
+      "year": 1901,
+      "event": "자체 제과 생산을 도입."
+    },
+    {
+      "year": 1999,
+      "event": "Fred Meyer와 합병."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "지역 고객 기반",
+      "detail": "여러 지역에서 익숙한 슈퍼마켓 브랜드를 운영합니다."
+    },
+    {
+      "title": "자체 브랜드",
+      "detail": "다양한 가격대의 대체 상품과 차별적인 마진을 제공합니다."
+    },
+    {
+      "title": "구매 데이터",
+      "detail": "반복 식품 구매 데이터가 판촉·광고 운영을 돕습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "가격 경쟁",
+      "detail": "Walmart·회원제·할인 슈퍼와 필수품 가격을 경쟁합니다."
+    },
+    {
+      "title": "노동·물류 비용",
+      "detail": "식품의 낮은 마진에 인건비·폐기·배송비가 부담됩니다."
+    },
+    {
+      "title": "디지털 실행",
+      "detail": "자동화·배송 투자가 주문 증가만큼 이익을 만들지 못할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Walmart",
+      "ticker": "WMT",
+      "comparison": "식료품 가격·온라인·접근성에서 경쟁합니다."
+    },
+    {
+      "name": "Albertsons",
+      "ticker": "ACI",
+      "comparison": "지역 슈퍼마켓과 약국·자체 브랜드에서 직접 경쟁합니다."
+    }
+  ],
+  "macroLink": "식품 물가 상승은 명목 매출을 높일 수 있지만 수량은 줄 수 있습니다. 임금과 가계의 저가 선택, 연료 가격을 매출 구성과 연결합니다.",
+  "monitoring": [
+    "주유를 제외한 동일점 매출에 수량 개선이 동반되는가?",
+    "자체 브랜드와 광고가 고객 가치·이익을 함께 높이는가?",
+    "온라인 주문의 추가 비용이 실제로 낮아지는가?"
+  ],
+  "sources": [
+    {
+      "title": "Kroger · 공식 IR",
+      "url": "https://ir.kroger.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Kroger · 공식 역사",
+      "url": "https://www.thekrogerco.com/about/history/",
+      "note": "1883년 창업·1901년 자체 제과·1999년 합병."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

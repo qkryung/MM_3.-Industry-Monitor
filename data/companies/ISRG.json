@@ -1,0 +1,101 @@
+{
+  "ticker": "ISRG",
+  "oneLiner": "da Vinci 수술로봇을 설치한 뒤 수술마다 기구·소모품과 유지 서비스를 판매합니다.",
+  "businessModel": "병원에 da Vinci 수술 시스템을 판매하거나 임대하고 수술용 기구·부속품과 유지보수를 제공합니다. Ion은 폐 결절 검사에 쓰이는 로봇 보조 기관지내시경 시스템입니다. 설치 대수가 늘어도 기기가 충분히 쓰이지 않으면 반복 수입은 제한됩니다. 수술 건수와 시스템당 사용량이 장비 판매만큼 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "기구·부속품",
+      "description": "수술·시술 때 사용하고 정해진 사용 수명 후 교체하는 기구·소모품 판매입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://isrg.gcs-web.com/"
+    },
+    {
+      "name": "시스템",
+      "description": "da Vinci·Ion 시스템 판매 및 임대 관련 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://isrg.gcs-web.com/"
+    },
+    {
+      "name": "서비스",
+      "description": "시스템 유지보수·지원 계약 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://isrg.gcs-web.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1995",
+      "event": "Intuitive가 설립됐습니다."
+    },
+    {
+      "year": "2000",
+      "event": "da Vinci 수술 시스템을 출시했습니다."
+    },
+    {
+      "year": "2019",
+      "event": "Ion 로봇 보조 기관지내시경 시스템을 출시했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "설치·교육 기반",
+      "detail": "사용 경험이 있는 의사·수술팀과 설치 기기가 새 시술 확산에 도움을 줍니다."
+    },
+    {
+      "title": "반복 매출",
+      "detail": "수술이 계속되면 기구·서비스 수요가 발생합니다."
+    },
+    {
+      "title": "통합 생태계",
+      "detail": "기기·기구·교육·소프트웨어를 함께 제공해 사용 경험을 연결합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "장비 구매 부담",
+      "detail": "병원의 재정과 설비투자 예산이 설치 속도를 제한할 수 있습니다."
+    },
+    {
+      "title": "경쟁 확대",
+      "detail": "새 수술로봇과 대체 시술이 가격·병원 선택에 영향을 줍니다."
+    },
+    {
+      "title": "근거·규제",
+      "detail": "적응증·시술별 임상 근거, 안전성, 승인 범위가 확산을 좌우합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Medtronic",
+      "ticker": "MDT",
+      "comparison": "Hugo 등 수술로봇에서 경쟁하는 광범위 의료기기 회사입니다."
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "comparison": "수술기기와 로봇 개발에서 경쟁하는 대형 회사입니다."
+    }
+  ],
+  "macroLink": "병원 인력·시술량과 설비투자 여력이 직접적입니다. 고령화는 수요 기반이지만 보험 지급과 수술실 처리 능력이 실제 수술 증가를 제한할 수 있습니다.",
+  "monitoring": [
+    "시스템당 수술 건수와 전체 수술 건수가 함께 증가하는가?",
+    "장비 판매와 임대 비중 변화가 당기 매출과 장기 현금흐름에 어떤 영향을 주는가?",
+    "새 시스템 도입이 기구·서비스 성장과 병원의 실제 활용으로 이어지는가?"
+  ],
+  "sources": [
+    {
+      "title": "Intuitive Surgical · 투자자 자료",
+      "url": "https://isrg.gcs-web.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Intuitive Surgical · 연혁·기업 자료",
+      "url": "https://www.intuitive.com/en-us/about-us/company/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

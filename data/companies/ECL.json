@@ -1,0 +1,94 @@
+{
+  "ticker": "ECL",
+  "oneLiner": "물·위생·감염예방 관련 화학과 현장 서비스",
+  "businessModel": "호텔·식당·식품공장·병원·산업시설에 세정·위생·수처리 약품과 현장 서비스를 공급합니다. 고객은 물·에너지·불량·오염 비용을 줄이기 위해 지불합니다. 약품만 공급하는 업체와 달리 투입 장비·모니터링·서비스를 함께 제공합니다.",
+  "revenueStreams": [
+    {
+      "name": "위생·식품·생명과학",
+      "description": "세정·소독·위생 제품과 현장 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.ecolab.com/"
+    },
+    {
+      "name": "물·산업 솔루션",
+      "description": "수처리·공정 효율 약품·모니터링·서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.ecolab.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1923",
+      "event": "Economics Laboratory 설립"
+    },
+    {
+      "year": "1986",
+      "event": "Ecolab으로 사명 변경"
+    },
+    {
+      "year": "2011",
+      "event": "Nalco와 통합"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 내재화",
+      "detail": "고객 공정·위생 관리에 서비스가 연결됩니다."
+    },
+    {
+      "title": "가치 기반 판매",
+      "detail": "약품 가격보다 물·에너지 절감 효과를 제시할 수 있습니다."
+    },
+    {
+      "title": "현장망",
+      "detail": "반복 방문·데이터로 서비스와 교차 판매를 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "서비스 비용",
+      "detail": "전문 인력·물류 비용이 가격 인상보다 빨리 오를 수 있습니다."
+    },
+    {
+      "title": "최종 수요",
+      "detail": "호텔·식당·산업 고객 가동 둔화에 노출됩니다."
+    },
+    {
+      "title": "실행 책임",
+      "detail": "위생·수처리 성능 문제가 고객 손실·책임으로 이어질 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Solenis",
+      "ticker": null,
+      "comparison": "수처리·위생 분야 비상장 경쟁사로 고객·제품 범위가 다릅니다."
+    },
+    {
+      "name": "Veralto",
+      "ticker": "VLTO",
+      "comparison": "수질 장비·분석·소프트웨어 중심으로 약품·현장 서비스와 구분합니다."
+    }
+  ],
+  "macroLink": "서비스 소비·산업 가동률과 물·에너지 비용이 중요합니다. 물 부족은 장기 수요를 만들지만 고객 투자 승인에는 시차가 있습니다.",
+  "monitoring": [
+    "고객에게 확인된 물·에너지 절감이 가격 유지로 연결되는가?",
+    "유기적 성장에서 물량 기여가 늘어나는가?",
+    "가격 전가 후에도 서비스 품질·유지율이 안정적인가?"
+  ],
+  "sources": [
+    {
+      "title": "Ecolab · 투자자 자료",
+      "url": "https://investor.ecolab.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Ecolab · 기업 연혁·사업 소개",
+      "url": "https://www.ecolab.com/en-us/about/our-history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

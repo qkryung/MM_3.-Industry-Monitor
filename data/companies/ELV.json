@@ -1,0 +1,111 @@
+{
+  "ticker": "ELV",
+  "oneLiner": "Anthem·Wellpoint 건강보험과 Carelon 약제·의료서비스를 운영합니다.",
+  "businessModel": "지역 Blue Cross/Blue Shield 계열 보험 브랜드와 다른 건강보험, Carelon 서비스를 운영합니다. 위험 인수 보험에서는 보험료에서 의료비를 부담하고, 자가보험 기업 고객에게는 관리 서비스 수수료를 받습니다. Medicaid 가입자 구성과 정부 지급률 변화는 가입자 수 감소와 별개로 의료비율에 영향을 줍니다. 내부 Carelon 매출은 연결 제거를 확인합니다.",
+  "revenueStreams": [
+    {
+      "name": "보험료",
+      "description": "상업·정부 건강보험의 위험 인수에 대한 보험료입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.elevancehealth.com/investors/default.aspx"
+    },
+    {
+      "name": "관리·의료 서비스",
+      "description": "기업의 자가보험 관리와 Carelon의 의료·관련 서비스 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.elevancehealth.com/investors/default.aspx"
+    },
+    {
+      "name": "약제 제품·서비스",
+      "description": "CarelonRx의 약제 및 관련 서비스에서 외부 고객에 대해 인식하는 수입입니다. 내부거래 중복을 제외해야 합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.elevancehealth.com/investors/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "2004",
+      "event": "Anthem과 WellPoint Health Networks가 합병해 통합 WellPoint 기반을 형성했습니다."
+    },
+    {
+      "year": "2014",
+      "event": "WellPoint에서 Anthem으로 회사 이름을 변경했습니다."
+    },
+    {
+      "year": "2022",
+      "event": "Elevance Health로 이름을 바꾸고 ELV 티커 및 Carelon 브랜드를 도입했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "지역 보험 기반",
+      "detail": "오랜 지역 브랜드와 의료기관 계약망을 보유합니다."
+    },
+    {
+      "title": "다양한 계약",
+      "detail": "위험 인수 보험과 관리 수수료 계약을 모두 제공합니다."
+    },
+    {
+      "title": "서비스 확장",
+      "detail": "Carelon을 통해 약제·진료지원 등 추가 고객 수요를 연결할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "정부 프로그램",
+      "detail": "Medicaid·Medicare 지급률과 가입자 위험 구성이 바뀌면 수익성이 달라집니다."
+    },
+    {
+      "title": "보험료 시차",
+      "detail": "의료비 증가가 계약 보험료 인상보다 먼저 나타날 수 있습니다."
+    },
+    {
+      "title": "서비스 경쟁",
+      "detail": "Carelon 확대는 계약 수주뿐 아니라 품질·가격·통합 실행을 요구합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "UnitedHealth Group",
+      "ticker": "UNH",
+      "comparison": "보험과 Optum의 진료·약제·정보 플랫폼을 결합합니다."
+    },
+    {
+      "name": "The Cigna Group",
+      "ticker": "CI",
+      "comparison": "기업보험과 Evernorth 중심으로 고객구성이 다릅니다."
+    },
+    {
+      "name": "Centene",
+      "ticker": "CNC",
+      "comparison": "정부지원 보험 노출을 비교할 때 유용한 경쟁사입니다."
+    }
+  ],
+  "macroLink": "고용·정부 보험 가입 자격·주정부 예산·의료 인플레이션이 직접 변수입니다. 가입자가 줄어도 건강한 가입자가 먼저 빠지면 남은 집단의 의료비 부담은 높아질 수 있습니다.",
+  "monitoring": [
+    "Medicaid 가입자 구성 변화에 맞춰 정부 지급률과 의료비 추정이 조정되는가?",
+    "상업보험의 보험료 인상이 의료비 추세를 따라가는가?",
+    "Carelon의 외부 매출·마진·고객 유지가 성장하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Elevance Health · 투자자 자료",
+      "url": "https://ir.elevancehealth.com/investors/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Elevance Health · 연혁·기업 자료",
+      "url": "https://www.elevancehealth.com/annual-report/2022/ELV-2022.12.31-10K.pdf",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "WellPoint · 2004 결합 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1156039/000119312506037706/d10k.htm",
+      "note": "2004 Anthem·WellPoint 결합의 법인 이력 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

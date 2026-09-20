@@ -1,0 +1,101 @@
+{
+  "ticker": "ADBE",
+  "oneLiner": "디자인·영상 제작과 PDF 문서, 디지털 마케팅 도구를 구독으로 파는 회사.",
+  "businessModel": "Photoshop·Illustrator·Premiere 등 제작 도구, Acrobat 문서 도구를 개인과 기업에 구독으로 제공합니다. 기업 고객에게는 콘텐츠·고객 경험·마케팅 운영 도구도 판매합니다. 생성형 AI는 작업 속도를 높여줄 수 있지만 무료·저가 도구가 기존 구독의 가치를 대체할 가능성도 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "창작 소프트웨어",
+      "description": "Creative Cloud와 관련 창작·이미지·영상 도구 및 생성형 AI 기능.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.adobe.com/investor-relations.html"
+    },
+    {
+      "name": "문서 소프트웨어",
+      "description": "Acrobat·PDF 편집·전자서명 등 문서 업무 도구.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.adobe.com/investor-relations.html"
+    },
+    {
+      "name": "기업 고객 경험·기타",
+      "description": "디지털 마케팅·콘텐츠 관리·분석 등 Experience Cloud와 기타 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.adobe.com/investor-relations.html"
+    }
+  ],
+  "history": [
+    {
+      "year": 1982,
+      "event": "John Warnock과 Charles Geschke가 Adobe 설립."
+    },
+    {
+      "year": 1993,
+      "event": "PDF와 Acrobat을 도입해 디지털 문서 사업 구축."
+    },
+    {
+      "year": 2013,
+      "event": "Creative Cloud 중심 구독 모델 전환을 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "전문 작업 표준",
+      "detail": "제작 파일·교육·협업 과정이 Adobe 도구를 중심으로 구축된 고객이 있습니다."
+    },
+    {
+      "title": "문서와 창작의 병행",
+      "detail": "창작 경기뿐 아니라 기업 문서 업무의 반복 수요도 확보합니다."
+    },
+    {
+      "title": "기존 흐름 안의 AI",
+      "detail": "고객이 쓰던 도구에 AI를 넣어 새 프로그램 도입 부담을 낮출 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "생성형 AI 대체",
+      "detail": "간단한 디자인·영상 작업은 다른 도구가 더 저렴하게 해결할 수 있습니다."
+    },
+    {
+      "title": "구독 가격 저항",
+      "detail": "가격 인상이나 제품 묶음 변경이 이탈과 경쟁 제품 검토를 촉진할 수 있습니다."
+    },
+    {
+      "title": "콘텐츠 권리 문제",
+      "detail": "학습 데이터·생성 결과물의 권리와 책임이 고객의 상업적 도입을 좌우합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Canva",
+      "ticker": "비상장",
+      "comparison": "간단한 디자인·협업에 강점이 있는 제작 플랫폼으로 전문 도구와 사용층이 일부 겹칩니다."
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "comparison": "문서·콘텐츠 제작 및 기업 AI 도구에서 예산을 경쟁합니다."
+    }
+  ],
+  "macroLink": "광고·콘텐츠 제작 예산과 기업 고용이 구독 수요에 영향을 줍니다. 경기와 별개로 AI가 고객의 제작 방식·필요한 구독 수를 바꿀 수 있습니다.",
+  "monitoring": [
+    "Firefly 등 AI 사용이 유료 전환과 구독 유지로 이어지는가?",
+    "창작과 문서 제품의 신규 계약·갱신 성장을 따로 확인했는가?",
+    "가격 인상 이후 이용자 이탈이나 저가 경쟁 도구 이동이 늘어나는가?"
+  ],
+  "sources": [
+    {
+      "title": "Adobe · 공식 IR",
+      "url": "https://www.adobe.com/investor-relations.html",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Adobe 공식 회사 소개·연혁",
+      "url": "https://www.adobe.com/about-adobe.html",
+      "note": "1982년 설립·1993년 PDF·2013년 Creative Cloud 전환 및 제품군 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

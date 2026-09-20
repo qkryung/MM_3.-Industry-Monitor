@@ -1,0 +1,94 @@
+{
+  "ticker": "MA",
+  "oneLiner": "카드 네트워크에 보안·데이터·분석 서비스를 더한 결제회사입니다.",
+  "businessModel": "Mastercard는 은행이 발급한 카드와 가맹점 결제를 연결하며 주로 카드대출의 원금을 부담하지 않습니다. 네트워크 수수료는 결제금액·거래처리·국경 간 활동에 연결됩니다. 사이버보안·데이터 분석·인증·컨설팅 등 부가서비스도 제공하지만 같은 거래를 두 번 매출로 세지 않고 회사의 순매출 구분을 따릅니다.",
+  "revenueStreams": [
+    {
+      "name": "결제 네트워크",
+      "description": "국내·국경 간 결제와 거래처리 관련 수입에서 리베이트·인센티브를 반영",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.mastercard.com/overview/default.aspx"
+    },
+    {
+      "name": "부가서비스·솔루션",
+      "description": "보안·인증·데이터·분석·컨설팅 등 서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.mastercard.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1966",
+      "event": "은행들의 Interbank Card Association에서 출발했습니다."
+    },
+    {
+      "year": "1979",
+      "event": "Mastercard 명칭을 채택했습니다."
+    },
+    {
+      "year": "2006",
+      "event": "NYSE에 상장했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "글로벌 수용성",
+      "detail": "은행·가맹점 네트워크의 폭이 새로운 고객의 참여를 돕습니다."
+    },
+    {
+      "title": "서비스 교차판매",
+      "detail": "결제 관계를 활용해 사기방지·분석 서비스를 추가 제공할 수 있습니다."
+    },
+    {
+      "title": "자산 부담의 차이",
+      "detail": "발급은행과 달리 주된 사업이 직접 카드대출이어서 신용손실 구조가 다릅니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "법·정책 변수",
+      "detail": "결제 수수료·네트워크 라우팅·경쟁정책 변화에 노출됩니다."
+    },
+    {
+      "title": "대형 고객 인센티브",
+      "detail": "계약 갱신 경쟁이 거래 성장의 이익 전환을 낮출 수 있습니다."
+    },
+    {
+      "title": "보안·운영 신뢰",
+      "detail": "거래 장애나 사기 대응 실패는 전체 네트워크 신뢰에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Visa",
+      "ticker": "V",
+      "comparison": "가장 가까운 네트워크 비교 대상이며 서비스·지역 구성과 인센티브를 맞춰 봅니다."
+    },
+    {
+      "name": "PayPal",
+      "ticker": "PYPL",
+      "comparison": "온라인 결제 접점에서 경쟁·협력하지만 PayPal은 지갑·가맹점 처리가 핵심입니다."
+    }
+  ],
+  "macroLink": "소비와 해외여행 회복은 네트워크 이용을 늘릴 수 있습니다. 부가서비스는 고객의 보안·분석 예산에도 영향을 받으므로 모든 매출을 소비액과 일대일 대응시키지 않습니다.",
+  "monitoring": [
+    "네트워크 순매출과 부가서비스가 각각 유기적으로 성장하는가?",
+    "국경 간 활동과 국내 결제의 구성 변화는 수익률에 어떤 영향을 주는가?",
+    "서비스 확대가 인수 효과인지 기존 고객의 채택 증가인지 구분되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Mastercard · 투자자 자료",
+      "url": "https://investor.mastercard.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Mastercard · 연혁·기업 자료",
+      "url": "https://www.mastercard.com/brandcenter/us/en/brand-history.html",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

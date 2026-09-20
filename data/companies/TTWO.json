@@ -1,0 +1,116 @@
+{
+  "ticker": "TTWO",
+  "oneLiner": "Rockstar·2K·Zynga의 게임을 판매하고 게임 안의 반복 결제로 돈을 버는 회사입니다.",
+  "businessModel": "대작 콘솔·PC 게임과 모바일 게임을 개발·운영합니다. 신작 판매 뒤 가상 아이템·추가 콘텐츠 등으로 수명을 늘리며, 모바일에서는 광고도 벌어들입니다. 출시 시점·개발비와 결제액의 회계 매출 전환이 이익에 큰 영향을 줍니다.",
+  "revenueStreams": [
+    {
+      "name": "완성 게임·콘텐츠 판매",
+      "description": "신작·카탈로그 게임과 별도 콘텐츠 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.take2games.com/ir"
+    },
+    {
+      "name": "반복 이용자 지출",
+      "description": "가상 화폐·게임 내 구매·지속 이용 관련 결제.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.take2games.com/ir"
+    },
+    {
+      "name": "게임 내 광고",
+      "description": "주로 모바일 게임 이용자에게 노출되는 광고.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.take2games.com/ir"
+    }
+  ],
+  "history": [
+    {
+      "year": 1993,
+      "event": "Take-Two 설립."
+    },
+    {
+      "year": 1997,
+      "event": "주식시장 상장."
+    },
+    {
+      "year": 2022,
+      "event": "Zynga 인수로 모바일 게임 사업 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "강한 프랜차이즈",
+      "detail": "GTA·NBA 2K 등은 후속작과 장기 운영의 기반입니다."
+    },
+    {
+      "title": "채널 분산",
+      "detail": "콘솔·PC·모바일이 서로 다른 소비 상황을 다룹니다."
+    },
+    {
+      "title": "반복 결제",
+      "detail": "오래 운영되는 게임은 출시 사이에도 현금을 만들어냅니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대작 집중",
+      "detail": "소수 대작의 지연·흥행 실패가 실적 기대를 크게 바꿉니다."
+    },
+    {
+      "title": "개발비 선투자",
+      "detail": "개발 기간이 길수록 자금과 인력이 오래 묶입니다."
+    },
+    {
+      "title": "플랫폼과 광고 비용",
+      "detail": "앱스토어 수수료·이용자 획득 비용이 모바일 수익성을 누를 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Electronic Arts",
+      "ticker": "비상장",
+      "comparison": "스포츠·라이브 서비스에서 이용 시간과 인력을 경쟁합니다. 2026년 8월 인수 완료 후 상장 거래를 종료했습니다."
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "comparison": "Xbox·Activision Blizzard 등 게임 콘텐츠와 구독 생태계에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "게임 수요는 여가 지출과 연결되지만 실적은 일반 경기보다 출시 일정에 더 크게 흔들릴 수 있습니다. 모바일 광고 단가와 소비자 결제 여력도 함께 봅니다.",
+  "monitoring": [
+    "신작 출시 일정과 개발비가 계획에서 벗어나지 않는가?",
+    "기존 게임의 반복 결제가 유지되는가?",
+    "bookings 증가가 매출과 현금으로 언제 전환되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Take-Two Interactive · 공식 IR",
+      "url": "https://www.take2games.com/ir",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Take-Two · 2022 연차보고서",
+      "url": "https://ir.take2games.com/sec-filings/sec-filing/10-k/0001628280-22-014580",
+      "note": "기업 원류와 사업 구조의 역사 자료; 최신 실적 자료로 사용하지 않습니다."
+    },
+    {
+      "title": "Zynga 공식 연혁",
+      "url": "https://www.zynga.com/about/our-story/",
+      "note": "2022년 Take-Two와 결합 완료 확인."
+    },
+    {
+      "title": "Take-Two 1998년 증권신고 자료",
+      "url": "https://ir.take2games.com/static-files/5ad4d9bf-236e-4887-b0d5-247c947c94ef",
+      "note": "1997년 IPO 이력 확인."
+    },
+    {
+      "title": "Electronic Arts 인수 완료 발표",
+      "url": "https://careers.ea.com/playtesting/news/ea-announces-completion-of-acquisition",
+      "note": "2026-08-04 발표. 경쟁사 EA의 거래 종료·비상장 전환을 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "MNST",
+  "oneLiner": "에너지음료 브랜드를 유통 파트너를 통해 확장하는 회사입니다.",
+  "businessModel": "Monster 등 에너지음료를 외부 제조·병입·유통망을 활용해 판매합니다. 브랜드·제품 개발·마케팅에 집중하지만 진열과 판매는 유통 실행에 영향을 받습니다. 완제품과 일부 원액 공급은 매출·마진 구조가 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "Monster 에너지음료",
+      "description": "Monster 계열 완제품 음료 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.monsterbevcorp.com/"
+    },
+    {
+      "name": "전략 브랜드·원액",
+      "description": "기타 에너지 브랜드와 일부 농축액·원액 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.monsterbevcorp.com/"
+    },
+    {
+      "name": "기타",
+      "description": "그 밖의 보유 제품 사업 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.monsterbevcorp.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1990,
+      "event": "전신 Hansen Natural 법인 설립. 더 오래된 Hansen 주스 브랜드의 계보를 이어감."
+    },
+    {
+      "year": 2002,
+      "event": "Monster Energy 출시."
+    },
+    {
+      "year": 2012,
+      "event": "Hansen Natural에서 Monster Beverage로 사명 변경."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "명확한 소비 용도",
+      "detail": "에너지·스포츠·게임 문화와 연결된 브랜드가 있습니다."
+    },
+    {
+      "title": "유통 파트너",
+      "detail": "대형 음료 유통망을 통해 해외 접근성을 넓힐 수 있습니다."
+    },
+    {
+      "title": "제품 확장",
+      "detail": "맛·용량·무설탕 등으로 같은 고객의 선택을 넓힙니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "카테고리 집중",
+      "detail": "에너지음료 성장 둔화와 신생 브랜드 경쟁에 민감합니다."
+    },
+    {
+      "title": "건강·성분 규제",
+      "detail": "카페인·미성년 소비에 대한 규제가 판매 환경을 바꿀 수 있습니다."
+    },
+    {
+      "title": "해외 실행",
+      "detail": "국가별 가격·유통·브랜드 인지도 차이가 마진에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Red Bull",
+      "ticker": "비상장",
+      "comparison": "에너지음료의 글로벌 브랜드·마케팅을 직접 경쟁합니다."
+    },
+    {
+      "name": "Celsius Holdings",
+      "ticker": "CELH",
+      "comparison": "기능성·피트니스 이미지의 에너지음료 수요를 경쟁합니다."
+    }
+  ],
+  "macroLink": "가계의 소액 재량 소비와 편의점·스포츠 활동이 수요에 연결됩니다. 알루미늄·감미료·운송비와 환율은 지역별 이익을 바꿉니다.",
+  "monitoring": [
+    "국내외 성장에서 수량과 가격의 기여가 각각 얼마인가?",
+    "신제품이 기존 제품 잠식보다 카테고리 점유율을 높이는가?",
+    "유통 확대 후에도 재고와 매출총이익률이 건강한가?"
+  ],
+  "sources": [
+    {
+      "title": "Monster Beverage · 공식 IR",
+      "url": "https://investors.monsterbevcorp.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Monster · 2012 연차보고서",
+      "url": "https://investors.monsterbevcorp.com/static-files/17ea400a-81fb-4a87-ac03-77c11fccaa1a",
+      "note": "Hansen 계보·Monster 출시·사명 변경 역사."
+    },
+    {
+      "title": "Monster · 사명 변경",
+      "url": "https://investors.monsterbevcorp.com/node/8011",
+      "note": "2012년 변경의 공식 발표."
+    },
+    {
+      "title": "Hansen Natural 초기 연차보고서",
+      "url": "https://investors.monsterbevcorp.com/static-files/a9b901f3-ee4e-4231-96db-903e262b2f31",
+      "note": "법인 설립일 1990-04-25와 1930년대 브랜드 원류를 구분."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

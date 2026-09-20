@@ -1,0 +1,104 @@
+{
+  "ticker": "VNO",
+  "oneLiner": "뉴욕 맨해튼의 오피스·상업공간을 중심으로 임대하고 재개발합니다.",
+  "businessModel": "주요 자산은 맨해튼 업무공간과 거리 상점이며 PENN DISTRICT 등 재개발도 진행합니다. 임대가 기본 수입원이지만 자산 매각·공동투자 거래·개발 투자 때문에 순이익이 크게 변할 수 있습니다. 오피스는 계약 기간이 길어 현재 수입보다 향후 만기 면적과 재임대 비용이 중요할 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "업무·상업시설 임대",
+      "description": "오피스와 소매공간 등 부동산의 임대료 및 관련 비용 회수입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.vno.com/"
+    },
+    {
+      "name": "수수료·기타 수입",
+      "description": "자산 관리와 기타 운영 수입입니다. 자산 처분 손익은 반복 임대 매출과 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.vno.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1980",
+      "event": "Steven Roth 측이 소매업체 Two Guys를 보유한 Vornado 경영권을 확보했습니다. 소매 자산에서 부동산 가치를 찾아낸 이력이 현재 사업의 기반입니다."
+    },
+    {
+      "year": "1993",
+      "event": "REIT 과세를 선택한 첫 회계연도가 시작됐습니다."
+    },
+    {
+      "year": "2017",
+      "event": "워싱턴 DC 사업을 JBG SMITH로 분리했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "핵심 입지",
+      "detail": "맨해튼 교통·업무 거점의 자산을 보유합니다."
+    },
+    {
+      "title": "재개발 경험",
+      "detail": "기존 상업용 자산의 재편과 복합개발 경험이 있습니다."
+    },
+    {
+      "title": "자산 선택권",
+      "detail": "지분 매각·공동투자 등으로 특정 자산의 자본 구조를 조정할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "맨해튼 집중",
+      "detail": "뉴욕 사무직 고용과 오피스·거리 소매시장 충격이 집중됩니다."
+    },
+    {
+      "title": "큰 프로젝트",
+      "detail": "재개발 계획 변경이나 임대 지연은 많은 자본을 묶어둘 수 있습니다."
+    },
+    {
+      "title": "거래 손익 변동",
+      "detail": "매각과 지분거래로 순이익이 좋아져도 반복 임대 현금흐름은 다를 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "SL Green",
+      "ticker": "SLG",
+      "comparison": "뉴욕 오피스 중심으로 같은 임차인·자산 시장에서 경쟁합니다."
+    },
+    {
+      "name": "BXP",
+      "ticker": "BXP",
+      "comparison": "여러 주요 도시에 분산된 고급 오피스 경쟁사입니다."
+    }
+  ],
+  "macroLink": "뉴욕 금융·기술·전문서비스 고용과 출근 정책이 중요합니다. 높은 금리는 개발 자금과 자산 매각 가격 모두에 부담을 줄 수 있습니다.",
+  "monitoring": [
+    "PENN DISTRICT 등 주요 개발의 잔여 투자금과 임대 계약은 어떠한가?",
+    "향후 만기 계약의 재계약률과 순현금 임대조건이 어떤가?",
+    "주당 FFO에서 자산 거래·일회성 항목을 제거하면 반복 수익이 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Vornado Realty Trust · 투자자 자료",
+      "url": "https://investors.vno.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Vornado Realty Trust · 연혁·기업 자료",
+      "url": "https://www.vno.com/annual_report/2004/shareholders_13.html",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Vornado · REIT 연혁 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/899689/000089968924000011/exhibit81.htm",
+      "note": "1993년 REIT 과세 개시 확인."
+    },
+    {
+      "title": "Vornado · 2017 사업보고서",
+      "url": "https://www.sec.gov/Archives/edgar/data/899689/000089968918000009/vno-12312017x10k.htm",
+      "note": "2017년 JBG SMITH 분리 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

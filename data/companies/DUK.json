@@ -1,0 +1,99 @@
+{
+  "ticker": "DUK",
+  "oneLiner": "미국 여러 주의 규제 전력·가스 공급",
+  "businessModel": "캐롤라이나·플로리다·중서부의 가정과 기업에 전기를 공급하고 일부 지역에는 천연가스를 배급합니다. 발전소·전선·배관에 투자한 자산을 규제기관이 인정하면 요금으로 비용과 허용 수익을 회수합니다. 전기를 더 파는 것뿐 아니라 투자 승인과 비용 회수의 시차가 실적을 결정합니다.",
+  "revenueStreams": [
+    {
+      "name": "규제 전력",
+      "description": "발전·송배전·소매 전기요금과 관련 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.duke-energy.com/"
+    },
+    {
+      "name": "규제 가스",
+      "description": "지역 배관망을 통한 천연가스 공급·배급 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.duke-energy.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1904",
+      "event": "전신 사업이 캐롤라이나 수력 발전으로 전력 공급"
+    },
+    {
+      "year": "1961",
+      "event": "뉴욕증권거래소 상장"
+    },
+    {
+      "year": "2012",
+      "event": "Progress Energy와 합병"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "지역 기반",
+      "detail": "성장 지역의 가정·기업과 장기간 연결된 전력망을 보유합니다."
+    },
+    {
+      "title": "규제 투자 회수",
+      "detail": "승인받은 설비투자가 장기적인 이익 기반으로 이어집니다."
+    },
+    {
+      "title": "발전 운영 경험",
+      "detail": "원전·가스·재생에너지와 송배전을 함께 운영합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "폭풍 복구",
+      "detail": "허리케인 피해가 현금 지출과 요금 회수 지연을 만듭니다."
+    },
+    {
+      "title": "요금 부담",
+      "detail": "대규모 투자는 고객 청구액을 높여 규제 저항을 부를 수 있습니다."
+    },
+    {
+      "title": "자금 조달",
+      "detail": "부채·증자 조건이 투자 수익을 희석할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Southern Company",
+      "ticker": "SO",
+      "comparison": "동남부 규제 유틸리티로 지역 성장·원전 투자 회수 조건을 비교합니다."
+    },
+    {
+      "name": "American Electric Power",
+      "ticker": "AEP",
+      "comparison": "AEP는 넓은 송전망 노출이 특징이며 관할 규제기관 구성이 다릅니다."
+    }
+  ],
+  "macroLink": "인구·공장·데이터센터 증가가 전력망 투자 수요를 만듭니다. 금리가 오르면 회수에 앞서 조달비용이 상승할 수 있습니다.",
+  "monitoring": [
+    "신규 대형 전력 수요가 실제 계약·요금 승인으로 전환되는가?",
+    "폭풍 복구비와 연료비 회수가 계획대로 진행되는가?",
+    "규제 자산 증가에 비해 주당 이익 성장과 자금 조달은 균형적인가?"
+  ],
+  "sources": [
+    {
+      "title": "Duke Energy · 투자자 자료",
+      "url": "https://investors.duke-energy.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Duke Energy · 기업 연혁·사업 소개",
+      "url": "https://illumination.duke-energy.com/articles/duke-energy-celebrates-60th-anniversary-on-new-york-stock-exchange",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Duke Energy · Progress 합병 완료",
+      "url": "https://news.duke-energy.com/releases/duke-energy-progress-energy-complete-merger",
+      "note": "2012-07-02 합병 완료 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

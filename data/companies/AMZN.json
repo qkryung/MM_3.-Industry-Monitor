@@ -1,0 +1,116 @@
+{
+  "ticker": "AMZN",
+  "oneLiner": "상품 판매·판매자 서비스·광고와 클라우드를 함께 운영하는 기업입니다.",
+  "businessModel": "소비자에게 상품을 팔고 외부 판매자에게 물류·거래 서비스를 제공합니다. 쇼핑 접점의 광고와 Prime 회원료도 수입이며 AWS는 기업의 연산·저장을 과금합니다. 아래 구분은 공시 사업부 기준으로 북미·해외 소매 안에 광고와 회원 서비스가 포함됩니다.",
+  "revenueStreams": [
+    {
+      "name": "북미",
+      "description": "북미 소매·판매자 서비스·광고·구독 등.",
+      "share": 59.46,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+    },
+    {
+      "name": "해외",
+      "description": "북미 외 소매·판매자 서비스·광고·구독 등.",
+      "share": 22.58,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+    },
+    {
+      "name": "AWS",
+      "description": "클라우드 컴퓨팅·저장·데이터·AI 서비스.",
+      "share": 17.96,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1994,
+      "event": "Jeff Bezos가 Amazon 설립."
+    },
+    {
+      "year": 1995,
+      "event": "온라인 서점 영업 시작."
+    },
+    {
+      "year": 2006,
+      "event": "AWS의 S3·EC2 등 클라우드 서비스 출범."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "물류·판매자 생태계",
+      "detail": "상품 선택과 배송 기반이 고객·판매자를 연결합니다."
+    },
+    {
+      "title": "구매 근처의 광고",
+      "detail": "실제 구매를 앞둔 고객 접점에서 광고 성과를 측정할 수 있습니다."
+    },
+    {
+      "title": "클라우드 기반",
+      "detail": "AWS의 기업 고객·서비스 폭이 별도 수익원을 만듭니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "소매의 낮은 마진",
+      "detail": "배송·반품·임금·상품 가격 경쟁이 많은 매출의 이익을 소모합니다."
+    },
+    {
+      "title": "AI·물류 선투자",
+      "detail": "시설과 서버를 먼저 늘려야 해서 수요보다 투자 속도가 빠를 수 있습니다."
+    },
+    {
+      "title": "규제·생태계 갈등",
+      "detail": "판매자 수수료와 플랫폼 운영 방식이 규제·거래 관계의 쟁점이 됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Walmart",
+      "ticker": "WMT",
+      "comparison": "점포·식료품·전자상거래를 결합해 고객 지출을 경쟁합니다."
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "comparison": "Azure가 AWS와 기업 클라우드·AI 지출을 경쟁합니다."
+    }
+  ],
+  "macroLink": "가계 소비는 소매, 기업 IT 예산은 AWS, 광고 경기는 쇼핑 광고에 전달됩니다. 매출 성장보다 배송 단위 비용과 AI 투자 후 현금을 함께 봅니다.",
+  "monitoring": [
+    "북미·해외 소매의 배송 효율과 영업마진이 개선되는가?",
+    "AWS 성장에 실제 사용량과 수익성이 동반되는가?",
+    "광고·회원 서비스의 성장과 고객·판매자 만족이 양립하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Amazon · 공식 IR",
+      "url": "https://ir.aboutamazon.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 비중은 명시된 회계기간의 원문 매출에서 계산했으며 현재 실시간 수치가 아닙니다."
+    },
+    {
+      "title": "Amazon · 첫 사무실과 판매 시작",
+      "url": "https://www.aboutamazon.com/news/workplace/first-amazon-office-jeff-bezos-garage",
+      "note": "회사 원류와 1995년 온라인 서점 개시."
+    },
+    {
+      "title": "AWS · 사업의 시작",
+      "url": "https://aws.amazon.com/about-aws/our-origins/",
+      "note": "2006년 클라우드 서비스 출범."
+    },
+    {
+      "title": "Amazon 2025년 연간 실적 발표",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+      "note": "연간 부문 매출 합계 716,924백만 USD. 광고·판매자·구독 매출은 북미·해외에 포함되므로 별도 합산 금지. 비중은 각 항목÷표시 항목 합계로 산출하고 소수 둘째 자리 반올림."
+    },
+    {
+      "title": "Amazon 2014년 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/amzn-20141231x10k.htm",
+      "note": "1994년 법인 설립과 1995년 웹 영업 개시 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,108 @@
+{
+  "ticker": "MDLZ",
+  "oneLiner": "비스킷과 초콜릿 브랜드를 세계에 판매하는 스낵 회사입니다.",
+  "businessModel": "Oreo·Cadbury·Milka 등 브랜드 제품을 소매·도매 채널에 판매합니다. 원재료를 대량 구매해 가공하지만 소비자가 내는 돈은 브랜드와 맛에도 지불됩니다. 코코아 가격·가격 인상·판매량 사이의 균형이 특히 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "비스킷·구운 스낵",
+      "description": "쿠키·크래커·케이크 등 간식.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.mondelezinternational.com/"
+    },
+    {
+      "name": "초콜릿",
+      "description": "초콜릿 제품과 관련 브랜드 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.mondelezinternational.com/"
+    },
+    {
+      "name": "껌·캔디",
+      "description": "껌과 사탕 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.mondelezinternational.com/"
+    },
+    {
+      "name": "기타 식품",
+      "description": "음료·치즈·식료품 등 나머지 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.mondelezinternational.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 2000,
+      "event": "전신 Kraft의 Nabisco 인수로 비스킷 기반 확대."
+    },
+    {
+      "year": 2010,
+      "event": "전신 Kraft가 Cadbury 인수."
+    },
+    {
+      "year": 2012,
+      "event": "Kraft의 분할로 Mondelēz International 출범."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "대표 브랜드",
+      "detail": "Oreo·Cadbury 등 익숙한 브랜드가 반복 구매를 지원합니다."
+    },
+    {
+      "title": "지역 분산",
+      "detail": "선진·신흥 시장의 다양한 간식 수요를 다룹니다."
+    },
+    {
+      "title": "간식 중심",
+      "detail": "여러 제품 중 간식에 집중해 개발·유통·마케팅을 연결합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "코코아 충격",
+      "detail": "초콜릿 원가 급등을 전부 소비자 가격에 반영하기 어렵습니다."
+    },
+    {
+      "title": "가격 탄력성",
+      "detail": "구매 빈도가 높아 가격 차이에 따른 대체가 발생할 수 있습니다."
+    },
+    {
+      "title": "환율·현지 리스크",
+      "detail": "여러 국가의 원가·수요·규제가 연결 실적에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Hershey",
+      "ticker": "HSY",
+      "comparison": "초콜릿·스낵에서 브랜드와 진열을 경쟁합니다."
+    },
+    {
+      "name": "PepsiCo",
+      "ticker": "PEP",
+      "comparison": "간식 지출을 경쟁하지만 짭짤한 스낵 중심이라는 차이가 있습니다."
+    }
+  ],
+  "macroLink": "코코아·설탕·밀 가격과 가계 실질소득이 함께 작용합니다. 원가 헤지 시차 때문에 현물 가격 하락과 회계 마진 회복 시점이 다를 수 있습니다.",
+  "monitoring": [
+    "초콜릿 가격 인상 후 판매량과 점유율이 유지되는가?",
+    "지역별 성장이 환율을 제외해도 이어지는가?",
+    "원가 헤지 만기 뒤에도 마진을 지킬 수 있는가?"
+  ],
+  "sources": [
+    {
+      "title": "Mondelēz International · 공식 IR",
+      "url": "https://ir.mondelezinternational.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Mondelēz · 기업·브랜드 연혁",
+      "url": "https://www.mondelezinternational.com/about-us/who-we-are/our-history/",
+      "note": "Nabisco·Cadbury 등 전신과 2012년 출범의 역사."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

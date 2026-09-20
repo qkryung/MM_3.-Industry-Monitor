@@ -1,0 +1,99 @@
+{
+  "ticker": "CVX",
+  "oneLiner": "원유·가스 생산과 정유·판매를 운영",
+  "businessModel": "원유·가스 생산에서 현금을 얻고 정유·윤활유·주유소 유통을 통해 연료를 판매합니다. 가이아나·퍼미안·카자흐스탄 등 자산별 생산 증가와 투자 회수의 속도가 중요하며, 각국 정부·파트너와 이익을 나누는 계약도 결과를 바꿉니다.",
+  "revenueStreams": [
+    {
+      "name": "탐사·생산",
+      "description": "원유·가스 생산 및 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.chevron.com/investors"
+    },
+    {
+      "name": "정유·판매",
+      "description": "휘발유·항공유·윤활유 등 제조와 유통",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.chevron.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1879",
+      "event": "Pacific Coast Oil 설립이 사업의 뿌리"
+    },
+    {
+      "year": "2001",
+      "event": "Texaco와 합병"
+    },
+    {
+      "year": "2025",
+      "event": "Hess 인수로 가이아나·바켄 자산 편입"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "자산 분산",
+      "detail": "여러 지역의 생산 자산이 단일 유전 위험을 완충합니다."
+    },
+    {
+      "title": "운영 경험",
+      "detail": "대형 LNG·원유 프로젝트의 기술·인력을 보유합니다."
+    },
+    {
+      "title": "판매망",
+      "detail": "정유·제품 유통을 연결해 생산 외 수익원을 확보합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "사업국가 위험",
+      "detail": "인허가·생산분배 조건·지정학이 현금 회수에 영향을 줍니다."
+    },
+    {
+      "title": "인수 통합",
+      "detail": "확대된 자산의 투자 우선순위와 부채 관리를 맞춰야 합니다."
+    },
+    {
+      "title": "유가 민감도",
+      "detail": "자본 규율이 좋아도 원유가격 하락을 피할 수 없습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Exxon Mobil",
+      "ticker": "XOM",
+      "comparison": "Exxon의 화학·정유 통합과 Chevron의 자산 구성 차이를 봅니다."
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "comparison": "COP는 생산 중심이므로 정유 완충 없이 원자재 민감도가 다릅니다."
+    }
+  ],
+  "macroLink": "세계 연료 수요·OPEC 공급이 유가에 영향을 주고, 프로젝트 생산 증가가 이를 기업 이익으로 전환합니다.",
+  "monitoring": [
+    "Hess 자산의 생산 증가가 인수 비용과 추가 투자를 정당화하는가?",
+    "대형 프로젝트의 가동 안정성과 단위원가는 개선되는가?",
+    "원유가격이 내려가도 배당·투자를 동시에 감당하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Chevron · 투자자 자료",
+      "url": "https://www.chevron.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Chevron · 기업 연혁·사업 소개",
+      "url": "https://www.chevron.com/who-we-are/history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Chevron · 2025 연차보고서 부록",
+      "url": "https://www.chevron.com/-/media/shared-media/documents/2025-chevron-annual-report-supplement.pdf",
+      "note": "Hess 인수와 회사 연혁 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

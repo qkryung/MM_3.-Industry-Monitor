@@ -1,0 +1,101 @@
+{
+  "ticker": "LOW",
+  "oneLiner": "주택 보수와 생활 공간 개선에 필요한 상품을 판매하는 유통사입니다.",
+  "businessModel": "개인 DIY 고객과 전문 시공업자에게 자재·공구·가전·인테리어 상품을 팝니다. 매장과 온라인을 연결하고 전문 고객 비중을 키우려 합니다. 주택 거래가 약해도 필수 수리는 발생하지만 대형 선택 프로젝트는 미뤄질 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "보수·건축 상품",
+      "description": "자재·공구·배관·전기·정원 등 상품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://corporate.lowes.com/investors"
+    },
+    {
+      "name": "실내·가전 상품",
+      "description": "가전·바닥재·주방·욕실 등 실내 개선 상품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://corporate.lowes.com/investors"
+    },
+    {
+      "name": "설치 및 기타",
+      "description": "설치 지원과 관련 기타 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://corporate.lowes.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": 1921,
+      "event": "North Carolina의 철물점으로 시작."
+    },
+    {
+      "year": 1961,
+      "event": "기업공개."
+    },
+    {
+      "year": 1979,
+      "event": "뉴욕증권거래소 상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "생활권 점포",
+      "detail": "고객이 급히 필요한 보수 상품을 가까운 매장에서 구할 수 있습니다."
+    },
+    {
+      "title": "개인 고객 기반",
+      "detail": "가전·인테리어·DIY의 폭넓은 제품 수요를 다룹니다."
+    },
+    {
+      "title": "전문 고객 확대 여지",
+      "detail": "배송·영업·상품 구색 개선으로 반복 주문을 늘릴 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "DIY 경기 민감도",
+      "detail": "개인이 미룰 수 있는 개선 지출이 약해지면 수요가 줄 수 있습니다."
+    },
+    {
+      "title": "전문 고객 실행",
+      "detail": "상품 공급·현장 배송·신용 조건에서 전문 고객 기대를 충족해야 합니다."
+    },
+    {
+      "title": "마진 압박",
+      "detail": "임금·재고 손실·배송·가격 경쟁이 소매 이익을 줄입니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Home Depot",
+      "ticker": "HD",
+      "comparison": "규모·전문 고객·상품 구색으로 직접 경쟁합니다."
+    },
+    {
+      "name": "Floor & Decor",
+      "ticker": "FND",
+      "comparison": "바닥재 등 특정 개선 프로젝트에서 전문성·가격을 경쟁합니다."
+    }
+  ],
+  "macroLink": "금리·주택 거래·노후 주택·가계 여유 자금이 서로 다른 상품군에 전달됩니다. 날씨와 자재가격 효과를 실제 거래 건수와 구분합니다.",
+  "monitoring": [
+    "기존점 매출 감소가 거래와 객단가 중 어디서 발생하는가?",
+    "전문 고객 주문이 반복성과 이익을 높이는가?",
+    "온라인·설치 서비스의 편의가 비용을 넘어 고객 지출을 늘리는가?"
+  ],
+  "sources": [
+    {
+      "title": "Lowe’s Companies · 공식 IR",
+      "url": "https://corporate.lowes.com/investors",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Lowe’s · 공식 역사",
+      "url": "https://corporate.lowes.com/who-we-are/our-history",
+      "note": "1921년 원류·1961년 기업공개·1979년 NYSE 상장."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

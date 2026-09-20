@@ -1,0 +1,99 @@
+{
+  "ticker": "STZ",
+  "oneLiner": "미국에서 수입 맥주 브랜드와 와인·증류주를 판매하는 회사입니다.",
+  "businessModel": "미국 내 Modelo·Corona 등 맥주 권리를 바탕으로 제품을 생산·유통하고 와인·증류주도 운영합니다. 글로벌 같은 이름의 브랜드와 미국 판매 권리를 구분해야 합니다. 맥주 성장과 와인 포트폴리오 변화는 따로 읽습니다.",
+  "revenueStreams": [
+    {
+      "name": "맥주",
+      "description": "미국 시장 중심 수입 맥주 브랜드·관련 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.cbrands.com/"
+    },
+    {
+      "name": "와인·증류주",
+      "description": "보유 와인·증류주 브랜드 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.cbrands.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1945,
+      "event": "Marvin Sands가 Canandaigua Industries 사업 시작."
+    },
+    {
+      "year": 1973,
+      "event": "주식시장 상장."
+    },
+    {
+      "year": 2013,
+      "event": "미국 Modelo 맥주 권리·양조 기반 확보."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "미국 맥주 브랜드",
+      "detail": "강한 브랜드와 유통망이 반복 구매를 뒷받침합니다."
+    },
+    {
+      "title": "생산·유통 연결",
+      "detail": "브랜드 권리와 멕시코 양조·미국 판매를 연결합니다."
+    },
+    {
+      "title": "집중된 성장 관리",
+      "detail": "맥주의 물량·가격·설비를 비교적 명확하게 추적할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "맥주·미국 의존",
+      "detail": "핵심 시장 소비가 약해지면 이익이 크게 흔들릴 수 있습니다."
+    },
+    {
+      "title": "국경·설비 노출",
+      "detail": "멕시코 생산과 미국 판매 사이 관세·환율·용수·공급 문제가 있습니다."
+    },
+    {
+      "title": "와인 재편",
+      "detail": "브랜드 정리·수요 변화가 매출 비교와 이익에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Anheuser-Busch InBev",
+      "ticker": "BUD",
+      "comparison": "미국 맥주 시장에서 경쟁하지만 브랜드 권리는 지역별로 다릅니다."
+    },
+    {
+      "name": "Molson Coors",
+      "ticker": "TAP",
+      "comparison": "미국 맥주 소비·유통·진열을 경쟁합니다."
+    }
+  ],
+  "macroLink": "미국 가계 지출과 주류 소비 습관, 멕시코 페소·관세·양조 투자비를 연결해 봅니다. 출하 증가와 실제 소매 소비는 구분합니다.",
+  "monitoring": [
+    "맥주 출하와 소매 소비가 같은 방향으로 움직이는가?",
+    "설비 증설 후 가동·원가 효율이 계획에 맞는가?",
+    "와인·증류주 재편 후 남은 브랜드의 수익성이 개선되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Constellation Brands · 공식 IR",
+      "url": "https://ir.cbrands.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Constellation Brands · 공식 연표",
+      "url": "https://www.cbrands.com/pages/timeline",
+      "note": "1945년 원류·상장·맥주 사업 확대의 역사."
+    },
+    {
+      "title": "Constellation · 2013 연차보고서",
+      "url": "https://ir.cbrands.com/sec-filings/all-sec-filings/content/0000016918-13-000008/stz228201310k.htm",
+      "note": "미국 Modelo 권리·거래 구조의 당시 공시; 완료 전 보고서입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

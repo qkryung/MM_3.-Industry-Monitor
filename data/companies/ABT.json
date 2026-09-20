@@ -1,0 +1,118 @@
+{
+  "ticker": "ABT",
+  "oneLiner": "의료기기·진단검사·영양제품·브랜드 복제약을 판매하는 헬스케어 회사입니다.",
+  "businessModel": "FreeStyle Libre 혈당 센서, 심혈관 기기, 검사 장비·시약, 영양식과 일부 지역 의약품을 판매합니다. 센서와 시약처럼 사용 때마다 반복 구매하는 제품과 병원이 한 번에 도입하는 장비가 함께 있습니다. 2013년 혁신 제약사업을 AbbVie로 분리했으므로 Humira 등 AbbVie 제품을 Abbott 매출로 혼동하면 안 됩니다.",
+  "revenueStreams": [
+    {
+      "name": "의료기기",
+      "description": "혈당관리·심혈관·신경조절 등 기기와 소모품 판매입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.abbott.com/en-us/investors"
+    },
+    {
+      "name": "진단",
+      "description": "검사 장비·시약·신속검사 제품 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.abbott.com/en-us/investors"
+    },
+    {
+      "name": "영양",
+      "description": "유아·성인 영양제품 판매입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.abbott.com/en-us/investors"
+    },
+    {
+      "name": "Established Pharmaceuticals",
+      "description": "주로 미국 외 시장의 브랜드 의약품 수입입니다. 별도 회사 AbbVie 매출은 제외합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.abbott.com/en-us/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1888",
+      "event": "Wallace Abbott가 의약품 제조를 시작했습니다."
+    },
+    {
+      "year": "2013",
+      "event": "혁신 제약사업을 AbbVie로 분리했습니다."
+    },
+    {
+      "year": "2017",
+      "event": "St. Jude Medical 인수로 심혈관 의료기기를 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "반복 소모품",
+      "detail": "혈당 센서와 진단 시약은 기기 사용에 따라 반복 수입을 만듭니다."
+    },
+    {
+      "title": "수요 분산",
+      "detail": "의료기기·검사·영양·의약품이 서로 다른 고객과 수요를 가집니다."
+    },
+    {
+      "title": "사용 기반",
+      "detail": "의료진·환자에게 축적된 제품 사용 경험과 판매망을 보유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "품질 관리",
+      "detail": "영양식과 의료기기의 품질·리콜은 공급·브랜드·법적 비용에 영향을 줍니다."
+    },
+    {
+      "title": "진단 변동",
+      "detail": "감염병 관련 수요 급증 이후 정상화는 성장률 해석을 어렵게 합니다."
+    },
+    {
+      "title": "경쟁·가격",
+      "detail": "혈당 센서 등 성장시장에서도 기술 경쟁과 보험 가격 압박을 받습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "DexCom",
+      "ticker": "DXCM",
+      "comparison": "연속혈당측정 센서의 직접 경쟁사입니다."
+    },
+    {
+      "name": "Medtronic",
+      "ticker": "MDT",
+      "comparison": "심혈관 및 일부 당뇨 관련 기술에서 경쟁합니다."
+    },
+    {
+      "name": "Danaher",
+      "ticker": "DHR",
+      "comparison": "진단 검사 장비·시약 분야가 겹칩니다."
+    }
+  ],
+  "macroLink": "시술·검사량과 보험 보장이 핵심입니다. 영양제품은 가계 구매력·원재료·유통에, 해외 의약품은 현지통화와 보건예산에 민감합니다.",
+  "monitoring": [
+    "Libre 성장이 사용자 수와 사용 지속률에서 나오는가, 단가 변화에서도 나오는가?",
+    "감염병 특수를 제외한 진단·기기 사업의 성장률은 어떠한가?",
+    "영양·기기의 품질 이슈가 생산·유통·법적 지급에 어떤 영향을 주는가?"
+  ],
+  "sources": [
+    {
+      "title": "Abbott Laboratories · 투자자 자료",
+      "url": "https://www.abbott.com/en-us/investors",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Abbott Laboratories · 연혁·기업 자료",
+      "url": "https://www.abbott.com/en-us/about-abbott/promise-for-life-the-story-of-abbott",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Abbott · 2017 연혁",
+      "url": "https://dam.abbott.com/en-pk/investor-relations/Abbott-A-R-2017-Final.pdf",
+      "note": "1888 설립·2013 분리·2017 St. Jude 인수의 그룹 연혁 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

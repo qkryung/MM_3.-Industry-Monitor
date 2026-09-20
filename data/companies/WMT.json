@@ -1,0 +1,101 @@
+{
+  "ticker": "WMT",
+  "oneLiner": "식료품을 중심으로 매장·온라인·회원제를 연결하는 대형 유통사입니다.",
+  "businessModel": "낮은 가격과 가까운 매장을 기반으로 상품을 빠르게 판매합니다. 전자상거래·배송·광고·마켓플레이스가 추가 수익 기회입니다. 매출 규모가 매우 커도 이익률은 작아 물류·임금·상품 구성 변화가 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "Walmart U.S.",
+      "description": "미국 Walmart 매장·온라인·관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://stock.walmart.com/"
+    },
+    {
+      "name": "Walmart International",
+      "description": "미국 외 소매·전자상거래 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://stock.walmart.com/"
+    },
+    {
+      "name": "Sam’s Club U.S.",
+      "description": "미국 창고형 회원제 판매와 회원료.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://stock.walmart.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1962,
+      "event": "Sam Walton이 Arkansas에 첫 Walmart 개점."
+    },
+    {
+      "year": 1970,
+      "event": "주식시장 기업공개."
+    },
+    {
+      "year": 1983,
+      "event": "첫 Sam’s Club 개점."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "가격·조달 규모",
+      "detail": "대량 구매와 운영 규모가 낮은 가격을 지원합니다."
+    },
+    {
+      "title": "식료품 방문",
+      "detail": "반복적인 식품 구매가 매장·온라인 접점을 만듭니다."
+    },
+    {
+      "title": "매장 기반 배송",
+      "detail": "매장 재고를 주문·픽업·배송에 활용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "얇은 소매 마진",
+      "detail": "임금·도난·배송비가 조금 바뀌어도 이익에 영향이 큽니다."
+    },
+    {
+      "title": "온라인 경쟁",
+      "detail": "빠른 배송·저가 서비스가 성장해도 주문당 이익이 부족할 수 있습니다."
+    },
+    {
+      "title": "사업 복잡성",
+      "detail": "여러 국가·채널·판매자 관리에 규제·실행 비용이 듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "comparison": "배송·마켓플레이스·광고·회원 혜택을 경쟁합니다."
+    },
+    {
+      "name": "Costco Wholesale",
+      "ticker": "COST",
+      "comparison": "가성비와 회원제 고객 지출을 경쟁합니다."
+    }
+  ],
+  "macroLink": "소득 압박은 저가 유통으로 고객을 이동시킬 수 있지만 일반상품 수요는 약해질 수 있습니다. 식품 물가 효과와 방문객 증가를 나눕니다.",
+  "monitoring": [
+    "방문객·객단가·상품 구성이 각각 어떻게 변하는가?",
+    "전자상거래 성장에 배송 효율과 이익이 동반되는가?",
+    "광고·회원 서비스가 고객 경험과 소매 이익을 함께 개선하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Walmart · 공식 IR",
+      "url": "https://stock.walmart.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Walmart · 공식 역사",
+      "url": "https://corporate.walmart.com/about/history",
+      "note": "1962년 개점·1970년 기업공개·1983년 Sam’s Club."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

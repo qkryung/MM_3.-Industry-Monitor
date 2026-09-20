@@ -1,0 +1,101 @@
+{
+  "ticker": "SCHW",
+  "oneLiner": "투자계좌·펀드·자산관리와 고객 현금 운용을 묶은 증권 플랫폼입니다.",
+  "businessModel": "개인투자자와 독립 자문사에게 투자계좌·거래·수탁 서비스를 제공합니다. 낮은 거래수수료만으로 돈을 버는 회사가 아니라, 고객의 현금과 신용융자에서 생기는 순이자수익, 펀드·자문 보수, 거래 관련 수입을 결합합니다. 고객이 예탁 현금을 고금리 상품으로 옮길 때 이자수익과 조달구조가 크게 달라질 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "순이자수익",
+      "description": "은행자산·신용융자·고객현금 관련 이자에서 조달비용을 뺀 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.aboutschwab.com/investors"
+    },
+    {
+      "name": "자산관리·행정 보수",
+      "description": "펀드·자문·관리 서비스에 대한 보수",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.aboutschwab.com/investors"
+    },
+    {
+      "name": "거래 및 계좌 서비스",
+      "description": "옵션 등 거래 수수료와 관련 서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.aboutschwab.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1971",
+      "event": "전신 First Commander가 설립됐습니다."
+    },
+    {
+      "year": "1987",
+      "event": "Bank of America에서 독립한 뒤 상장했습니다."
+    },
+    {
+      "year": "2020",
+      "event": "TD Ameritrade를 인수해 투자·자문 플랫폼을 확장했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객자산 기반",
+      "detail": "개인과 독립 자문사 고객의 자산을 함께 보관해 규모와 관계를 확보합니다."
+    },
+    {
+      "title": "낮은 단위 서비스 비용",
+      "detail": "디지털 플랫폼과 큰 계좌 기반에 운영비를 나눌 수 있습니다."
+    },
+    {
+      "title": "거래·자문 선택 폭",
+      "detail": "자가 투자부터 자산관리까지 고객 필요에 따라 서비스를 이어갈 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "현금 재배치 민감도",
+      "detail": "고객 현금 이동은 순이자수입을 줄이고 비싼 조달을 요구할 수 있습니다."
+    },
+    {
+      "title": "장기자산 금리 위험",
+      "detail": "장기 증권의 수익률과 유동성 관리가 단기 현금 흐름과 어긋날 수 있습니다."
+    },
+    {
+      "title": "플랫폼 안정성",
+      "detail": "대형 시스템의 장애·통합 오류는 거래와 고객 유지에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Interactive Brokers",
+      "ticker": "IBKR",
+      "comparison": "둘 다 전자증권이나 IBKR는 글로벌 적극적 투자자·자동화에 더 집중합니다."
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "comparison": "E*TRADE·자문에서 경쟁하지만 MS에는 대규모 기관증권도 있습니다."
+    }
+  ],
+  "macroLink": "금리 상승은 자산 수익률을 높이는 동시에 고객의 고금리 상품 이동을 유발합니다. 증시 상승은 고객자산·관리보수에 유리할 수 있지만 거래활동과는 별개입니다.",
+  "monitoring": [
+    "고객 현금 이동이 둔화하고 고비용 조달이 줄어드는가?",
+    "신규 고객자산 유입이 시장 상승을 제외해도 견조한가?",
+    "thinkorswim·자문 플랫폼 이용이 수입과 고객 유지로 연결되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Charles Schwab · 투자자 자료",
+      "url": "https://www.aboutschwab.com/investors",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Charles Schwab · 연혁·기업 자료",
+      "url": "https://www.aboutschwab.com/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

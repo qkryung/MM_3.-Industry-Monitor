@@ -1,0 +1,111 @@
+{
+  "ticker": "CI",
+  "oneLiner": "기업 건강보험과 Express Scripts·Accredo를 포함한 약제·의료서비스를 제공합니다.",
+  "businessModel": "Cigna Healthcare는 기업·개인 고객에 보험과 관리 서비스를 제공하고 Evernorth는 약제관리·특수약 공급·의료지원 등을 제공합니다. 약제관리 매출에는 약품 원가가 크게 포함될 수 있어 매출이 커도 마진은 작을 수 있습니다. 2025년 Medicare 관련 보험사업을 HCSC에 매각했지만 Evernorth의 Medicare 고객 대상 서비스까지 모두 사라진 것은 아닙니다.",
+  "revenueStreams": [
+    {
+      "name": "Evernorth 약제·서비스",
+      "description": "Express Scripts·Accredo 등 약제관리·약품 공급·의료지원 수입입니다. 약값 총액과 이익을 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.thecignagroup.com/overview/default.aspx"
+    },
+    {
+      "name": "Cigna 보험료",
+      "description": "계속영업의 건강보험 위험 인수 계약에서 받는 보험료입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.thecignagroup.com/overview/default.aspx"
+    },
+    {
+      "name": "Cigna 관리 수수료·기타",
+      "description": "기업의 자가보험 관리 등 서비스 수수료와 기타 수입입니다. 의료비를 기업이 부담하는 계약은 보험료 전체를 매출로 보지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.thecignagroup.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1792",
+      "event": "전신 중 하나인 Insurance Company of North America가 설립됐습니다."
+    },
+    {
+      "year": "1982",
+      "event": "Connecticut General과 INA 결합으로 Cigna가 형성됐습니다."
+    },
+    {
+      "year": "2018",
+      "event": "Express Scripts와 결합해 약제서비스 사업을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기업 고객 관계",
+      "detail": "고용주 대상 보험·복지 관리 경험이 서비스 계약 기반을 만듭니다."
+    },
+    {
+      "title": "특수약 역량",
+      "detail": "Accredo 등 특수약 공급·환자지원 기능을 보유합니다."
+    },
+    {
+      "title": "외부 서비스 판매",
+      "detail": "Evernorth는 계열 보험 밖의 건강보험·기업 고객에도 서비스를 제공합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "PBM 구조 변화",
+      "detail": "리베이트·투명성·수수료 규제 및 고객 요구가 약제관리 수익모델을 바꿀 수 있습니다."
+    },
+    {
+      "title": "기업보험 고용",
+      "detail": "기업 고용 감소와 고객 이탈이 관리 대상과 보험 수입을 줄입니다."
+    },
+    {
+      "title": "사업 비교",
+      "detail": "Medicare 매각과 계약 변화로 과거 매출 규모를 단순 비교하기 어렵습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "UnitedHealth Group",
+      "ticker": "UNH",
+      "comparison": "OptumRx와 보험사업에서 경쟁하지만 진료 사업 비중도 큽니다."
+    },
+    {
+      "name": "CVS Health",
+      "ticker": "CVS",
+      "comparison": "Caremark·Aetna·약국을 통한 약제·보험 경쟁사입니다."
+    },
+    {
+      "name": "Elevance Health",
+      "ticker": "ELV",
+      "comparison": "기업보험과 CarelonRx 분야에서 겹칩니다."
+    }
+  ],
+  "macroLink": "기업 고용과 의료비 상승이 보험·관리 수요를, 약제비와 PBM 정책이 Evernorth 수익구조를 움직입니다. 약값 상승은 매출 증가와 마진 개선을 동일하게 뜻하지 않습니다.",
+  "monitoring": [
+    "Evernorth의 외부 계약 유지·신규 수주와 계약당 수익성이 함께 개선되는가?",
+    "리베이트 구조 변화 이후 수수료·고객 절감·자사 이익이 어떻게 달라지는가?",
+    "Medicare 매각 효과를 제외한 보험료·관리 수수료 성장은 어떠한가?"
+  ],
+  "sources": [
+    {
+      "title": "The Cigna Group · 투자자 자료",
+      "url": "https://investors.thecignagroup.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "The Cigna Group · 연혁·기업 자료",
+      "url": "https://www.thecignagroup.com/about-us/milestones",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Cigna · Medicare 사업 매각 완료",
+      "url": "https://newsroom.thecignagroup.com/the-cigna-group-completes-sale-of-medicare-and-careallies-businesses-to-hcsc",
+      "note": "2025-03-19 보험사업 매각 완료와 Evernorth 서비스 유지 구분."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

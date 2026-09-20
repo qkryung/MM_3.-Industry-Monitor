@@ -1,0 +1,108 @@
+{
+  "ticker": "PGR",
+  "oneLiner": "운전자의 위험을 세밀하게 가격에 반영하는 자동차보험 중심 회사입니다.",
+  "businessModel": "개인 자동차·상업용 차량·재산보험을 판매합니다. 직접 판매와 독립 대리점 채널을 병행하고 운전·사고 데이터를 가격 책정에 활용합니다. 수입보험료가 늘어도 사고 빈도나 건당 수리비가 더 빨리 오르면 이익은 줄어듭니다. 월별 실적을 공개하므로 계약 수·단가·손해 추세를 비교적 자주 점검할 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "개인 보험료",
+      "description": "개인 자동차와 특수차량 등 보장 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.progressive.com/home/default.aspx"
+    },
+    {
+      "name": "상업용 보험료",
+      "description": "상업용 자동차 등 기업 차량 관련 보장 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.progressive.com/home/default.aspx"
+    },
+    {
+      "name": "재산보험료",
+      "description": "주택 등 재산 손실 보장 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.progressive.com/home/default.aspx"
+    },
+    {
+      "name": "투자수익",
+      "description": "보험 운용자산의 이자·배당 등",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.progressive.com/home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1937",
+      "event": "Joseph Lewis와 Jack Green이 Progressive Mutual을 설립했습니다."
+    },
+    {
+      "year": "1971",
+      "event": "첫 공개 주식 발행을 실시했습니다."
+    },
+    {
+      "year": "2015",
+      "event": "American Strategic Insurance의 지배지분을 확보해 주택보험 기반을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "가격·데이터 운영",
+      "detail": "위험을 세분화하고 가격을 조정하는 능력이 보험 수익성의 핵심입니다."
+    },
+    {
+      "title": "복수 판매 채널",
+      "detail": "직접·대리점 경로로 서로 다른 고객에게 접근합니다."
+    },
+    {
+      "title": "운영상 피드백",
+      "detail": "빈번한 실적 공개와 가격·인수 조정은 변화 탐지에 도움이 됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "자동차 손해 집중",
+      "detail": "차량 수리비·의료비·사고 패턴 변화에 직접 노출됩니다."
+    },
+    {
+      "title": "가격 인가 시차",
+      "detail": "필요한 보험료 인상을 규제 승인과 계약 갱신까지 기다려야 할 수 있습니다."
+    },
+    {
+      "title": "재산보험 재해 위험",
+      "detail": "주택보험은 폭풍·홍수 등 집중 손실을 추가합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Berkshire Hathaway / GEICO",
+      "ticker": "BRK.B",
+      "comparison": "개인 자동차 직접 판매에서 경쟁하며 GEICO는 복합그룹의 일부입니다."
+    },
+    {
+      "name": "Allstate",
+      "ticker": "ALL",
+      "comparison": "자동차·주택에서 경쟁하지만 유통구조·고객 구성과 위험 가격 방식이 다릅니다."
+    }
+  ],
+  "macroLink": "자동차 수리·부품·의료 물가가 손해액을 움직입니다. 고용·운전거리 변화는 사고 빈도에 연결되며 금리는 투자수익을 추가로 바꿉니다.",
+  "monitoring": [
+    "계약 증가가 인수 수익성의 희생 없이 이뤄지는가?",
+    "보험료 단가와 사고 빈도·심도 중 무엇이 합산비율을 움직이는가?",
+    "주택보험의 재해 노출과 재보험 비용이 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Progressive · 투자자 자료",
+      "url": "https://investors.progressive.com/home/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Progressive · 연혁·기업 자료",
+      "url": "https://www.progressive.com/about/history/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

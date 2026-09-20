@@ -1,0 +1,99 @@
+{
+  "ticker": "MRK",
+  "oneLiner": "Keytruda 항암제와 백신, 동물의약품을 개발·판매하는 미국 Merck입니다.",
+  "businessModel": "사람용 처방약·백신과 동물용 의약품을 판매합니다. 미국·캐나다 밖에서는 주로 MSD라는 이름을 사용하며 독일 Merck KGaA와는 다른 회사입니다. Keytruda의 치료 범위 확대는 큰 수익 기반이지만 한 제품의 독점기간과 경쟁 변화에 대한 노출도 큽니다. 후속 제품의 승인뿐 아니라 보험 접근과 실제 처방 전환을 확인합니다.",
+  "revenueStreams": [
+    {
+      "name": "사람용 의약품·백신",
+      "description": "Keytruda 등 항암제, Gardasil 등 백신, 기타 처방약 판매입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.merck.com/investor-relations/"
+    },
+    {
+      "name": "동물 건강",
+      "description": "반려·축산동물용 의약품·백신과 관련 제품·서비스 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.merck.com/investor-relations/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1891",
+      "event": "미국에서 Merck & Co.가 설립됐습니다."
+    },
+    {
+      "year": "1953",
+      "event": "Sharp & Dohme와 합병했습니다."
+    },
+    {
+      "year": "2009",
+      "event": "Schering-Plough와 결합해 제품·연구 기반을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "항암 임상 기반",
+      "detail": "다양한 암종·치료 단계의 연구와 의료진 경험이 상업화 기반을 형성합니다."
+    },
+    {
+      "title": "백신 제조 역량",
+      "detail": "복잡한 제조·품질·공급 경험이 백신 사업 진입장벽의 일부입니다."
+    },
+    {
+      "title": "동물 건강 분산",
+      "detail": "사람용 의약품과 다른 고객·규제·수요를 가진 수익원을 보유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "Keytruda 의존",
+      "detail": "핵심 제품의 특허·경쟁 변화가 회사 실적에 크게 전달될 수 있습니다."
+    },
+    {
+      "title": "접종 변동",
+      "detail": "국가 정책·재고·유통 및 접종 의향 변화로 백신 수요가 흔들립니다."
+    },
+    {
+      "title": "후속 연구 불확실성",
+      "detail": "인수·도입한 파이프라인이 임상과 출시 목표를 충족하지 못할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Bristol Myers Squibb",
+      "ticker": "BMY",
+      "comparison": "면역항암제와 항암 포트폴리오에서 직접 경쟁합니다."
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "comparison": "항암 등 처방의약품 영역이 겹치지만 의료기기 사업도 보유합니다."
+    },
+    {
+      "name": "Zoetis",
+      "ticker": "ZTS",
+      "comparison": "동물의약품 부문의 전문 경쟁사입니다."
+    }
+  ],
+  "macroLink": "보험·정부 약가와 국가 백신 정책이 주요 변수입니다. 축산 경기와 반려동물 지출은 동물 건강 사업에, 환율은 해외 실적에 영향을 줍니다.",
+  "monitoring": [
+    "Keytruda 외 제품의 실제 매출과 이익이 얼마나 커지고 있는가?",
+    "백신 출하 변화가 최종 접종 수요인가, 유통 재고 조정인가?",
+    "후속 파이프라인의 승인·보험 등재·출시 일정이 특허 만료 노출과 맞물리는가?"
+  ],
+  "sources": [
+    {
+      "title": "Merck & Co. · 투자자 자료",
+      "url": "https://www.merck.com/investor-relations/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Merck & Co. · 연혁·기업 자료",
+      "url": "https://www.merck.com/company-overview/history/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

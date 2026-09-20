@@ -1,0 +1,99 @@
+{
+  "ticker": "DELL",
+  "oneLiner": "기업 서버·스토리지와 PC를 공급하고 지원 서비스를 제공하는 회사.",
+  "businessModel": "기업에 서버·저장 장치·통합 인프라를, 개인과 기업에는 PC를 판매합니다. 제품 설치 후 지원·유지보수도 제공합니다. AI 서버는 매출 규모가 커질 수 있지만 비싼 외부 GPU를 구매해 조립하는 특성상 매출 증가가 같은 비율의 이익 증가를 뜻하지 않습니다.",
+  "revenueStreams": [
+    {
+      "name": "인프라 솔루션",
+      "description": "서버·네트워킹·스토리지 및 관련 지원 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.delltechnologies.com/"
+    },
+    {
+      "name": "클라이언트 솔루션",
+      "description": "기업·소비자 PC와 주변 기기 및 관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.delltechnologies.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1984,
+      "event": "Michael Dell이 PC’s Limited 설립."
+    },
+    {
+      "year": 2016,
+      "event": "EMC 인수로 기업 인프라 사업을 크게 확대."
+    },
+    {
+      "year": 2018,
+      "event": "Dell Technologies가 공개 시장에 복귀."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기업 영업·지원망",
+      "detail": "기존 PC·서버·스토리지 고객에 복합 인프라와 지원을 함께 제공합니다."
+    },
+    {
+      "title": "공급망 운영",
+      "detail": "다양한 고객 요구에 맞춘 구성·조달·배송 경험을 갖고 있습니다."
+    },
+    {
+      "title": "기업 인프라 범위",
+      "detail": "AI 서버 도입과 함께 필요한 저장 장치·기존 IT 환경 연결을 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "낮은 조립 부가가치",
+      "detail": "GPU 등 핵심 부품이 원가의 큰 부분을 차지하면 매출 확대 대비 이익 기여가 작을 수 있습니다."
+    },
+    {
+      "title": "PC 경기순환",
+      "detail": "기업 교체·소비자 지출·유통 재고에 따라 PC 출하가 흔들립니다."
+    },
+    {
+      "title": "운전자본 부담",
+      "detail": "대형 서버 주문을 이행하기 위한 부품 선구매와 고객 대금 회수 시차를 관리해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "comparison": "기업 서버·스토리지·네트워크 솔루션에서 경쟁합니다."
+    },
+    {
+      "name": "HP",
+      "ticker": "HPQ",
+      "comparison": "기업·소비자 PC에서 경쟁합니다."
+    },
+    {
+      "name": "Super Micro Computer",
+      "ticker": "SMCI",
+      "comparison": "AI·데이터센터 서버 시스템에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "기업 IT 예산과 PC 교체, AI 데이터센터 투자가 함께 영향을 줍니다. 금리·신용 여건은 고객의 대형 장비 구매와 회사의 재고 조달 비용에 연결됩니다.",
+  "monitoring": [
+    "AI 서버 주문이 출하·매출·이익·현금으로 각각 전환되는가?",
+    "서버 매출 성장에 비해 인프라 이익률과 운전자본이 어떻게 움직이는가?",
+    "PC 수요 회복이 기업 교체와 소비자 판매 중 어디서 나타나는가?"
+  ],
+  "sources": [
+    {
+      "title": "Dell Technologies · 공식 IR",
+      "url": "https://investors.delltechnologies.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Dell 공식 연혁",
+      "url": "https://www.dell.com/en-uk/dt/corporate/about-us/who-we-are/timeline.htm",
+      "note": "1984년 창업·2016년 EMC 인수·2018년 공개 시장 복귀 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

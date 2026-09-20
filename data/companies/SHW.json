@@ -1,0 +1,94 @@
+{
+  "ticker": "SHW",
+  "oneLiner": "건축·산업용 도료와 자체 유통망",
+  "businessModel": "전문 도장업자·소비자·제조업체에 페인트·코팅을 판매합니다. 자체 매장은 시공업자의 색상·재고·납기 요구를 가까이에서 해결하고 산업용 코팅은 고객 공정·성능에 맞춰 공급합니다. 제품 원가뿐 아니라 작업 시간 절감이 고객 가치입니다.",
+  "revenueStreams": [
+    {
+      "name": "건축 도료·유통",
+      "description": "자체 매장 및 유통 경로의 건축용 페인트",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.sherwin-williams.com/"
+    },
+    {
+      "name": "산업 코팅",
+      "description": "포장·자동차·목재·산업 설비 코팅",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.sherwin-williams.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1866",
+      "event": "Sherwin과 Williams가 설립"
+    },
+    {
+      "year": "1877",
+      "event": "재밀봉 페인트 캔 특허"
+    },
+    {
+      "year": "2017",
+      "event": "Valspar 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "직영 채널",
+      "detail": "시공업자와 재고·배송·색상 서비스를 연결합니다."
+    },
+    {
+      "title": "브랜드·배합",
+      "detail": "성능 일관성이 반복 구매를 지원합니다."
+    },
+    {
+      "title": "산업 인증",
+      "detail": "고객 공정에 맞춘 코팅은 대체 비용이 생깁니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "주택·건설",
+      "detail": "거래·신축·보수 둔화가 물량을 줄일 수 있습니다."
+    },
+    {
+      "title": "매장 비용",
+      "detail": "물량이 낮아도 인건비·임차료가 남습니다."
+    },
+    {
+      "title": "가격 기대",
+      "detail": "원료 하락으로 개선된 마진이 지속되지 않을 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "PPG",
+      "ticker": "PPG",
+      "comparison": "PPG는 산업·자동차·항공 코팅 비중과 유통 구조가 다릅니다."
+    },
+    {
+      "name": "RPM International",
+      "ticker": "RPM",
+      "comparison": "RPM은 보수·지붕·밀봉·소비자 브랜드 중심으로 비교합니다."
+    }
+  ],
+  "macroLink": "주택 거래·보수 수요·전문 시공 활동과 원료비가 핵심입니다. 금리 하락 효과는 실제 건설·거래 회복을 거쳐 나타납니다.",
+  "monitoring": [
+    "전문 시공업자의 물량이 가격 인상과 함께 유지되는가?",
+    "원재료 효과를 빼도 영업이익률이 개선되는가?",
+    "산업 코팅이 건축용 약세를 완충하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Sherwin-Williams · 투자자 자료",
+      "url": "https://investors.sherwin-williams.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Sherwin-Williams · 기업 연혁·사업 소개",
+      "url": "https://corporate.sherwin-williams.com/our-company/history.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,99 @@
+{
+  "ticker": "HD",
+  "oneLiner": "주택 보수용 상품과 전문 시공업자용 자재를 공급하는 유통사입니다.",
+  "businessModel": "대형 매장·온라인에서 건축·보수 상품을 팔고 전문 유통을 통해 시공업자의 자재 조달을 지원합니다. 주택 가격보다 거래·수리 프로젝트·노후 주택 유지 수요가 실제 매출에 가깝습니다. 전문 고객의 큰 주문과 개인 고객의 작은 구매를 나눠 봅니다.",
+  "revenueStreams": [
+    {
+      "name": "매장·온라인 소매",
+      "description": "주택 보수·건축·가전·정원 상품과 관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.homedepot.com/"
+    },
+    {
+      "name": "전문 유통",
+      "description": "SRS 등 전문 시공업자 대상 건축자재 유통.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.homedepot.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1978,
+      "event": "Home Depot 설립."
+    },
+    {
+      "year": 1979,
+      "event": "애틀랜타에 첫 매장 두 곳 개점."
+    },
+    {
+      "year": 1981,
+      "event": "주식시장 상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "전문 고객 접점",
+      "detail": "시공업자의 반복·대량 구매가 개인 DIY와 다른 수요를 만듭니다."
+    },
+    {
+      "title": "상품·물류 규모",
+      "detail": "큰 상품 구색과 공급망을 통해 여러 작업 자재를 모아 제공합니다."
+    },
+    {
+      "title": "옴니채널",
+      "detail": "매장 재고·현장 구매·온라인 주문을 함께 활용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "고가 프로젝트 민감도",
+      "detail": "주택 거래·대규모 리모델링이 줄면 큰 주문이 약해집니다."
+    },
+    {
+      "title": "부피 큰 상품 비용",
+      "detail": "무겁고 큰 자재의 재고·배송·반품에 비용이 듭니다."
+    },
+    {
+      "title": "인수 통합 부담",
+      "detail": "전문 유통 확장에 자본과 시스템·고객 통합이 필요합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Lowe’s Companies",
+      "ticker": "LOW",
+      "comparison": "미국 주택 보수 소매에서 직접 경쟁하며 고객 구성이 다릅니다."
+    },
+    {
+      "name": "Builders FirstSource",
+      "ticker": "BLDR",
+      "comparison": "전문 건축자재·시공업자 유통에서 경쟁 접점이 있습니다."
+    }
+  ],
+  "macroLink": "모기지 금리·주택 거래·노후 주택 보수·시공업자 작업 잔고를 연결해서 봅니다. 목재 가격 변화는 매출을 움직여도 판매량 변화와 다를 수 있습니다.",
+  "monitoring": [
+    "기존점 매출을 거래 건수와 객단가로 분해하면 무엇이 약한가?",
+    "전문 고객의 대형 프로젝트가 회복되는가?",
+    "인수한 전문 유통 사업의 성장과 수익이 투자비를 정당화하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Home Depot · 공식 IR",
+      "url": "https://ir.homedepot.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Home Depot · 회사 소개",
+      "url": "https://corporate.homedepot.com/page/about-us",
+      "note": "1978년 설립·1979년 첫 매장 및 고객군 설명."
+    },
+    {
+      "title": "Home Depot · 공식 연표",
+      "url": "https://corporate.homedepot.com/document/9",
+      "note": "1981년 상장을 포함한 역사 자료."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,104 @@
+{
+  "ticker": "SRE",
+  "oneLiner": "규제 전력·가스와 에너지 인프라 지분 사업",
+  "businessModel": "캘리포니아의 SDG&E·SoCalGas와 텍사스 Oncor 지분을 통해 전력·가스 네트워크에 투자합니다. 규제 요금과 지분법 이익이 핵심이며, 에너지 인프라 지분의 현금 흐름도 연결됩니다. Oncor처럼 지분법으로 반영되는 사업은 고객 수·시설 규모를 연결 매출과 바로 비교하면 안 됩니다.",
+  "revenueStreams": [
+    {
+      "name": "캘리포니아 유틸리티",
+      "description": "전력·가스 배급과 승인된 설비 투자에 대한 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sempra.com/investors"
+    },
+    {
+      "name": "텍사스 전력망·인프라 지분",
+      "description": "Oncor 등의 지분 이익과 에너지 인프라 지분 수익; 연결 매출과 구분",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sempra.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1998",
+      "event": "Pacific Enterprises와 Enova 합병으로 출범"
+    },
+    {
+      "year": "2018",
+      "event": "Oncor 지배 지분 인수"
+    },
+    {
+      "year": "2019",
+      "event": "Oncor의 InfraREIT 및 Sempra의 Sharyland 지분 거래 완료"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "핵심 네트워크",
+      "detail": "캘리포니아·텍사스의 필수 에너지망에 참여합니다."
+    },
+    {
+      "title": "수요 연결",
+      "detail": "텍사스의 인구·산업·전력 수요 증가가 전력망 투자로 이어집니다."
+    },
+    {
+      "title": "자본 재배치",
+      "detail": "자산 지분 매각을 통해 규제 사업 투자 재원을 마련할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "지역 책임",
+      "detail": "캘리포니아 산불·가스 안전·요금 부담 문제가 중요합니다."
+    },
+    {
+      "title": "지분 구조",
+      "detail": "자회사 부채와 소수지분·현금 배당 제한을 함께 읽어야 합니다."
+    },
+    {
+      "title": "거래 실행",
+      "detail": "인프라 지분 거래 지연은 자금 조달 계획에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Exelon",
+      "ticker": "EXC",
+      "comparison": "EXC도 전력망 중심이지만 Sempra는 Oncor 지분법·가스·인프라 지분 구조가 복잡합니다."
+    },
+    {
+      "name": "Duke Energy",
+      "ticker": "DUK",
+      "comparison": "규제 자산 회수라는 공통점 속에서 지역 성장과 재해 책임을 비교합니다."
+    }
+  ],
+  "macroLink": "텍사스 투자 수요·캘리포니아 요금 정책·금리가 함께 작용합니다. LNG 가격보다 인프라 계약과 지분 현금 흐름의 연결을 먼저 봅니다.",
+  "monitoring": [
+    "Oncor 투자 확대가 실제 지분 이익·현금 배당으로 이어지는가?",
+    "캘리포니아의 승인 요금과 안전 투자 회수 조건은 어떤가?",
+    "Sempra Infrastructure 지분 매각의 완료 여부와 자금 사용이 계획에 부합하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Sempra · 투자자 자료",
+      "url": "https://www.sempra.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Sempra · 기업 연혁·사업 소개",
+      "url": "https://www.sempra.com/newsroom/press-releases/sempra-commemorates-25-years-innovation-safety-and-service-others",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Sempra · 2018 지속가능성 보고서",
+      "url": "https://www.sempra.com/sites/default/files/content/files/node-page/file-list/2019/2018-corporate-sustainability-report-sempra.pdf",
+      "note": "Oncor 인수와 2019년 거래 완료 연혁"
+    },
+    {
+      "title": "Sempra · 2026년 2분기",
+      "url": "https://www.sempra.com/newsroom/press-releases/sempra-reports-strong-second-quarter-2026-results",
+      "note": "KKR 대상 지분 매각은 당시 2026년 3분기 완료 예정으로 공시; 완료를 단정하지 않음"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

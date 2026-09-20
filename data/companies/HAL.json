@@ -1,0 +1,94 @@
+{
+  "ticker": "HAL",
+  "oneLiner": "완결·생산 및 시추 평가 서비스",
+  "businessModel": "유정의 시멘팅·수압파쇄·완결 작업과 시추·평가 서비스를 제공합니다. 생산기업이 시추한 유정에서 실제로 원유·가스를 꺼내도록 장비와 인력을 공급하며, 작업량·서비스 가격·장비 가동률에서 이익이 생깁니다.",
+  "revenueStreams": [
+    {
+      "name": "완결·생산",
+      "description": "수압파쇄·시멘팅·유정 완결·개입 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.halliburton.com/"
+    },
+    {
+      "name": "시추·평가",
+      "description": "드릴링·검층·저류층 분석과 관련 도구",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.halliburton.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1919",
+      "event": "Erle Halliburton이 유정 시멘팅 사업 설립"
+    },
+    {
+      "year": "1926",
+      "event": "해외에 시멘팅 장비를 판매하며 국제사업 확대"
+    },
+    {
+      "year": "1930년대",
+      "event": "시멘트·생산 기술 연구소 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "완결 경험",
+      "detail": "반복 현장 작업과 장비 운영 경험을 보유합니다."
+    },
+    {
+      "title": "고객 밀착",
+      "detail": "시추·완결 계획에 맞춰 통합 서비스를 제공합니다."
+    },
+    {
+      "title": "기술 개선",
+      "detail": "전동화·자동화가 연료비·현장 효율을 바꿀 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "북미 사이클",
+      "detail": "고객이 완결 활동을 줄이면 장비 가동률이 압박됩니다."
+    },
+    {
+      "title": "장비 고정비",
+      "detail": "유휴 장비·인력 비용과 유지비 부담이 생깁니다."
+    },
+    {
+      "title": "가격 경쟁",
+      "detail": "생산기업의 비용 절감 요구가 서비스 단가를 제한합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "SLB",
+      "ticker": "SLB",
+      "comparison": "SLB는 해외·저류층·디지털·생산 시스템 구성이 더 넓습니다."
+    },
+    {
+      "name": "Baker Hughes",
+      "ticker": "BKR",
+      "comparison": "BKR은 가스 터빈·LNG 장비가 더해져 투자 사이클이 다릅니다."
+    }
+  ],
+  "macroLink": "북미 셰일의 시추·완결 예산, 장비 공급, 임금·연료비가 중요합니다. 리그 수와 완결 작업은 시점이 다릅니다.",
+  "monitoring": [
+    "북미 고객의 완결 예산이 실제 장비 가동으로 연결되는가?",
+    "전동 파쇄 장비의 비용 절감과 투자 회수는 어떤가?",
+    "국제사업 성장이 북미 변동성을 얼마나 완충하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Halliburton · 투자자 자료",
+      "url": "https://ir.halliburton.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Halliburton · 기업 연혁·사업 소개",
+      "url": "https://www.halliburton.com/en/about-us/history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

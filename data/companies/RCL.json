@@ -1,0 +1,94 @@
+{
+  "ticker": "RCL",
+  "oneLiner": "크루즈 선박과 목적지 경험을 묶어 여행을 판매하는 회사입니다.",
+  "businessModel": "Royal Caribbean·Celebrity·Silversea 브랜드가 객실과 식사·공연을 묶은 여행을 판매합니다. 음료·관광·통신 등 선내 소비가 추가 수입입니다. 배를 먼저 건조하고 오래 운영하므로 예약의 질과 선박 투자·부채를 함께 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "여객 운임",
+      "description": "크루즈 여행 티켓과 기본 패키지.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.rclinvestor.com/"
+    },
+    {
+      "name": "선내 및 기타",
+      "description": "음료·관광·카지노·통신 등 부가 소비와 기타 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.rclinvestor.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1969,
+      "event": "카리브해 크루즈 사업으로 출범."
+    },
+    {
+      "year": 1997,
+      "event": "Celebrity Cruises 결합."
+    },
+    {
+      "year": 2018,
+      "event": "Silversea 인수로 고급 크루즈 확장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "다중 가격대",
+      "detail": "가족·프리미엄·럭셔리 브랜드로 수요를 나눕니다."
+    },
+    {
+      "title": "독자 경험",
+      "detail": "선박 시설과 전용 목적지가 다른 휴가와 구별되는 경험을 만듭니다."
+    },
+    {
+      "title": "선내 수익화",
+      "detail": "예약 후에도 여러 활동과 서비스를 판매할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대규모 고정 자산",
+      "detail": "빈 객실이 생겨도 선박·승무원·정비 비용이 남습니다."
+    },
+    {
+      "title": "부채·연료 비용",
+      "detail": "차입금과 연료가 여행 매출 이외의 큰 변수입니다."
+    },
+    {
+      "title": "운항 충격",
+      "detail": "기상·전염병·항로 변경이 예약 취소와 비용을 만들 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Carnival",
+      "ticker": "CCL",
+      "comparison": "다양한 브랜드와 글로벌 선박 공급으로 경쟁합니다."
+    },
+    {
+      "name": "Norwegian Cruise Line",
+      "ticker": "NCLH",
+      "comparison": "크루즈 가격·항로·선내 경험으로 경쟁합니다."
+    }
+  ],
+  "macroLink": "가계 여행 예산과 항공 접근성은 수요, 유가·인건비·금리는 비용에 전달됩니다. 새 선박 증가로 총매출이 늘어도 단위당 수익을 따로 봅니다.",
+  "monitoring": [
+    "예약량과 가격이 할인 확대 없이 유지되는가?",
+    "선내 소비가 승객당 이익을 높이는가?",
+    "새 선박 지출 후에도 차입금을 줄일 현금이 남는가?"
+  ],
+  "sources": [
+    {
+      "title": "Royal Caribbean Group · 공식 IR",
+      "url": "https://www.rclinvestor.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Royal Caribbean Group · 연혁",
+      "url": "https://www.royalcaribbeangroup.com/our-history/",
+      "note": "1969년 출범·Celebrity·Silversea 결합 연혁."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,99 @@
+{
+  "ticker": "TSM",
+  "oneLiner": "다른 기업이 설계한 반도체를 대신 생산하는 파운드리 전문 회사.",
+  "businessModel": "팹리스와 시스템 기업의 설계도대로 웨이퍼를 가공하고 첨단 패키징 등을 제공합니다. 공정이 미세해질수록 성능·전력 효율이 좋아질 수 있지만, 수율 확보와 대규모 설비투자가 필요합니다. 자체 브랜드 칩을 고객과 경쟁해 판매하지 않는 생산 전문 모델이 핵심입니다.",
+  "revenueStreams": [
+    {
+      "name": "첨단 공정 생산",
+      "description": "스마트폰·고성능 컴퓨팅용 첨단 반도체 웨이퍼 제조.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tsmc.com/english"
+    },
+    {
+      "name": "그 밖의 공정·서비스",
+      "description": "성숙·특수 공정 제품과 패키징·테스트 등 관련 제조 서비스. 공식 매출표는 공정·최종시장 등 여러 축으로 제공됩니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tsmc.com/english"
+    }
+  ],
+  "history": [
+    {
+      "year": 1987,
+      "event": "대만에서 전업 파운드리 모델로 설립."
+    },
+    {
+      "year": 1997,
+      "event": "미국 예탁주식이 뉴욕증권거래소에 상장."
+    },
+    {
+      "year": 2020,
+      "event": "5나노 공정이 매출에 기여하며 첨단 공정 생산 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "중립적 제조 파트너",
+      "detail": "칩 설계 고객과 최종 제품에서 직접 경쟁하지 않는 구조입니다."
+    },
+    {
+      "title": "공정·수율 경험",
+      "detail": "여러 고객의 대량 생산 경험과 설계 도구 생태계가 공정 도입을 지원합니다."
+    },
+    {
+      "title": "첨단 패키징 연계",
+      "detail": "AI 칩과 메모리를 결합하는 공정을 함께 제공해 고객의 조달 복잡성을 낮춥니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대만 집중",
+      "detail": "지정학·지진·전력과 물 공급 문제가 생산 연속성에 영향을 줄 수 있습니다."
+    },
+    {
+      "title": "막대한 고정비",
+      "detail": "신공장과 신공정 투자가 수요보다 앞서면 감가상각과 낮은 가동률이 수익성을 압박합니다."
+    },
+    {
+      "title": "해외 공장 비용",
+      "detail": "생산 거점 다변화가 안정성을 높여도 건설·인력 비용과 초기 수율 부담을 만듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Samsung Electronics",
+      "ticker": "005930.KS",
+      "comparison": "파운드리에서 경쟁하며 메모리·완제품 사업도 함께 보유합니다."
+    },
+    {
+      "name": "Intel",
+      "ticker": "INTC",
+      "comparison": "자체 제품 제조와 외부 고객 파운드리를 동시에 추진합니다."
+    }
+  ],
+  "macroLink": "AI·스마트폰 수요와 반도체 재고 주기를 함께 반영합니다. 매출 통화와 생산 비용 통화가 달라 대만달러 환율도 마진에 영향을 줍니다. ADR 가격과 대만 회계 수치를 같은 단위로 혼동하지 않아야 합니다.",
+  "monitoring": [
+    "첨단 공정·패키징의 가동률과 주문 가시성이 유지되는가?",
+    "설비투자 증가가 향후 매출 증가·수율 개선으로 연결되는가?",
+    "해외 공장 초기 비용과 환율이 총이익률에 각각 얼마나 영향을 주는가?"
+  ],
+  "sources": [
+    {
+      "title": "Taiwan Semiconductor Manufacturing · 공식 IR",
+      "url": "https://investor.tsmc.com/english",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "TSMC 2020년 연차보고서",
+      "url": "https://investor.tsmc.com/static/annualReports/2020/english/index.html",
+      "note": "1987년 설립·전업 파운드리 모델·2020년 5나노 사업 확인."
+    },
+    {
+      "title": "TSMC 1997년 주주서한",
+      "url": "https://investor.tsmc.com/static/annualReports/1997/letter.html",
+      "note": "1997년 NYSE 예탁주식 상장 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

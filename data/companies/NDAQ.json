@@ -1,0 +1,106 @@
+{
+  "ticker": "NDAQ",
+  "oneLiner": "나스닥 시장 운영 외에 금융기관용 소프트웨어·데이터를 파는 회사입니다.",
+  "businessModel": "상장·거래 시장에서 수수료를 받고 지수·데이터·분석을 제공합니다. Adenza·Verafin 등 금융기술 사업은 은행·시장운영자의 위험관리·규제보고·범죄 탐지를 지원합니다. Nasdaq 지수가 오르는 것과 회사 이익이 같은 것은 아닙니다. 거래·상장 같은 활동 기반 매출과 소프트웨어 반복 매출을 나누어 읽어야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "자본 접근 플랫폼",
+      "description": "상장·지수·데이터·분석·기업 솔루션 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.nasdaq.com/"
+    },
+    {
+      "name": "금융기술",
+      "description": "규제·위험관리·시장기술·금융범죄 방지 소프트웨어 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.nasdaq.com/"
+    },
+    {
+      "name": "시장 서비스",
+      "description": "주식·옵션 등 거래·관련 시장 운영 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.nasdaq.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1971",
+      "event": "전자 증권시장으로 출발했습니다."
+    },
+    {
+      "year": "2008",
+      "event": "OMX와 결합해 북유럽 시장·기술 기반을 확대했습니다."
+    },
+    {
+      "year": "2023",
+      "event": "Adenza 인수를 완료했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 업무 내장",
+      "detail": "규제보고·거래 시스템은 교체가 복잡해 장기 관계를 만들 수 있습니다."
+    },
+    {
+      "title": "거래소와 기술 경험",
+      "detail": "자체 시장 운영 경험을 다른 금융기관용 솔루션에 활용합니다."
+    },
+    {
+      "title": "반복 매출 확대",
+      "detail": "소프트웨어·구독이 상장·거래 사이클 의존도를 낮출 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "기술 인수 통합",
+      "detail": "영업·제품·인력 통합과 부채 관리가 성과를 좌우합니다."
+    },
+    {
+      "title": "상장·거래 경쟁",
+      "detail": "새 발행 감소와 시장점유율 경쟁이 일부 수익을 압박합니다."
+    },
+    {
+      "title": "복잡한 구축·갱신",
+      "detail": "금융기관의 긴 구매·전환 주기 때문에 계약이 매출로 바뀌는 데 시간이 걸립니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Intercontinental Exchange",
+      "ticker": "ICE",
+      "comparison": "상장·거래·데이터에서 경쟁하되 ICE의 모기지·에너지 노출과 차이가 있습니다."
+    },
+    {
+      "name": "CME Group",
+      "ticker": "CME",
+      "comparison": "옵션·데이터 등 일부 시장에서 겹치지만 CME는 파생 거래·청산에 집중합니다."
+    }
+  ],
+  "macroLink": "위험 선호와 자본시장 개방은 신규 상장·지수자산에, 은행 IT 예산과 규제 요구는 소프트웨어 수요에 작용합니다. 금리는 인수부채 비용에도 영향을 줍니다.",
+  "monitoring": [
+    "금융기술의 반복 계약 성장과 갱신률은 어떤가?",
+    "Adenza와 기존 고객의 교차판매가 실제 계약으로 이어지는가?",
+    "부채 감소와 제품 투자를 함께 진행할 현금흐름이 남는가?"
+  ],
+  "sources": [
+    {
+      "title": "Nasdaq · 투자자 자료",
+      "url": "https://ir.nasdaq.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Nasdaq · 연혁·기업 자료",
+      "url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019320000004/ndaq1231201910-k.htm",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Nasdaq · Adenza 인수 완료",
+      "url": "https://ir.nasdaq.com/node/106776",
+      "note": "2023-11-01 인수 완료 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

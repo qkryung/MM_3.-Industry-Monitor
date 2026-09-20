@@ -1,0 +1,104 @@
+{
+  "ticker": "SPOT",
+  "oneLiner": "음악과 오디오를 모아 구독료·광고를 받는 플랫폼입니다.",
+  "businessModel": "무료 이용자는 광고를 듣고 유료 이용자는 구독료를 냅니다. Spotify는 받은 수입에서 음반사·작곡가 등 권리자에게 사용료를 지급하므로 가입자가 늘어도 권리료 구조가 이익을 좌우합니다. 팟캐스트·오디오북은 사용 시간과 상품 가치를 넓히는 수단입니다.",
+  "revenueStreams": [
+    {
+      "name": "Premium",
+      "description": "유료 음악·오디오 구독 및 관련 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.spotify.com/home/default.aspx"
+    },
+    {
+      "name": "Ad-Supported",
+      "description": "무료 서비스·팟캐스트 등의 광고 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.spotify.com/home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2006,
+      "event": "스웨덴에서 Spotify 설립."
+    },
+    {
+      "year": 2008,
+      "event": "음악 스트리밍 서비스 출시."
+    },
+    {
+      "year": 2022,
+      "event": "오디오북 시장 진출."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "청취 습관",
+      "detail": "재생목록과 추천 경험이 반복 사용을 유도합니다."
+    },
+    {
+      "title": "유료·무료 연결",
+      "detail": "무료 고객을 유료 구독으로 전환하는 경로가 있습니다."
+    },
+    {
+      "title": "기기 중립성",
+      "detail": "여러 휴대전화·자동차·스피커에서 서비스가 연결됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "음원 권리자 협상력",
+      "detail": "필수 카탈로그를 확보하려면 주요 음반사와 계약해야 합니다."
+    },
+    {
+      "title": "수익과 비용의 동행",
+      "detail": "스트리밍 수입이 늘어도 권리료가 함께 증가합니다."
+    },
+    {
+      "title": "오디오 확장 실행",
+      "detail": "팟캐스트·오디오북 투자가 구독 유지와 광고 판매로 회수되어야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "comparison": "Apple Music은 기기 생태계·번들 구독과 연결됩니다."
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "comparison": "YouTube Music은 영상 이용자 기반과 결합합니다."
+    }
+  ],
+  "macroLink": "가계가 구독 지출을 줄이는지와 광고 예산이 모두 중요합니다. 해외 환율과 권리료·콘텐츠 비용 때문에 회원 성장률만으로 이익을 추정할 수 없습니다.",
+  "monitoring": [
+    "유료 전환과 가격 인상 후 고객 유지가 함께 개선되는가?",
+    "Premium과 광고 사업의 매출총이익률이 각각 어떻게 변하는가?",
+    "오디오북·팟캐스트 사용이 비용을 넘어 구독 가치를 높이는가?"
+  ],
+  "sources": [
+    {
+      "title": "Spotify · 공식 IR",
+      "url": "https://investors.spotify.com/home/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Spotify · 회사 소개",
+      "url": "https://newsroom.spotify.com/company-info/",
+      "note": "2008년 서비스 출시와 2022년 오디오북 진출, 사업 구조 설명."
+    },
+    {
+      "title": "Spotify · SEC 20-F 자료",
+      "url": "https://investors.spotify.com/financials/default.aspx",
+      "note": "연차보고서에서 회사 설립과 구독·광고 모델 확인 경로."
+    },
+    {
+      "title": "Spotify 설립·사업 원류",
+      "url": "https://newsroom.spotify.com/2022-03-11/spotify-celebrates-10-years-in-germany/",
+      "note": "2006년 설립과 서비스 원류에 관한 공식 회고."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

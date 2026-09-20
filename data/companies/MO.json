@@ -1,0 +1,106 @@
+{
+  "ticker": "MO",
+  "oneLiner": "미국 담배·니코틴 시장에서 가격과 제품 전환을 관리하는 기업입니다.",
+  "businessModel": "Philip Morris USA의 궐련·시가, 경구 니코틴과 기타 제품을 판매합니다. 미국 중심이므로 해외 담배 기업보다 미국 규제·성인 소비·불법 제품 경쟁의 영향이 직접적입니다. 배당률보다 남는 현금과 기존 제품의 감소 속도를 봅니다.",
+  "revenueStreams": [
+    {
+      "name": "연소 제품",
+      "description": "미국 궐련·시가 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.altria.com/press-releases/default.aspx"
+    },
+    {
+      "name": "경구 니코틴",
+      "description": "무연 담배·니코틴 파우치 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.altria.com/press-releases/default.aspx"
+    },
+    {
+      "name": "기타",
+      "description": "전자담배 등 나머지 연결 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.altria.com/press-releases/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1847,
+      "event": "Philip Morris 담배점이 사업 계보의 출발점."
+    },
+    {
+      "year": 2003,
+      "event": "Philip Morris Companies에서 Altria Group으로 사명 변경."
+    },
+    {
+      "year": 2008,
+      "event": "Philip Morris International 분리."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "미국 브랜드",
+      "detail": "Marlboro 등 성인 소비자의 반복 구매 기반이 있습니다."
+    },
+    {
+      "title": "기존 현금흐름",
+      "detail": "설비투자가 상대적으로 작은 성숙 사업이 자금을 만듭니다."
+    },
+    {
+      "title": "판매·유통 관계",
+      "detail": "미국 니코틴 판매망을 새 제품에도 활용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "미국 궐련 집중",
+      "detail": "판매량 감소 가속 시 다른 국가 사업으로 상쇄하기 어렵습니다."
+    },
+    {
+      "title": "대체 제품 실행",
+      "detail": "투자·인수가 반드시 유통·허가·수익 성과로 이어지지 않습니다."
+    },
+    {
+      "title": "규제·소송",
+      "detail": "미국 제품 규칙과 법적 비용이 이익과 평가에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "British American Tobacco",
+      "ticker": "BTI",
+      "comparison": "Reynolds를 통해 미국 담배·전자담배를 경쟁합니다."
+    },
+    {
+      "name": "Philip Morris International",
+      "ticker": "PM",
+      "comparison": "ZYN 등 미국 비연소 니코틴 분야에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "미국 소비자의 가격 부담·세금·규제가 핵심입니다. 높은 금리는 배당주의 상대 매력뿐 아니라 부채 조달과 대체 제품 투자에도 작용합니다.",
+  "monitoring": [
+    "궐련 가격이 수량 감소를 무리 없이 상쇄하는가?",
+    "경구·전자 제품이 일회성 투자 손실 없이 성장하는가?",
+    "배당 지급 뒤 부채와 새 사업 투자 여력이 남는가?"
+  ],
+  "sources": [
+    {
+      "title": "Altria Group · 공식 IR",
+      "url": "https://investor.altria.com/press-releases/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Altria · 공식 기업 계보",
+      "url": "https://www.altria.com/About-Altria/Our-Heritage",
+      "note": "사명 변경·분사·니코틴 사업의 역사."
+    },
+    {
+      "title": "Altria · Philip Morris USA",
+      "url": "https://www.altria.com/About-Altria/our-companies/philipmorrisusa",
+      "note": "1847년 브랜드 원류."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

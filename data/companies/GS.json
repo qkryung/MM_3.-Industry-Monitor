@@ -1,0 +1,111 @@
+{
+  "ticker": "GS",
+  "oneLiner": "기업 자금조달·거래와 부유층·기관 자산관리에 특화한 금융회사입니다.",
+  "businessModel": "대형 기업의 인수합병·상장·채권 발행을 돕고, 기관투자자의 증권·파생상품 거래와 금융을 제공합니다. 별도로 고객 자산을 운용하고 부유층에게 자산관리 서비스를 제공합니다. 투자은행 거래가 완료되어야 수수료가 잡히며, 거래부문 수익에는 고객 흐름·스프레드·보유 위험이 반영됩니다. 운용자산 잔액은 회사 매출과 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "기업금융 자문·인수",
+      "description": "M&A 자문 및 주식·채권 발행 지원 수수료",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.goldmansachs.com/investor-relations"
+    },
+    {
+      "name": "시장거래·금융",
+      "description": "기관 고객의 채권·주식·파생 거래와 관련 금융에서 발생하는 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.goldmansachs.com/investor-relations"
+    },
+    {
+      "name": "자산·자산관리",
+      "description": "펀드·고객자산 관리보수, 성과보수와 관련 투자·대출 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.goldmansachs.com/investor-relations"
+    }
+  ],
+  "history": [
+    {
+      "year": "1869",
+      "event": "Marcus Goldman이 뉴욕에서 상업어음 중개를 시작했습니다."
+    },
+    {
+      "year": "1999",
+      "event": "파트너십에서 상장회사로 전환했습니다."
+    },
+    {
+      "year": "2008",
+      "event": "미국 은행지주회사로 전환했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기업·기관 관계",
+      "detail": "자문·발행·거래에서 축적한 관계가 반복 거래와 교차판매를 돕습니다."
+    },
+    {
+      "title": "전문 인력·실행 능력",
+      "detail": "복잡한 거래를 구조화하고 큰 위험을 중개하는 역량이 진입장벽입니다."
+    },
+    {
+      "title": "관리보수 기반 확장",
+      "detail": "자산관리의 반복 수입이 거래·자문 사이클 의존도를 일부 완화할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "거래 사이클",
+      "detail": "M&A·IPO 지연은 수수료와 성과보수를 동시에 줄일 수 있습니다."
+    },
+    {
+      "title": "시장·상대방 위험",
+      "detail": "고객 거래 지원에도 재고·대출·파생상품 손실 가능성이 남습니다."
+    },
+    {
+      "title": "보상비용과 자본",
+      "detail": "인재 확보 비용과 규제자본 때문에 매출 증가가 전부 이익으로 남지 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "comparison": "기관증권은 겹치지만 MS는 개인 자산관리 기반이 더 뚜렷합니다."
+    },
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "JPM",
+      "comparison": "대형 기업금융 경쟁자이며 JPM은 광범위한 상업은행 예금·결제 기반을 함께 보유합니다."
+    }
+  ],
+  "macroLink": "위험 선호와 기업의 자금조달·인수 의지가 자문 수익을 움직입니다. 변동성이 거래를 늘릴 수 있지만 극단적인 충격은 재고 손실과 고객 활동 위축을 만들 수 있습니다.",
+  "monitoring": [
+    "발표된 딜이 완료 수수료로 얼마나 전환되는가?",
+    "자산관리 이익 중 반복 관리보수와 일회성 투자손익은 각각 무엇인가?",
+    "보상비용·자본 증가보다 정상 이익이 빨리 늘어나는가?"
+  ],
+  "sources": [
+    {
+      "title": "Goldman Sachs · 투자자 자료",
+      "url": "https://www.goldmansachs.com/investor-relations",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Goldman Sachs · 연혁·기업 자료",
+      "url": "https://www.goldmansachs.com/our-firm/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Goldman Sachs · 상장 기념",
+      "url": "https://www.goldmansachs.com/our-firm/history/ipo-anniversary",
+      "note": "1999년 상장 확인"
+    },
+    {
+      "title": "Goldman Sachs · 2008년 지주회사 전환 관련 공시",
+      "url": "https://www.goldmansachs.com/investor-relations/financials/8k/docs/pdf-attachments/05-03-10-8k-doc.pdf",
+      "note": "역사 사건만 참조; 현재 사업구분 자료로 사용하지 않음"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

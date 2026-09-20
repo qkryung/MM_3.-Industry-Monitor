@@ -1,0 +1,113 @@
+{
+  "ticker": "NTES",
+  "oneLiner": "중국 게임을 기반으로 해외 게임·음악·교육 사업을 운영하는 기업입니다.",
+  "businessModel": "온라인·모바일 게임에서 가상 아이템과 유료 콘텐츠를 판매하고 일부 라이선스 게임을 운영합니다. 음악·교육 등의 수입도 있어 연결 실적과 핵심 게임 이익을 나눠 봐야 합니다. 미국 ADR은 중국 사업을 가진 해외 법인에 대한 투자라는 점도 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "게임 및 관련 부가 서비스",
+      "description": "자체 개발·라이선스 PC·모바일 게임과 관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.netease.com/"
+    },
+    {
+      "name": "Youdao",
+      "description": "온라인 교육·학습 기기·관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.netease.com/"
+    },
+    {
+      "name": "Cloud Music",
+      "description": "음악 구독·광고·관련 오디오 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.netease.com/"
+    },
+    {
+      "name": "혁신 사업 및 기타",
+      "description": "전자상거래 등 기타 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.netease.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1997,
+      "event": "NetEase 사업 창업."
+    },
+    {
+      "year": 2000,
+      "event": "미국 Nasdaq 상장."
+    },
+    {
+      "year": 2020,
+      "event": "홍콩 증권거래소 추가 상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "중국 게임 운영 경험",
+      "detail": "현지 취향·유통·장기 운영에 축적된 역량이 있습니다."
+    },
+    {
+      "title": "자체 개발 기반",
+      "detail": "직접 개발한 지식재산은 외부 판권 의존을 줄일 수 있습니다."
+    },
+    {
+      "title": "게임 종류 분산",
+      "detail": "PC·모바일과 다양한 장르가 흥행 위험을 나눕니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "중국 규제",
+      "detail": "게임 승인·미성년 이용 규칙이 출시와 사용에 영향을 줍니다."
+    },
+    {
+      "title": "해외 확장의 비용",
+      "detail": "해외 스튜디오·출시가 성공하기까지 인력과 마케팅 비용이 먼저 듭니다."
+    },
+    {
+      "title": "비게임 수익성",
+      "detail": "음악·교육 등 사업이 성장해도 핵심 게임과 같은 마진을 보장하지 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Tencent",
+      "ticker": "0700.HK",
+      "comparison": "중국 게임 유통·개발·소셜 접점이 강하며 현지 수요를 직접 경쟁합니다."
+    },
+    {
+      "name": "Take-Two Interactive",
+      "ticker": "TTWO",
+      "comparison": "글로벌 게임 이용 시간·개발 인재·콘텐츠에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "중국 소비와 게임 승인 환경이 미국 경기보다 직접적입니다. 위안화 수익의 환산, 해외 개발비와 미국 ADR의 구조를 함께 이해해야 합니다.",
+  "monitoring": [
+    "신작의 승인·출시·장기 이용률이 이어지는가?",
+    "게임 매출 증가가 외부 라이선스와 자체 개발 중 어디서 오는가?",
+    "해외 게임과 비게임 사업이 이익을 만드는가?"
+  ],
+  "sources": [
+    {
+      "title": "NetEase · 공식 IR",
+      "url": "https://ir.netease.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "NetEase · 투자자 FAQ",
+      "url": "https://ir.netease.com/node/5941",
+      "note": "미국·홍콩 상장 시점 확인."
+    },
+    {
+      "title": "NetEase · 2025 제출 20-F",
+      "url": "https://ir.netease.com/system/files-encrypted/nasdaq_kms/assets/2025/04/15/6-21-43/0001410578-25-000728.pdf",
+      "note": "1997년 사업 창업과 보고 사업 구분의 원문."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

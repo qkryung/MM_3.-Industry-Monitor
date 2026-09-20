@@ -1,0 +1,123 @@
+{
+  "ticker": "AAPL",
+  "oneLiner": "iPhone을 중심으로 기기와 서비스가 연결되는 소비자 기술 생태계 회사.",
+  "businessModel": "iPhone·Mac·iPad·웨어러블을 판매하고, 기기를 쓰는 고객에게 앱 유통·클라우드·콘텐츠·결제 등 서비스를 제공합니다. 기기 교체가 늦어져도 설치 기반에서 서비스 수입이 발생할 수 있지만 모든 서비스가 같은 수익모델은 아닙니다. 제품·운영체제·칩의 통합이 사용자 경험을 결정합니다.",
+  "revenueStreams": [
+    {
+      "name": "iPhone",
+      "description": "스마트폰 기기 판매.",
+      "share": 50.36,
+      "period": "FY2025 · 2025-09-27 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "name": "Mac·iPad",
+      "description": "개인용 컴퓨터와 태블릿 판매.",
+      "share": 14.83,
+      "period": "FY2025 · 2025-09-27 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "name": "웨어러블·홈·액세서리",
+      "description": "Apple Watch·AirPods 및 기타 기기·액세서리.",
+      "share": 8.58,
+      "period": "FY2025 · 2025-09-27 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "name": "서비스",
+      "description": "앱 유통·구독 콘텐츠·클라우드·결제·광고·보증 등 서비스.",
+      "share": 26.23,
+      "period": "FY2025 · 2025-09-27 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    }
+  ],
+  "history": [
+    {
+      "year": 1976,
+      "event": "Steve Jobs와 Steve Wozniak 등이 Apple 창업."
+    },
+    {
+      "year": 1980,
+      "event": "기업공개."
+    },
+    {
+      "year": 2007,
+      "event": "첫 iPhone을 공개하며 모바일 사업 전환점 형성."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기기·소프트웨어 통합",
+      "detail": "하드웨어와 운영체제·자체 칩을 함께 설계해 일관된 사용 경험을 제공합니다."
+    },
+    {
+      "title": "설치 기반",
+      "detail": "기기를 지속 사용하는 고객이 서비스·액세서리와 교체 수요의 기반이 됩니다."
+    },
+    {
+      "title": "브랜드·유통",
+      "detail": "직접 매장과 온라인·통신사 유통을 통해 프리미엄 제품 경험을 관리합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "iPhone 의존",
+      "detail": "주력 제품의 교체 주기와 신제품 반응이 전체 매출에 큰 영향을 줍니다."
+    },
+    {
+      "title": "중국 연관성",
+      "detail": "중국 소비 경쟁과 아시아 중심 제조 공급망의 정책·관세 위험에 동시에 노출됩니다."
+    },
+    {
+      "title": "플랫폼 규제",
+      "detail": "앱 유통·결제·기본 서비스 계약에 대한 규제가 서비스 수익 구조를 바꿀 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Samsung Electronics",
+      "ticker": "005930.KS",
+      "comparison": "스마트폰·태블릿·웨어러블에서 경쟁하는 한국 상장사입니다."
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "comparison": "Android 생태계와 Pixel·서비스가 경쟁하면서 검색 등에서는 파트너 관계도 있습니다."
+    }
+  ],
+  "macroLink": "가처분소득·환율·통신사 할부 조건이 기기 교체에 영향을 줍니다. 서비스의 반복성은 도움이 되지만 규제와 제품 설치 기반의 성장도 함께 봐야 합니다.",
+  "monitoring": [
+    "iPhone 매출 변화가 판매 대수·제품 구성·환율 중 어디서 오는가?",
+    "설치 기반 증가가 유료 서비스 사용과 연결되는가?",
+    "신기능이 교체 주기를 실제로 단축하는지 지역별 수요로 확인했는가?"
+  ],
+  "sources": [
+    {
+      "title": "Apple · 공식 IR",
+      "url": "https://investor.apple.com/investor-relations/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 비중은 명시된 회계기간의 원문 매출에서 계산했으며 현재 실시간 수치가 아닙니다."
+    },
+    {
+      "title": "Apple 50주년 공식 발표",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/",
+      "note": "1976년 창업 확인."
+    },
+    {
+      "title": "Apple 투자자 FAQ",
+      "url": "https://investor.apple.com/faq/",
+      "note": "1980년 IPO와 회계연도 구분 확인."
+    },
+    {
+      "title": "첫 iPhone 발표",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "note": "2007년 제품 전환점 확인."
+    },
+    {
+      "title": "Apple FY2025 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "note": "제품별 연간 매출 합계 416,161백만 USD. Mac·iPad는 두 항목을 합산. 비중은 각 항목÷표시 항목 합계로 산출하고 소수 둘째 자리 반올림."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

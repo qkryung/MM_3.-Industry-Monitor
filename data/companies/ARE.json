@@ -1,0 +1,99 @@
+{
+  "ticker": "ARE",
+  "oneLiner": "바이오기업과 연구기관이 실험하는 전문 연구실·캠퍼스를 임대합니다.",
+  "businessModel": "생명과학 기업이 모인 지역에 실험실과 연구지원 공간을 개발·임대합니다. 일반 사무실과 달리 전력·환기·배관 등 특수 설비가 중요합니다. 임차기업이 연구를 계속할 자금과 공간 확장 계획을 갖는지가 핵심이며, 과학기술의 장기 성장과 단기 연구실 임대수요는 다를 수 있습니다. 벤처 투자 손익은 건물 임대 매출과 구분합니다.",
+  "revenueStreams": [
+    {
+      "name": "연구시설 임대료",
+      "description": "연구소·캠퍼스의 계약 임대료입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.are.com/for-our-investors/company-overview/default.aspx"
+    },
+    {
+      "name": "임차인 비용 회수",
+      "description": "시설 운영비·재산세 등 계약에 따른 비용 청구입니다. 임대사업의 구성요소로 독립 사업부가 아닙니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.are.com/for-our-investors/company-overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1994",
+      "event": "생명과학 전문 부동산 회사로 설립됐습니다."
+    },
+    {
+      "year": "1997",
+      "event": "기업공개를 실시했습니다."
+    },
+    {
+      "year": "2017",
+      "event": "S&P 500 지수에 편입됐습니다. 당시 분류와 현재 학습용 분류는 구분합니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "연구 집적지",
+      "detail": "인력·기관·자본이 모인 생명과학 지역에서 임차인 네트워크를 구축했습니다."
+    },
+    {
+      "title": "시설 전문성",
+      "detail": "특수 연구시설의 개발·운영 경험은 일반 사무실 공급자와 차이를 만듭니다."
+    },
+    {
+      "title": "캠퍼스 확장",
+      "detail": "성장하는 임차인의 인접 공간 확장을 같은 거점에서 지원할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "바이오 자금 의존",
+      "detail": "임차인이 임상에 실패하거나 자금조달에 어려움을 겪으면 공간을 축소할 수 있습니다."
+    },
+    {
+      "title": "공급 과잉",
+      "detail": "생명과학 산업이 성장해도 연구실이 더 빠르게 지어지면 임대료가 약해집니다."
+    },
+    {
+      "title": "높은 전환 비용",
+      "detail": "빈 연구시설의 개조·재임대와 개발 중단에는 자본이 많이 필요합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Healthpeak",
+      "ticker": "DOC",
+      "comparison": "연구시설과 외래 의료시설을 함께 보유합니다."
+    },
+    {
+      "name": "BXP",
+      "ticker": "BXP",
+      "comparison": "일부 생명과학 개발에서 경쟁하지만 주력은 고급 오피스입니다."
+    }
+  ],
+  "macroLink": "벤처자금·제약 연구예산이 연구실 임차에, 장기금리가 개발비와 자산 평가에 연결됩니다. 바이오 주가 반등만으로 실제 공간 계약이 늘었다고 판단하지 않습니다.",
+  "monitoring": [
+    "새 계약이 기존 임차인의 갱신인가, 신규 자금조달 기업의 확장인가?",
+    "개발 중 시설의 선임대와 잔여 투자액이 변화하고 있는가?",
+    "공실이 장기화될 경우 시설 개선비와 임대 인센티브는 얼마인가?"
+  ],
+  "sources": [
+    {
+      "title": "Alexandria Real Estate Equities · 투자자 자료",
+      "url": "https://investor.are.com/for-our-investors/company-overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Alexandria Real Estate Equities · 연혁·기업 자료",
+      "url": "https://investor.are.com/news-events-and-webcasts/news/news-details/2024/Alexandria-Real-Estate-Equities-Inc.-Celebrates-30-Years-at-the-Vanguard-and-Heart-of-the-5-Trillion-Secularly-Growing-Life-Science-Industry/default.aspx",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Alexandria · 지수 편입 발표",
+      "url": "https://investor.are.com/news-events-and-webcasts/news/news-details/2017/Alexandria-Real-Estate-Equities-Inc-to-Join-SP-500-Index/default.aspx",
+      "note": "2017년 편입 이력 확인. 과거 분류를 현재 분류로 사용하지 않음."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

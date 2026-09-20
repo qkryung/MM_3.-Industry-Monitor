@@ -1,0 +1,99 @@
+{
+  "ticker": "WMG",
+  "oneLiner": "음원 녹음물과 작곡 저작권을 관리해 이용료를 받는 음악 회사입니다.",
+  "businessModel": "음반사는 녹음된 음원을, 음악출판사는 작곡·작사 권리를 관리합니다. 스트리밍·영상·방송·공연 등에서 음악이 사용되면 수입을 받고 아티스트·작가에게 계약에 따라 배분합니다. 같은 노래라도 녹음물과 작곡 권리는 서로 다른 권리입니다.",
+  "revenueStreams": [
+    {
+      "name": "Recorded Music",
+      "description": "음원 스트리밍·판매·라이선스와 아티스트 관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.wmg.com/investor-relations/default.aspx"
+    },
+    {
+      "name": "Music Publishing",
+      "description": "작곡·작사 저작권의 공연·복제·영상 사용 등 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.wmg.com/investor-relations/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2003,
+      "event": "현재 Warner Music Group 법인 설립."
+    },
+    {
+      "year": 2004,
+      "event": "Time Warner 음악 사업을 인수해 독립 음악 기업 기반 형성."
+    },
+    {
+      "year": 2020,
+      "event": "Nasdaq에 재상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "카탈로그의 반복 사용",
+      "detail": "과거 음악도 스트리밍·영상 사용을 통해 장기간 수입을 만들 수 있습니다."
+    },
+    {
+      "title": "아티스트 지원망",
+      "detail": "제작·마케팅·유통의 국제 네트워크가 신인 발굴과 확장을 돕습니다."
+    },
+    {
+      "title": "권리 종류 분산",
+      "detail": "녹음물과 음악출판을 함께 다뤄 수익 경로를 넓힙니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "흥행과 계약 비용",
+      "detail": "새 아티스트의 성공이 불확실하고 선급금·마케팅이 먼저 필요합니다."
+    },
+    {
+      "title": "플랫폼 협상",
+      "detail": "주요 스트리밍 업체의 가격·계약·정책 변화에 노출됩니다."
+    },
+    {
+      "title": "AI와 권리 분쟁",
+      "detail": "생성 음악과 학습 데이터의 저작권 처리가 사업 조건을 바꿀 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Universal Music Group",
+      "ticker": "UMG.AS",
+      "comparison": "음반·출판의 글로벌 카탈로그와 아티스트 계약을 경쟁합니다."
+    },
+    {
+      "name": "Sony Group",
+      "ticker": "SONY",
+      "comparison": "Sony Music의 녹음물·출판 사업이 직접 경쟁합니다."
+    }
+  ],
+  "macroLink": "가계 음악 구독과 광고·영상 제작 수요가 권리료로 이어집니다. 물가에 맞춘 플랫폼 요금 인상이 회사 계약 수입으로 언제 반영되는지도 확인합니다.",
+  "monitoring": [
+    "스트리밍 수입 증가는 플랫폼 가격과 청취량 중 어디서 오는가?",
+    "신작 흥행과 오래된 카탈로그가 균형 있게 기여하는가?",
+    "아티스트 선급금과 권리 투자 이후 현금이 남는가?"
+  ],
+  "sources": [
+    {
+      "title": "Warner Music Group · 공식 IR",
+      "url": "https://investors.wmg.com/investor-relations/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "WMG · 연차보고서의 기업 연혁",
+      "url": "https://investors.wmg.com/static-files/c293d02c-b203-459d-8bc7-b3941a22d7f9",
+      "note": "법인 설립·독립과 Recorded Music·Music Publishing 구조."
+    },
+    {
+      "title": "WMG · 2020 IPO",
+      "url": "https://www.wmg.com/news/warner-music-group-corp-announces-pricing-initial-public-offering-34826",
+      "note": "2020년 Nasdaq 재상장 발표."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,99 @@
+{
+  "ticker": "CMCSA",
+  "oneLiner": "광대역 통신망과 영상·테마파크를 함께 운영하는 복합 기업입니다.",
+  "businessModel": "Xfinity·Sky 등의 통신·영상 서비스를 판매하는 사업과 NBCUniversal의 콘텐츠·체험 사업을 함께 가집니다. 광대역의 반복 현금과 스트리밍·스포츠·테마파크 투자를 연결해 읽되, 서로 다른 수요와 비용 구조를 합산 매출로 가리지 않아야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "Connectivity & Platforms",
+      "description": "미국·해외의 광대역·무선·영상·기업 연결 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.cmcsa.com/"
+    },
+    {
+      "name": "Content & Experiences",
+      "description": "미디어·스트리밍·스튜디오·테마파크 등 콘텐츠와 체험.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.cmcsa.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1963,
+      "event": "케이블 사업 American Cable Systems 인수로 창업."
+    },
+    {
+      "year": 2011,
+      "event": "NBCUniversal을 결합해 콘텐츠 사업 확대."
+    },
+    {
+      "year": 2018,
+      "event": "Sky 인수로 해외 통신·미디어 기반 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기존 광대역망",
+      "detail": "광범위한 망 위에서 인터넷·기업·무선 결합을 판매합니다."
+    },
+    {
+      "title": "콘텐츠와 체험",
+      "detail": "Universal 지식재산을 영상과 테마파크에 활용할 수 있습니다."
+    },
+    {
+      "title": "수입원 분산",
+      "detail": "통신·광고·구독·체험의 서로 다른 수입원이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "광대역 경쟁",
+      "detail": "광섬유와 고정형 무선인터넷이 가입자와 가격을 압박합니다."
+    },
+    {
+      "title": "유료방송 감소",
+      "detail": "전통 영상 가입 감소를 신규 서비스 수익으로 메워야 합니다."
+    },
+    {
+      "title": "콘텐츠·파크 투자",
+      "detail": "Peacock·판권·놀이시설 투자 회수에는 시간과 수요가 필요합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "AT&T",
+      "ticker": "T",
+      "comparison": "광섬유·무선 결합으로 가정 연결 시장을 경쟁합니다."
+    },
+    {
+      "name": "Walt Disney",
+      "ticker": "DIS",
+      "comparison": "스트리밍·영화·테마파크에서 다층적으로 경쟁합니다."
+    }
+  ],
+  "macroLink": "주택 이사와 가계 통신비는 광대역, 여행 소비는 파크, 기업 광고 예산은 미디어에 각각 전달됩니다. 합산 이익보다 사업별 흐름을 봅니다.",
+  "monitoring": [
+    "광대역 고객 감소를 가격·기업 고객·무선 결합이 상쇄하는가?",
+    "스트리밍 적자 개선이 콘텐츠 경쟁력 저하 없이 이루어지는가?",
+    "새 테마파크 투자가 방문객과 투자수익으로 연결되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Comcast · 공식 IR",
+      "url": "https://www.cmcsa.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Comcast · 공식 타임라인",
+      "url": "https://corporate.comcast.com/press/timeline",
+      "note": "창업과 NBCUniversal·Sky 결합 연혁."
+    },
+    {
+      "title": "Comcast · 회사 개요",
+      "url": "https://corporate.comcast.com/company",
+      "note": "통신·콘텐츠·체험의 사업 범위 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

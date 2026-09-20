@@ -1,0 +1,99 @@
+{
+  "ticker": "QCOM",
+  "oneLiner": "스마트폰의 통신·계산 칩과 이동통신 특허 사용료로 돈을 버는 회사.",
+  "businessModel": "Snapdragon 프로세서, 모뎀, 무선 연결 부품을 기기 제조사에 판매하는 사업과 이동통신 표준 관련 특허를 허가하는 사업이 있습니다. 전자는 칩 출하·제품 구성에, 후자는 허가 계약과 단말 판매에 영향을 받습니다. 자동차·PC·사물인터넷으로 고객 용도를 넓히는 과정도 함께 봅니다.",
+  "revenueStreams": [
+    {
+      "name": "반도체 제품",
+      "description": "스마트폰·자동차·PC·연결 기기용 계산·통신 반도체를 판매하는 QCT 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.qualcomm.com/"
+    },
+    {
+      "name": "특허 사용료",
+      "description": "이동통신 관련 특허를 이용하는 제조사에 계약에 따른 사용료를 받는 QTL 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.qualcomm.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1985,
+      "event": "Irwin Jacobs 등 창업자가 Qualcomm 설립."
+    },
+    {
+      "year": 1991,
+      "event": "나스닥 기업공개."
+    },
+    {
+      "year": 1995,
+      "event": "CDMA 기술의 상용 서비스 도입."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "통신 기술 축적",
+      "detail": "모뎀과 무선 주파수 부품을 조합해 복잡한 이동통신 요구를 충족합니다."
+    },
+    {
+      "title": "특허 수익원",
+      "detail": "칩 판매와 별도로 보유 특허의 허가 계약에서 수입이 발생합니다."
+    },
+    {
+      "title": "기기 확장",
+      "detail": "스마트폰에서 쌓은 저전력 계산 기술을 자동차·PC 등으로 이전합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "스마트폰 의존",
+      "detail": "프리미엄 단말 수요와 주요 제조사의 신제품 판매에 민감합니다."
+    },
+    {
+      "title": "고객 자체 칩",
+      "detail": "주요 고객의 모뎀·프로세서 내재화가 외부 칩 구매를 줄일 수 있습니다."
+    },
+    {
+      "title": "특허 규제",
+      "detail": "허가료 산정과 계약 관행에 대한 소송·정책 변화가 수익에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "MediaTek",
+      "ticker": "2454.TW",
+      "comparison": "안드로이드 스마트폰 프로세서에서 경쟁하는 대만 상장사입니다."
+    },
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "comparison": "단말 고객인 동시에 자체 프로세서·모뎀 개발을 통해 일부 부품을 대체합니다."
+    }
+  ],
+  "macroLink": "세계 스마트폰 교체 주기와 중국 소비가 중요합니다. 자동차 매출은 신차 생산량과 차량당 탑재 반도체 증가를 함께 반영합니다.",
+  "monitoring": [
+    "반도체 성장에서 단말 판매 회복과 고가 제품 비중 상승을 구분했는가?",
+    "자동차 수주가 실제 차량 출하 매출로 언제 전환되는가?",
+    "주요 고객의 자체 모뎀 확대를 다른 고객·제품 성장이 얼마나 보완하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Qualcomm · 공식 IR",
+      "url": "https://investor.qualcomm.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Qualcomm 회사 소개",
+      "url": "https://www.qualcomm.com/company",
+      "note": "제품군·QCT와 QTL 구분, 1985년 설립·1995년 CDMA 상용화 확인."
+    },
+    {
+      "title": "Qualcomm 투자자 FAQ",
+      "url": "https://investor.qualcomm.com/about/faq/default.aspx",
+      "note": "1991년 IPO와 상장 정보 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

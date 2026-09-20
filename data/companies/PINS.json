@@ -1,0 +1,99 @@
+{
+  "ticker": "PINS",
+  "oneLiner": "사고 싶은 물건과 생활 아이디어를 찾는 시각 검색 광고 플랫폼입니다.",
+  "businessModel": "이용자는 패션·인테리어·요리 아이디어를 저장하고 탐색하며, Pinterest는 이 발견 과정에 상품 광고를 넣습니다. 단순 체류 시간보다 구매 의도가 실제 쇼핑 행동으로 이어지는지가 중요합니다. 아래 매출 구분은 같은 광고 사업을 이용자 지역별로 나눈 것입니다.",
+  "revenueStreams": [
+    {
+      "name": "미국·캐나다 광고",
+      "description": "미국·캐나다 이용자에게 전달되는 광고 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.pinterestinc.com/overview/default.aspx"
+    },
+    {
+      "name": "기타 지역 광고",
+      "description": "유럽 등 미국·캐나다 외 이용자 기반의 광고 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.pinterestinc.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2008,
+      "event": "Pinterest의 전신 기업이 설립됨."
+    },
+    {
+      "year": 2019,
+      "event": "뉴욕증권거래소 상장."
+    },
+    {
+      "year": 2022,
+      "event": "쇼핑 기술 기업 THE YES 인수 완료."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "상업적 탐색 의도",
+      "detail": "이용자가 계획·구매 아이디어를 찾는 상황에서 광고가 자연스럽게 연결됩니다."
+    },
+    {
+      "title": "시각 데이터",
+      "detail": "저장된 이미지와 취향 정보를 상품 추천에 활용할 수 있습니다."
+    },
+    {
+      "title": "해외 수익화 여지",
+      "detail": "이용자 규모와 광고 수익화 수준의 지역 차이가 성장 기회가 됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "광고 측정 과제",
+      "detail": "발견부터 구매까지 긴 경로는 광고 효과를 입증하기 어렵게 합니다."
+    },
+    {
+      "title": "외부 트래픽 의존",
+      "detail": "검색엔진·앱 유통 정책 변화가 이용자 유입에 영향을 줄 수 있습니다."
+    },
+    {
+      "title": "지역별 낮은 단가",
+      "detail": "해외 이용자가 늘어도 광고 수입이 같은 속도로 늘지 않을 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "comparison": "Instagram의 시각 콘텐츠·쇼핑 광고와 경쟁합니다."
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "comparison": "검색·쇼핑 광고가 이용자의 구매 탐색과 광고주 예산을 경쟁합니다."
+    }
+  ],
+  "macroLink": "주택 거래·패션·소매 소비의 흐름이 광고주 예산과 쇼핑 관심에 연결됩니다. 이용자 증가와 지역별 광고 단가를 분리해 경기를 읽습니다.",
+  "monitoring": [
+    "월간 이용자 증가가 지역별 이용자당 매출로 이어지는가?",
+    "광고 클릭 이후 판매 성과를 광고주에게 입증하는가?",
+    "쇼핑 추천의 개선이 사용 경험을 해치지 않는가?"
+  ],
+  "sources": [
+    {
+      "title": "Pinterest · 공식 IR",
+      "url": "https://investor.pinterestinc.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Pinterest · 투자자 FAQ",
+      "url": "https://investor.pinterestinc.com/governance/Contact-our-board/",
+      "note": "2008년 설립과 2019년 상장 확인. 서비스 출시는 2010년으로 구분됩니다."
+    },
+    {
+      "title": "Pinterest · THE YES 인수 완료",
+      "url": "https://investor.pinterestinc.com/news-and-events/press-releases/press-releases-details/2022/Pinterest-Completes-Acquisition-of-THE-YES/default.aspx",
+      "note": "2022년 쇼핑 역량 강화 거래."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,99 @@
+{
+  "ticker": "LMT",
+  "oneLiner": "전투기·미사일·우주·방산 시스템",
+  "businessModel": "정부에 전투기·미사일·헬리콥터·우주 시스템을 개발·생산하고 운용 기간의 정비·업그레이드를 제공합니다. 계약금액이 크고 수명이 길지만, 확정 예산과 실제 납품 일정·개발 원가를 확인해야 수주가 현금으로 얼마나 남는지 알 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "항공·회전익",
+      "description": "군용 항공기·헬리콥터와 유지·개량",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.lockheedmartin.com/"
+    },
+    {
+      "name": "미사일·우주",
+      "description": "방공·정밀타격·위성·우주 프로그램",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.lockheedmartin.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1912",
+      "event": "Lockheed·Glenn Martin의 전신 회사 설립"
+    },
+    {
+      "year": "1995",
+      "event": "Lockheed와 Martin Marietta 합병"
+    },
+    {
+      "year": "2015",
+      "event": "Sikorsky 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "핵심 프로그램",
+      "detail": "장기간 운용되는 군 플랫폼에 참여합니다."
+    },
+    {
+      "title": "기술·인증",
+      "detail": "보안·개발 경험·정부 인증이 진입장벽입니다."
+    },
+    {
+      "title": "운용 지원",
+      "detail": "납품 뒤 정비·부품·업그레이드가 이어집니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "정부 집중",
+      "detail": "예산 우선순위·계약 조건 변화에 민감합니다."
+    },
+    {
+      "title": "개발 손실",
+      "detail": "복잡한 고정가격 프로젝트는 원가 초과 위험이 큽니다."
+    },
+    {
+      "title": "납품 병목",
+      "detail": "하청·부품·시험 지연이 현금 회수를 늦춥니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Northrop Grumman",
+      "ticker": "NOC",
+      "comparison": "NOC는 폭격기·우주·전자체계 노출이 특징입니다."
+    },
+    {
+      "name": "RTX",
+      "ticker": "RTX",
+      "comparison": "RTX는 미사일·센서에서 경쟁하고 민항사업도 보유합니다."
+    }
+  ],
+  "macroLink": "국방 예산 확대도 발주·생산·검수 단계를 거쳐야 이익이 됩니다. 인플레이션은 고정가격 계약에 부담입니다.",
+  "monitoring": [
+    "핵심 플랫폼 납품과 고객 인수 일정이 정상적인가?",
+    "신규 수주에서 고정가격·개발 위험은 얼마나 큰가?",
+    "이익 대비 현금 차이는 선수금·재고·검수 중 무엇 때문인가?"
+  ],
+  "sources": [
+    {
+      "title": "Lockheed Martin · 투자자 자료",
+      "url": "https://investors.lockheedmartin.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Lockheed Martin · 기업 연혁·사업 소개",
+      "url": "https://www.lockheedmartin.com/en-us/news/features/history/founders.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Sikorsky 인수 공시",
+      "url": "https://investors.lockheedmartin.com/static-files/b5a3896b-9915-48eb-b98f-394352f579f0",
+      "note": "2015-11-06 인수 완료"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

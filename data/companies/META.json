@@ -1,0 +1,99 @@
+{
+  "ticker": "META",
+  "oneLiner": "소셜 앱의 이용 시간과 관심을 광고 수익으로 바꾸는 기업입니다.",
+  "businessModel": "Facebook·Instagram 등을 무료로 제공하고 기업이 원하는 고객에게 광고를 보여줍니다. 추천 AI와 광고 도구가 성과를 높이면 광고주 지출을 늘릴 수 있지만, 이를 위한 컴퓨팅 투자와 Reality Labs 손실을 별도로 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "Family of Apps",
+      "description": "Facebook·Instagram 등 앱의 광고와 기타 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.atmeta.com/home/"
+    },
+    {
+      "name": "Reality Labs",
+      "description": "Quest 등 증강·가상현실 기기와 콘텐츠·소프트웨어.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.atmeta.com/home/"
+    }
+  ],
+  "history": [
+    {
+      "year": 2004,
+      "event": "Facebook 출범."
+    },
+    {
+      "year": 2012,
+      "event": "Instagram 인수로 사진 중심 모바일 접점 확대."
+    },
+    {
+      "year": 2021,
+      "event": "회사 브랜드를 Meta로 변경."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "광고주와 이용자 규모",
+      "detail": "다양한 고객에게 접근하려는 광고주와 많은 이용자를 연결합니다."
+    },
+    {
+      "title": "추천·전환 도구",
+      "detail": "콘텐츠 추천과 광고 측정을 함께 개선해 광고 성과를 높일 여지가 있습니다."
+    },
+    {
+      "title": "다중 앱 접점",
+      "detail": "Facebook·Instagram·WhatsApp의 서로 다른 이용 목적을 활용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "광고 의존",
+      "detail": "매출 기반이 광고 경기에 집중되어 기업 마케팅 축소에 민감합니다."
+    },
+    {
+      "title": "외부 플랫폼 규칙",
+      "detail": "모바일 운영체제의 개인정보 정책이 광고 측정과 표적화에 영향을 줍니다."
+    },
+    {
+      "title": "투자 회수 불확실성",
+      "detail": "AI 인프라와 Reality Labs 지출이 즉시 추가 이익을 보장하지 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "comparison": "검색·YouTube 광고와 소셜 광고가 기업 마케팅 예산을 경쟁합니다."
+    },
+    {
+      "name": "Snap",
+      "ticker": "SNAP",
+      "comparison": "젊은 이용자·카메라·메시지 중심 광고와 경쟁합니다."
+    }
+  ],
+  "macroLink": "소비·기업 매출 전망이 광고 예산으로 전달됩니다. 이용자가 유지돼도 광고 단가가 약해질 수 있으며 달러·서버 투자·전력비를 함께 봅니다.",
+  "monitoring": [
+    "광고 매출 성장은 노출량과 단가 중 어디서 오는가?",
+    "AI 추천·광고 기능의 개선이 투자 비용을 회수하는가?",
+    "Reality Labs 손실과 핵심 앱 현금흐름의 균형은 어떤가?"
+  ],
+  "sources": [
+    {
+      "title": "Meta Platforms · 공식 IR",
+      "url": "https://investor.atmeta.com/home/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Meta · 회사명 변경",
+      "url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/amp/",
+      "note": "2004년 출범과 2021년 Meta 브랜드 전환."
+    },
+    {
+      "title": "Meta · Instagram 인수 발표",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2012/Facebook-to-Acquire-Instagram/default.aspx",
+      "note": "2012년 인수의 전략적 배경."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

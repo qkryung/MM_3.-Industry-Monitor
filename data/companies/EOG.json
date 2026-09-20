@@ -1,0 +1,94 @@
+{
+  "ticker": "EOG",
+  "oneLiner": "미국 중심 원유·천연가스 개발·생산 기업",
+  "businessModel": "미국 육상 광구를 직접 평가·개발해 원유·천연가스·천연가스액을 판매합니다. 좋은 암석만큼 시추 길이·완결 방식·물류가 중요합니다. 유정 단위의 생산성과 비용을 반복 개선해 투자한 현금을 빨리 회수하는 모델입니다.",
+  "revenueStreams": [
+    {
+      "name": "원유·응축유",
+      "description": "정유사·유통업체에 액체 탄화수소 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.eogresources.com/"
+    },
+    {
+      "name": "가스·천연가스액",
+      "description": "가스 구매자·처리시설·산업 고객에 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.eogresources.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1999",
+      "event": "Enron에서 독립해 EOG Resources로 출범"
+    },
+    {
+      "year": "2000",
+      "event": "S&P 500 편입"
+    },
+    {
+      "year": "2010",
+      "event": "Eagle Ford 원유 자산 공개로 액체 생산 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "자산 평가",
+      "detail": "지질·생산 데이터를 바탕으로 개발 우선순위를 선택합니다."
+    },
+    {
+      "title": "현장 기술",
+      "detail": "시추·완결 개선이 같은 광구의 회수율을 높일 수 있습니다."
+    },
+    {
+      "title": "투자 유연성",
+      "detail": "육상 유정은 초대형 해양 프로젝트보다 투자 속도 조정이 쉽습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "셰일 감소율",
+      "detail": "초기 생산이 빠르게 감소해 지속적인 재투자가 필요합니다."
+    },
+    {
+      "title": "서비스 비용",
+      "detail": "장비·인력·물 처리 비용 상승이 수익을 압박합니다."
+    },
+    {
+      "title": "가스·기반시설",
+      "detail": "가스 가격과 지역 운송 제약이 실제 판매가를 낮출 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Diamondback Energy",
+      "ticker": "FANG",
+      "comparison": "FANG은 퍼미안 집중과 인수 규모가 특징입니다."
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "comparison": "COP는 해외·장기 프로젝트를 포함해 지역과 개발기간이 더 다양합니다."
+    }
+  ],
+  "macroLink": "유가·가스 가격과 유전 서비스 비용의 차이가 중요합니다. 원자재 강세가 시추비 상승으로 일부 상쇄될 수 있습니다.",
+  "monitoring": [
+    "새 유정 생산성이 길어진 시추 길이를 감안해도 좋아지는가?",
+    "생산 유지에 필요한 설비투자는 얼마나 증가하는가?",
+    "가스 비중 변화가 현금흐름의 변동성을 바꾸는가?"
+  ],
+  "sources": [
+    {
+      "title": "EOG Resources · 투자자 자료",
+      "url": "https://investors.eogresources.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "EOG Resources · 기업 연혁·사업 소개",
+      "url": "https://www.eogresources.com/company/history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

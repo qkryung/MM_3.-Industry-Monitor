@@ -1,0 +1,99 @@
+{
+  "ticker": "AVNT",
+  "oneLiner": "특수 폴리머·색상·첨가제·복합소재",
+  "businessModel": "폴리머에 색상·내열·강도·가공 특성을 더해 자동차·의료·소비재·전자 제조업체에 판매합니다. 고객의 제품 설계에 맞춘 배합·인증과 고성능 섬유·복합소재가 핵심으로, 범용 플라스틱 생산기업과 고객 가치가 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "색상·첨가제",
+      "description": "색상·기능을 부여하는 마스터배치·첨가 솔루션",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.avient.com/investors"
+    },
+    {
+      "name": "특수소재·복합재",
+      "description": "고성능 폴리머·섬유·복합소재",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.avient.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "2000",
+      "event": "PolyOne으로 설립"
+    },
+    {
+      "year": "2020",
+      "event": "Clariant Masterbatch 인수와 Avient 사명 도입"
+    },
+    {
+      "year": "2022",
+      "event": "DSM 보호소재 사업 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "맞춤 배합",
+      "detail": "고객 제품에 맞춘 특성을 설계합니다."
+    },
+    {
+      "title": "인증·채택",
+      "detail": "의료·고성능 분야의 승인 과정이 관계를 강화합니다."
+    },
+    {
+      "title": "고부가 소재",
+      "detail": "경량·강도·기능 요구에 대응합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "고객 사이클",
+      "detail": "전자·소비재·자동차 생산 감소에 노출됩니다."
+    },
+    {
+      "title": "인수·부채",
+      "detail": "고성능 소재 확대의 비용과 통합을 관리해야 합니다."
+    },
+    {
+      "title": "기술 경쟁",
+      "detail": "대체 배합·소재와 가격·성능을 경쟁합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Eastman",
+      "ticker": "EMN",
+      "comparison": "Eastman은 자체 화학·소재 공정이 더해진 구조입니다."
+    },
+    {
+      "name": "Celanese",
+      "ticker": "CE",
+      "comparison": "엔지니어링 폴리머에서 겹치며 제품·고객 인증을 비교합니다."
+    }
+  ],
+  "macroLink": "최종 제품 물량·고객 재고와 경량화·소재 대체가 수요를 만듭니다. 원료 하락과 특수소재 가격 유지의 조합을 봅니다.",
+  "monitoring": [
+    "고부가 프로그램 채택이 실제 매출로 전환되는가?",
+    "인수 이후 부채·현금 전환이 개선되는가?",
+    "물량 회복이 고객 재고와 최종 판매에서 함께 확인되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Avient · 투자자 자료",
+      "url": "https://www.avient.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Avient · 회사 설립·전환 연혁",
+      "url": "https://www.avient.com/sites/default/files/2021-09/avient2020sustainabilityreport-9-2-21.pdf",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "DSM 보호소재 인수 완료",
+      "url": "https://www.avient.com/investor-center/news/avient-completes-acquisition-dsm-protective-materials-dyneema",
+      "note": "2022-09-01 Dyneema 포함 사업 인수"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

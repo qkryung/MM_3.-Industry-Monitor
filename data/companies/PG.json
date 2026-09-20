@@ -1,0 +1,118 @@
+{
+  "ticker": "PG",
+  "oneLiner": "생활용품의 성능과 브랜드를 반복 구매로 연결하는 회사입니다.",
+  "businessModel": "세제·기저귀·면도·구강·미용 제품을 소매 채널에 공급합니다. 상품당 가격뿐 아니라 작은 개선과 신뢰가 고객 재구매를 지지합니다. 가격·물량·제품 구성·생산성의 합으로 이익을 읽는 것이 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "뷰티·그루밍",
+      "description": "미용·헤어·면도 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pginvestor.com/overview/default.aspx"
+    },
+    {
+      "name": "헬스케어",
+      "description": "구강·개인 건강 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pginvestor.com/overview/default.aspx"
+    },
+    {
+      "name": "패브릭·홈케어",
+      "description": "세탁·청소·가정 관리 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pginvestor.com/overview/default.aspx"
+    },
+    {
+      "name": "베이비·여성·가족케어",
+      "description": "기저귀·여성 위생·가족용 종이 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pginvestor.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1837,
+      "event": "William Procter와 James Gamble이 사업 설립."
+    },
+    {
+      "year": 1946,
+      "event": "Tide 세탁세제 출시."
+    },
+    {
+      "year": 2005,
+      "event": "Gillette 인수."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "생활 속 브랜드",
+      "detail": "자주 쓰는 제품에서 성능과 신뢰를 축적했습니다."
+    },
+    {
+      "title": "개발·소비자 이해",
+      "detail": "연구·고객 조사와 상품 개선을 대규모로 수행합니다."
+    },
+    {
+      "title": "판매·생산 규모",
+      "detail": "여러 제품이 조달·유통·광고 기반을 공유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대형 유통 협상",
+      "detail": "주요 소매업체와 자체 브랜드가 가격·진열을 압박합니다."
+    },
+    {
+      "title": "성숙 시장 성장",
+      "detail": "판매량이 적게 늘면 가격 인상에 대한 의존이 커질 수 있습니다."
+    },
+    {
+      "title": "환율·원재료",
+      "detail": "세계 매출과 수지·펄프·포장 원가가 이익을 흔듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Colgate-Palmolive",
+      "ticker": "CL",
+      "comparison": "구강·개인용품에서 브랜드와 유통을 경쟁합니다."
+    },
+    {
+      "name": "Kimberly-Clark",
+      "ticker": "KMB",
+      "comparison": "기저귀·위생·종이 제품에서 직접 경쟁합니다."
+    }
+  ],
+  "macroLink": "물가 상승을 가격에 전가한 뒤 고객이 남는지 봅니다. 달러·원재료·가계의 저가 이동이 유기적 성장과 마진에 영향을 줍니다.",
+  "monitoring": [
+    "가격 효과를 제외한 판매량이 유지되는가?",
+    "생산성 절감이 브랜드 투자와 품질을 해치지 않는가?",
+    "주요 제품의 수량·금액 점유율이 함께 유지되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Procter & Gamble · 공식 IR",
+      "url": "https://www.pginvestor.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "P&G · 혁신 연혁",
+      "url": "https://us.pg.com/innovation/",
+      "note": "1837년 창업·1946년 Tide 등 주요 제품의 역사."
+    },
+    {
+      "title": "P&G · 브랜드 원류",
+      "url": "https://us.pg.com/legacy/",
+      "note": "생활용품·Gillette 브랜드의 역사적 배경."
+    },
+    {
+      "title": "P&G 2006년 연차보고서",
+      "url": "https://s1.q4cdn.com/695946674/files/doc_financials/2006/4ad9eff0-4fc8-49fe-5da3-e1c8bb61dec2.pdf",
+      "note": "2005-10-01 Gillette 인수 완료 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

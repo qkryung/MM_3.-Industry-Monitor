@@ -1,0 +1,106 @@
+{
+  "ticker": "SPG",
+  "oneLiner": "대형 쇼핑몰과 아웃렛을 소유해 매장 공간을 임대합니다.",
+  "businessModel": "쇼핑·식음·엔터테인먼트가 모이는 시설을 운영하고 입점 브랜드로부터 기본 임대료와 계약상 매출 연동 임대료 등을 받습니다. 좋은 입지가 방문객과 브랜드를 모으고, 그 조합이 임대료를 지지하는 구조입니다. 브랜드 투자 지분의 평가·처분 손익은 건물의 반복 임대이익과 따로 보아야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "기본 임대료",
+      "description": "쇼핑몰·아웃렛 점포의 공간 사용료입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.simon.com/"
+    },
+    {
+      "name": "변동 임대료·임대 관련 수입",
+      "description": "입점 매출에 연동한 임대료와 운영비 회수 등입니다. 운영비 회수는 대응 비용이 있으므로 매출만 보고 수익성을 판단하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.simon.com/"
+    },
+    {
+      "name": "관리·기타 수입",
+      "description": "공동투자 자산 관리와 부가 서비스 등에서 발생합니다. 지분법 투자이익 전체와는 다릅니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.simon.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1960",
+      "event": "Simon 형제가 전신인 상업용 부동산 사업을 시작했습니다."
+    },
+    {
+      "year": "1993",
+      "event": "Simon Property Group이 기업공개를 실시했습니다."
+    },
+    {
+      "year": "2020",
+      "event": "Taubman의 주요 지분 인수를 완료해 고급 쇼핑몰 기반을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "목적지형 입지",
+      "detail": "여러 쇼핑·외식 목적을 모으는 시설은 개별 점포보다 고객 유입 경로가 다양합니다."
+    },
+    {
+      "title": "브랜드 관계",
+      "detail": "전국 브랜드와의 임대 관계가 빈 점포를 채우고 업종 구성을 바꾸는 데 활용됩니다."
+    },
+    {
+      "title": "재개발 능력",
+      "detail": "낡은 점포를 식음·체험·복합 공간으로 바꾸는 투자 경험이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "소비 경기",
+      "detail": "의류·명품·선택소비 둔화가 임차인 매출과 임대 여력에 영향을 줍니다."
+    },
+    {
+      "title": "재개발 지출",
+      "detail": "공실 대형 점포 교체에는 상당한 공사비와 시간이 필요합니다."
+    },
+    {
+      "title": "복잡한 투자",
+      "detail": "공동투자와 브랜드 지분은 임대만 있는 REIT보다 손익 해석을 복잡하게 만듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Macerich",
+      "ticker": "MAC",
+      "comparison": "미국 쇼핑몰 중심의 직접 비교대상입니다."
+    },
+    {
+      "name": "Tanger",
+      "ticker": "SKT",
+      "comparison": "아웃렛 중심으로 시설 조합과 고객층이 다릅니다."
+    }
+  ],
+  "macroLink": "실질소득과 관광 수요가 방문·구매를, 금리가 자산 평가와 재개발 자금을 움직입니다. 온라인 판매 증가는 점포의 역할과 임차인 구성을 바꾸는 요인입니다.",
+  "monitoring": [
+    "입점 매출 성장과 임대료 부담 비율이 함께 건전한가?",
+    "비어 있는 대형 점포의 재개발은 얼마를 쓰고 언제 수입을 만드는가?",
+    "FFO 변화 중 부동산 운영과 브랜드·공동투자 손익은 각각 무엇인가?"
+  ],
+  "sources": [
+    {
+      "title": "Simon Property Group · 투자자 자료",
+      "url": "https://investors.simon.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Simon Property Group · 연혁·기업 자료",
+      "url": "https://investors.simon.com/news-releases/news-release-details/simon-property-group-celebrates-twenty-years-public-company",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Simon · 2020 사업보고서 자산표",
+      "url": "https://investors.simon.com/static-files/35070b51-6c9e-446a-8777-d5be2eba6c91",
+      "note": "2020년 Taubman 인수 자산 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

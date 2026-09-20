@@ -1,0 +1,94 @@
+{
+  "ticker": "NEM",
+  "oneLiner": "금 중심의 글로벌 광산 운영",
+  "businessModel": "여러 국가의 광산에서 금을 생산하고 일부 광산에서는 구리·은 등도 판매합니다. 투자자는 금값에 노출되지만 회사는 광산 운영비·유지 투자·개발·복구 의무를 부담합니다. 따라서 금 현물보다 금가격 변화에 이익이 크게 반응할 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "금 판매",
+      "description": "광산에서 생산한 금의 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.newmont.com/investors/"
+    },
+    {
+      "name": "구리·기타 금속",
+      "description": "복합 광산의 구리·은·기타 부산물",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.newmont.com/investors/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1921",
+      "event": "Newmont Corporation 설립"
+    },
+    {
+      "year": "2019",
+      "event": "Goldcorp 인수"
+    },
+    {
+      "year": "2023",
+      "event": "Newcrest 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "자산 포트폴리오",
+      "detail": "여러 광산과 국가의 생산원을 보유합니다."
+    },
+    {
+      "title": "장기 자원",
+      "detail": "매장량·개발 프로젝트가 미래 생산 기반이 됩니다."
+    },
+    {
+      "title": "운영 규모",
+      "detail": "기술·조달·현장 지식을 여러 자산에 적용합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "높은 재투자",
+      "detail": "광산 수명을 유지하려면 탐사·박토·시설 투자가 필요합니다."
+    },
+    {
+      "title": "통합·매각",
+      "detail": "대형 인수 이후 자산 우선순위·운영 통합이 중요합니다."
+    },
+    {
+      "title": "금과의 차이",
+      "detail": "원가·사고·세금 때문에 금값 상승만큼 이익이 늘지 않을 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Barrick Mining",
+      "ticker": "B",
+      "comparison": "금·구리 광산 경쟁사이며 자산 지역·합작 지분이 다릅니다."
+    },
+    {
+      "name": "Agnico Eagle",
+      "ticker": "AEM",
+      "comparison": "생산지역·광산 품위·자본 규율을 맞춰 비교합니다."
+    }
+  ],
+  "macroLink": "금은 실질금리·달러·안전자산 수요에 영향을 받고 광산 비용은 임금·디젤·현지 환율에 좌우됩니다.",
+  "monitoring": [
+    "금 가격을 고정하면 생산·AISC가 개선되는가?",
+    "인수 자산의 통합·매각 후 남은 자본 수익률은?",
+    "유지비·개발비·복구 의무를 모두 감안한 현금은 충분한가?"
+  ],
+  "sources": [
+    {
+      "title": "Newmont · 투자자 자료",
+      "url": "https://www.newmont.com/investors/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Newmont · Newcrest 인수 및 회사 계보",
+      "url": "https://www.newmont.com/investors/news-release/news-details/2023/Newmont-Acquires-Newcrest-Successfully-Creating-Worlds-Leading-Gold-Mining-Business/default.aspx",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

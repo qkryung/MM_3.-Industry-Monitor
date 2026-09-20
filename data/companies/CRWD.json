@@ -1,0 +1,104 @@
+{
+  "ticker": "CRWD",
+  "oneLiner": "컴퓨터·클라우드의 침입 징후를 찾아 막는 Falcon 보안 플랫폼 회사.",
+  "businessModel": "기업 기기에 설치되는 경량 프로그램과 클라우드 분석을 통해 공격 징후를 탐지합니다. 고객은 필요한 보안 모듈을 구독하고 사고 대응·자문 서비스를 추가로 이용합니다. 초기 엔드포인트 보호에서 클라우드·계정·보안 운영으로 넓히는 추가 판매가 중요한 성장 경로입니다.",
+  "revenueStreams": [
+    {
+      "name": "구독",
+      "description": "Falcon 플랫폼의 엔드포인트·클라우드·계정·보안 운영 등 모듈 이용료.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.crowdstrike.com/"
+    },
+    {
+      "name": "전문 서비스",
+      "description": "사고 대응·보안 자문·평가 등 별도 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.crowdstrike.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 2011,
+      "event": "CrowdStrike 설립."
+    },
+    {
+      "year": 2013,
+      "event": "Falcon OverWatch와 Falcon Insight로 이어지는 클라우드 보안 기능 출시."
+    },
+    {
+      "year": 2019,
+      "event": "나스닥 기업공개."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "공격 데이터 활용",
+      "detail": "고객 환경에서 얻은 보안 신호를 분석해 위협 탐지 규칙과 대응을 개선합니다."
+    },
+    {
+      "title": "모듈 추가 판매",
+      "detail": "하나의 기반에 여러 기능을 더해 고객당 지출을 늘릴 수 있습니다."
+    },
+    {
+      "title": "사고 대응 경험",
+      "detail": "현장 조사 경험이 제품 개선과 신규 고객 확보의 연결점이 됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "운영 신뢰",
+      "detail": "2024년 업데이트 장애처럼 보안 소프트웨어 자체가 고객 업무를 중단시키면 보상·갱신에 영향을 줍니다."
+    },
+    {
+      "title": "경쟁의 묶음 전략",
+      "detail": "기존 OS·업무 도구와 함께 제공되는 보안 제품은 고객의 별도 구매 필요를 낮출 수 있습니다."
+    },
+    {
+      "title": "판매·보상 비용",
+      "detail": "빠른 성장에도 주식보상·판매 비용이 커질 수 있어 조정 이익과 주주 희석을 함께 봐야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "comparison": "Windows·Microsoft 365 고객에 Defender 보안을 결합합니다."
+    },
+    {
+      "name": "Palo Alto Networks",
+      "ticker": "PANW",
+      "comparison": "엔드포인트·클라우드·보안 운영 통합 플랫폼에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "기업 IT 환경이 복잡해질수록 보호할 대상이 늘지만, 경기 둔화 때 고객은 도구 수를 줄이려 합니다. 신규 고객 획득과 기존 고객 모듈 확대를 따로 읽어야 합니다.",
+  "monitoring": [
+    "고객 갱신·추가 모듈 채택이 서비스 신뢰 회복을 보여주는가?",
+    "연간 반복 매출 증가가 신규 고객과 기존 고객 확장 중 어디서 나오는가?",
+    "구독 매출 성장에 비해 주식보상과 현금 수익성이 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "CrowdStrike · 공식 IR",
+      "url": "https://ir.crowdstrike.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "CrowdStrike 투자자 FAQ",
+      "url": "https://ir.crowdstrike.com/resources/investor-faqs",
+      "note": "2011년 법인 설립·2019년 IPO 확인."
+    },
+    {
+      "title": "CrowdStrike 과거 연차보고서",
+      "url": "https://ir.crowdstrike.com/static-files/0c0aa3ed-1de7-4454-bbd8-4e5b8f962705",
+      "note": "2013년 Falcon 기능 출시와 플랫폼 모델 확인."
+    },
+    {
+      "title": "CrowdStrike 공식 타임라인",
+      "url": "https://www.crowdstrike.com/content/dam/crowdstrike/marketing/en-us/images/company/25-cs-timeline-about.pdf",
+      "note": "제품·회사 발전 경로를 확인하는 공식 자료."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

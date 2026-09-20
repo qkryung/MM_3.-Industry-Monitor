@@ -1,0 +1,94 @@
+{
+  "ticker": "ATO",
+  "oneLiner": "규제 천연가스 배급·주내 파이프라인",
+  "businessModel": "지역 가정·기업에 천연가스를 배급하고 텍사스 주내의 가스 운송·저장망을 운영합니다. 가스 원료 가격 자체에서 큰 이익을 추구하기보다 안전한 배관에 투자한 자금을 규제 요금으로 회수합니다. 따라서 가스값 상승으로 매출이 늘었다고 같은 폭의 이익 증가로 해석하지 않습니다.",
+  "revenueStreams": [
+    {
+      "name": "규제 가스 배급",
+      "description": "고객 연결·배관망과 가스 전달 서비스에 대한 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.investors.atmosenergy.com/overview/"
+    },
+    {
+      "name": "규제 운송·저장",
+      "description": "텍사스 주내 가스 운송·저장 설비에 대한 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.investors.atmosenergy.com/overview/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1906",
+      "event": "텍사스 Panhandle 지역 사업이 뿌리"
+    },
+    {
+      "year": "1983",
+      "event": "Energas가 Pioneer에서 분리돼 독립 상장회사 출범"
+    },
+    {
+      "year": "1988",
+      "event": "Atmos Energy로 사명 변경하고 NYSE ATO 거래"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "투자 회수 장치",
+      "detail": "배관 교체에 대한 요금 조정 제도가 투자 회수를 지원합니다."
+    },
+    {
+      "title": "안전 수요",
+      "detail": "노후 배관 교체는 장기적으로 필요한 필수 투자입니다."
+    },
+    {
+      "title": "지역 성장",
+      "detail": "텍사스 등 서비스 지역의 고객 증가가 네트워크 활용을 높입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "가스 안전",
+      "detail": "누출·폭발 사고는 큰 책임과 평판 손상을 만듭니다."
+    },
+    {
+      "title": "에너지 전환",
+      "detail": "건물 전기화 정책이 장기 가스 수요에 영향을 줄 수 있습니다."
+    },
+    {
+      "title": "요금·조달",
+      "detail": "투자비 상승과 고객 요금 부담 사이에서 회수 속도가 달라집니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "ONE Gas",
+      "ticker": "OGS",
+      "comparison": "둘 다 규제 배급 중심이나 Atmos는 텍사스 운송·저장 사업도 갖습니다."
+    },
+    {
+      "name": "NiSource",
+      "ticker": "NI",
+      "comparison": "NiSource는 전력 사업도 포함해 가스 순수 노출 정도가 다릅니다."
+    }
+  ],
+  "macroLink": "겨울 기온은 판매량, 금리는 배관 투자 비용에 영향을 줍니다. 원료가스 비용의 고객 전가 구조를 따로 확인합니다.",
+  "monitoring": [
+    "배관 교체 지출이 승인된 요금에 제때 반영되는가?",
+    "고객 증가와 안전 지표가 투자의 효과를 보여주는가?",
+    "가스 원료비 상승분과 배급 이익 증가분을 구분할 수 있는가?"
+  ],
+  "sources": [
+    {
+      "title": "Atmos Energy · 투자자 자료",
+      "url": "https://www.investors.atmosenergy.com/overview/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Atmos Energy · 기업 연혁·사업 소개",
+      "url": "https://www.atmosenergy.com/company/about-atmos-energy/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

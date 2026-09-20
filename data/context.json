@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "asOf": "2026-09-20",
+  "title": "Industry Archive",
+  "classificationNote": "상위 11개 섹터는 GICS 체계를 참고했습니다. 하위 산업은 비즈니스 모델을 이해하기 위한 자체 학습 분류이며 공식 GICS 하위 분류 전체를 재현하지 않습니다. 복합 기업은 대표 사업을 중심으로 배치했습니다.",
+  "scopeNote": "??? ??? ?? ??? ??? ???????. ??? ?? ?? ??? ????, ??????????? ????????? ?????. ?????? ?????????? ??? ???? ????.",
+  "sources": [
+    {
+      "title": "MSCI · Global Industry Classification Standard",
+      "url": "https://www.msci.com/indexes/index-resources/gics",
+      "note": "상위 섹터 및 주된 사업에 따른 분류 원칙. 하위 학습 분류는 이 아카이브에서 별도로 구성했습니다."
+    },
+    {
+      "title": "SEC · Company tickers and exchanges",
+      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+      "note": "대표 기업의 티커·거래소 대조에 사용한 공개 목록. 상장 상태의 지속적인 보증이나 실시간 시세는 아닙니다."
+    },
+    {
+      "title": "Federal Reserve · Monetary policy transmission",
+      "url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm",
+      "note": "금리·금융 여건이 수요와 자산 가격에 전달되는 기본 원리. 산업별 연결은 이 원리를 바탕으로 정리한 학습용 해석입니다."
+    },
+    {
+      "title": "SEC Investor.gov · Stocks",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks",
+      "note": "주식의 기본 개념과 기업 공시 확인 방법."
+    },
+    {
+      "title": "SEC ? EDGAR XBRL public APIs",
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "note": "?? ??? ?? ?? ??? ?? ?? ?? ??. ?? ?? ?????? ?????????? ?? ?? ??? ????."
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "전체 섹터",
+      "sectors": []
+    },
+    {
+      "id": "credit",
+      "name": "금리 · 신용",
+      "sectors": [
+        "financials",
+        "real-estate",
+        "utilities"
+      ]
+    },
+    {
+      "id": "consumer",
+      "name": "소비 · 생활",
+      "sectors": [
+        "consumer-discretionary",
+        "consumer-staples",
+        "health-care",
+        "communication"
+      ]
+    },
+    {
+      "id": "investment",
+      "name": "설비 · 자원",
+      "sectors": [
+        "energy",
+        "industrials",
+        "materials",
+        "utilities"
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "디지털 · 혁신",
+      "sectors": [
+        "technology",
+        "communication",
+        "health-care"
+      ]
+    }
+  ],
+  "factors": [
+    {
+      "id": "growth",
+      "name": "경기 · 수요",
+      "title": "수요의 변화는 어디서 먼저 보일까?",
+      "lead": "소비·기업 투자·재고의 흐름을 나누어 살펴보세요. 매출 증가를 가격과 판매량으로 분해하면 회복의 질을 더 잘 알 수 있습니다.",
+      "chain": [
+        "소비·투자 변화",
+        "주문·판매량",
+        "가동률·가격",
+        "이익·현금흐름"
+      ],
+      "check": "신규 주문, 실질 소비, 고용, 재고와 매출 증가율의 차이",
+      "caveat": "산업마다 실적에 반영되는 시차가 다릅니다. 매출이 증가해도 할인 판매나 재고 축적으로 현금흐름은 나빠질 수 있습니다."
+    },
+    {
+      "id": "rates",
+      "name": "금리 · 신용",
+      "title": "금리 자체보다 전달 경로를 읽습니다.",
+      "lead": "금리 변화는 조달 비용, 고객 수요, 미래 이익의 현재 가치에 동시에 작용합니다. 인하의 이유가 물가 안정인지 경기 악화인지부터 구분하세요.",
+      "chain": [
+        "금리·신용 변화",
+        "조달 비용·수요",
+        "마진·투자 규모",
+        "가치평가"
+      ],
+      "check": "장단기 금리, 신용 스프레드, 대출 태도, 기업별 부채 만기",
+      "caveat": "금리 하락이 모든 기업에 호재인 것은 아닙니다. 은행 예대마진 축소나 경기 악화에 따른 대손비용이 함께 나타날 수 있습니다."
+    },
+    {
+      "id": "inflation",
+      "name": "물가 · 원가",
+      "title": "원가 상승을 누구에게 전달할 수 있을까?",
+      "lead": "판매가격을 올리는 힘과 원가가 실적에 반영되는 시차를 비교합니다. 같은 원자재 상승도 생산자와 사용자의 이익에는 다르게 작용합니다.",
+      "chain": [
+        "원재료·임금",
+        "판매가 전가",
+        "수량·상품 구성",
+        "매출총이익률"
+      ],
+      "check": "투입 원가, 판매가격, 임금, 운송비, 가격 인상 이후 판매량",
+      "caveat": "매출이 늘어도 판매량이 줄었다면 가격 효과일 수 있습니다. 원가 안정의 혜택도 장기 계약과 재고 때문에 늦게 반영될 수 있습니다."
+    },
+    {
+      "id": "dollar",
+      "name": "달러 · 환율",
+      "title": "환산 효과와 실제 경쟁력 변화를 나눕니다.",
+      "lead": "미국 상장 기업도 해외에서 매출을 올릴 수 있습니다. 매출·원가·부채가 각각 어떤 통화에 노출되어 있는지 함께 확인하세요.",
+      "chain": [
+        "환율 변화",
+        "해외 매출·원가",
+        "환산·거래 효과",
+        "보고 이익"
+      ],
+      "check": "환율 제외 성장률, 지역별 매출, 현지 생산 비중, 환헤지 계약",
+      "caveat": "달러 강세의 영향은 기업마다 다릅니다. 해외 매출의 환산 감소와 수입 원가 절감이 동시에 생길 수 있으며 ADR에는 별도 환율 노출이 있습니다."
+    }
+  ],
+  "themes": [
+    {
+      "id": "ai",
+      "title": "AI 투자, 반도체 다음은?",
+      "subtitle": "컴퓨팅에서 전력 인프라까지",
+      "sectors": [
+        "technology",
+        "industrials",
+        "utilities",
+        "real-estate"
+      ],
+      "question": "데이터센터 투자가 장비 주문을 넘어 실제 가동과 수익으로 이어지고 있는가?",
+      "transmission": "컴퓨팅 수요 → 반도체·서버 → 냉각·전력 장비 → 전력 공급 → 데이터센터 임대",
+      "check": "고객의 설비투자 계획과 실제 집행, 장비 수주잔고, 전력 연결 시점, 임대 개시일을 함께 확인합니다.",
+      "risk": "발표된 투자 계획과 매출 인식은 다릅니다. 전력망·인허가 지연, 고객 집중, 공급 과잉이 수익화를 늦출 수 있습니다."
+    },
+    {
+      "id": "housing",
+      "title": "주택 경기의 연결 고리",
+      "subtitle": "금리에서 소비와 소재까지",
+      "sectors": [
+        "financials",
+        "real-estate",
+        "consumer-discretionary",
+        "materials"
+      ],
+      "question": "금융 여건 개선이 실제 거래와 착공으로 이어지고 있는가?",
+      "transmission": "모기지 조건 → 구매 여력 → 주택 거래·착공 → 가구·수리 → 건축자재",
+      "check": "모기지 금리, 거래량, 건축 허가, 계약 취소율과 판매 인센티브를 순서대로 살펴봅니다.",
+      "risk": "정책금리가 내려가도 장기 모기지 금리는 다르게 움직일 수 있습니다. 주택 가격과 가계 소득이 구매 여력을 제약할 수 있습니다."
+    },
+    {
+      "id": "commodity",
+      "title": "원자재 가격의 양면성",
+      "subtitle": "생산자 이익과 소비자 비용",
+      "sectors": [
+        "energy",
+        "materials",
+        "industrials",
+        "consumer-staples"
+      ],
+      "question": "가격 상승은 수요 증가 때문인가, 공급 차질 때문인가?",
+      "transmission": "수급 변화 → 원자재 가격 → 생산자 현금흐름 → 운송·제조 원가 → 소비자가격",
+      "check": "재고, 생산량, 선물 가격 구조, 가동률과 기업별 원가 전가 조항을 함께 확인합니다.",
+      "risk": "공급 충격에 따른 가격 상승은 수요를 위축시킬 수 있습니다. 현물 가격 변화가 장기 계약 매출에 그대로 반영되지는 않습니다."
+    },
+    {
+      "id": "aging",
+      "title": "고령화가 만드는 수요",
+      "subtitle": "의료 서비스와 자산 관리",
+      "sectors": [
+        "health-care",
+        "real-estate",
+        "financials"
+      ],
+      "question": "장기 수요가 커져도 기업의 수익성과 현금흐름이 함께 개선되는가?",
+      "transmission": "고령 인구 증가 → 의료·돌봄 수요 → 시설·인력 투자 → 보험·은퇴 자금 관리",
+      "check": "치료 건수, 병상 가동률, 인건비, 보험 손해율과 장기 자금 유입을 따로 봅니다.",
+      "risk": "인구 흐름만으로 수익성이 보장되지 않습니다. 의료수가, 인력 부족, 보험료 인상 제한이 이익을 좌우합니다."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GICS",
+      "en": "Global Industry Classification Standard",
+      "meaning": "기업의 주된 사업을 기준으로 주식시장을 섹터와 더 작은 산업으로 나누는 분류 체계입니다.",
+      "example": "Amazon은 클라우드 사업이 있어도 상위 분류에서는 경기소비재 기업으로 다뤄집니다."
+    },
+    {
+      "term": "밸류체인",
+      "en": "Value chain",
+      "meaning": "원료·설계에서 생산·유통·최종 고객까지 가치가 만들어지는 연결 구조입니다.",
+      "example": "반도체 설계 → 제조 장비 → 파운드리 생산 → 서버·스마트폰."
+    },
+    {
+      "term": "가격 결정력",
+      "en": "Pricing power",
+      "meaning": "가격을 올려도 고객 이탈이나 판매량 감소를 제한할 수 있는 힘입니다.",
+      "example": "가격 인상 후에도 판매량과 마진이 유지되는지 확인합니다."
+    },
+    {
+      "term": "경기민감주 · 방어주",
+      "en": "Cyclical / Defensive",
+      "meaning": "경기 변화에 이익이 크게 흔들리는 사업과 생활 필수 수요로 상대적으로 안정적인 사업을 구분하는 관점입니다.",
+      "example": "방어적인 수요가 있다고 주가 하락 위험이 사라지는 것은 아닙니다."
+    },
+    {
+      "term": "매출총이익률",
+      "en": "Gross margin",
+      "meaning": "매출에서 직접적인 매출원가를 빼고 남은 금액을 매출로 나눈 비율입니다.",
+      "example": "판매가격, 원재료비, 제품 구성 변화가 마진을 움직입니다."
+    },
+    {
+      "term": "영업레버리지",
+      "en": "Operating leverage",
+      "meaning": "고정비가 커서 매출 변화보다 영업이익이 더 크게 움직이는 구조입니다.",
+      "example": "공장 가동률이 높아지면 제품당 고정비 부담이 낮아질 수 있습니다."
+    },
+    {
+      "term": "CAPEX",
+      "en": "Capital expenditure · 설비투자",
+      "meaning": "공장·서버·장비처럼 여러 해 사용하는 자산을 확보하는 투자입니다.",
+      "example": "성장 투자와 기존 사업을 유지하기 위한 투자를 나누어 봅니다."
+    },
+    {
+      "term": "FCF",
+      "en": "Free cash flow · 잉여현금흐름",
+      "meaning": "일반적으로 영업활동 현금흐름에서 설비투자를 뺀 현금입니다. 기업별 조정 정의를 확인해야 합니다.",
+      "example": "회계상 이익이 늘어도 재고나 투자가 커지면 FCF는 줄 수 있습니다."
+    },
+    {
+      "term": "운전자본",
+      "en": "Working capital",
+      "meaning": "일상적인 사업 운영에 묶여 있는 자금입니다. 영업 분석에서는 주로 매출채권·재고에서 매입채무를 뺀 금액을 봅니다.",
+      "example": "팔지 못한 재고가 늘면 현금이 사업 안에 더 오래 묶입니다."
+    },
+    {
+      "term": "ROIC",
+      "en": "Return on invested capital",
+      "meaning": "사업에 투입한 자본으로 얼마나 효율적으로 세후 영업이익을 벌었는지 나타내는 지표입니다.",
+      "example": "자본비용을 넘는 수익을 꾸준히 내는지 비교하되 계산 정의를 통일합니다."
+    },
+    {
+      "term": "P/E · PER",
+      "en": "Price-to-earnings ratio",
+      "meaning": "주가를 주당순이익으로 나눈 배수입니다. 과거 실적 기준인지 미래 추정 기준인지 구분합니다.",
+      "example": "경기 고점의 이익으로 계산하면 PER이 낮아 보여도 저평가가 아닐 수 있습니다."
+    },
+    {
+      "term": "P/B · PBR",
+      "en": "Price-to-book ratio",
+      "meaning": "주가를 주당 장부상 순자산으로 나눈 배수입니다. 자산 가치와 자본 수익성을 함께 봅니다.",
+      "example": "은행은 PBR을 ROE와 자산 건전성에 연결해 비교합니다."
+    },
+    {
+      "term": "EV/EBITDA",
+      "en": "Enterprise value / EBITDA",
+      "meaning": "기업가치를 이자·세금·감가상각 전 이익과 비교하는 배수입니다. EBITDA는 현금흐름 자체가 아닙니다.",
+      "example": "설비 교체비가 큰 기업은 EBITDA와 함께 CAPEX·FCF를 확인합니다."
+    },
+    {
+      "term": "할인율",
+      "en": "Discount rate",
+      "meaning": "미래 현금을 현재 가치로 환산할 때 적용하는 요구수익률입니다.",
+      "example": "다른 조건이 같다면 할인율 상승은 미래 현금의 현재 가치를 낮춥니다."
+    },
+    {
+      "term": "가이던스",
+      "en": "Management guidance",
+      "meaning": "기업 경영진이 제시하는 향후 실적이나 운영 지표 전망입니다. 확정된 실적은 아닙니다.",
+      "example": "전망 상향의 이유가 수요인지 비용 절감인지 구분합니다."
+    },
+    {
+      "term": "컨센서스",
+      "en": "Analyst consensus",
+      "meaning": "증권사 분석가들의 실적 추정치를 모은 기대 수준입니다. 집계 기관과 시점에 따라 다릅니다.",
+      "example": "실적이 좋아도 이미 높아진 시장 기대를 넘지 못할 수 있습니다."
+    },
+    {
+      "term": "GAAP · 조정 실적",
+      "en": "GAAP / Non-GAAP",
+      "meaning": "회계기준에 따른 실적과 특정 비용·손익을 제외한 기업의 조정 실적을 구분합니다.",
+      "example": "주식보상비용이나 반복되는 구조조정 비용을 제외했는지 대조합니다."
+    },
+    {
+      "term": "유기적 성장",
+      "en": "Organic growth",
+      "meaning": "인수합병 등으로 새로 편입한 사업 효과를 분리하고 기존 사업의 성장을 보는 개념입니다.",
+      "example": "기업에 따라 환율도 제외하므로 회사의 정의를 먼저 확인합니다."
+    },
+    {
+      "term": "환율 제외 성장률",
+      "en": "Constant-currency growth",
+      "meaning": "환율 변동에 따른 환산 영향을 조정한 성장률입니다. 실제 보고된 매출 증가율과 다릅니다.",
+      "example": "해외 판매가 늘어도 달러 강세 때문에 달러 표시 매출은 덜 늘 수 있습니다."
+    },
+    {
+      "term": "ASP",
+      "en": "Average selling price · 평균 판매가격",
+      "meaning": "총 판매액을 판매 수량으로 나눈 평균 가격입니다.",
+      "example": "고가 제품 비중이 늘어도 ASP가 올라갑니다. 순수 가격 인상과 제품 구성을 나눠 봅니다."
+    },
+    {
+      "term": "수주잔고",
+      "en": "Backlog",
+      "meaning": "계약을 수주했지만 아직 매출로 인식하지 않은 주문의 누적 금액입니다.",
+      "example": "취소 가능성, 납기 지연, 실제 이익률을 함께 확인해야 합니다."
+    },
+    {
+      "term": "ARR",
+      "en": "Annual recurring revenue",
+      "meaning": "구독 등 반복 매출을 연간 기준으로 환산한 회사 정의 지표입니다.",
+      "example": "회계상 연간 매출이나 현금 수금액과 일치하지 않을 수 있습니다."
+    },
+    {
+      "term": "NRR",
+      "en": "Net revenue retention",
+      "meaning": "기존 고객 집단의 매출이 이탈·축소·확장을 거쳐 얼마나 유지되는지 보여주는 지표입니다.",
+      "example": "100%를 넘으면 기존 고객 매출이 순증했음을 뜻하지만 신규 고객 유입은 별도로 봅니다."
+    },
+    {
+      "term": "ARPU",
+      "en": "Average revenue per user",
+      "meaning": "고객 또는 사용자 한 명당 평균 매출입니다. 유료 고객만 쓰는지 전체 사용자를 쓰는지 확인합니다.",
+      "example": "가격 인상과 가입자 구성 변화가 동시에 영향을 줄 수 있습니다."
+    },
+    {
+      "term": "NIM",
+      "en": "Net interest margin · 순이자마진",
+      "meaning": "은행의 순이자수익을 평균 이자수익자산으로 나눈 지표입니다.",
+      "example": "대출금리만 보지 말고 예금 조달 비용과 자산 구성을 함께 확인합니다."
+    },
+    {
+      "term": "합산비율",
+      "en": "Combined ratio",
+      "meaning": "손해보험에서 발생 보험금과 사업비를 보험료 기준과 비교한 지표입니다. 세부 분모 정의는 공시를 확인합니다.",
+      "example": "일반적으로 100% 미만이면 보험 인수 부문에서 이익을 냅니다. 투자 손익은 별도입니다."
+    },
+    {
+      "term": "AUM",
+      "en": "Assets under management",
+      "meaning": "자산운용사가 관리하는 고객 자산의 규모입니다.",
+      "example": "시장 상승으로 늘어난 금액과 고객의 순유입을 분리하고 수수료율을 확인합니다."
+    },
+    {
+      "term": "REITs",
+      "en": "Real estate investment trusts",
+      "meaning": "수익형 부동산 등에 투자하는 회사 구조입니다. 건물 보유 리츠와 모기지 금융 리츠의 경제적 성격은 다릅니다.",
+      "example": "이 아카이브의 부동산 섹터는 주로 임대 사업을 하는 지분형 리츠를 다룹니다."
+    },
+    {
+      "term": "FFO · AFFO",
+      "en": "Funds from operations / Adjusted FFO",
+      "meaning": "리츠의 회계 이익을 부동산 감가상각 등으로 조정한 지표입니다. AFFO는 추가 조정을 하며 회사별 정의가 다릅니다.",
+      "example": "주당 AFFO, 배당 부담, 유지 보수 투자와 부채 만기를 함께 확인합니다."
+    },
+    {
+      "term": "Cap rate",
+      "en": "Capitalization rate · 자본환원율",
+      "meaning": "부동산의 순영업소득을 자산 가격으로 나눈 수익률 지표입니다.",
+      "example": "순영업소득이 같다면 요구 cap rate가 높아질수록 자산 평가는 낮아집니다."
+    },
+    {
+      "term": "특허 절벽",
+      "en": "Patent cliff",
+      "meaning": "의약품의 독점 보호가 끝나 복제약이나 바이오시밀러 경쟁으로 매출이 크게 감소할 수 있는 시점입니다.",
+      "example": "후속 신약 매출이 기존 제품의 감소를 메울 수 있는지 확인합니다."
+    },
+    {
+      "term": "MLR",
+      "en": "Medical loss ratio",
+      "meaning": "의료보험료 수입 대비 가입자 의료비 등에 사용된 비율입니다. 공시 목적별 정의 차이가 있습니다.",
+      "example": "의료 이용량이 예상보다 늘면 보험사의 수익성이 압박받을 수 있습니다."
+    },
+    {
+      "term": "크랙 스프레드",
+      "en": "Crack spread",
+      "meaning": "정제 제품의 가격과 원유 투입 가격의 차이로 정유 수익성을 살펴보는 지표입니다.",
+      "example": "실제 이익은 정제 수율, 에너지 비용, 가동률과 제품 구성에도 좌우됩니다."
+    },
+    {
+      "term": "Rate base",
+      "en": "규제 자산 기반",
+      "meaning": "규제 유틸리티가 승인된 수익을 얻는 기준 자산의 규모입니다.",
+      "example": "투자가 늘어도 요금 반영 승인이 늦어지면 이익 회수도 늦어질 수 있습니다."
+    },
+    {
+      "term": "ADR",
+      "en": "American depositary receipt",
+      "meaning": "해외 기업 주식을 기초로 미국에서 거래되는 예탁증서입니다.",
+      "example": "원주 교환 비율, 예탁 수수료, 본국 규제와 환율 영향을 확인합니다."
+    },
+    {
+      "term": "선행 · 후행 지표",
+      "en": "Leading / Lagging indicator",
+      "meaning": "경기나 실적 변화보다 먼저 움직이는 정보와 변화가 일어난 뒤 확인되는 정보를 구분합니다.",
+      "example": "주문·예약은 매출보다 앞설 수 있지만 취소나 매출 전환 지연을 확인해야 합니다."
+    }
+  ]
+}

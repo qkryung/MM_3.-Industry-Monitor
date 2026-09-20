@@ -1,0 +1,94 @@
+{
+  "ticker": "ETN",
+  "oneLiner": "전력관리·배전 장비와 항공우주 등 사업",
+  "businessModel": "데이터센터·공장·건물·전력망 고객에게 배전·보호·전력관리 장비를 판매하고 항공우주 등에도 부품을 공급합니다. 전력 소비가 늘어도 주문한 장비를 생산·설치해야 매출이 되므로 수주·납기·증설 비용을 함께 읽습니다.",
+  "revenueStreams": [
+    {
+      "name": "전기 사업",
+      "description": "스위치기어·차단기·UPS·전력관리 시스템",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.eaton.com/us/en-us/company/investor-relations.html"
+    },
+    {
+      "name": "항공우주·기타",
+      "description": "항공 유압·연료·유체 및 차량 관련 장비",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.eaton.com/us/en-us/company/investor-relations.html"
+    }
+  ],
+  "history": [
+    {
+      "year": "1911",
+      "event": "전신 Eaton 설립"
+    },
+    {
+      "year": "1923",
+      "event": "NYSE 상장"
+    },
+    {
+      "year": "2012",
+      "event": "Cooper 인수와 아일랜드 모회사 구조 전환"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "전력 제품 폭",
+      "detail": "고객의 여러 전력관리 요구를 한 번에 대응합니다."
+    },
+    {
+      "title": "인증·채널",
+      "detail": "안전 인증과 유통·고객 설계 관계가 진입장벽입니다."
+    },
+    {
+      "title": "증설 수요",
+      "detail": "데이터센터·전력망 투자에 공급망 역할을 합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "주문 기대",
+      "detail": "중복 주문·프로젝트 연기가 잔고의 질을 낮출 수 있습니다."
+    },
+    {
+      "title": "제조 제약",
+      "detail": "급증한 수요를 맞추는 증설·인력 비용이 필요합니다."
+    },
+    {
+      "title": "평가 부담",
+      "detail": "좋은 업황도 높은 매입 배수에서는 수익을 보장하지 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Schneider Electric",
+      "ticker": null,
+      "comparison": "배전·전력관리 경쟁사로 데이터센터 솔루션·지역 구성이 다릅니다."
+    },
+    {
+      "name": "ABB",
+      "ticker": null,
+      "comparison": "전기·자동화에서 경쟁하며 사업별 제품 범위를 맞춰 비교합니다."
+    }
+  ],
+  "macroLink": "데이터센터·전력망 설비투자가 핵심이며 고금리·건설비 상승은 고객 프로젝트를 늦출 수 있습니다.",
+  "monitoring": [
+    "수주 증가가 실제 고객 착공·가동 일정과 맞는가?",
+    "증설 후 단위원가·납기가 개선되는가?",
+    "데이터센터 외 최종 시장도 성장하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Eaton · 투자자 자료",
+      "url": "https://www.eaton.com/us/en-us/company/investor-relations.html",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Eaton · 기업 연혁·사업 소개",
+      "url": "https://www.eaton.com/us/en-us/company/investor-relations/investor-toolkit/investor-faqs.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

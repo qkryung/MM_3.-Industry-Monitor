@@ -1,0 +1,94 @@
+{
+  "ticker": "EGP",
+  "oneLiner": "미국 남부 성장도시의 중소형 배송·유통 창고를 임대합니다.",
+  "businessModel": "EastGroup은 대형 항만 창고만을 대상으로 삼기보다 도시 안팎에서 지역 배송·유통을 하는 기업의 공간 수요에 집중합니다. 여러 건물을 묶은 산업단지를 개발하고 운영해 임차인이 성장할 때 공간을 넓혀주기도 합니다. 매출은 본질적으로 임대사업이며 기본 임대료와 운영비 회수를 나누어 이해하면 됩니다.",
+  "revenueStreams": [
+    {
+      "name": "산업용 시설 임대료",
+      "description": "배송·유통 및 경공업 공간에 대한 임대 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.eastgroup.net/"
+    },
+    {
+      "name": "운영비 회수·기타 임대 수입",
+      "description": "계약에 따른 공용관리비·세금 등의 회수입니다. 비용 전가에 따른 증가를 임대 가격 상승으로 오해하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.eastgroup.net/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1969",
+      "event": "회사 전신이 조직됐습니다."
+    },
+    {
+      "year": "1983",
+      "event": "새 경영진이 경영권을 확보하며 EastGroup Properties라는 이름을 사용했습니다."
+    },
+    {
+      "year": "1998",
+      "event": "Meridian Point Realty Trust VIII 인수로 산업용 자산을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "세분화된 수요",
+      "detail": "다양한 지역 배송·유통 임차인이 공간을 사용해 한 초대형 고객에 대한 의존을 낮출 수 있습니다."
+    },
+    {
+      "title": "도시 내 거점",
+      "detail": "소비지 가까운 공간은 장거리 대형 물류센터와 다른 입지 가치를 가집니다."
+    },
+    {
+      "title": "반복 개발 경험",
+      "detail": "집중 지역의 토지·시공·임대 시장 경험이 후속 개발에 활용됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "선벨트 공급",
+      "detail": "인구가 느는 지역이라도 창고 공급이 더 빠르게 늘면 임대조건이 약해집니다."
+    },
+    {
+      "title": "중소기업 신용",
+      "detail": "작은 임차인은 경기둔화나 자금조달 악화에 더 취약할 수 있습니다."
+    },
+    {
+      "title": "기후·보험",
+      "detail": "남부 지역의 폭풍·홍수와 보험료 상승이 자산 비용에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "First Industrial",
+      "ticker": "FR",
+      "comparison": "미국 주요 산업용 부동산시장 전반에 투자합니다."
+    },
+    {
+      "name": "Prologis",
+      "ticker": "PLD",
+      "comparison": "더 넓은 글로벌 물류시장과 대형 고객·운용 사업을 갖고 있습니다."
+    }
+  ],
+  "macroLink": "선벨트 고용과 인구 유입은 지역 배송 수요에 연결됩니다. 개발금리와 공사비는 새 산업단지의 경제성을 결정합니다.",
+  "monitoring": [
+    "개발 완료 시설의 임대 속도가 예정대로인가?",
+    "동일자산 입주율과 갱신 임대료가 모두 유지되는가?",
+    "도시별 신규 창고 공급이 현지 고용·유통 증가보다 빠르지 않은가?"
+  ],
+  "sources": [
+    {
+      "title": "EastGroup Properties · 투자자 자료",
+      "url": "https://investor.eastgroup.net/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "EastGroup Properties · 연혁·기업 자료",
+      "url": "https://eastgroup.net/about/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

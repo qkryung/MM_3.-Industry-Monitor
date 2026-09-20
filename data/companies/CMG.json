@@ -1,0 +1,104 @@
+{
+  "ticker": "CMG",
+  "oneLiner": "제한된 메뉴와 주문 조합으로 식사를 빠르게 제공하는 외식 기업입니다.",
+  "businessModel": "대부분 직영 매장에서 부리토·볼 등 음식과 음료를 판매합니다. 메뉴를 단순하게 유지하면서 매장 처리량과 디지털 픽업을 늘려 고정비를 나눕니다. 온라인 주문은 별도 새로운 매출원이 아니라 같은 음식이 팔리는 다른 채널입니다.",
+  "revenueStreams": [
+    {
+      "name": "음식",
+      "description": "부리토·볼·타코·사이드 등 매장·디지털 음식 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.chipotle.com/"
+    },
+    {
+      "name": "음료",
+      "description": "매장·디지털 주문에 포함되는 음료 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.chipotle.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1993,
+      "event": "Denver에 첫 Chipotle 매장 개점."
+    },
+    {
+      "year": 2006,
+      "event": "뉴욕증권거래소 상장."
+    },
+    {
+      "year": 2018,
+      "event": "디지털 주문 전용 픽업 차로 Chipotlane 도입."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "단순한 운영",
+      "detail": "제한된 기본 재료와 주문 조합으로 매장 생산성을 높일 수 있습니다."
+    },
+    {
+      "title": "직영 통제",
+      "detail": "메뉴·교육·운영 변화를 매장에 직접 적용할 수 있습니다."
+    },
+    {
+      "title": "픽업 형식",
+      "detail": "Chipotlane은 디지털 주문의 편의와 처리량을 높이는 수단입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "음식 안전",
+      "detail": "사고 한 번이 브랜드 신뢰와 매장 방문에 큰 영향을 줍니다."
+    },
+    {
+      "title": "임금·재료 부담",
+      "detail": "직영 비중 때문에 인건비·아보카도·육류 비용이 직접 반영됩니다."
+    },
+    {
+      "title": "확장 실행",
+      "detail": "새 매장의 관리·인력·투자 회수 품질이 유지되어야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "CAVA Group",
+      "ticker": "CAVA",
+      "comparison": "맞춤형 볼과 패스트캐주얼 소비 수요를 경쟁합니다."
+    },
+    {
+      "name": "McDonald’s",
+      "ticker": "MCD",
+      "comparison": "다른 가격·운영 방식으로 빠른 식사 지출을 경쟁합니다."
+    }
+  ],
+  "macroLink": "고용·실질소득이 외식 빈도에, 임금·식품 가격이 매장 마진에 작용합니다. 가격 인상과 고객 거래 증가를 구분합니다.",
+  "monitoring": [
+    "매장당 거래와 피크 시간 처리량이 늘어나는가?",
+    "새 매장·Chipotlane이 투자금을 적절한 속도로 회수하는가?",
+    "가격 인상 뒤 고객 빈도와 음식 품질이 유지되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Chipotle Mexican Grill · 공식 IR",
+      "url": "https://ir.chipotle.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Chipotle · 첫 매장과 성장",
+      "url": "https://newsroom.chipotle.com/2020-07-15-Chipotle-Continues-Accelerated-Growth-With-100th-Chipotlane-and-10-000-New-Jobs?asPDF=1",
+      "note": "1993년 창업과 매장 운영 모델."
+    },
+    {
+      "title": "Chipotle · Chipotlane 확대",
+      "url": "https://newsroomeu.chipotle.com/2022-11-16-CHIPOTLE-OPENS-500TH-CHIPOTLANE-R-RESTAURANT",
+      "note": "2018년 Chipotlane 도입 확인."
+    },
+    {
+      "title": "Chipotle 2005년 연차보고서",
+      "url": "https://filecache.investorroom.com/mr5ir_chipotle/101/download/2005_Annual.pdf",
+      "note": "2006-01-26 IPO 시작 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,109 @@
+{
+  "ticker": "OXY",
+  "oneLiner": "원유·가스 생산과 미드스트림·탄소관리 사업",
+  "businessModel": "미국과 중동 등의 유전에서 원유·가스를 생산해 판매하고 수송·마케팅을 연결합니다. 기존 유전 회수율을 높이는 기술과 퍼미안 자산이 핵심이며 탄소관리 사업도 개발합니다. 탄소사업 기대와 기존 생산사업 현금흐름을 분리해서 읽어야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "석유·가스",
+      "description": "원유·가스·천연가스액 생산 및 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.oxy.com/investors/"
+    },
+    {
+      "name": "미드스트림·마케팅",
+      "description": "운송·저장·판매 최적화와 관련 인프라",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.oxy.com/investors/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1920",
+      "event": "Occidental 설립"
+    },
+    {
+      "year": "2019",
+      "event": "Anadarko 인수"
+    },
+    {
+      "year": "2024",
+      "event": "CrownRock 인수로 퍼미안 자산 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "퍼미안 기반",
+      "detail": "밀집된 자산과 현장 경험을 활용합니다."
+    },
+    {
+      "title": "회수 기술",
+      "detail": "증진회수·저류층 기술을 기존 유전에 적용합니다."
+    },
+    {
+      "title": "가치사슬 연결",
+      "detail": "생산·물류·판매를 조정해 실제 수취가격을 관리합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "재무 부담",
+      "detail": "인수 이후 부채·우선주 등 자본구조를 함께 봐야 합니다."
+    },
+    {
+      "title": "가격 민감도",
+      "detail": "유가 하락은 부채 축소와 환원 여력을 낮춥니다."
+    },
+    {
+      "title": "신규 기술",
+      "detail": "직접공기포집 등은 수요·정책·비용의 불확실성이 큽니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "EOG Resources",
+      "ticker": "EOG",
+      "comparison": "EOG와 유정·재무구조를 비교하되 자산지역 차이를 반영합니다."
+    },
+    {
+      "name": "Diamondback Energy",
+      "ticker": "FANG",
+      "comparison": "FANG은 퍼미안 집중도가 높아 현장 비교에 유용합니다."
+    }
+  ],
+  "macroLink": "유가 하락과 고금리가 함께 오면 생산 현금과 재무 여력이 동시에 압박받습니다. 탄소 사업은 정책·구매계약도 중요합니다.",
+  "monitoring": [
+    "자산 매각·영업현금으로 실제 부채가 얼마나 줄어드는가?",
+    "CrownRock 자산의 생산·비용 시너지가 실현되는가?",
+    "탄소사업 계약은 건설·운영 비용을 감당할 구조인가?"
+  ],
+  "sources": [
+    {
+      "title": "Occidental Petroleum · 투자자 자료",
+      "url": "https://www.oxy.com/investors/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Occidental Petroleum · 기업 연혁·사업 소개",
+      "url": "https://www.oxy.com/about/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Occidental · 과거 회사 소개",
+      "url": "https://www.oxy.com/siteassets/documents/publications/oxy-climate-report-2018.pdf",
+      "note": "1920년 설립 확인용 과거 자료; 현재 사업 비중 자료로 사용하지 않음"
+    },
+    {
+      "title": "CrownRock 인수 완료",
+      "url": "https://www.oxy.com/news/news-releases/occidental-completes-acquisition-of-crownrock/",
+      "note": "2024-08-01 완료"
+    },
+    {
+      "title": "Anadarko 인수 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/797468/000095015719000864/ex99-1.htm",
+      "note": "2019-08-08 완료"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

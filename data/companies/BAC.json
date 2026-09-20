@@ -1,0 +1,108 @@
+{
+  "ticker": "BAC",
+  "oneLiner": "미국 예금 기반에 Merrill 자산관리와 글로벌 기업금융을 더한 은행입니다.",
+  "businessModel": "개인·중소기업의 예금과 대출을 기반으로 Merrill의 자산관리, 대기업 금융, 글로벌 증권거래를 제공합니다. 은행이 보유한 장기 고정금리 증권과 대출의 재가격 속도가 예금 비용보다 느리면 금리 상승기에 이자수익 개선이 지연될 수 있습니다. 고객 자산 전체를 회사 매출로 세지 않고 순이자이익과 실제 서비스 보수를 확인합니다.",
+  "revenueStreams": [
+    {
+      "name": "소비자 금융",
+      "description": "가계·소기업의 예금·대출·카드에서 생기는 순이자수익과 수수료",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.bankofamerica.com/"
+    },
+    {
+      "name": "글로벌 자산·투자관리",
+      "description": "Merrill과 Private Bank의 자산관리 보수 및 관련 은행수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.bankofamerica.com/"
+    },
+    {
+      "name": "글로벌 은행",
+      "description": "기업대출·결제·현금관리·투자은행 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.bankofamerica.com/"
+    },
+    {
+      "name": "글로벌 시장",
+      "description": "주식·채권·외환 등 고객 거래의 시장조성 및 금융수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.bankofamerica.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1904",
+      "event": "A.P. Giannini가 Bank of Italy를 설립했습니다."
+    },
+    {
+      "year": "1930",
+      "event": "Bank of Italy가 Bank of America라는 이름을 채택했습니다."
+    },
+    {
+      "year": "1998",
+      "event": "NationsBank와 BankAmerica 합병으로 오늘의 전국 은행 기반이 만들어졌습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "광범위한 소비자 예금",
+      "detail": "많은 일상 거래 계좌는 조달과 금융상품 연결의 기반입니다."
+    },
+    {
+      "title": "Merrill과의 연결",
+      "detail": "투자·은퇴·대출을 함께 제공해 고객 관계의 폭을 넓힐 수 있습니다."
+    },
+    {
+      "title": "기업 결제 기반",
+      "detail": "기업의 자금관리와 시장거래를 묶어 반복적인 접점을 확보합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "자산·부채 재가격 시차",
+      "detail": "장기 증권 수익률과 예금 비용이 다르게 움직여 순이자이익 회복이 늦을 수 있습니다."
+    },
+    {
+      "title": "평가손실·유동성",
+      "detail": "매각하지 않는 채권도 유동성 대응과 자본 해석에서 중요합니다."
+    },
+    {
+      "title": "국내 신용 사이클",
+      "detail": "광범위한 미국 가계·기업 노출은 실업과 경기 둔화에 연결됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "JPM",
+      "comparison": "종합은행끼리 비교하되 투자은행 규모와 예금·보유증권 구성이 다릅니다."
+    },
+    {
+      "name": "Wells Fargo",
+      "ticker": "WFC",
+      "comparison": "미국 소비자은행에서 경쟁하지만 BAC는 글로벌 시장·투자은행과 Merrill이 더 뚜렷합니다."
+    }
+  ],
+  "macroLink": "금리 상승·하락의 영향은 보유증권 만기와 예금 경쟁에 따라 지연됩니다. 미국 고용·주택·소비 데이터는 대출 수요와 대손비용을 연결하는 출발점입니다.",
+  "monitoring": [
+    "저수익 자산의 만기·재투자가 순이자이익을 실제로 개선하는가?",
+    "Merrill의 자산 증가가 시장 상승인지 고객 순유입인지 구분되는가?",
+    "예금 금리와 무이자 예금 비중이 어느 방향으로 움직이는가?"
+  ],
+  "sources": [
+    {
+      "title": "Bank of America · 투자자 자료",
+      "url": "https://investor.bankofamerica.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Bank of America · 연혁·기업 자료",
+      "url": "https://about.bankofamerica.com/en/our-company/celebrating250",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

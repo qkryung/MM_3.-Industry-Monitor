@@ -1,0 +1,106 @@
+{
+  "ticker": "USB",
+  "oneLiner": "예금·대출에 가맹점 결제와 자산관리 수수료를 결합한 미국 은행입니다.",
+  "businessModel": "U.S. Bank 브랜드로 개인·기업 은행업을 하고 Elavon을 통해 가맹점 결제 처리도 제공합니다. 대출에서 얻는 이자와 고객에게 지급하는 이자의 차이뿐 아니라 카드·가맹점·기업결제, 신탁·자산관리 수수료가 수입을 만듭니다. 결제 총액이나 예금 잔액은 매출이 아니며, 결제 처리에 남는 순수수료와 신용비용을 구분해 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "순이자수익",
+      "description": "대출·유가증권의 이자에서 예금 등 조달이자를 차감한 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.usbank.com/overview/default.aspx"
+    },
+    {
+      "name": "결제 관련 수수료",
+      "description": "Elavon 가맹점 처리·카드·기업 결제 서비스의 보수",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.usbank.com/overview/default.aspx"
+    },
+    {
+      "name": "자산관리·기업서비스 수수료",
+      "description": "신탁·운용·계좌·자본시장 등 비이자 서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.usbank.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1863",
+      "event": "전신 First National Bank of Cincinnati가 국법은행 인가를 받았습니다."
+    },
+    {
+      "year": "2001",
+      "event": "Firstar와 U.S. Bancorp 결합으로 현재 회사의 기반을 만들었습니다."
+    },
+    {
+      "year": "2022",
+      "event": "MUFG Union Bank의 핵심 지역은행 사업을 인수했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "은행과 결제의 결합",
+      "detail": "기업 고객의 계좌·대출·가맹점 결제를 연결해 접점을 넓힙니다."
+    },
+    {
+      "title": "수수료 수입 분산",
+      "detail": "예대마진 외 결제·신탁 수입이 존재합니다."
+    },
+    {
+      "title": "서부 기반 확장",
+      "detail": "Union Bank 인수로 서부 고객·예금 관계를 확장했습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "은행 신용위험",
+      "detail": "대출 부실은 결제 수수료가 좋아도 이익을 깎습니다."
+    },
+    {
+      "title": "인수·시스템 통합",
+      "detail": "조직과 기술을 결합하면서 비용·고객 이탈 위험이 생깁니다."
+    },
+    {
+      "title": "결제 가격 경쟁",
+      "detail": "가맹점 처리 시장의 가격 압력과 기술 변화에 대응해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Wells Fargo",
+      "ticker": "WFC",
+      "comparison": "미국 상업은행 접점이 겹치지만 USB는 Elavon 가맹점 결제 수입을 별도로 봅니다."
+    },
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "JPM",
+      "comparison": "은행·기업결제에서 경쟁하며 JPM은 글로벌 투자은행·거래 기반이 더 넓습니다."
+    }
+  ],
+  "macroLink": "미국 소비는 카드·가맹점 결제액, 금리는 순이자마진, 고용·기업 활동은 대출손실에 영향을 줍니다. 세 경로가 서로 반대 방향으로 움직일 수 있습니다.",
+  "monitoring": [
+    "Elavon의 처리 증가가 실제 순수수료 성장으로 이어지는가?",
+    "예금 비용과 신용비용을 차감해도 대출 확대의 이익이 남는가?",
+    "인수로 추가된 고객에게 서비스가 확장되고 통합비용은 안정되는가?"
+  ],
+  "sources": [
+    {
+      "title": "U.S. Bancorp · 투자자 자료",
+      "url": "https://ir.usbank.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "U.S. Bancorp · 연혁·기업 자료",
+      "url": "https://www.usbank.com/about-us-bank/history.html",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "U.S. Bancorp · 합병 교환비율",
+      "url": "https://ir.usbank.com/shareholder-information/acquisition-exchange-ratios/default.aspx",
+      "note": "2001년 합병 계보 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

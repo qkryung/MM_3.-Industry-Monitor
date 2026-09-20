@@ -1,0 +1,111 @@
+{
+  "ticker": "SBUX",
+  "oneLiner": "커피와 매장 경험을 반복 방문으로 연결하는 브랜드입니다.",
+  "businessModel": "직영점의 음료·음식 판매, 라이선스 점포의 상품·로열티, 소비재 채널에서 수입을 얻습니다. 단순한 커피 원가보다 고객 방문과 주문 처리·인력 배치가 수익성을 좌우합니다. 미국과 해외의 운영 방식·경쟁 환경도 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "직영점",
+      "description": "회사가 운영하는 매장의 음료·음식 등 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.starbucks.com/ir-home/default.aspx"
+    },
+    {
+      "name": "라이선스 점포",
+      "description": "운영 파트너의 로열티와 관련 상품 공급.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.starbucks.com/ir-home/default.aspx"
+    },
+    {
+      "name": "기타 채널",
+      "description": "포장 커피·음료 등의 라이선스·제휴 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.starbucks.com/ir-home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1971,
+      "event": "시애틀에서 원두·차 판매점 개점."
+    },
+    {
+      "year": 1987,
+      "event": "Howard Schultz 체제에서 커피하우스 확장."
+    },
+    {
+      "year": 1992,
+      "event": "Nasdaq 상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "일상 구매 습관",
+      "detail": "커피·모바일 주문·리워드가 반복 방문을 지원합니다."
+    },
+    {
+      "title": "브랜드 가격",
+      "detail": "매장·제품 경험으로 범용 커피보다 높은 가격을 받을 수 있습니다."
+    },
+    {
+      "title": "여러 운영 방식",
+      "detail": "직영과 라이선스를 시장 특성에 맞춰 사용합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "매장 노동 집약",
+      "detail": "주문 복잡도와 혼잡이 서비스·임금 비용에 영향을 줍니다."
+    },
+    {
+      "title": "고가 소비 민감도",
+      "detail": "가격 인상과 가계 부담이 방문 빈도를 낮출 수 있습니다."
+    },
+    {
+      "title": "현지 경쟁",
+      "detail": "중국 등에서는 저가·디지털 현지 업체와 경쟁해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "McDonald’s",
+      "ticker": "MCD",
+      "comparison": "아침·커피·간편식의 가격과 접근성으로 경쟁합니다."
+    },
+    {
+      "name": "Luckin Coffee",
+      "ticker": "LKNCY",
+      "comparison": "중국의 앱·가격·빠른 출점 모델로 경쟁하며 OTC 거래 기업입니다."
+    }
+  ],
+  "macroLink": "커피 원두·임금·가계 실질소득이 비용과 방문에 각각 작용합니다. 객단가가 올라가도 거래 건수가 줄면 브랜드 수요를 다시 점검합니다.",
+  "monitoring": [
+    "거래 건수와 대기 시간이 함께 개선되는가?",
+    "인력·매장 투자 이후 실제 매장 이익이 늘어나는가?",
+    "해외 시장의 성장에 할인·파트너 구조 변화가 얼마나 기여하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Starbucks · 공식 IR",
+      "url": "https://investor.starbucks.com/ir-home/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Starbucks · 회사 이야기",
+      "url": "https://about.starbucks.com/about-us/",
+      "note": "1971년 원류와 1987년 커피하우스 전환."
+    },
+    {
+      "title": "Starbucks · 역사 아카이브",
+      "url": "https://about.starbucks.com/history/",
+      "note": "상장을 포함한 주요 연혁의 공식 자료."
+    },
+    {
+      "title": "Starbucks 공식 회사 타임라인",
+      "url": "https://about.starbucks.com/uploads/2019/01/AboutUs-Timeline-1.26.17-1.pdf",
+      "note": "1971년 시작·1987년 자산 인수·1992년 IPO 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

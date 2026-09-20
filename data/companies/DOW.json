@@ -1,0 +1,94 @@
+{
+  "ticker": "DOW",
+  "oneLiner": "포장·인프라·소비재용 화학과 소재",
+  "businessModel": "포장·자동차·건설·생활용품 제조사에 플라스틱·화학 중간재·실리콘 등을 공급합니다. 원료인 에탄·나프타를 가공해 판매하므로 제품 가격과 원료·에너지 비용의 차이가 중요합니다. 매출 상승도 가격 인상인지 실제 물량 증가인지 구분해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "포장·특수 플라스틱",
+      "description": "폴리에틸렌 등 포장·산업용 수지",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.dow.com/"
+    },
+    {
+      "name": "산업·성능 소재",
+      "description": "우레탄·산업 화학·코팅·실리콘 관련 소재",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.dow.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1897",
+      "event": "Dow Chemical 설립"
+    },
+    {
+      "year": "2017",
+      "event": "DowDuPont 통합"
+    },
+    {
+      "year": "2019",
+      "event": "현재 Dow로 분사"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "원료 기반",
+      "detail": "미국 가스계 원료 접근이 지역 경쟁력의 한 요소입니다."
+    },
+    {
+      "title": "제품·고객 폭",
+      "detail": "포장·건설·산업에 다양한 소재를 공급합니다."
+    },
+    {
+      "title": "통합 생산",
+      "detail": "대형 생산단지의 원료·공정을 공유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "범용 경쟁",
+      "detail": "글로벌 증설은 판매가격과 가동률을 압박합니다."
+    },
+    {
+      "title": "고정비",
+      "detail": "공장 가동이 낮아지면 단위원가가 올라갑니다."
+    },
+    {
+      "title": "대형 투자",
+      "detail": "증설·환경 투자와 환원에 필요한 현금이 큽니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "LyondellBasell",
+      "ticker": "LYB",
+      "comparison": "폴리올레핀 경쟁사로 원료·지역·제품 구성을 맞춰 봅니다."
+    },
+    {
+      "name": "Eastman",
+      "ticker": "EMN",
+      "comparison": "Eastman은 기능성 소재 비중이 달라 범용 스프레드 민감도가 다릅니다."
+    }
+  ],
+  "macroLink": "중국·미국 제조업 수요와 원료 가격차가 핵심입니다. 유가 상승이 나프타 경쟁사의 비용을 더 높일 수도 있습니다.",
+  "monitoring": [
+    "물량 회복이 최종 수요인지 재고 재확충인지?",
+    "지역별 가동률과 제품-원료 스프레드는 어떤가?",
+    "투자·배당 이후 현금이 차입 증가 없이 남는가?"
+  ],
+  "sources": [
+    {
+      "title": "Dow · 투자자 자료",
+      "url": "https://investors.dow.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Dow · 기업 연혁·사업 소개",
+      "url": "https://corporate.dow.com/en-us/about-dow/company/history/timeline.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

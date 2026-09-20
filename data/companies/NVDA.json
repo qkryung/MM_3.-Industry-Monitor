@@ -1,0 +1,106 @@
+{
+  "ticker": "NVDA",
+  "oneLiner": "AI를 계산하는 GPU와 이를 묶는 소프트웨어·네트워크를 함께 파는 회사.",
+  "businessModel": "GPU라는 병렬 계산 칩을 설계하고 생산은 외부 파운드리에 맡깁니다. 데이터센터 고객은 칩만 아니라 서버 시스템, 고속 연결망, CUDA 개발 환경을 함께 사용합니다. 고객이 이미 작성한 프로그램과 운영 경험이 다음 제품 선택에 영향을 주기 때문에 반도체 성능과 소프트웨어 생태계를 함께 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "데이터센터",
+      "description": "AI·고성능 컴퓨팅 계산과 네트워크. FY2026 매출 193,737백만 USD.",
+      "share": 89.72,
+      "period": "FY2026 · 2026-01-25 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+    },
+    {
+      "name": "게임",
+      "description": "GeForce 등 게임용 제품. FY2026 매출 16,042백만 USD.",
+      "share": 7.43,
+      "period": "FY2026 · 2026-01-25 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+    },
+    {
+      "name": "전문 시각화·자동차·기타",
+      "description": "전문 시각화 3,191, 자동차 2,349, OEM·기타 619백만 USD를 합산. 사업부가 아닌 최종시장 구분입니다.",
+      "share": 2.85,
+      "period": "FY2026 · 2026-01-25 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+    }
+  ],
+  "history": [
+    {
+      "year": 1993,
+      "event": "GPU 기업의 전신을 Jensen Huang 등 공동창업자가 설립."
+    },
+    {
+      "year": 1999,
+      "event": "GeForce 256을 출시하며 GPU라는 제품 범주를 제시."
+    },
+    {
+      "year": 2006,
+      "event": "GPU를 범용 계산에 활용하는 CUDA 플랫폼을 공개."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "CUDA 개발 기반",
+      "detail": "고객 코드·라이브러리·개발자 경험이 쌓여 다른 하드웨어로 옮기는 작업이 복잡해집니다."
+    },
+    {
+      "title": "시스템 수준 공급",
+      "detail": "GPU, 네트워크, 시스템 설계를 함께 최적화해 고객의 구축 시간을 줄일 수 있습니다."
+    },
+    {
+      "title": "다양한 AI 고객",
+      "detail": "클라우드 사업자 외에 기업·연구기관·국가별 AI 인프라 수요로 판매 범위를 넓힙니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "고객 투자 집중",
+      "detail": "소수 대형 클라우드 고객의 투자 계획 변경이 주문과 성장률에 크게 영향을 줍니다."
+    },
+    {
+      "title": "수출·공급 제약",
+      "detail": "첨단 칩 수출 규제와 파운드리·첨단 패키징 공급 제약이 실제 판매 가능량을 제한합니다."
+    },
+    {
+      "title": "자체 칩 경쟁",
+      "detail": "대형 고객이 자체 가속기를 개발하면 특정 추론 업무에서 NVIDIA 제품 사용을 줄일 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "comparison": "범용 GPU·CPU를 함께 제공하며 가격과 개방형 소프트웨어로 경쟁합니다."
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "comparison": "클라우드 고객의 맞춤형 AI 칩과 네트워크를 공급해 일부 계산 수요를 대체합니다."
+    }
+  ],
+  "macroLink": "기업과 클라우드의 AI 설비투자가 직접 수요입니다. 금리 상승은 고객 투자 채산성과 NVIDIA의 미래 이익에 부여하는 가치 모두에 영향을 줍니다.",
+  "monitoring": [
+    "신제품으로 바뀌는 동안 출하 지연·재고·총이익률이 어떻게 움직이는가?",
+    "데이터센터 성장에서 GPU와 네트워크가 각각 얼마나 기여하는가?",
+    "고객의 AI 매출과 현금 창출이 설비투자 증가를 뒷받침하는가?"
+  ],
+  "sources": [
+    {
+      "title": "NVIDIA · 공식 IR",
+      "url": "https://investor.nvidia.com/home/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 비중은 명시된 회계기간의 원문 매출에서 계산했으며 현재 실시간 수치가 아닙니다."
+    },
+    {
+      "title": "NVIDIA 공식 연혁",
+      "url": "https://www.nvidia.com/en-gb/about-nvidia/corporate-timeline/",
+      "note": "설립·GPU·CUDA의 역사와 기술 확장 경로 확인."
+    },
+    {
+      "title": "NVIDIA FY2026 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "note": "최종시장별 연간 매출 합계 215,938백만 USD. Compute & Networking·Graphics 사업부와 구분축이 다름. 비중은 각 항목÷표시 항목 합계로 산출하고 소수 둘째 자리 반올림."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

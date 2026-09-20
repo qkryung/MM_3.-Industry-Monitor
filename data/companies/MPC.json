@@ -1,0 +1,94 @@
+{
+  "ticker": "MPC",
+  "oneLiner": "미국 정유·연료 판매와 미드스트림 지분 사업",
+  "businessModel": "원유를 구매해 정유소에서 연료로 바꾸고 도매 유통에 판매합니다. MPLX를 통해 파이프라인·저장·가스 처리에서도 현금을 얻습니다. 정제마진이 약할 때 미드스트림 현금이 완충하지만 정유 설비의 가동률과 보수 비용이 여전히 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "정유·마케팅",
+      "description": "휘발유·경유·항공유 등 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.marathonpetroleum.com/Investors/"
+    },
+    {
+      "name": "미드스트림",
+      "description": "MPLX의 운송·저장·처리와 관련 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.marathonpetroleum.com/Investors/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1887",
+      "event": "Ohio Oil 설립으로 계보 시작"
+    },
+    {
+      "year": "2011",
+      "event": "Marathon Oil에서 분사"
+    },
+    {
+      "year": "2018",
+      "event": "Andeavor 인수로 정유망 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "정유 규모",
+      "detail": "다양한 지역·원유를 처리할 설비를 보유합니다."
+    },
+    {
+      "title": "물류 통합",
+      "detail": "정유소와 파이프라인·터미널 연결이 공급을 지원합니다."
+    },
+    {
+      "title": "수익 완충",
+      "detail": "MPLX 현금은 정제마진과 다른 동인을 가집니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "정제 사이클",
+      "detail": "공급 과잉·수요 둔화가 마진을 크게 낮춥니다."
+    },
+    {
+      "title": "보수·사고",
+      "detail": "큰 설비는 중단 시 물량과 비용 영향이 큽니다."
+    },
+    {
+      "title": "구조 복잡성",
+      "detail": "MPLX 비지배지분·분배금과 연결 현금을 구분해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Valero",
+      "ticker": "VLO",
+      "comparison": "Valero는 정유·재생연료 노출 비교에 유용합니다."
+    },
+    {
+      "name": "Phillips 66",
+      "ticker": "PSX",
+      "comparison": "PSX는 화학·미드스트림 등 이익 구성이 더 다릅니다."
+    }
+  ],
+  "macroLink": "운송 연료 수요와 제품 재고가 중요합니다. 유가 하락이 원료비를 낮춰도 제품 가격이 더 빨리 떨어지면 불리합니다.",
+  "monitoring": [
+    "시장 크랙과 실제 배럴당 마진의 차이는 왜 변하는가?",
+    "정기보수 종료 후 가동·비용이 정상화되는가?",
+    "MPLX 현금 기여를 제외한 정유 현금은 충분한가?"
+  ],
+  "sources": [
+    {
+      "title": "Marathon Petroleum · 투자자 자료",
+      "url": "https://www.marathonpetroleum.com/Investors/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Marathon Petroleum · 기업 연혁·사업 소개",
+      "url": "https://www.marathonpetroleum.com/About/History/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

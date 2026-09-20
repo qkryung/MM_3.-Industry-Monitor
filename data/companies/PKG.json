@@ -1,0 +1,94 @@
+{
+  "ticker": "PKG",
+  "oneLiner": "골판지원지·골판지 상자 중심 포장",
+  "businessModel": "미국 고객에게 골판지 상자를 만들고 원지 공장에서 필요한 라이너보드·골심지를 공급합니다. 고객 제품 보호·배송·진열에 맞춘 상자 설계도 제공합니다. 내부 원지 공급과 지역 상자 공장 운영이 비용·서비스를 함께 결정합니다.",
+  "revenueStreams": [
+    {
+      "name": "포장",
+      "description": "골판지원지·골판지 상자·포장 설계",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.packagingcorp.com/"
+    },
+    {
+      "name": "제지",
+      "description": "사무·인쇄 등에 사용하는 종이 제품",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.packagingcorp.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1959",
+      "event": "세 기업 통합으로 PCA 형성"
+    },
+    {
+      "year": "1999",
+      "event": "현재 PCA 법인·사업 구조 재설립"
+    },
+    {
+      "year": "2000",
+      "event": "NYSE 기업공개"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "통합 생산",
+      "detail": "원지·상자 생산을 연결해 공급을 조절합니다."
+    },
+    {
+      "title": "고객 서비스",
+      "detail": "지역 공장의 맞춤 대응·납기가 관계를 만듭니다."
+    },
+    {
+      "title": "운영 집중",
+      "detail": "핵심 포장 사업의 공정·가동 효율에 집중합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "출하 민감",
+      "detail": "박스 수요는 고객 생산·재고 흐름에 민감합니다."
+    },
+    {
+      "title": "원지 고정비",
+      "detail": "수요가 줄면 보수·비가동 비용이 늘 수 있습니다."
+    },
+    {
+      "title": "가격 시차",
+      "detail": "원지 가격과 계약가격 반영 시점이 다릅니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "International Paper",
+      "ticker": "IP",
+      "comparison": "IP는 지역·인수 구조가 더 복잡합니다."
+    },
+    {
+      "name": "Smurfit Westrock",
+      "ticker": "SW",
+      "comparison": "세계 포장망과 제품 범위가 달라 북미 동일 범위로 비교합니다."
+    }
+  ],
+  "macroLink": "미국 상품 소비·제조업과 에너지·폐지 비용을 봅니다. 매출보다 조업일당 박스 출하가 수요를 잘 보여줍니다.",
+  "monitoring": [
+    "조업일수 조정 출하가 늘고 있는가?",
+    "원지 가격 변화가 상자 가격에 얼마나 늦게 반영되는가?",
+    "생산 전환·보수 후 정상 현금 수익은 어떤가?"
+  ],
+  "sources": [
+    {
+      "title": "Packaging Corporation of America · 투자자 자료",
+      "url": "https://ir.packagingcorp.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Packaging Corporation of America · 기업 연혁·사업 소개",
+      "url": "https://www.packagingcorp.com/our-company/history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

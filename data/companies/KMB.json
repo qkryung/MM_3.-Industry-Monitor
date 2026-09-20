@@ -1,0 +1,104 @@
+{
+  "ticker": "KMB",
+  "oneLiner": "기저귀·티슈·위생용품을 반복 판매하는 회사입니다.",
+  "businessModel": "Huggies·Kleenex·Kotex 등 위생 브랜드를 생산·판매합니다. 흡수력·피부감·사용 편의가 브랜드 가격을 지지하지만 펄프·수지·유통 비용도 큽니다. Kenvue 인수는 확인한 공식 발표에서 완료 전 거래였으므로 기존 사업과 인수 이후 계획을 구분합니다.",
+  "revenueStreams": [
+    {
+      "name": "개인 위생",
+      "description": "기저귀·여성용품·성인 케어 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.investor.kimberly-clark.com/"
+    },
+    {
+      "name": "티슈·가정·전문 위생",
+      "description": "티슈·화장지와 사업장 위생 제품 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.investor.kimberly-clark.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1872,
+      "event": "Kimberly-Clark 설립."
+    },
+    {
+      "year": 1924,
+      "event": "Kleenex 브랜드 출시."
+    },
+    {
+      "year": 1995,
+      "event": "Scott Paper와 결합."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "일상 필수 사용",
+      "detail": "위생 제품은 반복 구매 수요가 있습니다."
+    },
+    {
+      "title": "브랜드·기술",
+      "detail": "흡수·촉감·피부 관련 제품 개선이 차별화의 수단입니다."
+    },
+    {
+      "title": "다양한 생애 단계",
+      "detail": "영유아·여성·성인·가정 수요를 함께 다룹니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "펄프·수지 비용",
+      "detail": "원재료 가격을 바로 판매가격에 전가하기 어렵습니다."
+    },
+    {
+      "title": "출생률·자체 브랜드",
+      "detail": "일부 시장의 기저귀 수요와 가격 경쟁이 성장에 부담입니다."
+    },
+    {
+      "title": "대형 거래 실행",
+      "detail": "사업 재편·인수는 부채·통합·규제·비교 가능성 위험을 만듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Procter & Gamble",
+      "ticker": "PG",
+      "comparison": "기저귀·가족 위생 제품에서 직접 경쟁합니다."
+    },
+    {
+      "name": "Essity",
+      "ticker": "ESSITY-B.ST",
+      "comparison": "티슈·개인·전문 위생 제품을 경쟁합니다."
+    }
+  ],
+  "macroLink": "펄프·수지·운송과 환율이 비용·보고 이익에 작용합니다. 인구 구조와 가계의 가격 하향 이동은 제품군마다 다른 수량 변화를 만듭니다.",
+  "monitoring": [
+    "가격 인상 뒤 위생 제품의 수량·점유율이 유지되는가?",
+    "원가 절감이 정상적인 마진 개선으로 이어지는가?",
+    "Kenvue 거래의 완료 여부·자금 조달·사업 범위가 어떻게 바뀌는가?"
+  ],
+  "sources": [
+    {
+      "title": "Kimberly-Clark · 공식 IR",
+      "url": "https://www.investor.kimberly-clark.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Kimberly-Clark · 회사 소개",
+      "url": "https://www.kimberly-clark.com/en-us/company/about",
+      "note": "1872년 원류와 보유 위생 브랜드."
+    },
+    {
+      "title": "Kimberly-Clark · Kenvue 관련 조직 발표",
+      "url": "https://www.investor.kimberly-clark.com/news-releases/news-release-details/kimberly-clark-announces-post-closing-organizational-structure",
+      "note": "2026-04-15 발표는 pending acquisition으로 표시. 완료로 간주하지 않았습니다."
+    },
+    {
+      "title": "Kimberly-Clark 2006년 역사 요약",
+      "url": "https://www.kimberly-clark.com/-/media/kimberly/pdf/sustainability-reports/2006/2006-executive-summary.pdf",
+      "note": "1872년 설립·1924년 Kleenex·1995년 Scott 결합 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

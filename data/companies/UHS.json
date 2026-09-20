@@ -1,0 +1,104 @@
+{
+  "ticker": "UHS",
+  "oneLiner": "급성기 병원과 정신건강 치료시설을 함께 운영합니다.",
+  "businessModel": "급성기 의료와 정신건강·행동건강 치료를 제공하고 보험·정부·환자에게 비용을 청구합니다. 정신건강 시설은 입원·치료일수, 인력과 안전 관리, 보험 지급 방식이 중요한 변수입니다. 수요가 많아도 적절한 의료 인력이나 허가 병상이 없으면 치료를 늘릴 수 없습니다. 부동산 REIT인 UHT와는 다른 운영회사입니다.",
+  "revenueStreams": [
+    {
+      "name": "급성기 병원",
+      "description": "입원·외래·응급 등 병원 진료 순수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.uhs.com/"
+    },
+    {
+      "name": "정신·행동건강",
+      "description": "정신건강 입원·외래 및 관련 치료 프로그램의 순수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.uhs.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1979",
+      "event": "Alan Miller가 UHS를 설립했습니다."
+    },
+    {
+      "year": "1981",
+      "event": "기업공개를 실시했습니다."
+    },
+    {
+      "year": "2010",
+      "event": "Psychiatric Solutions 인수로 정신건강 시설 기반을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "두 진료 기반",
+      "detail": "급성기와 정신건강의 서로 다른 환자 수요를 보유합니다."
+    },
+    {
+      "title": "전문 운영 경험",
+      "detail": "정신건강 시설의 인력·안전·치료 프로그램 운영 경험을 갖습니다."
+    },
+    {
+      "title": "지역 기반",
+      "detail": "기존 병원·시설과 의뢰 관계가 지역 환자 접근을 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "환자 안전",
+      "detail": "정신건강 치료의 안전·질 관리 문제는 법적·규제·평판 부담으로 이어질 수 있습니다."
+    },
+    {
+      "title": "인력 제약",
+      "detail": "치료 인력 부족으로 수요가 있어도 병상을 충분히 운영하지 못할 수 있습니다."
+    },
+    {
+      "title": "지급·청구",
+      "detail": "정부·보험의 지급과 진료 필요성 판단 변화가 수입·회수에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Acadia Healthcare",
+      "ticker": "ACHC",
+      "comparison": "정신·행동건강에 더 집중한 직접 경쟁사입니다."
+    },
+    {
+      "name": "HCA Healthcare",
+      "ticker": "HCA",
+      "comparison": "급성기 병원 부문의 경쟁사입니다."
+    }
+  ],
+  "macroLink": "보험 보장과 정부·주정부 정신건강 예산이 수요를 매출로 바꿉니다. 의료 인력 임금과 채용 가능성이 운영 가능한 병상을 결정합니다.",
+  "monitoring": [
+    "정신건강 입원 수·치료일수 증가가 인력 확보와 함께 이루어지는가?",
+    "안전·규제 지표가 악화되지 않은 상태에서 마진이 개선되는가?",
+    "급성기와 정신건강의 지급 단가·순매출·인건비가 각각 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Universal Health Services · 투자자 자료",
+      "url": "https://ir.uhs.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Universal Health Services · 연혁·기업 자료",
+      "url": "https://uhs.com/news/uhs-celebrates-40-years-of-providing-superior-quality-care/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "UHS · 상장 이력",
+      "url": "https://www.uhs.com/wp-content/uploads/2021/11/21524342_CORP_PR_524229_2020_Annual_Report_Company_Overview_v4.pdf",
+      "note": "1981 IPO 확인."
+    },
+    {
+      "title": "UHS · 정신건강 인수",
+      "url": "https://uhs.com/news/uhs-reaches-an-agreement-to-acquire-psychiatric-solutions-inc/",
+      "note": "2010년 11월 인수 완료 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

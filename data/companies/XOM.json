@@ -1,0 +1,104 @@
+{
+  "ticker": "XOM",
+  "oneLiner": "탐사·생산, 정유·화학을 통합 운영하는 에너지 기업",
+  "businessModel": "유전에서 생산한 원유·가스를 판매하고 정유·화학 공장에서 연료·윤활유·소재로 바꿉니다. 정유사·산업체·유통업체가 고객이며, 생산원가가 낮은 자산과 공정 통합으로 원자재 가격 변동 속에서도 현금을 남기는 것이 핵심입니다. 2026년 7월 1일 법인 재설립으로 상장 발행사가 ExxonMobil Holdings로 승계되었습니다. 사업의 연속성은 유지되지만 과거 실적을 조회할 때 이전 법인과 승계 법인의 공시 식별자를 구분해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "원유·가스",
+      "description": "생산량과 실제 판매가격에서 개발·운영비를 차감하는 사업",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.exxonmobil.com/"
+    },
+    {
+      "name": "연료·화학·윤활유",
+      "description": "원료를 가공해 연료와 고기능 제품으로 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.exxonmobil.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1882",
+      "event": "전신 Standard Oil of New Jersey 설립"
+    },
+    {
+      "year": "1999",
+      "event": "Exxon과 Mobil 합병"
+    },
+    {
+      "year": "2024",
+      "event": "Pioneer Natural Resources 인수로 퍼미안 자산 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "통합 공정",
+      "detail": "원유 생산부터 연료·화학 제조까지 자산을 연결합니다."
+    },
+    {
+      "title": "저원가 자원",
+      "detail": "가이아나·퍼미안 등 자산을 장기간 개발할 기반이 있습니다."
+    },
+    {
+      "title": "기술·규모",
+      "detail": "대형 프로젝트 운영 경험과 연구개발을 공유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "상품가격 노출",
+      "detail": "유가 하락은 생산부문의 이익·환원 여력을 줄입니다."
+    },
+    {
+      "title": "장기 투자",
+      "detail": "프로젝트 비용을 먼저 지출하고 회수는 수년에 걸칩니다."
+    },
+    {
+      "title": "환경 책임",
+      "detail": "사고·복구·배출 대응 비용이 자산가치에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Chevron",
+      "ticker": "CVX",
+      "comparison": "통합 경쟁사로 생산지역·프로젝트 구성과 정유 비중을 비교합니다."
+    },
+    {
+      "name": "Shell",
+      "ticker": "SHEL",
+      "comparison": "Shell은 LNG·트레이딩 노출이 특징으로 단순 생산량 비교가 어렵습니다."
+    }
+  ],
+  "macroLink": "유가·가스 가격 외에 정제·화학 마진을 따로 봅니다. 원료 가격 상승과 가공부문 비용 상승이 동시에 나타날 수 있습니다.",
+  "monitoring": [
+    "가이아나·퍼미안 증가분이 단위원가를 낮추는가?",
+    "정유·화학 약세를 생산부문 현금이 얼마나 상쇄하는가?",
+    "배당·환원 후에도 생산 기반 유지 투자가 충분한가?"
+  ],
+  "sources": [
+    {
+      "title": "ExxonMobil Holdings · 투자자 자료",
+      "url": "https://investor.exxonmobil.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "ExxonMobil Holdings · 기업 연혁·사업 소개",
+      "url": "https://corporate.exxonmobil.com/who-we-are/our-global-organization/our-history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "ExxonMobil · 2026-07-01 법인 승계 8-K12B",
+      "url": "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0001193125-26-291990/d71068d8k12b.htm",
+      "note": "텍사스 재설립 거래로 ExxonMobil Holdings Corporation이 기존 Exxon Mobil Corporation을 승계. 주식 1:1 교환·지분율 유지·XOM 티커 유지. 과거 CIK 34088, 승계 CIK 2115436의 공시 시계열을 구분해 읽어야 합니다."
+    },
+    {
+      "title": "Pioneer 인수 완료",
+      "url": "https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources",
+      "note": "2024-05-03 인수 완료"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

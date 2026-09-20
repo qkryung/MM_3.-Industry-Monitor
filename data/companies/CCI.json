@@ -1,0 +1,99 @@
+{
+  "ticker": "CCI",
+  "oneLiner": "미국 이동통신사가 안테나를 설치하는 타워를 장기로 임대합니다.",
+  "businessModel": "통신타워의 공간과 관련 설치 서비스를 통신사에 제공합니다. 2026년 5월 1일 광섬유·스몰셀 사업 매각이 완료돼 현재 회사는 미국 타워 중심입니다. 과거 자료의 Fiber 사업을 현재 반복 매출로 포함하지 않고, 매각 대금은 영업 매출과 구분합니다. 고객의 망 통합이나 계약 해지가 신규 임차 수입을 상쇄할 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "타워 임대료",
+      "description": "통신사의 장기 부지·안테나 공간 사용료입니다. 계약 인상, 신규 임차와 해지 효과가 함께 반영됩니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.crowncastle.com/"
+    },
+    {
+      "name": "설치·부지 서비스",
+      "description": "고객의 타워 설치·망 변경을 지원하는 서비스입니다. 과거 매각된 Fiber·Small Cell 매출은 제외합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.crowncastle.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1994",
+      "event": "휴스턴에서 타워 사업을 시작했습니다."
+    },
+    {
+      "year": "1998",
+      "event": "기업공개로 상장했습니다."
+    },
+    {
+      "year": "2026-05-01",
+      "event": "광섬유와 스몰셀 사업 매각을 완료하고 미국 타워에 집중하는 구조로 전환했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "미국 집중",
+      "detail": "여러 해외 규제·환율을 다루는 경쟁사보다 사업 지역 구조가 단순합니다."
+    },
+    {
+      "title": "기존 설치 거점",
+      "detail": "이미 확보한 부지와 인허가가 통신사의 망 운영에 활용됩니다."
+    },
+    {
+      "title": "추가 임차 효과",
+      "detail": "같은 타워에 고객·장비를 늘리면 기존 기반시설을 재사용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "소수 고객",
+      "detail": "미국 대형 통신사에 의존해 합병·자본지출 변화가 크게 전달됩니다."
+    },
+    {
+      "title": "해지 영향",
+      "detail": "Sprint 망 통합과 DISH 관련 해지 효과를 신규 임대 성장과 구분해야 합니다."
+    },
+    {
+      "title": "사업 재편 비교",
+      "detail": "매각 전후 매출·AFFO의 범위가 달라 단순 전년 비교가 왜곡됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "American Tower",
+      "ticker": "AMT",
+      "comparison": "해외 타워와 미국 데이터센터까지 운영해 사업구성이 더 넓습니다."
+    },
+    {
+      "name": "SBA Communications",
+      "ticker": "SBAC",
+      "comparison": "미국과 일부 해외 타워에 투자하는 비교대상입니다."
+    }
+  ],
+  "macroLink": "무선 통신사의 투자 예산이 직접적인 수요 변수입니다. 장기금리와 부채 상환은 임대료가 주당 현금흐름으로 남는 정도에 영향을 줍니다.",
+  "monitoring": [
+    "신규 임차와 계약 인상 수입이 Sprint·DISH 관련 감소를 얼마나 상쇄하는가?",
+    "매각 후 부채·이자비용이 실제로 얼마나 줄었는가?",
+    "계속영업 기준 AFFO와 과거 Fiber 포함 수치가 명확히 분리됐는가?"
+  ],
+  "sources": [
+    {
+      "title": "Crown Castle · 투자자 자료",
+      "url": "https://investor.crowncastle.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Crown Castle · 연혁·기업 자료",
+      "url": "https://www.crowncastle.com/our-history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Crown Castle · 사업 매각 완료",
+      "url": "https://investor.crowncastle.com/node/29086",
+      "note": "2026-05-01 Fiber·Small Cell 매각 완료. 현재 사업구조와 중단영업 구분의 근거."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

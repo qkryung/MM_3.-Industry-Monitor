@@ -1,0 +1,101 @@
+{
+  "ticker": "JPM",
+  "oneLiner": "개인 통장부터 글로벌 기업의 자금 조달까지 연결하는 종합 금융회사입니다.",
+  "businessModel": "Chase의 가계·중소기업 예금과 대출, J.P. Morgan의 기업금융·거래·자산관리를 결합합니다. 예금은 매출이 아니라 조달한 부채이고 대출도 자산입니다. 대출·유가증권에서 받은 이자와 조달이자의 차이, 결제·자문·거래·운용 수수료가 수익입니다. 여러 사업이 고객을 공유하지만 대출손실과 자본규제는 그룹 전체의 환원 여력을 제약합니다.",
+  "revenueStreams": [
+    {
+      "name": "소비자·커뮤니티 금융",
+      "description": "카드·주택·자동차·소기업 금융의 순이자수익과 계좌·서비스 수수료",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.jpmorganchase.com/ir"
+    },
+    {
+      "name": "상업·투자은행",
+      "description": "기업대출·자금관리·투자은행·증권거래·수탁 서비스 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.jpmorganchase.com/ir"
+    },
+    {
+      "name": "자산·자산관리",
+      "description": "고객 자산의 관리보수와 관련 예금·대출 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.jpmorganchase.com/ir"
+    }
+  ],
+  "history": [
+    {
+      "year": "1799",
+      "event": "전신 Manhattan Company가 설립되어 은행업을 시작했습니다."
+    },
+    {
+      "year": "1955",
+      "event": "Chase National과 Bank of the Manhattan Company가 합쳐 Chase Manhattan이 됐습니다."
+    },
+    {
+      "year": "2000",
+      "event": "Chase Manhattan과 J.P. Morgan이 합병해 현재 그룹의 기반을 만들었습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "예금과 고객 접점",
+      "detail": "개인은행에서 기업 결제까지 고객 거래를 확보해 자금조달과 수수료 수입이 연결됩니다."
+    },
+    {
+      "title": "다양한 수익원",
+      "detail": "대출·투자은행·시장거래·운용이 있어 한 사업의 둔화를 다른 활동이 일부 완화할 수 있습니다."
+    },
+    {
+      "title": "대규모 인프라",
+      "detail": "결제·수탁·리스크 시스템을 넓은 거래량에 활용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "복잡한 위험 연결",
+      "detail": "카드·상업용 부동산·시장 거래의 위험이 동시에 커질 수 있어 합산 이익만으로 판단하기 어렵습니다."
+    },
+    {
+      "title": "추가 자본 부담",
+      "detail": "대형 시스템 중요은행 규제가 성장을 위해 필요한 자본과 주주환원을 제한합니다."
+    },
+    {
+      "title": "운영·법적 위험",
+      "detail": "세계 여러 규정과 대규모 고객 정보를 다루어 시스템 사고나 준법 실패의 파급이 큽니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Bank of America",
+      "ticker": "BAC",
+      "comparison": "둘 다 종합은행이지만 예금·증권·투자은행의 사업 비중과 금리 민감도가 다릅니다."
+    },
+    {
+      "name": "Goldman Sachs",
+      "ticker": "GS",
+      "comparison": "기업금융·시장거래에서 경쟁하지만 GS는 일상적인 소비자 예금·카드 기반이 상대적으로 작습니다."
+    }
+  ],
+  "macroLink": "경기 확장은 카드 사용·기업대출·거래를 지지할 수 있습니다. 금리 방향만 보지 말고 예금 비용과 자산 재가격, 실업 증가에 따른 카드 손실의 시차를 함께 봅니다.",
+  "monitoring": [
+    "카드 잔액 증가보다 순상각률과 충당금이 더 빠르게 늘고 있는가?",
+    "소비자 예금과 기업 현금관리에서 조달비용이 어떻게 바뀌는가?",
+    "CET1 여유를 유지하면서 이익을 재투자·배당·매입에 어떻게 배분하는가?"
+  ],
+  "sources": [
+    {
+      "title": "JPMorgan Chase · 투자자 자료",
+      "url": "https://www.jpmorganchase.com/ir",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "JPMorgan Chase · 연혁·기업 자료",
+      "url": "https://www.jpmorganchase.com/about/our-history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

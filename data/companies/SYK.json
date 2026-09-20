@@ -1,0 +1,99 @@
+{
+  "ticker": "SYK",
+  "oneLiner": "인공관절·수술로봇·수술실 장비와 신경계 의료기기를 판매합니다.",
+  "businessModel": "정형외과 임플란트와 Mako 로봇, 수술 도구·내시경·응급 및 병원 장비, 신경계 제품을 공급합니다. 로봇 도입이 관련 임플란트 사용과 연결될 수 있지만 제품별 임상·경제적 가치를 입증해야 합니다. 병원 설비 예산에 민감한 장비와 시술 때마다 쓰는 제품을 구분합니다.",
+  "revenueStreams": [
+    {
+      "name": "정형외과",
+      "description": "인공 무릎·고관절, 외상 관련 임플란트와 관련 정형외과 기술의 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.stryker.com/home/default.aspx"
+    },
+    {
+      "name": "MedSurg·신경기술",
+      "description": "수술실·내시경·환자관리 장비와 신경혈관 등 제품 판매입니다. 장비와 소모품이 함께 포함됩니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.stryker.com/home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1941",
+      "event": "정형외과 의사 Homer Stryker가 전신 회사를 설립했습니다."
+    },
+    {
+      "year": "1979",
+      "event": "기업공개를 실시하고 Osteonics 인수로 임플란트 분야에 진출했습니다."
+    },
+    {
+      "year": "2013",
+      "event": "MAKO Surgical 인수로 로봇 보조 정형외과 수술 기반을 확보했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "수술 과정 연결",
+      "detail": "로봇·임플란트·도구를 수술 과정에 맞춰 함께 제공할 수 있습니다."
+    },
+    {
+      "title": "의료진 지원",
+      "detail": "현장 영업·교육·임상 지원이 의사의 사용 경험과 제품 채택에 연결됩니다."
+    },
+    {
+      "title": "다양한 제품",
+      "detail": "관절 수술뿐 아니라 병원 운영·신경계 등 여러 수요를 갖습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "수술량 의존",
+      "detail": "인력·보험·대기 수술 변화가 관절 및 기타 시술 수요를 흔듭니다."
+    },
+    {
+      "title": "장비 예산",
+      "detail": "고가 로봇·수술실 장비는 병원 투자 일정에 따라 주문이 변동합니다."
+    },
+    {
+      "title": "인수·품질",
+      "detail": "인수 통합과 기기 품질 관리 실패는 비용·공급·평판에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Zimmer Biomet",
+      "ticker": "ZBH",
+      "comparison": "인공관절·정형외과 로봇 분야의 직접 경쟁사입니다."
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "comparison": "정형외과·수술기기에서 경쟁합니다."
+    },
+    {
+      "name": "Medtronic",
+      "ticker": "MDT",
+      "comparison": "일부 수술·신경계 제품군에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "고령화와 정형외과 수술 수요가 장기 배경입니다. 병원 인력과 예산, 금리, 보험 지급 단가가 실제 시술·장비 주문을 결정합니다.",
+  "monitoring": [
+    "Mako 설치 후 해당 병원의 로봇 시술과 임플란트 사용량은 늘고 있는가?",
+    "기존 사업 성장과 인수로 더해진 매출을 구분했는가?",
+    "병원의 장비 투자 둔화가 주문·납기·소모품 수요에 각각 어떻게 나타나는가?"
+  ],
+  "sources": [
+    {
+      "title": "Stryker · 투자자 자료",
+      "url": "https://investors.stryker.com/home/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Stryker · 연혁·기업 자료",
+      "url": "https://www.stryker.com/fi/fi/about/history.html",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

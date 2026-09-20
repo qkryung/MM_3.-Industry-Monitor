@@ -1,0 +1,111 @@
+{
+  "ticker": "CSCO",
+  "oneLiner": "기업 네트워크 장비에 보안·관측·협업 소프트웨어를 결합하는 회사.",
+  "businessModel": "스위치·라우터·무선 장비를 판매하고 지원·구독 소프트웨어를 제공합니다. Webex 협업과 보안 제품에 더해 Splunk는 시스템 로그·이벤트를 분석해 장애와 보안 문제를 찾습니다. 하드웨어 교체와 반복 소프트웨어 수입은 매출 인식 방식과 경기 반응이 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "네트워킹 제품",
+      "description": "기업·통신사·데이터센터용 스위치·라우터·무선 등 네트워크 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.cisco.com/"
+    },
+    {
+      "name": "보안·관측·협업 제품",
+      "description": "보안 소프트웨어, Splunk 데이터 분석·관측, Webex 등 협업 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.cisco.com/"
+    },
+    {
+      "name": "서비스",
+      "description": "기술 지원·유지보수·전문 서비스. 제품 범주에 포함된 구독과 중복해서 합산하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.cisco.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1984,
+      "event": "Len Bosack과 Sandy Lerner가 Cisco Systems 설립."
+    },
+    {
+      "year": 1990,
+      "event": "나스닥 기업공개."
+    },
+    {
+      "year": 2024,
+      "event": "Splunk 인수를 완료해 보안·관측 데이터 플랫폼 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "광범위한 기업 기반",
+      "detail": "기업 네트워크에 설치된 장비와 파트너망이 교체·지원 수요를 만듭니다."
+    },
+    {
+      "title": "복합 IT 제안",
+      "detail": "네트워크·보안·관측을 묶어 고객의 운영 문제를 여러 단계에서 다룹니다."
+    },
+    {
+      "title": "지원 역량",
+      "detail": "중요 업무에 쓰는 네트워크의 글로벌 기술 지원이 고객 선택의 요소입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "장비 교체·재고 주기",
+      "detail": "고객과 유통망의 선구매 후 소진 과정이 주문과 매출의 간격을 키울 수 있습니다."
+    },
+    {
+      "title": "클라우드 경쟁",
+      "detail": "대형 클라우드의 자체 설계·특화 공급사 선택이 기존 기업 장비 모델과 다릅니다."
+    },
+    {
+      "title": "Splunk 통합 부담",
+      "detail": "인수 비용·부채와 함께 판매 결합·제품 통합 성과를 확인해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Arista Networks",
+      "ticker": "ANET",
+      "comparison": "대형 데이터센터와 기업 네트워크에서 경쟁합니다."
+    },
+    {
+      "name": "Fortinet",
+      "ticker": "FTNT",
+      "comparison": "네트워크와 보안을 통합하는 장비·구독에서 경쟁합니다."
+    },
+    {
+      "name": "Palo Alto Networks",
+      "ticker": "PANW",
+      "comparison": "기업 보안 플랫폼에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "기업 IT 예산·공공 지출·통신사 투자가 주문에 영향을 줍니다. 금리와 경기 둔화로 고객이 교체를 늦추면 기존 서비스 매출이 일부 완충할 수 있습니다.",
+  "monitoring": [
+    "주문 회복이 고객 실제 설치와 유통 재고 정상화를 함께 보여주는가?",
+    "Splunk 결합 판매가 신규 고객·갱신·현금 수입을 개선하는가?",
+    "AI 네트워크 수요가 기존 제품 약세를 얼마나 보완하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Cisco Systems · 공식 IR",
+      "url": "https://investor.cisco.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Cisco 공식 연혁",
+      "url": "https://weare.cisco.com/c/r/weare/about-us.html",
+      "note": "1984년 설립·1990년 IPO 확인."
+    },
+    {
+      "title": "Splunk 인수 완료",
+      "url": "https://www.cisco.com/site/us/en/about/corporate-development/acquisitions/splunk/index-for-translation.html",
+      "note": "2024-03-18 인수 완료 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,106 @@
+{
+  "ticker": "DLR",
+  "oneLiner": "클라우드·기업 고객에게 대형 데이터센터 용량과 서버 연결 공간을 임대합니다.",
+  "businessModel": "전력과 냉각이 준비된 데이터센터를 개발·운영해 대규모 고객에 장기 임대하고, 작은 규모의 코로케이션·상호연결도 제공합니다. 대형 계약은 수주 시점과 건설 완료 후 수입 발생 시점이 다를 수 있습니다. 합작투자를 활용한 개발은 자체 자본을 줄이지만 전체 시설 매출을 회사 연결 매출로 더할 수 없습니다.",
+  "revenueStreams": [
+    {
+      "name": "데이터센터 임대",
+      "description": "전력 용량·공간을 제공하는 시설 임대와 코로케이션 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.digitalrealty.com/"
+    },
+    {
+      "name": "전력 등 비용 회수",
+      "description": "계약에 따라 고객에게 전력·운영 비용을 청구합니다. 전력 단가 상승에 따른 매출 증가는 이익 증가와 다를 수 있습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.digitalrealty.com/"
+    },
+    {
+      "name": "상호연결·기타 서비스",
+      "description": "고객·통신망 간 연결과 관련 서비스 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.digitalrealty.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2004",
+      "event": "Digital Realty가 출범하고 기업공개를 실시했습니다."
+    },
+    {
+      "year": "2015",
+      "event": "Telx 인수로 코로케이션·연결 서비스를 확대했습니다."
+    },
+    {
+      "year": "2020",
+      "event": "Interxion과 결합해 유럽 데이터센터 기반을 넓혔습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "대형 용량 제공",
+      "detail": "클라우드와 기업의 대규모 데이터센터 확장을 지원할 수 있습니다."
+    },
+    {
+      "title": "글로벌 플랫폼",
+      "detail": "여러 대륙의 시설이 고객의 지역 확장 수요와 연결됩니다."
+    },
+    {
+      "title": "다양한 자본 구조",
+      "detail": "합작투자·자산 재편으로 개발 자본 부담을 분담할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대규모 선투자",
+      "detail": "전력·토지·공사에 투입한 돈이 임대료가 되기까지 시간이 걸립니다."
+    },
+    {
+      "title": "계약 집중",
+      "detail": "일부 대형 고객의 투자 일정 변화가 수주·공실에 영향을 줍니다."
+    },
+    {
+      "title": "전력·규제 병목",
+      "detail": "전력 확보, 물 사용, 환경 인허가가 개발 일정을 제한합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Equinix",
+      "ticker": "EQIX",
+      "comparison": "다양한 고객 간 상호연결 생태계가 특히 중요한 경쟁사입니다."
+    },
+    {
+      "name": "American Tower / CoreSite",
+      "ticker": "AMT",
+      "comparison": "미국 코로케이션·연결 서비스에서 경쟁하는 자회사를 보유합니다."
+    }
+  ],
+  "macroLink": "AI·클라우드 투자 사이클과 전력 인프라가 수요·공급을 동시에 움직입니다. 금리와 건축비는 장기 계약의 투자 수익률에 영향을 줍니다.",
+  "monitoring": [
+    "공시 수주 잔고가 언제 임대 개시와 현금 유입으로 바뀌는가?",
+    "신규 개발의 선임대율과 잔여 자본 투입액은 어떠한가?",
+    "전력비 회수를 제외한 임대·서비스 매출과 동일시설 이익은 성장하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Digital Realty · 투자자 자료",
+      "url": "https://investor.digitalrealty.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Digital Realty · 연혁·기업 자료",
+      "url": "https://www.digitalrealty.com/about/newsroom/press-releases/122749/digital-realty-completes-combination-with-interxion",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Digital Realty · 2020 연차 공시",
+      "url": "https://investor.digitalrealty.com/static-files/3181c933-7e5e-4327-822f-b89011715ed9",
+      "note": "Telx·Interxion 인수 완료 시점 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

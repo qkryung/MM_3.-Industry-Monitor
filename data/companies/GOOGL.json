@@ -1,0 +1,123 @@
+{
+  "ticker": "GOOGL",
+  "oneLiner": "검색·동영상 광고를 기반으로 클라우드와 AI에 투자하는 기업입니다.",
+  "businessModel": "Google은 검색 의도와 YouTube 시청 시간을 광고주에게 연결하고, 기업에는 클라우드 연산·저장·업무 도구를 판매합니다. 광고가 만드는 현금과 클라우드·AI의 투자 회수를 구분해야 하며, 검색 점유율만큼 새로운 답변 방식의 수익화도 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "Google 광고",
+      "description": "검색·YouTube 광고·광고 네트워크. 2025년 294,691백만 USD.",
+      "share": 73.15,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/R44.htm"
+    },
+    {
+      "name": "구독·플랫폼·기기",
+      "description": "YouTube 등 유료 구독, 앱·플랫폼과 하드웨어. 2025년 48,030백만 USD.",
+      "share": 11.92,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/R44.htm"
+    },
+    {
+      "name": "Google Cloud",
+      "description": "클라우드 인프라·플랫폼·Workspace. 2025년 58,705백만 USD.",
+      "share": 14.57,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/R44.htm"
+    },
+    {
+      "name": "Other Bets·환헤지 조정",
+      "description": "신사업 매출 1,537백만 USD에서 매출 환헤지 손실 127백만 USD를 차감한 1,410백만 USD. 마지막 항목은 연결 매출과 맞추기 위한 합산입니다.",
+      "share": 0.35,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/R44.htm"
+    }
+  ],
+  "history": [
+    {
+      "year": 1998,
+      "event": "Google 설립."
+    },
+    {
+      "year": 2004,
+      "event": "Google 주식시장 상장."
+    },
+    {
+      "year": 2015,
+      "event": "Alphabet 지주회사 체제로 전환."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "구매 의도 데이터",
+      "detail": "검색은 사용자가 무엇을 찾는지 드러내 광고주의 성과 측정에 유리합니다."
+    },
+    {
+      "title": "제품 접점",
+      "detail": "검색·YouTube·Android 등 다양한 이용자 접점이 서비스를 연결합니다."
+    },
+    {
+      "title": "기술과 인프라",
+      "detail": "자체 AI 연구·데이터센터·클라우드 판매 기반을 함께 갖췄습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "검색 수익모델 전환",
+      "detail": "AI 답변이 검색 클릭과 광고 배치를 바꾸면 기존 모델을 재설계해야 합니다."
+    },
+    {
+      "title": "유통·규제 비용",
+      "detail": "기본 검색 계약과 반독점 조치가 유통 경로와 비용에 영향을 줄 수 있습니다."
+    },
+    {
+      "title": "AI 자본 지출",
+      "detail": "추론 수요를 감당하는 서버·전력 투자가 현금 증가를 앞설 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "comparison": "검색·기업 AI·클라우드에서 경쟁하며 기업 소프트웨어 유통이 강점입니다."
+    },
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "comparison": "검색 의도 대신 소셜 관심·추천을 기반으로 광고 예산을 경쟁합니다."
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "comparison": "상품 검색 광고와 AWS가 각각 Google 광고·클라우드와 경쟁합니다."
+    }
+  ],
+  "macroLink": "경기 변화는 광고주 예산과 클라우드 지출에 전달됩니다. 달러 강세는 해외 매출 환산에, 금리·전력비는 AI 투자 가치와 비용에 영향을 줍니다.",
+  "monitoring": [
+    "AI 검색이 이용량뿐 아니라 광고 수익과 단위 비용도 개선하는가?",
+    "클라우드 성장에 이익률과 현금 회수가 동반되는가?",
+    "설비투자 확대가 실제 고객 사용 수요로 확인되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Alphabet · 공식 IR",
+      "url": "https://abc.xyz/investor/",
+      "note": "사업·제품·공시 확인 경로. 아래 비중은 명시된 회계기간의 원문 매출에서 계산했으며 현재 실시간 수치가 아닙니다."
+    },
+    {
+      "title": "Google · 창업 이야기",
+      "url": "https://about.google/company-info/our-story/",
+      "note": "1998년 설립의 원류."
+    },
+    {
+      "title": "Alphabet · 2015 연차보고서",
+      "url": "https://abc.xyz/assets/investor/static/pdf/2015_alphabet_annual_report.pdf",
+      "note": "Google 상장과 Alphabet 체제 전환을 확인하는 역사 자료."
+    },
+    {
+      "title": "Alphabet 2025년 매출 구성 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/R44.htm",
+      "note": "연간 연결 매출 402,836백만 USD. Google Services는 광고·구독 등으로 나눔. Other Bets와 환헤지 조정을 함께 표시. 비중은 각 항목÷표시 항목 합계로 산출하고 소수 둘째 자리 반올림."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

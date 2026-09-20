@@ -1,0 +1,111 @@
+{
+  "ticker": "GILD",
+  "oneLiner": "HIV 치료제를 핵심으로 간질환·항암·세포치료제를 판매합니다.",
+  "businessModel": "HIV와 간질환 치료제에서 구축한 연구·판매 기반을 항암과 세포치료로 확장했습니다. HIV 치료는 장기 복용 환자 유지와 새로운 제형의 채택이 중요합니다. 세포치료는 환자별 세포 채취·제조·투여의 복잡한 과정 때문에 승인만으로 대량 매출이 보장되지 않습니다. 제품별 최종 환자 수와 치료기관 수용 능력을 함께 봅니다.",
+  "revenueStreams": [
+    {
+      "name": "HIV 제품",
+      "description": "Biktarvy 등 HIV 치료·예방 제품의 판매입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.gilead.com/overview/default.aspx"
+    },
+    {
+      "name": "간질환·기타 항바이러스",
+      "description": "간염 등 간질환 및 기타 항바이러스 제품 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.gilead.com/overview/default.aspx"
+    },
+    {
+      "name": "항암·세포치료",
+      "description": "Trodelvy와 Kite의 Yescarta·Tecartus 등 항암 제품 수입입니다. 치료 방식별 생산·판매 구조가 다릅니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.gilead.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1987",
+      "event": "캘리포니아에서 Gilead가 설립됐습니다."
+    },
+    {
+      "year": "1992",
+      "event": "기업공개를 실시했습니다."
+    },
+    {
+      "year": "2017",
+      "event": "Kite 인수로 세포치료 사업 기반을 확보했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "HIV 기반",
+      "detail": "만성 치료 분야의 의료진·환자·보험 관계와 연구 경험이 있습니다."
+    },
+    {
+      "title": "항바이러스 전문성",
+      "detail": "바이러스 생물학과 복합제 개발 경험을 축적했습니다."
+    },
+    {
+      "title": "세포치료 플랫폼",
+      "detail": "Kite를 통해 환자별 제조·치료기관 연계 기반을 보유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "HIV 집중",
+      "detail": "핵심 분야의 신제품 경쟁과 특허 변화가 전체 수익에 영향을 줍니다."
+    },
+    {
+      "title": "항암 투자 회수",
+      "detail": "인수·임상 투자에 비해 항암 상업화가 늦으면 자본효율이 낮아집니다."
+    },
+    {
+      "title": "세포치료 병목",
+      "detail": "복잡한 제조·투여 절차와 치료기관 능력이 환자 접근을 제한합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "GSK / ViiV",
+      "ticker": "GSK",
+      "comparison": "HIV 분야에서 장기지속 제형 등을 포함해 직접 경쟁합니다."
+    },
+    {
+      "name": "Bristol Myers Squibb",
+      "ticker": "BMY",
+      "comparison": "세포치료·항암 분야의 경쟁사입니다."
+    }
+  ],
+  "macroLink": "보험 접근과 약가 정책이 치료제 매출을 좌우합니다. 경기보다 신제품 전환·임상·특허가 중요하지만 금리는 장기 연구와 인수 자본비용에 영향을 줍니다.",
+  "monitoring": [
+    "HIV 환자 유지와 신제품 전환이 순가격 하락을 상쇄하는가?",
+    "항암 매출 증가가 제품별 처방 확대로 뒷받침되는가?",
+    "세포치료의 환자 의뢰부터 제조·투여까지 시간과 실제 투여 건수는 개선되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Gilead Sciences · 투자자 자료",
+      "url": "https://investors.gilead.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Gilead Sciences · 연혁·기업 자료",
+      "url": "https://www.gilead.com/-/media/files/pdfs/other/us_corporate_overview_0217.pdf?hash=25229201A9A931B43052EC01C6404393&la=en",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Gilead · 상장 FAQ",
+      "url": "https://investors.gilead.com/resources/investor-faqs/default.aspx",
+      "note": "1992 IPO 확인."
+    },
+    {
+      "title": "Gilead · Kite 인수 이력",
+      "url": "https://www.gilead.com/company/company-statements/2018/gilead-publishes-2017-year-in-review",
+      "note": "2017년 인수와 세포치료 진출 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

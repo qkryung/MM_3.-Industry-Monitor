@@ -1,0 +1,116 @@
+{
+  "ticker": "UNH",
+  "oneLiner": "건강보험과 약제·진료·의료정보 서비스를 함께 운영하는 의료그룹입니다.",
+  "businessModel": "UnitedHealthcare는 보험료나 관리 수수료를 받고, Optum은 진료·약제·정보 서비스를 제공합니다. 보험료는 그 자체가 이익이 아니며 의료비와 운영비를 지급해야 합니다. 내부 보험 부문이 Optum 서비스를 사는 거래는 연결 단계에서 제거되므로 두 부문의 매출을 단순 합하면 회사 전체 매출을 중복 계산합니다.",
+  "revenueStreams": [
+    {
+      "name": "외부 보험료",
+      "description": "위험을 인수하는 건강보험 계약의 보험료입니다. 예상 의료비를 차감해 수익성을 판단합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.unitedhealthgroup.com/investors.html"
+    },
+    {
+      "name": "외부 의료·관리 서비스",
+      "description": "고객 관리·진료·의료정보 등 서비스 수입입니다. 의료 위험을 부담하는 서비스 계약도 있어 단순 수수료와 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.unitedhealthgroup.com/investors.html"
+    },
+    {
+      "name": "외부 약제 제품·기타",
+      "description": "약제 공급 등 제품 수입과 투자 등 기타 수입입니다. 내부거래 제거 후 연결 기준에서 이해해야 합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.unitedhealthgroup.com/investors.html"
+    }
+  ],
+  "history": [
+    {
+      "year": "1977",
+      "event": "UnitedHealth Group의 법인 기반이 설립됐습니다."
+    },
+    {
+      "year": "2011",
+      "event": "의료서비스 사업을 Optum 브랜드 아래 정렬했습니다."
+    },
+    {
+      "year": "2022",
+      "event": "Optum과 Change Healthcare의 결합이 완료됐습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "보험·서비스 연결",
+      "detail": "보험·약제·진료·정보 기능을 연결해 의료비와 서비스 효율을 개선할 여지가 있습니다."
+    },
+    {
+      "title": "고객 기반",
+      "detail": "기업·개인·정부 프로그램의 큰 고객 기반과 의료기관 관계를 보유합니다."
+    },
+    {
+      "title": "데이터·운영 경험",
+      "detail": "진료·청구·약제 데이터를 활용하는 운영 역량이 있습니다. 효과는 실제 의료비와 품질로 검증해야 합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "의료비 예측",
+      "detail": "이용량·중증도·약제비가 예상보다 높으면 보험료 인상 전 손익이 악화됩니다."
+    },
+    {
+      "title": "규제·이해상충",
+      "detail": "보험과 진료·약제 서비스 결합은 경쟁·청구·고객 선택 관련 규제 대상이 됩니다."
+    },
+    {
+      "title": "시스템 의존",
+      "detail": "대규모 의료정보·결제 시스템 장애와 사이버 사고가 광범위한 비용을 만들 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Elevance Health",
+      "ticker": "ELV",
+      "comparison": "건강보험과 Carelon 서비스를 결합하지만 지역·고객 구성이 다릅니다."
+    },
+    {
+      "name": "The Cigna Group",
+      "ticker": "CI",
+      "comparison": "기업보험·Evernorth 약제 서비스에 강점이 있는 비교대상입니다."
+    },
+    {
+      "name": "CVS Health",
+      "ticker": "CVS",
+      "comparison": "보험·약제관리·약국을 함께 운영합니다."
+    }
+  ],
+  "macroLink": "고용은 기업보험 가입자를, 정부 지급률·위험조정·의료 물가는 수익성을 움직입니다. 금리보다 보험료 설정과 실제 의료비의 시차가 더 직접적인 변수입니다.",
+  "monitoring": [
+    "의료비율 상승이 일시적 이용량인가, 지속적인 중증도·약가 변화인가?",
+    "Optum의 외부 고객 성장과 내부거래 효과를 구분하면 수익성이 어떠한가?",
+    "보험 가격 조정·정부 지급 변화가 실제 의료비 증가를 따라가는가?"
+  ],
+  "sources": [
+    {
+      "title": "UnitedHealth Group · 투자자 자료",
+      "url": "https://www.unitedhealthgroup.com/investors.html",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "UnitedHealth Group · 연혁·기업 자료",
+      "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2011/UNH-2011-Annual-Report.pdf",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "UnitedHealth · Change 결합 완료",
+      "url": "https://www.unitedhealthgroup.com/newsroom/2022/2022-10-3-optum-change-healthcare-combination.html",
+      "note": "2022년 결합 완료 확인."
+    },
+    {
+      "title": "캘리포니아 보건당국 · 회사 법인 배경",
+      "url": "https://www.dhcs.ca.gov/wp-content/uploads/2025/10/UHCMainSSSContractAuditReport2019.pdf",
+      "note": "1977 법인 설립 이력 확인용 규제기관 자료."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

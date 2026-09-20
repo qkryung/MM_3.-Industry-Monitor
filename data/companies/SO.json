@@ -1,0 +1,104 @@
+{
+  "ticker": "SO",
+  "oneLiner": "미국 남동부 중심 전력·가스 유틸리티",
+  "businessModel": "Georgia Power·Alabama Power 등 전력회사와 지역 가스회사를 통해 가정·기업에 에너지를 공급합니다. 규제 사업은 승인된 투자와 비용을 요금으로 회수하며, Southern Power는 발전소 전력을 주로 계약으로 판매합니다. 원전이 잘 가동되는지와 건설·운영 비용이 요금에 얼마나 반영되는지를 함께 봅니다.",
+  "revenueStreams": [
+    {
+      "name": "규제 전력·가스",
+      "description": "지역 고객에게 전기·가스를 공급하는 요금 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.southerncompany.com/"
+    },
+    {
+      "name": "계약 발전·인프라",
+      "description": "Southern Power의 도매 발전과 분산 에너지 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.southerncompany.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1906",
+      "event": "전신 Alabama Traction, Light and Power 설립"
+    },
+    {
+      "year": "1949",
+      "event": "Southern Company 주식이 NYSE에 상장"
+    },
+    {
+      "year": "2016",
+      "event": "AGL Resources 인수로 가스 배급 사업 확대"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "지역 수요",
+      "detail": "미국 동남부의 제조업·주거 전력 수요 기반이 있습니다."
+    },
+    {
+      "title": "발전 다변화",
+      "detail": "원전·가스·재생에너지를 조합해 안정적인 공급을 추구합니다."
+    },
+    {
+      "title": "가스 배급",
+      "detail": "전력 외 규제 가스 사업이 수익원을 분산합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대형 자산 책임",
+      "detail": "원전 고장·정비와 예기치 않은 비용의 영향이 큽니다."
+    },
+    {
+      "title": "규제 한계",
+      "detail": "지출 전체가 자동으로 요금에 인정되지는 않습니다."
+    },
+    {
+      "title": "투자 부담",
+      "detail": "전력 수요 증가를 위한 선투자와 재무건전성을 맞춰야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Duke Energy",
+      "ticker": "DUK",
+      "comparison": "비슷한 동남부 규제 모델이나 원전·서비스 지역·요금 회수 조건이 다릅니다."
+    },
+    {
+      "name": "NextEra Energy",
+      "ticker": "NEE",
+      "comparison": "NEE는 비규제 재생에너지 개발도 커 단순 규제 이익 비교와 구분해야 합니다."
+    }
+  ],
+  "macroLink": "전력 수요 성장은 장기 자산 확대의 기회지만, 인건비·장비비·이자 상승이 먼저 발생하면 회수 시차가 부담입니다.",
+  "monitoring": [
+    "Vogtle을 포함한 원전이 계획된 가동률과 정비 일정을 유지하는가?",
+    "대형 신규 고객이 요구하는 설비 비용을 누가 부담하는가?",
+    "가스·전력 요금 심사 결과가 허용 수익과 실제 수익 차이를 줄이는가?"
+  ],
+  "sources": [
+    {
+      "title": "Southern Company · 투자자 자료",
+      "url": "https://investor.southerncompany.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Southern Company · 기업 연혁·사업 소개",
+      "url": "https://www.southerncompany.com/about/our-business/history.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Southern Company · NYSE 상장 50주년",
+      "url": "https://southerncompany.mediaroom.com/index.php?item=1652&s=34171",
+      "note": "1949년 상장 연혁"
+    },
+    {
+      "title": "Southern Company · AGL 합병 완료",
+      "url": "https://www.southerncompany.com/newsroom/business-leadership/2016-07-01-complete-merger.html",
+      "note": "2016년 가스 배급 사업 확대"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

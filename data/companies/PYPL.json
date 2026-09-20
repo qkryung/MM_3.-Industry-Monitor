@@ -1,0 +1,94 @@
+{
+  "ticker": "PYPL",
+  "oneLiner": "온라인 결제·전자지갑·가맹점 처리를 제공하는 디지털 결제회사입니다.",
+  "businessModel": "소비자는 PayPal·Venmo로 결제·송금하고 가맹점은 PayPal과 처리 서비스를 이용해 대금을 받습니다. 브랜드 결제와 가맹점 처리의 수수료율·비용 구조가 달라 총 결제액 증가만으로 이익을 판단할 수 없습니다. 거래매출에서 처리비·거래손실·고객 지원 비용 등을 감안해 남는 경제성을 봅니다. 신용·고객잔액 관련 수입도 별도로 존재합니다.",
+  "revenueStreams": [
+    {
+      "name": "거래 수익",
+      "description": "소비자·가맹점 결제·송금·환전 등 거래 관련 수수료",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.paypal-corp.com/"
+    },
+    {
+      "name": "기타 부가서비스",
+      "description": "신용·고객잔액 관련 이자와 기타 부가서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.paypal-corp.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1998",
+      "event": "Confinity의 디지털 결제 사업에서 시작됐습니다."
+    },
+    {
+      "year": "2002",
+      "event": "eBay 그룹에 편입됐습니다."
+    },
+    {
+      "year": "2015",
+      "event": "eBay에서 분리되어 PYPL로 독립 상장했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "양면 이용자 기반",
+      "detail": "소비자 계정과 가맹점을 함께 확보해 결제 선택지로 자리 잡았습니다."
+    },
+    {
+      "title": "여러 결제 접점",
+      "detail": "브랜드 결제·Venmo·가맹점 처리·송금을 결합합니다."
+    },
+    {
+      "title": "거래·위험 데이터",
+      "detail": "여러 시장의 거래 경험이 사기 탐지와 결제 승인 개선에 쓰입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "체크아웃 경쟁",
+      "detail": "카드 직접 결제·기기 지갑·다른 결제수단과 선택 경쟁을 합니다."
+    },
+    {
+      "title": "매출 구성 압력",
+      "detail": "낮은 수익률의 처리액이 늘면 결제액 증가보다 이익 성장이 작습니다."
+    },
+    {
+      "title": "거래손실·규제",
+      "detail": "사기·분쟁·신용·송금 규정이 비용과 운영 부담을 만듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Block",
+      "ticker": "XYZ",
+      "comparison": "판매자·지갑에서 일부 겹치지만 Block은 Square 현장 결제와 Cash App 생태계가 다릅니다."
+    },
+    {
+      "name": "Visa",
+      "ticker": "V",
+      "comparison": "네트워크와 지갑은 역할이 다르고 서로 연결되지만 결제 경로 선택에서 경쟁할 수 있습니다."
+    }
+  ],
+  "macroLink": "전자상거래·소비·국경 간 거래가 사용량을, 금리가 고객잔액 수입을 움직입니다. 물가로 결제액이 커져도 브랜드 채택·거래마진이 개선되는지 따로 봅니다.",
+  "monitoring": [
+    "브랜드 체크아웃의 이용·점유가 처리액 증가와 함께 개선되는가?",
+    "거래마진 증가가 잔액 이자 효과를 제외해도 남는가?",
+    "Venmo의 사용이 유료 서비스와 반복 수입으로 전환되는가?"
+  ],
+  "sources": [
+    {
+      "title": "PayPal Holdings · 투자자 자료",
+      "url": "https://investor.paypal-corp.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "PayPal Holdings · 연혁·기업 자료",
+      "url": "https://about.pypl.com/who-we-are/history-and-facts/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

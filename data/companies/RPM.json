@@ -1,0 +1,94 @@
+{
+  "ticker": "RPM",
+  "oneLiner": "건축·산업용 코팅·밀봉재·유지보수 제품",
+  "businessModel": "건설·보수 고객에게 지붕·바닥·밀봉·방수·코팅 제품을 팔고 소비자에게 Rust-Oleum·DAP 등 유지보수 제품을 판매합니다. 새 건물뿐 아니라 기존 자산을 오래 쓰게 하는 보수 수요가 중요하며 브랜드별 유통·전문 시공 관계가 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "건설·성능 코팅",
+      "description": "방수·지붕·바닥·산업 보호 소재",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.rpminc.com/investors/"
+    },
+    {
+      "name": "소비자·특수 제품",
+      "description": "DIY 코팅·접착·밀봉 및 특수 소재",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.rpminc.com/investors/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1947",
+      "event": "Republic Powdered Metals 설립"
+    },
+    {
+      "year": "1963",
+      "event": "오하이오 지역 공모"
+    },
+    {
+      "year": "1966",
+      "event": "첫 인수로 사업 확장"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "보수 수요",
+      "detail": "기존 건물·설비 유지 작업이 반복됩니다."
+    },
+    {
+      "title": "브랜드 군",
+      "detail": "소비자·전문 시공 고객의 다양한 채널을 보유합니다."
+    },
+    {
+      "title": "솔루션 폭",
+      "detail": "단일 페인트보다 여러 보수·보호 문제에 대응합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "건설·소비",
+      "detail": "신축·보수 지출 축소가 판매에 영향을 줍니다."
+    },
+    {
+      "title": "운영 복잡성",
+      "detail": "여러 인수 브랜드의 생산·조달을 통합해야 합니다."
+    },
+    {
+      "title": "원가·기상",
+      "detail": "원료·인건비와 시공 계절·날씨가 변동을 만듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Sherwin-Williams",
+      "ticker": "SHW",
+      "comparison": "SHW는 건축 도료 직영망, RPM은 다양한 보수 브랜드가 특징입니다."
+    },
+    {
+      "name": "PPG",
+      "ticker": "PPG",
+      "comparison": "PPG는 제조·자동차·항공 코팅 노출이 더 큽니다."
+    }
+  ],
+  "macroLink": "건설·주택 보수·산업 유지비와 원료가격이 중요합니다. 신규 건설과 필수 보수는 민감도가 다릅니다.",
+  "monitoring": [
+    "보수 매출이 신축·DIY 둔화를 완충하는가?",
+    "브랜드 간 조달·생산 효율이 실제 마진을 높이는가?",
+    "가격 인상 후 물량·유통 재고는 안정적인가?"
+  ],
+  "sources": [
+    {
+      "title": "RPM International · 투자자 자료",
+      "url": "https://www.rpminc.com/investors/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "RPM International · 기업 연혁·사업 소개",
+      "url": "https://rpmglobaldataprivacy.rpminc.com/about-rpm/our-history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

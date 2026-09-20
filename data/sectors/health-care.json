@@ -1,0 +1,516 @@
+{
+  "id": "health-care",
+  "name": "헬스케어",
+  "en": "Health Care",
+  "code": "35",
+  "color": "#28847B",
+  "summary": "질병을 예방·진단·치료하고 그 비용을 지불·관리하는 기업들을 묶은 산업입니다.",
+  "concept": "환자에게 필요한 치료와 기업이 받는 돈 사이에는 의사, 병원, 보험사, 정부, 약가 협상자가 있습니다. 좋은 치료 기술이라도 승인·보험 적용·생산 능력·유통을 통과해야 매출이 됩니다. 제약·바이오는 지식재산과 연구개발, 의료기기는 시술과 설치 기반, 보험은 의료비 관리, 병원은 환자 수와 인력, 도구 업체는 연구·생산 투자가 핵심입니다. 아래 분류는 투자 학습을 위한 주요 사업모델 묶음입니다.",
+  "drivers": [
+    "인구 고령화·만성질환·진단 확대가 만드는 의료 이용 수요",
+    "임상 근거·승인·보험 적용이 만드는 치료 접근성",
+    "의료비 지불 구조와 연구개발·병원 투자 예산"
+  ],
+  "watch": [
+    "FDA 승인과 보험 보장은 별개입니다. 승인 후 실제 처방·시술·지급까지 확인합니다.",
+    "매출 성장을 환자·시술 수, 단가, 제품 구성으로 나누고 특정 제품 의존도를 봅니다.",
+    "임상·특허·보험수가·규제 일정은 장기 수요와 별개로 기업 실적을 크게 바꿀 수 있습니다."
+  ],
+  "risks": [
+    "임상 실패·부작용·제품 결함·품질 문제로 판매가 제한될 수 있습니다.",
+    "약가·보험 지급·의료비 관리 규정이 수익 배분을 바꿉니다.",
+    "특허 만료, 경쟁 치료, 인력 부족, 사이버 사고가 현금흐름을 훼손합니다."
+  ],
+  "valueChain": [
+    "연구·진단·개발",
+    "임상·승인·생산",
+    "처방·시술·의료 제공",
+    "보험 지급·비용 관리"
+  ],
+  "macro": {
+    "growth": "필수 치료는 비교적 지속되지만 선택적 시술, 고용연계 보험, 병원 장비 투자와 바이오 자금조달은 경기 영향을 받습니다.",
+    "rates": "적자 바이오와 미래 매출 의존도가 큰 기업은 자금조달 비용·할인율 변화에 민감합니다. 성숙 제약사도 인수금융 비용을 확인합니다.",
+    "inflation": "병원 임금·의료재료비가 증가합니다. 보험료와 보험수가·약가가 같은 속도로 조정되지 않으면 회사별 마진에 서로 다른 영향을 줍니다.",
+    "dollar": "글로벌 제약·기기 매출의 달러 환산과 해외 가격 경쟁력에 영향을 줍니다. 미국 중심 보험·병원은 직접 환산 영향이 상대적으로 작습니다."
+  },
+  "valuation": "성숙 제약·기기는 정상화 P/E와 잉여현금흐름, 병원·도구 업체는 EV/EBITDA와 투자 지출을 함께 봅니다. 적자 바이오는 단순 P/E 대신 파이프라인별 성공확률을 반영한 rNPV(위험조정 순현재가치)와 현금 잔여기간을 검토합니다. 특허 만료·인수 무형자산 상각·주식보상 조정에 따라 이익 비교가 달라집니다.",
+  "pitfall": "헬스케어를 모두 방어주로 취급하면 안 됩니다. 임상 결과 하나에 가치가 크게 바뀌는 바이오, 의료 이용 증가가 비용인 보험사, 같은 증가가 매출인 병원은 서로 다른 사업입니다.",
+  "related": [
+    "technology",
+    "real-estate",
+    "financials"
+  ],
+  "sources": [
+    {
+      "title": "MSCI · GICS 분류 체계",
+      "url": "https://www.msci.com/indexes/index-resources/gics",
+      "note": "헬스케어 섹터와 주된 사업에 따른 분류 원칙 · 2026-09-20 확인"
+    },
+    {
+      "title": "FDA · 의약품 개발 과정",
+      "url": "https://www.fda.gov/patients/learn-about-drug-and-device-approvals/drug-development-process",
+      "note": "연구·전임상·임상·심사·시판 후 안전 감시의 구조 · 2026-09-20 확인"
+    },
+    {
+      "title": "FDA · 임상연구 단계",
+      "url": "https://www.fda.gov/patients/drug-development-process/step-3-clinical-research",
+      "note": "임상 단계별 목적과 연구 설계 · 2026-09-20 확인"
+    },
+    {
+      "title": "CMS · 의료손해율",
+      "url": "https://www.cms.gov/marketplace/private-health-insurance/medical-loss-ratio",
+      "note": "보험료 대비 의료비·품질개선 지출과 규제상 최소 비율. 공시 MCR과 세부 정의는 다를 수 있음 · 2026-09-20 확인"
+    },
+    {
+      "title": "UnitedHealth · 투자자 자료",
+      "url": "https://www.unitedhealthgroup.com/investors.html",
+      "note": "보험과 Optum 서비스의 사업 구조·주요 위험 · 2026-09-20 확인"
+    },
+    {
+      "title": "Novo Nordisk · 지배구조·상장",
+      "url": "https://www.novonordisk.com/about/corporate-governance.html",
+      "note": "NVO가 NYSE의 ADR이며 본주가 덴마크 B주임을 확인 · 2026-09-20 확인"
+    },
+    {
+      "title": "Thermo Fisher · 투자자 자료",
+      "url": "https://ir.thermofisher.com/investors/overview/default.aspx",
+      "note": "과학 도구·서비스·바이오제약 연구 지원 사업 · 2026-09-20 확인"
+    },
+    {
+      "title": "SEC · 기업 티커·거래소 목록",
+      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+      "note": "현재 대표기업의 티커·거래소를 공개 목록과 교차검증. BRK.B는 SEC의 BRK-B와 같은 종목 · 2026-09-20 확인"
+    }
+  ],
+  "industries": [
+    {
+      "id": "health-care-pharma",
+      "name": "대형 제약",
+      "en": "Pharmaceuticals",
+      "summary": "여러 의약품의 판매 현금흐름과 신약 개발을 함께 운영합니다.",
+      "mechanics": "제약사는 연구·임상·허가에 투자하고 승인된 약을 판매합니다. 특허·독점권이 있는 동안 경쟁을 제한할 수 있지만 기간이 끝나면 복제약·바이오시밀러로 가격과 점유율이 낮아질 수 있습니다. 따라서 기존 제품의 현금흐름과 신제품이 채울 성장 공백을 연결해 읽어야 합니다. 처방 수 증가가 생산 공급이나 보험 접근성의 제약을 받는지도 중요합니다.",
+      "watch": [
+        "제품별 판매량·순가격·보험 접근성",
+        "특허 만료와 경쟁 제품 출시의 연도별 겹침",
+        "후기 임상·적응증 확대와 생산시설의 실제 가동"
+      ],
+      "kpis": [
+        {
+          "name": "제품별 매출·처방",
+          "meaning": "약별 매출과 사용·처방의 변화",
+          "read": "단가 인상, 물량 증가, 유통 재고 효과를 구분합니다."
+        },
+        {
+          "name": "핵심 제품 집중도",
+          "meaning": "매출·이익 중 상위 제품이 차지하는 비중",
+          "read": "특허·안전성·경쟁 위험이 어느 약에 몰려 있는지 봅니다."
+        },
+        {
+          "name": "파이프라인 단계",
+          "meaning": "개발 후보가 임상·심사 중 어디에 있는지",
+          "read": "후보 수보다 질병·효과·안전성·경쟁력과 실제 성공 가능성이 중요합니다."
+        }
+      ],
+      "risks": [
+        "주력약 특허 만료·경쟁 치료와 약가 압박",
+        "임상·허가·제조품질 문제로 신제품 매출 공백 발생"
+      ],
+      "valuation": "정상화 P/E와 제품별 현금흐름을 보되 특허 이후 매출 감소를 반영합니다. 인수 관련 연구개발 비용을 항상 일회성으로 빼면 신약 확보의 실제 비용을 과소평가할 수 있습니다.",
+      "questions": [
+        "주력 제품의 성장 기간이 끝나기 전에 무엇이 이익을 대체하는가?",
+        "높은 수요가 생산·보험 적용을 거쳐 실제 순매출로 이어지는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "LLY",
+          "name": "Eli Lilly",
+          "exchange": "NYSE",
+          "business": "당뇨·비만·면역·종양 등 혁신 의약품",
+          "watch": "주력약 처방·공급, 보험 접근성, 후기 임상",
+          "ir": "https://investor.lilly.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "JNJ",
+          "name": "Johnson & Johnson",
+          "exchange": "NYSE",
+          "business": "혁신 의약품과 의료기기를 함께 운영",
+          "watch": "약품별 특허, MedTech 성장, 소송; 소비자 헬스 분리 유의",
+          "ir": "https://www.investor.jnj.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NVO",
+          "name": "Novo Nordisk",
+          "exchange": "NYSE",
+          "business": "덴마크 기반 당뇨·비만 등 만성질환 의약품",
+          "watch": "경쟁 치료, 공급능력, 순가격; ADR 구조",
+          "ir": "https://www.novonordisk.com/investors.html",
+          "kind": "ADR"
+        },
+        {
+          "ticker": "MRK",
+          "name": "Merck & Co.",
+          "exchange": "NYSE",
+          "business": "항암제·백신·동물의약품 개발·판매. 미국 밖에서는 주로 MSD 브랜드 사용",
+          "watch": "Keytruda 의존, 특허 이후 신제품, 백신 수요",
+          "ir": "https://www.merck.com/investor-relations/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "health-care-biotech",
+      "name": "바이오테크",
+      "en": "Biotechnology",
+      "summary": "생물학적 발견을 치료제로 바꾸며 임상 근거가 기업가치를 좌우합니다.",
+      "mechanics": "바이오 기업은 특정 질환·기술 플랫폼에 집중해 의약품을 개발하고 판매 또는 기술이전으로 돈을 법니다. 초기 기업은 매출 없이 임상비용을 지출하고, 성숙 기업은 승인약의 현금으로 다음 후보를 개발합니다. 임상 1상은 주로 안전성·용량, 2상은 초기 유효성, 3상은 더 큰 집단의 확증 근거를 살핍니다. 성공은 단계만으로 판단하지 않고 연구설계·대조군·평가지표·안전성을 함께 봅니다.",
+      "watch": [
+        "임상 주요 평가변수와 대조군·추적기간",
+        "현재 현금으로 다음 핵심 결과까지 버틸 수 있는지",
+        "판매 중인 치료제의 경쟁과 새 파이프라인의 차별성"
+      ],
+      "kpis": [
+        {
+          "name": "임상 효과·안전성",
+          "meaning": "사전 설정한 목표와 부작용 결과",
+          "read": "통계적 유의성과 환자에게 의미 있는 개선은 구분합니다."
+        },
+        {
+          "name": "현금 잔여기간",
+          "meaning": "현금 등으로 현재 지출을 감당할 수 있는 기간",
+          "read": "단순 현금/과거 소진액은 출발점이며 향후 임상·생산 지출 증가를 반영합니다."
+        },
+        {
+          "name": "제품 매출·로열티",
+          "meaning": "승인약 판매와 기술이전에서 발생하는 수입",
+          "read": "일회성 계약금·마일스톤과 반복 판매를 분리합니다."
+        }
+      ],
+      "risks": [
+        "임상 실패나 안전성 문제로 핵심 자산 가치 급락",
+        "추가 자금조달·주식 발행으로 기존 주주의 몫 희석"
+      ],
+      "valuation": "적자 기업은 후보별 성공확률·출시시점·시장·비용을 반영한 rNPV를 사용하되 정밀한 숫자가 높은 확실성을 뜻하지 않습니다. 성숙 바이오는 정상화 P/E와 파이프라인 가치를 함께 봅니다.",
+      "questions": [
+        "결과가 좋아 보이는 이유가 실제 효과인가, 비교군·환자선정·분석 방식인가?",
+        "핵심 결과가 늦어지면 추가 증자 없이 어디까지 개발할 수 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "AMGN",
+          "name": "Amgen",
+          "exchange": "NASDAQ",
+          "business": "여러 치료영역의 바이오 의약품·바이오시밀러",
+          "watch": "기존약 성장, 신약, 인수 부채",
+          "ir": "https://investors.amgen.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "GILD",
+          "name": "Gilead Sciences",
+          "exchange": "NASDAQ",
+          "business": "HIV 등 바이러스 치료와 종양 분야 의약품",
+          "watch": "주력 프랜차이즈, 신약 접근성, 종양 개발",
+          "ir": "https://investors.gilead.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "VRTX",
+          "name": "Vertex Pharmaceuticals",
+          "exchange": "NASDAQ",
+          "business": "낭포성 섬유증 등 전문 치료제와 신약 개발",
+          "watch": "주력질환 집중, 신규 치료 출시·임상",
+          "ir": "https://investors.vrtx.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "REGN",
+          "name": "Regeneron Pharmaceuticals",
+          "exchange": "NASDAQ",
+          "business": "안과·면역·항암 항체 의약품과 공동개발 수익",
+          "watch": "Eylea 경쟁, Dupixent 이익배분, 후속 항체",
+          "ir": "https://investor.regeneron.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "health-care-devices",
+      "name": "의료기기·시술 기술",
+      "en": "Medical Devices",
+      "summary": "의료진의 진단·수술·질환 관리에 쓰이는 장비와 소모품을 공급합니다.",
+      "mechanics": "의료기기는 장비 한 번의 판매뿐 아니라 시술마다 쓰는 소모품, 유지보수, 소프트웨어에서 반복 매출을 만들 수 있습니다. 이미 설치된 장비가 많아도 활용률이 낮으면 소모품 수익이 기대에 못 미칩니다. 임상적 유용성과 의사의 학습·사용 습관, 보험수가, 병원의 자본 예산이 채택을 좌우합니다. 제품별 규제 심사 경로가 달라 약의 임상 단계와 똑같이 해석하지 않습니다.",
+      "watch": [
+        "시술량·설치 기반·장비당 활용률의 연결",
+        "신제품 승인·리콜·품질관리",
+        "병원 예산과 소모품·서비스의 반복 매출 비중"
+      ],
+      "kpis": [
+        {
+          "name": "시술량 성장",
+          "meaning": "해당 장비·소모품을 사용한 시술의 증가",
+          "read": "장비 판매보다 지속적인 사용 수요를 보여줄 수 있습니다."
+        },
+        {
+          "name": "설치 기반·활용률",
+          "meaning": "운영 중인 장비 수와 장비당 사용 횟수",
+          "read": "설치 확대와 기존 장비 사용 증가를 구분합니다."
+        },
+        {
+          "name": "유기적 매출 성장",
+          "meaning": "인수·환율 효과를 제외한 본업 매출 증가",
+          "read": "물량·가격·제품 구성 변화와 매출총이익률을 함께 봅니다."
+        }
+      ],
+      "risks": [
+        "리콜·제품책임·안전성 문제로 비용과 영업 차질 발생",
+        "경쟁 기기·보험수가 인하·병원 예산 축소"
+      ],
+      "valuation": "P/E와 현금흐름을 시술 성장·반복 매출·연구개발 필요액과 비교합니다. 설치 대수만으로 플랫폼 가치를 계산하지 않고 소모품 이용과 유지투자를 확인합니다.",
+      "questions": [
+        "의료진이 이 제품을 쓰는 임상적·경제적 이유가 명확한가?",
+        "새 장비가 팔리지 않아도 기존 설치 기반에서 얼마나 수익이 남는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "MDT",
+          "name": "Medtronic",
+          "exchange": "NYSE",
+          "business": "심혈관·신경·수술 등 다양한 의료기기",
+          "watch": "제품 혁신, 유기적 성장, 품질; 아일랜드 보통주",
+          "ir": "https://investorrelations.medtronic.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ABT",
+          "name": "Abbott Laboratories",
+          "exchange": "NYSE",
+          "business": "의료기기·진단·영양·일부 의약품",
+          "watch": "혈당관리 등 기기 성장과 사업별 구성",
+          "ir": "https://www.abbott.com/en-us/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ISRG",
+          "name": "Intuitive Surgical",
+          "exchange": "NASDAQ",
+          "business": "로봇 수술 시스템·기구·서비스",
+          "watch": "시술량, 장비 설치·활용률, 소모품",
+          "ir": "https://isrg.gcs-web.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SYK",
+          "name": "Stryker",
+          "exchange": "NYSE",
+          "business": "정형외과 임플란트·수술로봇·수술실·신경계 의료기기",
+          "watch": "Mako 사용량, 관절 수술, 병원 투자",
+          "ir": "https://investors.stryker.com/home/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "health-care-managed",
+      "name": "건강보험·의료비 관리",
+      "en": "Managed Care & Health Services",
+      "summary": "보험료와 관리 수수료를 받고 의료비 지급과 진료 서비스를 관리합니다.",
+      "mechanics": "보험사는 가입자에게 보험료를 받아 의료비를 지급하고 관리비용을 제외한 차이를 이익으로 남깁니다. 기업 고객이 의료비 위험을 직접 부담하고 보험사는 행정만 대행하는 계약도 있어 가입자 수만으로 수익을 비교하면 안 됩니다. 대형 그룹은 약제급여관리(PBM), 진료, 데이터 서비스 등을 결합합니다. 같은 의료 이용 증가가 병원에는 매출이지만 보험사에는 비용일 수 있습니다.",
+      "watch": [
+        "보험료 인상과 가입자당 의료비 증가의 시차",
+        "기업·Medicare·Medicaid 등 가입자 구성",
+        "PBM·진료 서비스 수익과 규제·계열사 간 거래"
+      ],
+      "kpis": [
+        {
+          "name": "MCR·MLR · 의료비 비율",
+          "meaning": "보험료 중 의료비에 쓰이는 비중을 나타내는 공시 지표",
+          "read": "상승은 보통 보험 마진에 부담입니다. 규제 MLR과 회사 MCR은 조정 정의가 다를 수 있습니다."
+        },
+        {
+          "name": "가입자 수·구성",
+          "meaning": "보험·관리 서비스에 가입한 인원과 계약 유형",
+          "read": "위험 인수형과 수수료 대행형의 경제성을 구분합니다."
+        },
+        {
+          "name": "보험료 대비 의료비 추세",
+          "meaning": "가입자당 수입과 비용의 증가 속도",
+          "read": "올해의 의료비 상승을 내년 보험료에 반영할 수 있는지 확인합니다."
+        }
+      ],
+      "risks": [
+        "의료 이용·고가 치료비가 가격 가정보다 빨리 증가",
+        "정부 프로그램 지급·위험조정·PBM 규정과 조사·소송 변화"
+      ],
+      "valuation": "정상화 P/E와 현금흐름을 사업부별 마진·규제자본과 함께 봅니다. 의료비 추정 변경이나 과거 기간 조정으로 당기 이익이 좋아졌는지 확인합니다.",
+      "questions": [
+        "가입자를 늘릴수록 수익도 늘어나는 가격과 위험 구성을 갖고 있는가?",
+        "실적 둔화가 일시적 의료 이용 증가인가, 계약 가격·사업 구조의 문제인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "UNH",
+          "name": "UnitedHealth Group",
+          "exchange": "NYSE",
+          "business": "UnitedHealthcare 보험과 Optum 의료·약제·데이터 서비스",
+          "watch": "의료비 비율, Optum 수익성, 규제",
+          "ir": "https://www.unitedhealthgroup.com/investors.html",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ELV",
+          "name": "Elevance Health",
+          "exchange": "NYSE",
+          "business": "건강보험과 Carelon 의료서비스",
+          "watch": "가입자 구성, 의료비, 정부 프로그램",
+          "ir": "https://ir.elevancehealth.com/investors/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CI",
+          "name": "The Cigna Group",
+          "exchange": "NYSE",
+          "business": "Cigna Healthcare와 Evernorth 약제·의료 서비스",
+          "watch": "Evernorth 성장, 기업보험, PBM 구조",
+          "ir": "https://investors.thecignagroup.com/overview/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "health-care-providers",
+      "name": "병원·의료서비스",
+      "en": "Hospitals & Care Providers",
+      "summary": "환자를 진료·수술하고 보험사·정부·환자에게 비용을 청구합니다.",
+      "mechanics": "병원 수익은 환자 수뿐 아니라 어떤 진료를 했고 누가 비용을 지급하는지에 따라 달라집니다. 민간보험과 정부보험, 외래와 입원, 고난도 시술의 비중이 실효 단가를 바꿉니다. 인건비·시설비가 커서 가동률이 오르면 이익이 개선될 수 있지만 인력 부족으로 병상을 충분히 쓰지 못할 수도 있습니다. 외래 수술센터 확대는 환자 이동과 비용 효율을 함께 바꿉니다.",
+      "watch": [
+        "입원·외래·수술량과 서비스 구성",
+        "간호 인력·계약직 비용과 병상 운영 능력",
+        "보험사별 지급 단가, 미수금, 무보험 진료 부담"
+      ],
+      "kpis": [
+        {
+          "name": "동일시설 환자·수술량",
+          "meaning": "인수 효과를 제외한 기존 시설의 진료 활동",
+          "read": "물량 증가와 고수익 시술 비중 변화가 함께 있는지 봅니다."
+        },
+        {
+          "name": "환자당 순매출",
+          "meaning": "할인·보험 지급 조건 등을 반영한 실질 진료 수입",
+          "read": "진료 난이도·보험 구성·수가 인상을 구분합니다."
+        },
+        {
+          "name": "인건비율·현금 전환",
+          "meaning": "매출 대비 인력 비용과 이익의 현금 회수 정도",
+          "read": "계약직 의존도와 매출채권 증가를 함께 확인합니다."
+        }
+      ],
+      "risks": [
+        "간호 인력 부족·임금 상승과 정부·민간보험 지급 압박",
+        "의료사고·환자 안전·정보보안 문제 및 높은 부채"
+      ],
+      "valuation": "EV/EBITDA와 잉여현금흐름을 함께 보며 병원 유지투자·리스·부채를 빠뜨리지 않습니다. 자산 매각으로 일시적으로 좋아진 이익과 현금흐름은 구분합니다.",
+      "questions": [
+        "환자 수 증가가 충분한 인력과 시설을 통해 이익으로 이어지는가?",
+        "매출은 늘었지만 보험금 회수 지연으로 현금이 부족해지지 않는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "HCA",
+          "name": "HCA Healthcare",
+          "exchange": "NYSE",
+          "business": "급성기 병원과 외래 의료시설 운영",
+          "watch": "동일시설 환자량, 지급 구성, 인건비",
+          "ir": "https://investor.hcahealthcare.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "THC",
+          "name": "Tenet Healthcare",
+          "exchange": "NYSE",
+          "business": "병원과 USPI 외래 수술센터 등 의료서비스",
+          "watch": "외래 수술 성장, 사업 매각, 부채",
+          "ir": "https://investor.tenethealth.com/home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "UHS",
+          "name": "Universal Health Services",
+          "exchange": "NYSE",
+          "business": "급성기·정신건강 의료시설 운영",
+          "watch": "정신건강 수요, 병상·인력, 지급 단가",
+          "ir": "https://ir.uhs.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "health-care-tools",
+      "name": "생명과학 도구·연구서비스",
+      "en": "Life Science Tools & Services",
+      "summary": "신약 연구와 의약품 생산에 필요한 장비·시약·분석·위탁 서비스를 공급합니다.",
+      "mechanics": "도구 업체는 제약사·바이오기업·대학·병원에 분석장비와 시약·소모품을 팝니다. 장비가 설치되면 소모품·정비가 반복되기도 합니다. 일부는 임상시험 위탁(CRO)이나 의약품 개발·생산 위탁(CDMO) 서비스를 제공합니다. 고객이 연구·생산 예산을 줄이거나 쌓아둔 재고부터 쓰면 최종 치료 수요가 성장해도 당장 주문은 줄 수 있습니다.",
+      "watch": [
+        "바이오 자금조달·대형 제약 연구개발·대학 예산",
+        "바이오 공정 소모품의 재고조정과 주문 회복",
+        "장비와 반복 소모품·서비스의 구성, 지역 수요"
+      ],
+      "kpis": [
+        {
+          "name": "유기적 매출 성장",
+          "meaning": "인수·매각·환율 영향을 제거한 매출 변화",
+          "read": "기저가 높았던 제품과 정상 연구·생산 수요를 나눠 봅니다."
+        },
+        {
+          "name": "수주·수주잔고",
+          "meaning": "새 주문과 아직 매출로 전환되지 않은 계약",
+          "read": "취소 가능성·계약 기간·장비와 서비스 구성에 따라 의미가 달라집니다."
+        },
+        {
+          "name": "소모품·서비스 비중",
+          "meaning": "반복 사용·정비·위탁 서비스 수입의 비율",
+          "read": "반복 수입도 고객의 생산량과 예산 감소에 영향을 받을 수 있습니다."
+        }
+      ],
+      "risks": [
+        "바이오 투자 둔화·연구예산 축소·고객의 재고 감축",
+        "중국 등 지역 수요·무역정책과 인수 후 통합 부담"
+      ],
+      "valuation": "정상화 P/E·EV/EBITDA와 잉여현금흐름을 보되 고객 투자 사이클의 중간 수준 이익을 사용합니다. 조정 이익에서 반복적인 인수비용·주식보상이 계속 빠지는지 확인합니다.",
+      "questions": [
+        "매출 둔화는 고객 재고 소진 과정인가, 연구·생산 수요 자체의 약화인가?",
+        "신약 성공에 직접 베팅하지 않고도 얻는 수익이 얼마나 반복적인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "TMO",
+          "name": "Thermo Fisher Scientific",
+          "exchange": "NYSE",
+          "business": "분석장비·실험실 소모품·바이오제약 지원 서비스",
+          "watch": "유기적 성장, 제약 고객 예산, 서비스",
+          "ir": "https://ir.thermofisher.com/investors/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "DHR",
+          "name": "Danaher",
+          "exchange": "NYSE",
+          "business": "바이오공정·생명과학·진단 도구",
+          "watch": "바이오공정 주문, 재고조정, 반복 매출",
+          "ir": "https://investors.danaher.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "A",
+          "name": "Agilent Technologies",
+          "exchange": "NYSE",
+          "business": "분석장비·실험실 서비스·진단 및 유전체 솔루션",
+          "watch": "장비 교체, 서비스 매출, 지역별 수요",
+          "ir": "https://www.investor.agilent.com/overview/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

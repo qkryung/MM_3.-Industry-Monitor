@@ -1,0 +1,94 @@
+{
+  "ticker": "KIM",
+  "oneLiner": "식료품점이 중심이 되는 생활형 야외 쇼핑센터를 임대합니다.",
+  "businessModel": "대형 마트·식료품점이 방문객을 모으고 주변 소형 매장·서비스 점포가 함께 입점하는 쇼핑센터를 운영합니다. 주 수입은 임대료이며 기존 부지의 재개발이나 주거 등 복합개발로 가치를 높이기도 합니다. 식료품점의 필수 수요와 소형 매장의 경기 민감도를 구분해서 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "쇼핑센터 임대",
+      "description": "주요 점포와 소형 매장의 임대료 및 계약상 운영비 회수입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.kimcorealty.com/"
+    },
+    {
+      "name": "관리·기타 부동산 수입",
+      "description": "공동투자 자산의 관리 수수료 등입니다. 자산 매각 대금이나 보유 지분 평가이익 전체를 반복 매출로 보지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.kimcorealty.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1966",
+      "event": "사업보고서상 전신인 The Kimco Corporation이 기존 쇼핑센터 자산을 기반으로 조직됐습니다."
+    },
+    {
+      "year": "1991",
+      "event": "기업공개를 실시했습니다."
+    },
+    {
+      "year": "2024",
+      "event": "RPT Realty 합병을 완료해 쇼핑센터 포트폴리오를 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "생활형 방문",
+      "detail": "식료품·생활 서비스가 반복 방문을 만들어 선택소비 몰과 다른 수요 기반을 형성합니다."
+    },
+    {
+      "title": "공간 재활용",
+      "detail": "기존 부지에서 점포 재배치·재개발을 통해 임대 효율을 개선할 여지가 있습니다."
+    },
+    {
+      "title": "임차인 구성",
+      "detail": "대형 집객 점포와 소형 매장을 조합해 다양한 임대료 수준을 운영합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "소형 점포 위험",
+      "detail": "지역 소상공인의 폐업과 임대료 연체는 대형 식료품점 수요와 별개입니다."
+    },
+    {
+      "title": "앵커 의존",
+      "detail": "핵심 대형 점포 폐점은 주변 점포의 방문객과 계약조건에 영향을 줄 수 있습니다."
+    },
+    {
+      "title": "개발 비용",
+      "detail": "복합개발의 인허가·공사비·임대 시점은 기존 쇼핑센터보다 복잡합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Regency Centers",
+      "ticker": "REG",
+      "comparison": "식료품점 중심 쇼핑센터에 집중하는 직접 경쟁사입니다."
+    },
+    {
+      "name": "Federal Realty",
+      "ticker": "FRT",
+      "comparison": "공급 제약 지역의 쇼핑센터·복합개발 비중이 특징입니다."
+    }
+  ],
+  "macroLink": "생활소비는 상대적으로 안정적이지만 임차인 임금·상품 원가와 지역 고용이 임대 여력에 영향을 줍니다. 금리는 재개발과 인수의 경제성을 바꿉니다.",
+  "monitoring": [
+    "대형 점포와 소형 점포의 입주율·신규 임대료가 각각 어떻게 움직이는가?",
+    "계약은 체결했지만 아직 임대료를 내지 않는 공간이 언제 수입으로 전환되는가?",
+    "재개발 투자에서 예상 현금 수익률과 잔여 투자액은 얼마인가?"
+  ],
+  "sources": [
+    {
+      "title": "Kimco Realty · 투자자 자료",
+      "url": "https://investors.kimcorealty.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Kimco Realty · 연혁·기업 자료",
+      "url": "https://investors.kimcorealty.com/filings-results/sec-filings/content/0001206774-26-000199/0001206774-26-000199.pdf",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,106 @@
+{
+  "ticker": "AMAT",
+  "oneLiner": "반도체 표면에 재료를 쌓고 가공하는 장비와 유지보수를 공급하는 회사.",
+  "businessModel": "반도체 제조사는 새 공정·공장을 도입할 때 Applied Materials의 증착·재료 가공 장비를 구입합니다. 장비가 설치되면 부품, 유지보수와 업그레이드 수입이 이어집니다. 반도체가 더 복잡해질수록 필요한 공정이 늘 수 있지만 고객의 투자 축소는 장비 주문에 빠르게 반영됩니다.",
+  "revenueStreams": [
+    {
+      "name": "반도체 제조 장비",
+      "description": "박막 증착·이온 주입·재료 제거 등 반도체 제조 공정 장비.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.appliedmaterials.com/"
+    },
+    {
+      "name": "서비스·부품",
+      "description": "설치 장비의 유지보수·부품·생산성 개선을 제공하는 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.appliedmaterials.com/"
+    },
+    {
+      "name": "디스플레이·기타",
+      "description": "디스플레이 제조 장비와 기타 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.appliedmaterials.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1967,
+      "event": "Applied Materials Technology로 설립."
+    },
+    {
+      "year": 1972,
+      "event": "Applied Materials로 이름을 바꾸고 기업공개."
+    },
+    {
+      "year": 2023,
+      "event": "차세대 장비·공정 공동개발을 위한 EPIC 센터 계획 발표."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "넓은 공정 범위",
+      "detail": "다양한 재료 공정을 함께 제안해 고객의 제조 방식 변화에 대응합니다."
+    },
+    {
+      "title": "설치 기반 서비스",
+      "detail": "이미 가동 중인 장비의 부품·유지보수 수요가 신규 장비와 다른 수익원을 제공합니다."
+    },
+    {
+      "title": "재료공학 역량",
+      "detail": "미세화뿐 아니라 새로운 소재·트랜지스터 구조로 인한 공정 수요를 다룹니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "투자 사이클",
+      "detail": "고객의 공장 투자 연기와 메모리 업황 악화가 신규 장비 매출을 줄일 수 있습니다."
+    },
+    {
+      "title": "중국 규제",
+      "detail": "중국 판매와 특정 공정 장비의 수출 허가 조건이 매출 기회를 바꿉니다."
+    },
+    {
+      "title": "제품별 경쟁",
+      "detail": "전체 반도체 투자가 늘어도 경쟁사가 특정 공정 장비를 채택받으면 수혜가 제한됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Lam Research",
+      "ticker": "LRCX",
+      "comparison": "증착·식각 등 일부 핵심 공정 장비에서 경쟁합니다."
+    },
+    {
+      "name": "Tokyo Electron",
+      "ticker": "8035.T",
+      "comparison": "코팅·현상·식각·증착 등 폭넓은 제조 장비를 제공하는 일본 상장사입니다."
+    }
+  ],
+  "macroLink": "반도체 업체의 설비투자가 직접 수요이며, 정부의 생산시설 지원과 수출 통제도 주문 지역을 바꿉니다. 서비스가 완충 역할을 해도 장비 업황을 완전히 벗어나지는 않습니다.",
+  "monitoring": [
+    "고객 투자가 늘어나는 공정에서 실제 장비 채택 비중이 올라가는가?",
+    "신규 장비와 서비스의 성장·마진을 따로 확인했는가?",
+    "중국 매출 변화가 규제·투자 주기·고객 선구매 중 무엇 때문인가?"
+  ],
+  "sources": [
+    {
+      "title": "Applied Materials · 공식 IR",
+      "url": "https://investors.appliedmaterials.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Applied Materials 투자자 FAQ",
+      "url": "https://ir.appliedmaterials.com/shareholder-services/investor-faqs/",
+      "note": "1967년 설립·1972년 사명 변경과 IPO 확인."
+    },
+    {
+      "title": "Applied Materials 회사 소개",
+      "url": "https://www.appliedmaterials.com/us/en/about.html",
+      "note": "재료공학 모델과 2023년 EPIC 센터 발표 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,101 @@
+{
+  "ticker": "REGN",
+  "oneLiner": "안과·면역·항암 항체 의약품을 판매하며 파트너와 이익을 나누는 바이오기업입니다.",
+  "businessModel": "Eylea 계열의 미국 판매와 다른 직접 판매 의약품, Sanofi·Bayer 등과의 협력 수입을 얻습니다. Dupixent의 전 세계 판매액 전체는 Regeneron의 매출이 아닙니다. 계약에 따른 이익 분담·비용 정산 등이 협력 매출로 반영됩니다. 항체 발굴 기술과 임상·제조를 연결하지만 소수 핵심 제품의 경쟁이 전체 실적에 크게 영향을 줍니다.",
+  "revenueStreams": [
+    {
+      "name": "직접 제품 판매",
+      "description": "미국 Eylea 계열 등 회사가 직접 매출을 인식하는 승인 제품 판매입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.regeneron.com/"
+    },
+    {
+      "name": "Sanofi 협력",
+      "description": "Dupixent 등 공동개발·판매 계약에 따른 이익 분담과 연구·제조 비용 정산 등입니다. 파트너의 총제품매출과 같지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.regeneron.com/"
+    },
+    {
+      "name": "Bayer·기타 협력",
+      "description": "해외 Eylea 등 다른 협력 계약의 분담 수입·정산 및 기타 협력 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.regeneron.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1988",
+      "event": "Leonard Schleifer가 Regeneron을 설립했습니다."
+    },
+    {
+      "year": "1991",
+      "event": "나스닥에 상장했습니다."
+    },
+    {
+      "year": "2011",
+      "event": "Eylea의 첫 안과 적응증 FDA 승인을 받았습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "항체 발굴 플랫폼",
+      "detail": "Veloci 계열 기술과 유전학·생물학 연구를 후보 발굴에 활용합니다."
+    },
+    {
+      "title": "협력 상업화",
+      "detail": "파트너의 판매망과 공동 연구를 활용해 해외·여러 치료영역에 접근합니다."
+    },
+    {
+      "title": "핵심 제품 경험",
+      "detail": "안과·면역 분야의 임상·제조·의료진 경험이 후속 개발을 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "안과 경쟁",
+      "detail": "새로운 경쟁 치료제와 바이오시밀러가 사용량·순가격·제형 전환에 영향을 줍니다."
+    },
+    {
+      "title": "파트너 의존",
+      "detail": "판매와 비용·이익 정산이 협력사의 실행 및 계약 조건에 영향을 받습니다."
+    },
+    {
+      "title": "집중된 이익",
+      "detail": "후보물질이 많아도 당기 수익은 일부 제품·계약에 집중될 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "comparison": "면역질환 치료에서 서로 다른 기전의 제품으로 경쟁합니다."
+    },
+    {
+      "name": "Amgen",
+      "ticker": "AMGN",
+      "comparison": "항체 의약품·면역·항암과 바이오시밀러 분야에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "약가·급여와 바이오시밀러 정책이 순수입에 영향을 줍니다. 해외 판매의 환율 영향은 파트너 계약과 이익 분담 구조를 거쳐 전달됩니다.",
+  "monitoring": [
+    "Eylea 계열의 새 제형 전환이 기존 제품 감소와 가격 경쟁을 상쇄하는가?",
+    "Dupixent 판매 증가와 Regeneron에 귀속되는 협력 매출·이익은 같은 속도로 늘어나는가?",
+    "후속 항체의 임상 성공이 새 제품 출시와 수익 분산으로 이어지는가?"
+  ],
+  "sources": [
+    {
+      "title": "Regeneron Pharmaceuticals · 투자자 자료",
+      "url": "https://investor.regeneron.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Regeneron Pharmaceuticals · 연혁·기업 자료",
+      "url": "https://www.regeneron.com/about/our-company/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

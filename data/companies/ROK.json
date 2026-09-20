@@ -1,0 +1,94 @@
+{
+  "ticker": "ROK",
+  "oneLiner": "공장 제어·자동화 하드웨어와 소프트웨어",
+  "businessModel": "공장에 제어기·모터 구동·안전장치·생산 소프트웨어를 공급하고 통합·유지 서비스를 제공합니다. 제조 고객이 설비를 자동화·연결하려고 지불합니다. 설치된 제어 시스템과 엔지니어의 사용 경험이 교체 비용을 만들지만 고객 투자 예산에 민감합니다.",
+  "revenueStreams": [
+    {
+      "name": "장치·제어",
+      "description": "PLC·구동·안전·센서 등 자동화 하드웨어",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.rockwellautomation.com/en-us/investors.html"
+    },
+    {
+      "name": "소프트웨어·서비스",
+      "description": "설계·운영·분석 소프트웨어와 통합·수명주기 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.rockwellautomation.com/en-us/investors.html"
+    }
+  ],
+  "history": [
+    {
+      "year": "1903",
+      "event": "Compression Rheostat Company 설립"
+    },
+    {
+      "year": "1985",
+      "event": "Rockwell이 Allen-Bradley 인수"
+    },
+    {
+      "year": "2001",
+      "event": "Rockwell Automation으로 사명 변경"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "설치 생태계",
+      "detail": "제어기·소프트웨어·통합업체의 사용 기반이 있습니다."
+    },
+    {
+      "title": "공장 전문성",
+      "detail": "고객 공정·안전 요구에 맞춘 자동화 경험을 보유합니다."
+    },
+    {
+      "title": "연결 기회",
+      "detail": "기존 장비에 데이터·운영 소프트웨어를 확장할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "투자 연기",
+      "detail": "고객의 공장 투자 축소가 주문에 반영됩니다."
+    },
+    {
+      "title": "유통 재고",
+      "detail": "부품 부족기 재고가 정상화되면 출하가 약해집니다."
+    },
+    {
+      "title": "경쟁·전환",
+      "detail": "자동화 표준·소프트웨어 경쟁이 지속됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Siemens",
+      "ticker": null,
+      "comparison": "글로벌 공장 자동화·소프트웨어 경쟁사로 지역과 산업 노출이 다릅니다."
+    },
+    {
+      "name": "Emerson",
+      "ticker": "EMR",
+      "comparison": "Emerson은 공정 자동화, Rockwell은 이산·하이브리드 제조에 강점이 있습니다."
+    }
+  ],
+  "macroLink": "제조업 설비투자·리쇼어링·인건비가 자동화 수요를 만들지만 주문 회복과 고객 재고 소진을 구분해야 합니다.",
+  "monitoring": [
+    "출하 회복이 최종 수요인지 유통 재고 재확충인지?",
+    "소프트웨어 반복 매출이 하드웨어 사이클을 완충하는가?",
+    "고객 프로젝트 지연이 취소로 바뀌는가?"
+  ],
+  "sources": [
+    {
+      "title": "Rockwell Automation · 투자자 자료",
+      "url": "https://www.rockwellautomation.com/en-us/investors.html",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Rockwell Automation · 기업 연혁·사업 소개",
+      "url": "https://www.rockwellautomation.com/en-us/company/about-us/our-history.html",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

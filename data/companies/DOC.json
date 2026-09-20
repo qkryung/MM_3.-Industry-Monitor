@@ -1,0 +1,104 @@
+{
+  "ticker": "DOC",
+  "oneLiner": "병원 주변 외래 진료 건물과 생명과학 연구시설을 임대합니다.",
+  "businessModel": "Healthpeak는 외래 의료공간과 연구실을 중심으로 소유·개발·운영하는 REIT입니다. 병원·의사·바이오 연구기업이 임차인입니다. 2024년 Physicians Realty와 합병한 이후 DOC 티커를 사용하므로 이전 DOC 회사 자료와 현재 Healthpeak 자료의 범위를 구분해야 합니다. 연구소는 바이오 자금조달, 외래 건물은 의료기관·지역 환자 수요에 더 직접 연결됩니다.",
+  "revenueStreams": [
+    {
+      "name": "외래 의료시설 임대",
+      "description": "병원 인근 진료실·외래시설의 임대료와 비용 회수입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.healthpeak.com/overview/default.aspx"
+    },
+    {
+      "name": "연구시설 임대",
+      "description": "바이오·생명과학 고객에게 연구실을 빌려주는 임대료와 관련 수입입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.healthpeak.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1985",
+      "event": "REIT 운영을 목적으로 회사가 조직됐습니다."
+    },
+    {
+      "year": "2019",
+      "event": "HCP에서 Healthpeak Properties로 이름을 변경했습니다."
+    },
+    {
+      "year": "2024",
+      "event": "Physicians Realty와 합병을 완료하고 티커 DOC를 사용하기 시작했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "의료기관 인접",
+      "detail": "병원과 가까운 외래시설은 의사·환자 이동과 진료 연계에 장점이 있습니다."
+    },
+    {
+      "title": "전문 시설",
+      "detail": "연구실 설비와 의료시설 요구를 이해하는 개발·운영 경험을 갖습니다."
+    },
+    {
+      "title": "사업 구분",
+      "detail": "의료 외래 수요와 연구개발 수요를 함께 보유해 하나의 수요원만 따르지 않습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "연구소 공급",
+      "detail": "바이오 투자 위축과 연구실 공급 증가는 공실과 임대 조건에 영향을 줍니다."
+    },
+    {
+      "title": "의료기관 신용",
+      "detail": "핵심 병원·의료체계의 재무 악화가 임차 수요를 약화시킬 수 있습니다."
+    },
+    {
+      "title": "재개발 비용",
+      "detail": "연구시설 재임대에는 일반 사무실보다 특수 설비·공사비가 많이 들 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Alexandria",
+      "ticker": "ARE",
+      "comparison": "생명과학 연구소·캠퍼스 중심의 경쟁사입니다."
+    },
+    {
+      "name": "Ventas",
+      "ticker": "VTR",
+      "comparison": "의료시설을 보유하지만 고령자 주거 운영 노출이 더 큽니다."
+    }
+  ],
+  "macroLink": "장기금리와 바이오 자금조달 환경이 연구시설 투자·임차를 움직입니다. 의료 외래시설은 고령화와 진료의 외래 전환에 연결됩니다.",
+  "monitoring": [
+    "연구소와 외래 의료시설의 공실·임대료 추세가 각각 어떠한가?",
+    "기존 임차인의 재계약률과 재임대 공사비가 균형을 이루는가?",
+    "합병·자산 매각을 제거한 동일자산 현금 순영업이익은 증가하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Healthpeak Properties · 투자자 자료",
+      "url": "https://ir.healthpeak.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Healthpeak Properties · 연혁·기업 자료",
+      "url": "https://healthpeak.com/about/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Healthpeak · 명칭 변경",
+      "url": "https://www.sec.gov/Archives/edgar/data/765880/000076588019000006/exh991pressreleasename.htm",
+      "note": "2019 HCP→Healthpeak 변경 확인."
+    },
+    {
+      "title": "Healthpeak · 2024 합병 후 회사",
+      "url": "https://healthpeak.com/app/uploads/2024/03/Healthpeak-2024-Proxy-Statement.pdf",
+      "note": "2024-03-01 Physicians Realty 합병 완료·DOC 티커 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

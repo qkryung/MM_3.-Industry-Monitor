@@ -1,0 +1,101 @@
+{
+  "ticker": "CB",
+  "oneLiner": "기업 위험과 고가 자산을 평가해 보험을 설계하는 글로벌 보험사입니다.",
+  "businessModel": "기업 재산·책임보험, 고액자산가 개인보험, 사고·건강·생명보험 및 재보험을 제공합니다. 위험의 가격을 먼저 정하고 미래의 보험금을 지급하므로 계약 증가 자체보다 보험료의 적정성이 중요합니다. 보험료에서 손해·사업비를 뺀 인수성과와 보험자산 투자수익을 구분해 읽습니다. 미국 상장 주식은 스위스 회사의 보통주입니다.",
+  "revenueStreams": [
+    {
+      "name": "손해보험 보험료",
+      "description": "기업·개인 재산·책임·특종보험의 보장 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.chubb.com/Home/default.aspx"
+    },
+    {
+      "name": "생명·사고·건강 보험료",
+      "description": "장기 생명·보장성 상품의 보험료와 관련 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.chubb.com/Home/default.aspx"
+    },
+    {
+      "name": "투자수익",
+      "description": "보험금을 지급하기 전 보유하는 자산의 이자·배당 등",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.chubb.com/Home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1882",
+      "event": "Chubb 전신이 뉴욕 해상보험 인수를 시작했습니다."
+    },
+    {
+      "year": "1985",
+      "event": "현재 법인 계보의 ACE가 설립됐습니다."
+    },
+    {
+      "year": "2016",
+      "event": "ACE가 Chubb를 인수하고 Chubb 명칭을 채택했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "전문 인수 역량",
+      "detail": "복잡한 기업 위험을 평가하고 계약 조건을 설계하는 노하우가 중요합니다."
+    },
+    {
+      "title": "상품·지역 분산",
+      "detail": "여러 지역·보험종목이 있어 단일 시장 의존도를 낮춥니다."
+    },
+    {
+      "title": "중개인·고객 관계",
+      "detail": "기업보험과 고액자산가 시장의 서비스 관계는 갱신 기반이 됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대재해 노출",
+      "detail": "기후·자연재해 손실이 한 시기에 집중될 수 있습니다."
+    },
+    {
+      "title": "사회적 인플레이션",
+      "detail": "소송·배상액 상승은 과거 계약의 준비금 적정성을 흔듭니다."
+    },
+    {
+      "title": "준비금·환율 판단",
+      "detail": "장기 보험손실 추정과 글로벌 자산·부채 환산이 실적에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Travelers",
+      "ticker": "TRV",
+      "comparison": "미국 기업·개인 손해보험에서 경쟁하며 Chubb는 글로벌 사업이 더 넓습니다."
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "ticker": "BRK.B",
+      "comparison": "일부 보험·재보험에서 경쟁하지만 Berkshire는 비보험사업이 많습니다."
+    }
+  ],
+  "macroLink": "물가 상승은 보험료 인상 기회인 동시에 건물 수리·소송 손해액 증가 요인입니다. 금리 상승은 신규 채권수익률을 높이지만 자산 평가와 보험 부채를 함께 봐야 합니다.",
+  "monitoring": [
+    "대재해·과거 준비금 조정을 빼도 합산비율이 유지되는가?",
+    "기업보험 단가 상승이 손해비용의 상승을 따라가는가?",
+    "성장 지역의 보험료가 충분한 위험 가격을 반영하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Chubb · 투자자 자료",
+      "url": "https://investors.chubb.com/Home/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Chubb · 연혁·기업 자료",
+      "url": "https://about.chubb.com/who-we-are/history.html",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

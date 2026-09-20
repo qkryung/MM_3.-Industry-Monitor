@@ -1,0 +1,99 @@
+{
+  "ticker": "BXP",
+  "oneLiner": "미국 주요 도시의 고급 업무용 건물을 임대하고 개발합니다.",
+  "businessModel": "보스턴·뉴욕·샌프란시스코 등 주요 시장에서 고급 업무공간을 소유·관리·개발합니다. 장기 임대는 단기 수입을 지지하지만 계약 만기 때 기업의 공간 축소와 인테리어 지원 요구가 드러납니다. 임대료뿐 아니라 무상 임대 기간·중개료·임차인 공사비를 뺀 계약 경제성을 확인해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "부동산 임대",
+      "description": "업무공간 등의 기본 임대료와 계약상 비용 회수입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.bxp.com/"
+    },
+    {
+      "name": "관리·개발·기타 수입",
+      "description": "공동투자 자산 관리·개발 서비스와 기타 수입입니다. 자산 매각 차익 전체가 반복 매출인 것은 아닙니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.bxp.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1970",
+      "event": "Mortimer Zuckerman과 Edward Linde가 전신 부동산 사업을 설립했습니다."
+    },
+    {
+      "year": "1997",
+      "event": "기존 사업을 승계하는 상장 REIT가 형성되고 기업공개를 실시했습니다."
+    },
+    {
+      "year": "2013",
+      "event": "Owen Thomas가 CEO로 합류하며 경영 승계가 이루어졌습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고급 업무공간",
+      "detail": "교통·편의시설·건물 품질을 중시하는 기업의 수요에 대응합니다."
+    },
+    {
+      "title": "개발 경험",
+      "detail": "직접 개발과 대형 임차인 맞춤 시설 경험을 갖습니다."
+    },
+    {
+      "title": "주요시장 네트워크",
+      "detail": "대기업·전문서비스 고객과의 관계가 임대·재개발에 활용됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "하이브리드 근무",
+      "detail": "좋은 건물도 기업 전체 공간 축소의 영향을 받을 수 있습니다."
+    },
+    {
+      "title": "재임대 비용",
+      "detail": "표면 임대료가 유지돼도 공사비·무상임대 증가로 현금 수익은 낮아질 수 있습니다."
+    },
+    {
+      "title": "개발·금리 부담",
+      "detail": "큰 프로젝트의 자본 투입과 부채 만기가 동시에 발생할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Vornado",
+      "ticker": "VNO",
+      "comparison": "맨해튼 자산에 더 집중합니다."
+    },
+    {
+      "name": "SL Green",
+      "ticker": "SLG",
+      "comparison": "뉴욕 오피스에 집중하는 직접 비교대상입니다."
+    }
+  ],
+  "macroLink": "사무직 고용과 기업 출근·공간 정책이 임차 수요를 결정합니다. 장기금리와 대출 시장은 건물 가치뿐 아니라 고객의 거래 의사에도 영향을 줍니다.",
+  "monitoring": [
+    "향후 만기 임대면적 중 재계약이 확정된 부분은 얼마인가?",
+    "임대료에서 무상임대·공사비·중개료를 뺀 현금 경제성이 개선되는가?",
+    "개발 잔여 투자금과 차입 만기를 감당할 재원이 확보됐는가?"
+  ],
+  "sources": [
+    {
+      "title": "BXP, Inc. · 투자자 자료",
+      "url": "https://investors.bxp.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "BXP, Inc. · 연혁·기업 자료",
+      "url": "https://investors.bxp.com/static-files/91ebaf03-61bd-4509-a493-3a6fe086e323",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "BXP · 경영 승계 이력",
+      "url": "https://investors.bxp.com/static-files/9da8e973-d180-4839-8385-ce50a63794ac",
+      "note": "2013년 CEO 합류 등 이사회·경영진 연혁 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

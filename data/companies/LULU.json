@@ -1,0 +1,101 @@
+{
+  "ticker": "LULU",
+  "oneLiner": "운동복의 착용 경험과 브랜드 관계를 프리미엄 가격으로 연결합니다.",
+  "businessModel": "자체 매장·온라인에서 여성·남성 운동·일상 의류와 신발·액세서리를 판매합니다. 도매 중심 브랜드와 달리 직접 고객 접점이 중요합니다. 제품 새로움과 매장 커뮤니티가 강점이지만 성숙 시장에서는 출점보다 기존 고객 수요를 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "여성 제품",
+      "description": "여성 운동·일상 의류 등 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://corporate.lululemon.com/investors"
+    },
+    {
+      "name": "남성 제품",
+      "description": "남성 운동·일상 의류 등 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://corporate.lululemon.com/investors"
+    },
+    {
+      "name": "기타 제품",
+      "description": "액세서리·신발 등 나머지 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://corporate.lululemon.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": 1998,
+      "event": "Vancouver에서 사업 시작."
+    },
+    {
+      "year": 2007,
+      "event": "주식시장 상장."
+    },
+    {
+      "year": 2022,
+      "event": "신발 제품군 출시."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "직접 고객 관계",
+      "detail": "매장과 온라인의 피드백을 제품·재고에 연결합니다."
+    },
+    {
+      "title": "프리미엄 포지셔닝",
+      "detail": "기능·착용감·브랜드 경험이 가격을 지지합니다."
+    },
+    {
+      "title": "제품·지역 확대",
+      "detail": "남성·해외·새 용도로 고객 범위를 넓힐 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "미주 성숙도",
+      "detail": "핵심 시장의 기존 고객 수요가 둔화되면 신규 출점 효과와 구분해야 합니다."
+    },
+    {
+      "title": "유사 제품 경쟁",
+      "detail": "기능·스타일을 비슷하게 제시하는 저가·신생 브랜드가 많습니다."
+    },
+    {
+      "title": "새 카테고리 위험",
+      "detail": "신발·기타 확장이 의류와 같은 고객 충성도를 보장하지 않습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Nike",
+      "ticker": "NKE",
+      "comparison": "운동 의류·신발과 스포츠 브랜드 지출을 경쟁합니다."
+    },
+    {
+      "name": "Alo Yoga",
+      "ticker": "비상장",
+      "comparison": "프리미엄 운동·일상 의류와 커뮤니티 이미지를 경쟁합니다."
+    }
+  ],
+  "macroLink": "고소득 소비도 금리·자산 가격·심리에 영향을 받습니다. 해외 성장에서는 환율과 출점 효과를 제외한 기존점 수요가 중요합니다.",
+  "monitoring": [
+    "미주 기존점 매출이 거래와 제품 새로움으로 회복되는가?",
+    "해외 출점 후 매장 생산성과 수익이 유지되는가?",
+    "재고 증가가 실제 제품 수요를 앞서지 않는가?"
+  ],
+  "sources": [
+    {
+      "title": "lululemon athletica · 공식 IR",
+      "url": "https://corporate.lululemon.com/investors",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "lululemon · 공식 역사",
+      "url": "https://corporate.lululemon.com/about-us/our-history",
+      "note": "1998년 원류·2007년 상장·2022년 신발 진출."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

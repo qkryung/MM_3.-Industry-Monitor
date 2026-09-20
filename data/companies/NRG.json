@@ -1,0 +1,111 @@
+{
+  "ticker": "NRG",
+  "oneLiner": "전력 소매·발전·스마트홈 서비스",
+  "businessModel": "가정·기업에 전력·가스를 계약 판매하고 자체 발전으로 공급의 일부를 조달합니다. Vivint는 보안·스마트홈 장비와 구독 서비스를 제공해 에너지 외 고객 관계를 만듭니다. 2026년 LS Power 자산과 CPower 인수로 가스 발전과 고객 전력 사용을 조절하는 수요 반응 사업이 커졌습니다.",
+  "revenueStreams": [
+    {
+      "name": "에너지 공급·발전",
+      "description": "고객 전력·가스 계약과 자체 발전·도매 시장 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.nrg.com/"
+    },
+    {
+      "name": "스마트홈",
+      "description": "Vivint 장비 설치·보안·연결 서비스 구독",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.nrg.com/"
+    },
+    {
+      "name": "수요 반응",
+      "description": "고객의 전력 사용 조절을 전력망 서비스와 연결",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.nrg.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1989",
+      "event": "Northern States Power의 사업으로 출발"
+    },
+    {
+      "year": "2023",
+      "event": "Vivint Smart Home 인수 완료"
+    },
+    {
+      "year": "2026",
+      "event": "1월 LS Power 발전 자산·CPower 인수 완료"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 접점",
+      "detail": "소매 에너지와 가정용 서비스를 함께 제공할 기반이 있습니다."
+    },
+    {
+      "title": "발전 보완",
+      "detail": "자체 발전이 고객에게 판매할 전력의 조달 위험을 일부 줄입니다."
+    },
+    {
+      "title": "수요 조절",
+      "detail": "CPower와 고객 자원을 활용해 공급 외 방식으로 전력망을 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "고객 경제성",
+      "detail": "에너지·스마트홈의 가입 유치 비용과 해지율을 관리해야 합니다."
+    },
+    {
+      "title": "거래·부채",
+      "detail": "대형 인수의 통합과 부채 축소가 주주 현금 흐름에 영향을 줍니다."
+    },
+    {
+      "title": "전력 위험",
+      "detail": "발전 장애·극단 가격·헤지 불일치가 비용을 급증시킬 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Vistra",
+      "ticker": "VST",
+      "comparison": "발전·소매 결합은 비슷하지만 NRG는 스마트홈 구독이 추가됩니다."
+    },
+    {
+      "name": "Constellation Energy",
+      "ticker": "CEG",
+      "comparison": "CEG는 원전·무탄소 계약 강점, NRG는 소비자 서비스와 가스 발전의 색채가 강합니다."
+    }
+  ],
+  "macroLink": "전력 수요·가스 가격·날씨는 에너지 마진에, 가계 소득·주택 거래·금리는 스마트홈 가입과 해지에 영향을 줍니다.",
+  "monitoring": [
+    "Vivint의 고객 유지·월 구독 수익이 가입 유치 비용을 정당화하는가?",
+    "LS Power·CPower 통합이 현금 창출과 부채 축소로 확인되는가?",
+    "전력 소매 계약과 자체 발전·헤지의 수량·기간이 맞는가?"
+  ],
+  "sources": [
+    {
+      "title": "NRG Energy · 투자자 자료",
+      "url": "https://investors.nrg.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "NRG Energy · 기업 연혁·사업 소개",
+      "url": "https://investors.nrg.com/static-files/94ce6daa-f28c-4afc-b82a-0e380ffc0804",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "NRG · Vivint 인수 완료",
+      "url": "https://investors.nrg.com/node/42066",
+      "note": "2023-03-10 인수 완료"
+    },
+    {
+      "title": "NRG · 2025 실적 및 2026년 거래",
+      "url": "https://investors.nrg.com/news-releases/news-release-details/nrg-energy-inc-reports-full-year-2025-financial-results",
+      "note": "2026-01-30 LS Power 자산·CPower 인수 완료 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,16 @@
+# Personal study exports are private and are not committed by default.
+industry-study-*.json
+personal/
+backups/
+logs/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+node_modules/
+test-results/
+playwright-report/

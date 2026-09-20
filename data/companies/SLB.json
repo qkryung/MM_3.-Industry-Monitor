@@ -1,0 +1,94 @@
+{
+  "ticker": "SLB",
+  "oneLiner": "저류층·시추·생산·디지털 유전 서비스",
+  "businessModel": "석유·가스 생산기업에 지하 자원 분석·시추·유정 건설·생산 시스템과 디지털 도구를 판매합니다. 고객은 장비와 현장 기술을 빌려 생산성을 높입니다. 해외·해양 프로젝트와 설치 기반 서비스가 중요해 북미 리그 수만으로 실적을 설명하기 어렵습니다.",
+  "revenueStreams": [
+    {
+      "name": "유정·생산 기술",
+      "description": "저류층 평가·시추·유정 건설·생산 장비와 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investorcenter.slb.com/"
+    },
+    {
+      "name": "디지털·통합 솔루션",
+      "description": "데이터·소프트웨어·통합 운영 및 관련 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investorcenter.slb.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1926",
+      "event": "Schlumberger 형제가 검층 사업 설립"
+    },
+    {
+      "year": "1956",
+      "event": "현재 모회사 계보의 법인 설립"
+    },
+    {
+      "year": "2022",
+      "event": "브랜드를 SLB로 변경"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기술 포트폴리오",
+      "detail": "탐사부터 생산까지 여러 공정을 지원합니다."
+    },
+    {
+      "title": "글로벌 고객",
+      "detail": "국영·국제 석유회사와 장기 현장 관계가 있습니다."
+    },
+    {
+      "title": "데이터 축적",
+      "detail": "저류층·시추 데이터와 소프트웨어가 작업 효율을 높입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "고객 예산",
+      "detail": "유가보다 고객 투자 계획의 변화가 뒤늦게 영향을 줍니다."
+    },
+    {
+      "title": "국가 위험",
+      "detail": "현장·결제·제재·환율 위험이 여러 국가에 분산됩니다."
+    },
+    {
+      "title": "실행 복잡성",
+      "detail": "장비·인력·디지털 서비스를 통합해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Halliburton",
+      "ticker": "HAL",
+      "comparison": "HAL은 북미 완결 활동의 민감도가 상대적으로 두드러집니다."
+    },
+    {
+      "name": "Baker Hughes",
+      "ticker": "BKR",
+      "comparison": "BKR은 LNG·가스 장비의 장기 수주 비중이 특징입니다."
+    }
+  ],
+  "macroLink": "국제 생산기업의 설비투자와 해양 개발 사이클이 핵심입니다. 유가 상승이 즉시 서비스 매출로 반영되지는 않습니다.",
+  "monitoring": [
+    "해외·해양 수주가 매출과 현금으로 전환되는가?",
+    "디지털 성장이 장비 서비스보다 높은 반복성을 보이는가?",
+    "고객 원가 절감이 SLB 단가·마진 개선으로 이어지는가?"
+  ],
+  "sources": [
+    {
+      "title": "SLB · 투자자 자료",
+      "url": "https://investorcenter.slb.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "SLB · 기업 연혁·사업 소개",
+      "url": "https://investorcenter.slb.com/investor-resources/investor-faqs",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

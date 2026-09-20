@@ -1,0 +1,99 @@
+{
+  "ticker": "URI",
+  "oneLiner": "건설·산업 장비 임대와 특수 솔루션",
+  "businessModel": "건설사·산업체·유틸리티에 장비를 빌려주고 배송·정비·현장 지원을 제공합니다. 고객은 구매 대신 필요한 기간만 임대합니다. 회사는 장비를 높은 단가·가동률로 여러 번 빌려준 뒤 중고로 매각해 투자비를 회수합니다.",
+  "revenueStreams": [
+    {
+      "name": "일반 임대",
+      "description": "토공·고소작업·자재취급 등 장비 임대",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.unitedrentals.com/"
+    },
+    {
+      "name": "특수·중고 판매",
+      "description": "전력·펌프·트렌치 등 솔루션과 중고 장비 매각",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.unitedrentals.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1997",
+      "event": "United Rentals 설립·기업공개"
+    },
+    {
+      "year": "2012",
+      "event": "RSC 인수"
+    },
+    {
+      "year": "2018",
+      "event": "BlueLine 인수"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "큰 장비망",
+      "detail": "여러 지역 현장에 필요한 장비를 배치할 수 있습니다."
+    },
+    {
+      "title": "특수 솔루션",
+      "detail": "단순 임대 외 설계·현장 서비스를 제공합니다."
+    },
+    {
+      "title": "구매·데이터",
+      "detail": "규모 있는 구매와 장비 배치 데이터가 효율을 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "자본집약",
+      "detail": "장비 교체·성장에 많은 현금이 필요합니다."
+    },
+    {
+      "title": "중고 가격",
+      "detail": "장비 잔존가치 하락은 투자 회수에 불리합니다."
+    },
+    {
+      "title": "건설 사이클",
+      "detail": "프로젝트 지연은 가동률·임대단가를 압박합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Herc Holdings",
+      "ticker": "HRI",
+      "comparison": "장비 임대 직접 경쟁사로 지역·고객·특수사업 구성을 비교합니다."
+    },
+    {
+      "name": "Sunbelt Rentals",
+      "ticker": null,
+      "comparison": "광범위한 일반·특수 임대망으로 경쟁하며 모회사 상장 구조를 별도 확인합니다."
+    }
+  ],
+  "macroLink": "비주거 건설·인프라·공장 투자와 금리가 연결됩니다. 장비 구매 부담 상승이 임대 전환을 돕더라도 현장 취소는 불리합니다.",
+  "monitoring": [
+    "임대 성장에서 단가·가동률·장비 증가의 기여는?",
+    "장비 교체 후에도 FCF가 유지되는가?",
+    "중고 매각 가격이 장부 잔존가치보다 충분한가?"
+  ],
+  "sources": [
+    {
+      "title": "United Rentals · 투자자 자료",
+      "url": "https://investors.unitedrentals.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "United Rentals · 공식 회사 소개·설립 연혁",
+      "url": "https://www.unitedrentals.com/en-au/our-company",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "인수 연혁",
+      "url": "https://www.unitedrentals.com/our-company/about-us/acquisition-history",
+      "note": "RSC·BlueLine 등 인수 연혁"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

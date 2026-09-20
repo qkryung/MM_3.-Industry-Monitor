@@ -1,0 +1,108 @@
+{
+  "ticker": "F",
+  "oneLiner": "픽업·상용차와 금융을 기반으로 전동화에 투자하는 완성차 기업입니다.",
+  "businessModel": "Ford Blue의 기존 차량, Ford Pro의 상용차·서비스, Model e의 전기차, Ford Credit의 금융을 나눠 공시합니다. 상용차 고객은 차량 가격뿐 아니라 가동 시간과 유지비를 보므로 개인 승용차와 다른 수익 기회가 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "Ford Blue",
+      "description": "내연기관·하이브리드 중심 차량 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://shareholder.ford.com/Home/default.aspx"
+    },
+    {
+      "name": "Ford Pro",
+      "description": "상용차·관련 서비스·소프트웨어.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://shareholder.ford.com/Home/default.aspx"
+    },
+    {
+      "name": "Ford Model e",
+      "description": "전기차와 관련 기술 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://shareholder.ford.com/Home/default.aspx"
+    },
+    {
+      "name": "Ford Credit",
+      "description": "차량 대출·리스 등 금융.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://shareholder.ford.com/Home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1903,
+      "event": "Ford Motor 설립."
+    },
+    {
+      "year": 1908,
+      "event": "Model T 출시."
+    },
+    {
+      "year": 1913,
+      "event": "이동식 조립라인 도입으로 생산 방식 전환."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "상용차 기반",
+      "detail": "트럭·밴 고객에게 차량 외 정비·연결 서비스를 판매할 수 있습니다."
+    },
+    {
+      "title": "픽업 브랜드",
+      "detail": "F-Series의 고객·유통 기반이 기존 사업 현금을 만듭니다."
+    },
+    {
+      "title": "금융·딜러망",
+      "detail": "구매·리스·정비를 연결하는 접점을 보유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "보증·품질 비용",
+      "detail": "리콜과 수리 비용이 판매량 증가 효과를 줄일 수 있습니다."
+    },
+    {
+      "title": "전기차 손익",
+      "detail": "수요·가격 변화 속에서 개발·설비 고정비를 회수해야 합니다."
+    },
+    {
+      "title": "노동·공급망 부담",
+      "detail": "지역 생산·노사·부품 구조가 비용 조절을 제약합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "General Motors",
+      "ticker": "GM",
+      "comparison": "북미 픽업·SUV·전기차에서 직접 경쟁합니다."
+    },
+    {
+      "name": "Stellantis",
+      "ticker": "STLA",
+      "comparison": "Ram 등 픽업·상용차와 유럽 밴에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "금리·신용은 개인 구매를, 기업 투자·물류 활동은 Ford Pro 수요를 바꿉니다. 유가와 배터리 원가는 동력계 선택 및 전기차 수익에 작용합니다.",
+  "monitoring": [
+    "Ford Pro의 서비스 수입이 차량 판매 외 이익을 늘리는가?",
+    "보증·리콜 비용이 실제로 감소하는가?",
+    "전기차 손실과 투자 규모가 현금창출에 맞춰 조정되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Ford Motor · 공식 IR",
+      "url": "https://shareholder.ford.com/Home/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Ford · 공식 역사",
+      "url": "https://corporate.ford.com/about/history/",
+      "note": "1903년 설립과 Model T·생산 방식 혁신의 원류."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

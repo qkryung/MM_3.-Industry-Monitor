@@ -1,0 +1,108 @@
+{
+  "ticker": "GIS",
+  "oneLiner": "포장식품과 반려동물 식품을 브랜드로 판매하는 회사입니다.",
+  "businessModel": "시리얼·간편식·베이킹 제품을 가정과 외식 고객에게 판매하고 Blue Buffalo 등 반려동물 식품을 운영합니다. 오래된 식품 브랜드의 안정성만큼 판매량·판촉·제품 교체를 봐야 합니다. 반려동물 사업은 별도의 고객 선호와 유통 구조를 가집니다.",
+  "revenueStreams": [
+    {
+      "name": "북미 소매",
+      "description": "북미 가정용 포장식품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.generalmills.com/home/default.aspx"
+    },
+    {
+      "name": "해외",
+      "description": "북미 외 지역의 식품 사업.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.generalmills.com/home/default.aspx"
+    },
+    {
+      "name": "반려동물",
+      "description": "반려동물 식품과 관련 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.generalmills.com/home/default.aspx"
+    },
+    {
+      "name": "북미 푸드서비스",
+      "description": "외식·학교·시설 등 고객용 식품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.generalmills.com/home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1928,
+      "event": "여러 제분 회사 결합으로 General Mills 출범."
+    },
+    {
+      "year": 2001,
+      "event": "Pillsbury 인수."
+    },
+    {
+      "year": 2018,
+      "event": "Blue Buffalo 인수로 반려동물 식품 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "식품 브랜드 기반",
+      "detail": "가정에서 반복 구매하는 여러 제품을 보유합니다."
+    },
+    {
+      "title": "다른 소비 경로",
+      "detail": "가정·외식·반려동물 수요를 함께 다룹니다."
+    },
+    {
+      "title": "규모와 운영",
+      "detail": "원재료·생산·유통에서 공통 기반을 활용할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "성숙 제품",
+      "detail": "일부 전통 식품의 소비 습관이 변화하고 있습니다."
+    },
+    {
+      "title": "판촉 의존",
+      "detail": "물량을 회복하기 위해 할인하면 가격 인상 효과가 되돌아갈 수 있습니다."
+    },
+    {
+      "title": "반려동물 경쟁",
+      "detail": "프리미엄 식품 경쟁과 고객의 가격 하향 이동에 노출됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Kraft Heinz",
+      "ticker": "KHC",
+      "comparison": "포장식품·간편식과 소매 진열을 경쟁합니다."
+    },
+    {
+      "name": "J.M. Smucker",
+      "ticker": "SJM",
+      "comparison": "가정용 식품·스낵과 반려동물 분야에서 경쟁 접점이 있습니다."
+    }
+  ],
+  "macroLink": "곡물·유제품·임금은 비용, 실질소득과 식사 습관은 제품 수요를 바꿉니다. 매각·인수 효과를 제외한 기존 사업의 수량을 봅니다.",
+  "monitoring": [
+    "북미 소매의 판매량이 판촉 확대 이상의 속도로 회복되는가?",
+    "반려동물 사업이 가격·수량·제품 구성 중 무엇으로 성장하는가?",
+    "운전자본과 투자 후 현금이 배당·부채를 감당하는가?"
+  ],
+  "sources": [
+    {
+      "title": "General Mills · 공식 IR",
+      "url": "https://investors.generalmills.com/home/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "General Mills · 공식 역사",
+      "url": "https://www.generalmills.com/about/our-history",
+      "note": "1928년 출범·Pillsbury·Blue Buffalo 인수."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

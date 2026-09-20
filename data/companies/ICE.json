@@ -1,0 +1,106 @@
+{
+  "ticker": "ICE",
+  "oneLiner": "거래소·채권 데이터·주택금융 기술을 함께 운영하는 금융 인프라 회사입니다.",
+  "businessModel": "에너지·금융 파생상품과 NYSE를 운영하며 거래·청산·상장·데이터 수입을 얻습니다. 별도로 채권가격·분석·연결 서비스를 제공하고 모기지 소프트웨어로 대출 신청부터 관리까지의 업무를 지원합니다. 거래 변동성과 반복 데이터 수입, 미국 주택거래에 민감한 기술사업이 서로 다른 속도로 움직입니다.",
+  "revenueStreams": [
+    {
+      "name": "거래소",
+      "description": "거래·청산·상장·거래소 데이터 등 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.theice.com/home/default.aspx"
+    },
+    {
+      "name": "채권·데이터 서비스",
+      "description": "채권가격·참조데이터·분석·연결·관련 실행 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.theice.com/home/default.aspx"
+    },
+    {
+      "name": "모기지 기술",
+      "description": "주택대출 발행·정산·관리 소프트웨어와 서비스 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.theice.com/home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "2000",
+      "event": "에너지 전자거래 플랫폼으로 설립됐습니다."
+    },
+    {
+      "year": "2005",
+      "event": "NYSE에 상장했습니다."
+    },
+    {
+      "year": "2013",
+      "event": "NYSE Euronext를 인수했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "핵심 시장·데이터",
+      "detail": "거래와 가격정보가 고객 업무에 깊게 연결됩니다."
+    },
+    {
+      "title": "반복 계약 수입",
+      "detail": "데이터·기술 서비스가 거래량의 단기 변동을 일부 완화합니다."
+    },
+    {
+      "title": "모기지 업무 연결",
+      "detail": "대출 전 과정의 기술을 연결해 고객 전환비용을 높일 가능성이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "인수 부채·통합",
+      "detail": "대규모 사업 확장의 재무·시스템 통합 비용을 감당해야 합니다."
+    },
+    {
+      "title": "주택금융 민감도",
+      "detail": "높은 모기지 금리로 발행·재융자가 줄면 기술거래 수익이 약해집니다."
+    },
+    {
+      "title": "인프라 운영 책임",
+      "detail": "장애·데이터 오류·청산 위험은 고객 신뢰를 손상합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "CME Group",
+      "ticker": "CME",
+      "comparison": "에너지·파생·청산에서 경쟁하지만 ICE의 모기지·채권데이터 구성이 다릅니다."
+    },
+    {
+      "name": "Nasdaq",
+      "ticker": "NDAQ",
+      "comparison": "상장·거래·데이터·금융기술에서 경쟁하며 각자의 기술 고객과 상품군이 다릅니다."
+    }
+  ],
+  "macroLink": "에너지·금리 변동은 거래를 늘릴 수 있지만 높은 장기금리는 모기지 발행을 위축시킬 수 있습니다. 한 금리 변화가 서로 다른 사업에 반대 효과를 줄 수 있습니다.",
+  "monitoring": [
+    "거래 증가와 반복 데이터 매출이 각각 어떤 기여를 하는가?",
+    "모기지 발행량이 낮아도 관리 소프트웨어 수입이 유지되는가?",
+    "인수 이후 교차판매·비용 절감이 부채 부담을 줄이는가?"
+  ],
+  "sources": [
+    {
+      "title": "Intercontinental Exchange · 투자자 자료",
+      "url": "https://ir.theice.com/home/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Intercontinental Exchange · 연혁·기업 자료",
+      "url": "https://www.ice.com/about/history",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "ICE · 기업 연혁",
+      "url": "https://ir.theice.com/governance/executive-management-team/default.aspx",
+      "note": "2005년 상장·2013년 NYSE 인수 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

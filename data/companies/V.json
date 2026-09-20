@@ -1,0 +1,108 @@
+{
+  "ticker": "V",
+  "oneLiner": "은행과 가맹점을 연결해 카드·디지털 결제가 통과하도록 하는 네트워크입니다.",
+  "businessModel": "Visa는 일반적으로 카드대금을 직접 대출하는 은행이 아닙니다. 발급은행·가맹점 측 금융기관을 연결해 승인·청산·정산과 위험관리 서비스를 제공하며 결제금액·처리건수·국경 간 활동 등에 연결된 수익을 얻습니다. 거래액 전부가 매출이 아니고 고객 인센티브가 총수익에서 차감됩니다. 부가서비스 매출은 기존 수익 범주와 중복될 수 있어 별도 합산하지 않습니다.",
+  "revenueStreams": [
+    {
+      "name": "서비스 수익",
+      "description": "네트워크 참여·사용과 결제금액 등에 연동되는 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.visa.com/"
+    },
+    {
+      "name": "데이터 처리",
+      "description": "거래 승인·청산·정산 및 관련 처리 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.visa.com/"
+    },
+    {
+      "name": "국제거래",
+      "description": "국경 간 결제와 통화 관련 활동 수입",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.visa.com/"
+    },
+    {
+      "name": "기타 수익",
+      "description": "브랜드·부가서비스 등 기타 수입; 순매출은 인센티브 차감 후 확인",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.visa.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1958",
+      "event": "BankAmericard에서 사업의 계보가 시작됐습니다."
+    },
+    {
+      "year": "1976",
+      "event": "Visa 브랜드가 도입됐습니다."
+    },
+    {
+      "year": "2008",
+      "event": "Visa Inc.가 상장했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "네트워크 효과",
+      "detail": "소비자·은행·가맹점이 함께 참여할수록 이용 편의와 수용성이 높아집니다."
+    },
+    {
+      "title": "소비·결제 전환 연결",
+      "detail": "현금 사용이 디지털 결제로 이동할 때 거래 기반이 확대될 수 있습니다."
+    },
+    {
+      "title": "확장 가능한 인프라",
+      "detail": "기존 네트워크에 보안·데이터·송금 기능을 추가할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "수수료·경쟁 규제",
+      "detail": "반독점·결제 수수료 규정이 수익구조를 바꿀 수 있습니다."
+    },
+    {
+      "title": "고객 협상력",
+      "detail": "대형 발급·가맹점 고객을 유치할 인센티브가 순수익을 제한합니다."
+    },
+    {
+      "title": "대체 결제 경로",
+      "detail": "계좌 간 실시간 결제 등이 일부 거래의 네트워크 이용을 줄일 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Mastercard",
+      "ticker": "MA",
+      "comparison": "가장 유사한 글로벌 카드 네트워크이며 지역·고객·서비스 구성에서 차이가 있습니다."
+    },
+    {
+      "name": "American Express",
+      "ticker": "AXP",
+      "comparison": "결제에서 경쟁하지만 Amex는 발급·대출과 직접 가맹점 관계를 함께 운영합니다."
+    }
+  ],
+  "macroLink": "소비의 명목 규모와 해외여행이 처리량·국제거래에 연결됩니다. 불황 시 거래가 줄 수 있으며 달러 강세는 해외 수익 환산과 여행 방향에 영향을 줍니다.",
+  "monitoring": [
+    "국경 간 성장에서 여행·전자상거래의 기여가 무엇인가?",
+    "총수익 증가보다 고객 인센티브가 빨리 증가하는가?",
+    "부가서비스가 기존 결제 고객의 이용을 깊게 만드는가?"
+  ],
+  "sources": [
+    {
+      "title": "Visa · 투자자 자료",
+      "url": "https://investor.visa.com/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Visa · 연혁·기업 자료",
+      "url": "https://caribbean.visa.com/about-visa.html",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

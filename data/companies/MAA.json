@@ -1,0 +1,94 @@
+{
+  "ticker": "MAA",
+  "oneLiner": "미국 선벨트의 임대아파트를 운영하며 지역 인구·고용 성장과 연결됩니다.",
+  "businessModel": "미국 남동부와 남서부 등 선벨트의 아파트를 임대·관리하고 선택적으로 개발합니다. 이주 인구와 일자리 증가가 수요를 만들지만, 개발이 활발한 도시에서는 새 아파트 공급과 임대료 할인 경쟁도 커집니다. 월세와 거주 관련 부가수입이 매출을 이루며 주택 매각금 전체가 반복 매출인 것은 아닙니다.",
+  "revenueStreams": [
+    {
+      "name": "아파트 임대료",
+      "description": "입주자가 부담하는 월세로 입주율·갱신률·계약 임대료에 따라 변합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.maac.com/corporate-profile/default.aspx"
+    },
+    {
+      "name": "부대 수입·비용 회수",
+      "description": "주차·기타 거주 관련 수입과 공공요금 회수 등입니다. 기본 월세와 별개의 청구 구성요소입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.maac.com/corporate-profile/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1977",
+      "event": "Cates Company로 사업을 시작했습니다."
+    },
+    {
+      "year": "1994",
+      "event": "Mid-America Apartment Communities라는 이름으로 기업공개를 실시했습니다."
+    },
+    {
+      "year": "2016",
+      "event": "Post Properties와 합병해 아파트 자산 기반을 넓혔습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "선벨트 운영망",
+      "detail": "인구·기업 이동이 활발한 지역에 오래 구축한 단지 운영망이 있습니다."
+    },
+    {
+      "title": "지역 분산",
+      "detail": "여러 도시에서 임대해 개별 도시 고용 충격을 일부 분산합니다."
+    },
+    {
+      "title": "규모에 따른 관리",
+      "detail": "수선·구매·디지털 임대 업무를 공통 운영체계에 연결할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "신축 공급 경쟁",
+      "detail": "선벨트는 건축이 상대적으로 쉬워 수요 증가가 임대료 상승으로 바로 연결되지 않습니다."
+    },
+    {
+      "title": "비용 압박",
+      "detail": "보험·세금·수선 비용은 계약 갱신보다 빨리 증가할 수 있습니다."
+    },
+    {
+      "title": "주택 대체재",
+      "detail": "단독주택 임대나 주택 구매 여건 변화가 아파트 수요에 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Essex Property Trust",
+      "ticker": "ESS",
+      "comparison": "서부 해안의 공급 제약 지역에 더 집중합니다."
+    },
+    {
+      "name": "Vivmark Residential",
+      "ticker": "VMRK",
+      "comparison": "양사 통합으로 형성된 대도시 아파트·개발 플랫폼입니다."
+    }
+  ],
+  "macroLink": "고용과 이주가 주거 수요를 좌우합니다. 금리 하락은 조달을 돕는 동시에 주택 구매를 쉽게 해 일부 임차인의 이탈을 유도할 수도 있습니다.",
+  "monitoring": [
+    "신규 공급이 많은 도시의 계약 임대료와 할인 기간은 어떠한가?",
+    "임대료가 정체되어도 동일단지 비용을 통제하고 있는가?",
+    "개발 완공 뒤 안정적 입주율까지 걸리는 기간이 늘고 있는가?"
+  ],
+  "sources": [
+    {
+      "title": "Mid-America Apartment Communities · 투자자 자료",
+      "url": "https://ir.maac.com/corporate-profile/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Mid-America Apartment Communities · 연혁·기업 자료",
+      "url": "https://www.sec.gov/Archives/edgar/data/1012271/000119312516681252/d242307ddefa14a.htm",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

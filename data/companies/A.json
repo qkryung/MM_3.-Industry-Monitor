@@ -1,0 +1,116 @@
+{
+  "ticker": "A",
+  "oneLiner": "약품·식품·환경 시료 등을 정밀 분석하는 장비와 소모품·실험실 서비스를 판매합니다.",
+  "businessModel": "크로마토그래피와 질량분석 등 장비로 시료에 어떤 물질이 얼마나 들어 있는지 분석하도록 돕습니다. 장비 판매 후 컬럼·소모품·정비·소프트웨어가 반복 수입을 만듭니다. 제약뿐 아니라 식품·환경·화학 고객도 중요합니다. HP에서 분리됐지만 2014년 전자계측 사업 Keysight도 분리했으므로 현재 Agilent를 전자장비 회사로만 보면 안 됩니다.",
+  "revenueStreams": [
+    {
+      "name": "Life Sciences and Diagnostics Markets",
+      "description": "액체 크로마토그래피·질량분석, 세포·유전체 분석, 병리·동반진단과 전문 의약품 위탁개발·생산입니다. 2025 회계연도 개편 후 보고부문 기준입니다.",
+      "share": 39.2,
+      "period": "FY2025 · 2025-10-31 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1090872/000109087225000087/R14.htm"
+    },
+    {
+      "name": "Agilent CrossLab",
+      "description": "분석 소모품, 장비 정비·검증·관리, 소프트웨어와 실험실 자동화입니다. 여러 제조사의 장비를 사용하는 연구실도 지원합니다.",
+      "share": 41.9,
+      "period": "FY2025 · 2025-10-31 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1090872/000109087225000087/R14.htm"
+    },
+    {
+      "name": "Applied Markets",
+      "description": "식품·환경·화학 고객 등에 쓰이는 가스 크로마토그래피·질량분석, 분광·진공 기술과 인증 중고 장비입니다.",
+      "share": 18.9,
+      "period": "FY2025 · 2025-10-31 종료",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1090872/000109087225000087/R14.htm"
+    }
+  ],
+  "history": [
+    {
+      "year": "1999",
+      "event": "HP에서 사업을 분리하고 기업공개를 실시했습니다."
+    },
+    {
+      "year": "2010",
+      "event": "Varian 인수를 완료해 분석 기술을 확대했습니다."
+    },
+    {
+      "year": "2014",
+      "event": "전자계측 사업 Keysight를 분리했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "분석 기술",
+      "detail": "제약 품질·식품·환경 검사처럼 정확도와 반복성이 필요한 업무에 사용됩니다."
+    },
+    {
+      "title": "설치 기반 서비스",
+      "detail": "장비 도입 뒤 소모품·정비가 반복돼 초기 장비 판매와 연결됩니다."
+    },
+    {
+      "title": "최종시장 분산",
+      "detail": "제약·학계 외에 식품·환경·화학 등 여러 고객 수요를 보유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "장비 투자 민감도",
+      "detail": "고객이 고가 장비 교체를 미루면 매출과 가동률에 영향을 받습니다."
+    },
+    {
+      "title": "중국·무역",
+      "detail": "중국 수요와 현지 경쟁·무역 규정이 주문에 영향을 줍니다."
+    },
+    {
+      "title": "사업 범위 변화",
+      "detail": "인수·조직 재편에 따라 제품군별 성장률의 비교 기준이 달라질 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Waters",
+      "ticker": "WAT",
+      "comparison": "크로마토그래피·질량분석 등 핵심 분석 영역의 직접 경쟁사입니다."
+    },
+    {
+      "name": "Thermo Fisher",
+      "ticker": "TMO",
+      "comparison": "분석장비와 더 넓은 실험실 공급에서 경쟁합니다."
+    },
+    {
+      "name": "Danaher",
+      "ticker": "DHR",
+      "comparison": "SCIEX 등 분석·생명과학 브랜드를 통해 경쟁합니다."
+    }
+  ],
+  "macroLink": "제약·대학 연구비와 산업 품질검사 투자, 중국 경기·설비예산이 중요합니다. 반복 소모품도 장비가 실제로 사용되어야 수요가 유지됩니다.",
+  "monitoring": [
+    "장비 주문 둔화 중에도 CrossLab 서비스·소모품 사용이 유지되는가?",
+    "제약·식품·환경·중국 등 최종시장별 회복 속도가 다른가?",
+    "인수와 조직 개편을 제외한 매출·현금흐름이 개선되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Agilent Technologies · 투자자 자료",
+      "url": "https://www.investor.agilent.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Agilent Technologies · 연혁·기업 자료",
+      "url": "https://www.agilent.com/about/features/en/20th-anniversary.html",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Agilent · 연혁",
+      "url": "https://www.agilent.com/about/companyinfo/history/timeline_2010s.html",
+      "note": "2010 Varian 인수·2014 Keysight 분리 확인."
+    },
+    {
+      "title": "Agilent · 2025 연차보고서",
+      "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087225000087/a-20251031.htm",
+      "note": "2025-10-31 종료 회계연도, 개편 후 세 보고부문의 외부 매출 기준. 비중은 각 부문 매출을 연결 매출 6,948백만 달러로 나누고 소수점 첫째 자리로 반올림했습니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

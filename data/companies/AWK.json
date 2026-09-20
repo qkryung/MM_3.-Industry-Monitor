@@ -1,0 +1,99 @@
+{
+  "ticker": "AWK",
+  "oneLiner": "미국 상하수도 공급·시설 운영",
+  "businessModel": "지역 수도·하수도 설비를 운영해 가정·기업에서 수도·하수 처리 요금을 받습니다. 낡은 관로 교체·수질 개선에 투자하고 규제기관이 인정한 비용과 수익을 요금으로 회수합니다. 군 시설 등의 계약 서비스도 있지만 핵심은 지역 규제 수도망이며, 인수한 작은 수도 시스템을 개선·통합하는 과정이 성장 경로입니다.",
+  "revenueStreams": [
+    {
+      "name": "규제 수도·하수도",
+      "description": "취수·정수·공급과 하수 수집·처리 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.amwater.com/"
+    },
+    {
+      "name": "계약 서비스",
+      "description": "군 시설 등 고객의 수도·하수도 운영·관리 계약",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.amwater.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1886",
+      "event": "American Water Works & Guarantee로 설립"
+    },
+    {
+      "year": "2003",
+      "event": "RWE가 회사 인수"
+    },
+    {
+      "year": "2008",
+      "event": "IPO를 통해 NYSE 재상장"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "다지역 운영",
+      "detail": "여러 주의 수도망이 단일 지역의 날씨·규제를 분산합니다."
+    },
+    {
+      "title": "운영 규모",
+      "detail": "수질 연구·조달·설비 관리 경험을 시스템 간 공유합니다."
+    },
+    {
+      "title": "교체·인수",
+      "detail": "노후 인프라 개선과 지역 수도망 통합의 기회가 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "요금 수용성",
+      "detail": "안전 투자도 가계 수도요금 부담 때문에 회수가 제한될 수 있습니다."
+    },
+    {
+      "title": "환경 비용",
+      "detail": "PFAS 등 오염물질 처리와 수원 확보 비용이 큽니다."
+    },
+    {
+      "title": "거래 승인",
+      "detail": "Essential Utilities와의 제안된 합병에는 승인·통합 불확실성이 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "American States Water",
+      "ticker": "AWR",
+      "comparison": "AWR은 캘리포니아 규제 수도와 군 시설 계약 비중이 특징입니다."
+    },
+    {
+      "name": "California Water Service",
+      "ticker": "CWT",
+      "comparison": "CWT는 캘리포니아 집중도가 커 물 부족·주 규제 노출이 다릅니다."
+    }
+  ],
+  "macroLink": "경기보다 관로 노후화·수질 규제가 투자 수요를 만듭니다. 금리·건설비 상승과 요금 회수 시차가 핵심 거시 연결입니다.",
+  "monitoring": [
+    "수질·관로 교체 투자비가 요금과 규제 자산에 제때 반영되는가?",
+    "수도망 인수 뒤 서비스 품질·운영 비용이 개선되는가?",
+    "Essential Utilities 합병의 남은 승인과 비용 조건은 무엇인가?"
+  ],
+  "sources": [
+    {
+      "title": "American Water Works · 투자자 자료",
+      "url": "https://ir.amwater.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "American Water Works · 기업 연혁·사업 소개",
+      "url": "https://www.amwater.com/press-room/Company-Overview/company-history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "American Water · 합병 심사 진행",
+      "url": "https://ir.amwater.com/news-and-events/financial-releases/financial-release-details/2026/American-Water-and-Essential-Utilities-Announce-Expiration-of-Hart-Scott-Rodino-Waiting-Period-for-Proposed-Merger/default.aspx",
+      "note": "2026년 8월 HSR 대기기간 종료. 제안된 합병을 완료로 취급하지 않음"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

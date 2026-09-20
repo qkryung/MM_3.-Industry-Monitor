@@ -1,0 +1,99 @@
+{
+  "ticker": "EXC",
+  "oneLiner": "미국 도시권의 규제 전력·가스 송배전",
+  "businessModel": "ComEd·PECO·BGE 등 지역 회사를 통해 전기와 가스를 고객에게 전달합니다. 발전 자회사 Constellation을 분리한 뒤에는 송배전·배관 같은 규제 네트워크가 중심입니다. 도매 전력가격이 오른다고 곧바로 발전 이익을 얻는 구조가 아니라, 설비투자와 요금 심사 결과가 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "전력 송배전",
+      "description": "지역 전선·변전소 사용과 전력 전달에 대한 규제 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.exeloncorp.com/"
+    },
+    {
+      "name": "가스 배급",
+      "description": "일부 지역의 배관망과 가스 공급 관련 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.exeloncorp.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2000",
+      "event": "Unicom과 PECO의 합병으로 Exelon 출범"
+    },
+    {
+      "year": "2012",
+      "event": "Constellation Energy Group 인수"
+    },
+    {
+      "year": "2022",
+      "event": "발전·경쟁 에너지 사업을 Constellation으로 분사"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "도시권 고객",
+      "detail": "대도시권의 광범위한 고객·배전망 기반을 보유합니다."
+    },
+    {
+      "title": "사업 초점",
+      "detail": "발전 연료가격보다 규제 네트워크 운영에 집중합니다."
+    },
+    {
+      "title": "전력망 투자",
+      "detail": "노후 설비 교체·전기화가 장기 투자 필요성을 만듭니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "요금 심사",
+      "detail": "필요한 투자여도 규제기관이 회수 속도·수익률을 제한할 수 있습니다."
+    },
+    {
+      "title": "고객 부담",
+      "detail": "요금 인상과 소득 여건 사이의 균형이 정치적 쟁점입니다."
+    },
+    {
+      "title": "폭풍·사이버",
+      "detail": "도시 인프라의 공급 중단은 복구 비용·책임을 만듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "American Electric Power",
+      "ticker": "AEP",
+      "comparison": "AEP는 발전을 보유한 지역도 있어 EXC의 송배전 중심 구조와 차이가 납니다."
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "comparison": "Sempra의 Oncor는 유사한 전력망 모델이나 캘리포니아·텍사스 규제가 다릅니다."
+    }
+  ],
+  "macroLink": "전기차·데이터센터 접속이 전력망 투자를 늘릴 수 있지만, 금리 상승과 고객 청구액 압박은 요금 승인 여력을 줄입니다.",
+  "monitoring": [
+    "ComEd·PECO·BGE의 핵심 요금 결정이 투자 회수에 어떤 영향을 주는가?",
+    "전력망 신뢰성 개선이 정전시간 감소로 확인되는가?",
+    "자금 조달 계획이 주당 성장 목표와 양립하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Exelon · 투자자 자료",
+      "url": "https://investors.exeloncorp.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Exelon · 기업 연혁·사업 소개",
+      "url": "https://investors.exeloncorp.com/stock-information/historical-share-information",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Exelon · 2022 분사 완료 확인",
+      "url": "https://www.exeloncorp.com/newsroom/exelon-announces-retirement-of-board-of-directors-chairman-mayo-a-shattuck-iii",
+      "note": "규제 사업 Exelon과 발전·경쟁 사업 Constellation의 분리"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

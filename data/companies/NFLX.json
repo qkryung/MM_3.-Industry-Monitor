@@ -1,0 +1,99 @@
+{
+  "ticker": "NFLX",
+  "oneLiner": "콘텐츠를 직접 만들거나 확보해 구독과 광고로 판매하는 글로벌 스트리밍 회사입니다.",
+  "businessModel": "영상 콘텐츠에 먼저 돈을 쓰고 여러 나라의 구독자에게 반복 요금을 받습니다. 광고형 요금제는 구독료와 광고 수입을 함께 만들지만 콘텐츠·기술·판매 비용이 듭니다. 회계상 콘텐츠 비용과 실제 현금 지급 시점이 다르다는 점이 핵심입니다.",
+  "revenueStreams": [
+    {
+      "name": "구독",
+      "description": "광고 유무에 따른 월 구독료와 추가 회원 등 서비스 요금.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.netflix.net/ir-overview/profile/default.aspx"
+    },
+    {
+      "name": "광고 및 기타",
+      "description": "광고형 서비스의 광고 판매와 기타 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.netflix.net/ir-overview/profile/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1997,
+      "event": "DVD 우편 대여 사업으로 창업."
+    },
+    {
+      "year": 2007,
+      "event": "인터넷 스트리밍 서비스 시작."
+    },
+    {
+      "year": 2013,
+      "event": "House of Cards 등 자체 오리지널 시리즈 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "글로벌 배포",
+      "detail": "한 콘텐츠를 여러 국가에 배포해 제작비를 넓은 고객 기반으로 회수할 수 있습니다."
+    },
+    {
+      "title": "사용 경험",
+      "detail": "추천·재생·다양한 기기 지원이 이용 지속성을 뒷받침합니다."
+    },
+    {
+      "title": "현지 제작",
+      "detail": "각국의 이야기를 확보해 지역 수요와 국제 흥행을 함께 노릴 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "흥행 불확실성",
+      "detail": "콘텐츠 지출이 많아도 반드시 시청·회원 유지로 이어지지 않습니다."
+    },
+    {
+      "title": "시간 경쟁",
+      "detail": "다른 스트리밍뿐 아니라 게임·숏폼·소셜 앱과 이용 시간을 경쟁합니다."
+    },
+    {
+      "title": "가격과 광고 균형",
+      "detail": "요금 인상·광고 확대가 고객 이탈을 유발할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Walt Disney",
+      "ticker": "DIS",
+      "comparison": "강한 캐릭터·스포츠·방송 콘텐츠와 스트리밍을 결합합니다."
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "comparison": "Prime 혜택과 동영상을 묶어 구독 유지 효과를 노립니다."
+    }
+  ],
+  "macroLink": "가계가 구독 수를 줄이는지와 광고주의 영상 예산을 함께 봅니다. 해외 매출 환산·콘텐츠 제작비와 투자 후 현금이 실적을 바꿉니다.",
+  "monitoring": [
+    "매출 증가가 요금 인상과 고객 확대 중 어디서 오는가?",
+    "광고 수익화가 시청 경험과 구독 유지를 해치지 않는가?",
+    "콘텐츠 현금 지출과 영업이익이 같은 방향으로 개선되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Netflix · 공식 IR",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Netflix · 창립 25주년",
+      "url": "https://about.netflix.com/en/news/netflix-25th-anniversary",
+      "note": "2022년 회고를 통한 1997년 창업 확인."
+    },
+    {
+      "title": "Netflix · 아시아와 스트리밍 전환",
+      "url": "https://about.netflix.com/en/news/made-in-asia-watched-by-the-world",
+      "note": "2007년 스트리밍, 2013년 자체 제작 전환의 설명."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

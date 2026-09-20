@@ -1,0 +1,99 @@
+{
+  "ticker": "BKR",
+  "oneLiner": "유전 서비스와 LNG·가스 등 에너지 장비",
+  "businessModel": "생산기업에 유전 서비스·장비를 제공하고 LNG·가스 처리 고객에게 터빈·압축기·산업 기술을 공급합니다. 전자는 유정 활동과 연결되고 후자는 대형 프로젝트 수주·인도 및 장기 유지보수에서 수익이 발생합니다.",
+  "revenueStreams": [
+    {
+      "name": "Oilfield Services & Equipment",
+      "description": "시추·완결·생산용 장비와 현장 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.bakerhughes.com/"
+    },
+    {
+      "name": "Industrial & Energy Technology",
+      "description": "LNG·가스·산업용 장비와 수명주기 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.bakerhughes.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1987",
+      "event": "Baker International과 Hughes Tool 통합"
+    },
+    {
+      "year": "2017",
+      "event": "GE Oil & Gas와 결합"
+    },
+    {
+      "year": "2019",
+      "event": "Baker Hughes Company로 사명·브랜드 전환"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "가스 장비",
+      "detail": "LNG·가스 처리 핵심 장비와 서비스 기반을 갖습니다."
+    },
+    {
+      "title": "두 가지 사이클",
+      "detail": "단기 유전 활동과 장기 장비 수주가 섞입니다."
+    },
+    {
+      "title": "설치 기반",
+      "detail": "판매한 장비의 유지보수·부품 기회가 이어집니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "프로젝트 지연",
+      "detail": "LNG 투자 승인·건설이 늦어지면 인도도 미뤄집니다."
+    },
+    {
+      "title": "실행 비용",
+      "detail": "고정가격 장비 주문은 부품·제조비 상승에 노출됩니다."
+    },
+    {
+      "title": "유전 부진",
+      "detail": "장비 수주가 좋아도 유전 서비스 업황은 따로 약해질 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "SLB",
+      "ticker": "SLB",
+      "comparison": "SLB는 저류층·유정·디지털 서비스 비교에 유용합니다."
+    },
+    {
+      "name": "Halliburton",
+      "ticker": "HAL",
+      "comparison": "HAL과는 완결·시추 서비스가 겹치지만 LNG 장비 노출이 다릅니다."
+    }
+  ],
+  "macroLink": "LNG 수요와 생산기업 투자라는 두 경로를 봅니다. 가스 수출 프로젝트 증가가 장비 주문과 서비스로 전환되는지 중요합니다.",
+  "monitoring": [
+    "LNG·산업 장비 수주가 예정된 마진으로 인도되는가?",
+    "서비스 비중이 장비 신규판매 변동성을 낮추는가?",
+    "유전 서비스의 지역별 가격·물량은 어떻게 변하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Baker Hughes · 투자자 자료",
+      "url": "https://investors.bakerhughes.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Baker Hughes · GE Oil & Gas 결합 발표",
+      "url": "https://www.bakerhughes.com/company/news/baker-hughes-and-ge-oil-gas-complete-combination-press-release",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Baker Hughes · 과거 10-K",
+      "url": "https://investors.bakerhughes.com/static-files/00f84334-bd53-4384-b3c8-e38ab6e9a2ec",
+      "note": "1987년 결합 연혁 확인용"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,507 @@
+{
+  "id": "technology",
+  "name": "기술",
+  "en": "Information Technology",
+  "code": "45",
+  "color": "#5F8FE5",
+  "summary": "반도체·컴퓨팅·소프트웨어를 통해 정보 처리와 업무 생산성을 높이는 산업입니다.",
+  "concept": "기술 섹터는 칩을 설계·제조하는 기업부터 서버·네트워크·소프트웨어를 공급하는 기업까지 이어집니다. 같은 AI 수요라도 먼저 장비 주문이 늘고, 이후 서비스 사용료와 고객의 생산성으로 회수되는 과정은 서로 다릅니다. 기술이 훌륭한지와 고객이 돈을 내며 회사가 현금을 버는지는 별개의 질문입니다.",
+  "drivers": [
+    "기업 IT 예산과 디지털 전환: 지출 총액뿐 아니라 어떤 비용을 대체하는지 확인합니다.",
+    "컴퓨팅 수요와 제품 교체: 데이터센터·AI·PC·스마트폰의 수요 주기가 다릅니다.",
+    "기술 경쟁력과 전환 비용: 성능·생태계·통합·신뢰성이 고객 유지와 가격에 연결됩니다."
+  ],
+  "watch": [
+    "AI 관련 주문·매출·현금 회수를 구분하고 동일한 투자 지출을 여러 기업의 최종 수요로 중복 해석하지 않습니다.",
+    "고객사의 설비투자, 공급업체 매출, 최종 서비스 사용량을 연결해 봅니다.",
+    "반복 매출이라는 표현만 믿지 말고 계약 갱신·사용량·주식보상·설비투자를 함께 확인합니다."
+  ],
+  "risks": [
+    "기술 교체·가격 경쟁·고객의 자체 개발 및 소수 고객 집중",
+    "공급 과잉·재고 조정·거대한 설비투자 회수 지연",
+    "수출 통제·지역 집중·보안 사고·서비스 장애"
+  ],
+  "valueChain": [
+    "칩 설계·제조·장비",
+    "서버·기기·네트워크",
+    "클라우드·소프트웨어",
+    "고객 사용·생산성"
+  ],
+  "macro": {
+    "growth": "기업의 신규 IT 프로젝트와 소비자 기기 교체는 경기 영향을 받습니다. 반도체는 최종 수요 변화에 재고 조정이 겹치며 변동이 커질 수 있습니다.",
+    "rates": "금리 상승은 먼 미래 이익의 현재가치와 자금 조달에 영향을 줍니다. 현금이 풍부한 기업과 적자·외부 조달 의존 기업을 구분합니다.",
+    "inflation": "칩·전력·인력·데이터센터 건설비 상승이 원가를 높입니다. 가격 전가·효율 개선이 실제 단위 이익을 지키는지 봅니다.",
+    "dollar": "글로벌 매출의 달러 환산과 해외 고객의 구매력에 영향을 줍니다. 반도체 공급망의 달러 매출·현지 비용 구조도 기업마다 다릅니다."
+  },
+  "valuation": "성장률뿐 아니라 매출총이익률, 고객 유지, 주식보상에 따른 희석, 설비투자 후 현금흐름을 함께 봅니다. EV/Sales(기업가치 ÷ 매출)는 적자 기업 비교의 출발점일 뿐이며, 장기 이익률 가정 없이 저평가를 말할 수 없습니다. 반도체는 경기 중간 수준의 이익도 검토합니다.",
+  "pitfall": "AI라는 공통 키워드가 같은 수익모델을 뜻하지 않습니다. 칩 판매, 장비 공급, 클라우드 사용료, 소프트웨어 구독은 투자 회수 기간과 마진·경쟁 구조가 다릅니다.",
+  "related": [
+    "communication",
+    "industrials",
+    "utilities",
+    "materials"
+  ],
+  "sources": [
+    {
+      "title": "MSCI · GICS 분류 체계",
+      "url": "https://www.msci.com/indexes/index-resources/gics",
+      "note": "정보기술 상위 섹터 기준. 검색·소셜 플랫폼과 일부 전자상거래는 다른 섹터에 속합니다."
+    },
+    {
+      "title": "SIA · 반도체는 어떻게 만들어지는가",
+      "url": "https://www.semiconductors.org/semiconductors-101/how-are-semiconductors-made/",
+      "note": "반도체산업협회의 설계·제조·조립 등 가치사슬 설명 자료입니다."
+    },
+    {
+      "title": "NVIDIA · 공식 투자자 관계",
+      "url": "https://investor.nvidia.com/home/default.aspx",
+      "note": "가속 컴퓨팅·데이터센터 사업, 실적과 공시를 확인하는 기업 원문입니다."
+    },
+    {
+      "title": "Microsoft · 공식 투자자 관계",
+      "url": "https://www.microsoft.com/en-us/Investor/",
+      "note": "클라우드·소프트웨어의 사업부별 실적과 설비투자 확인 경로입니다."
+    },
+    {
+      "title": "TSMC · 공식 투자자 관계",
+      "url": "https://investor.tsmc.com/english",
+      "note": "파운드리의 공정·가동·설비투자·마진을 학습하는 자료입니다."
+    },
+    {
+      "title": "SEC · 미국 상장 티커·거래소 목록",
+      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+      "note": "2026-09-20 티커·거래소 대조. TSM은 대만 기업의 미국 ADR로 구분했습니다."
+    }
+  ],
+  "industries": [
+    {
+      "id": "technology-chip-design",
+      "name": "반도체 설계·가속 컴퓨팅",
+      "en": "Chip Design & Accelerated Computing",
+      "summary": "프로세서와 통신용 칩을 설계하고 제조 파트너를 통해 공급합니다.",
+      "mechanics": "연구개발로 칩 구조와 소프트웨어 생태계를 만들고 외부 파운드리에 제조를 맡깁니다. 성능·전력 효율과 개발자 생태계가 고객 선택을 좌우합니다. 공장 부담이 상대적으로 작아도 선급금·재고·패키징 확보와 고객 지원 비용이 발생하며, 대형 고객의 자체 칩 개발도 경쟁 요인입니다.",
+      "watch": [
+        "데이터센터·PC·게임·통신 등 최종 수요를 분리",
+        "칩 성능뿐 아니라 소프트웨어·메모리·네트워크의 전체 비용",
+        "고객 집중·수출 제한·제조·첨단 패키징 공급 제약"
+      ],
+      "kpis": [
+        {
+          "name": "최종시장별 매출",
+          "meaning": "데이터센터·클라이언트 등 사용처별 매출",
+          "read": "AI 성장과 다른 시장의 재고 회복을 구분합니다."
+        },
+        {
+          "name": "매출총이익률",
+          "meaning": "칩·시스템 매출에서 직접 원가를 뺀 비율",
+          "read": "고부가 제품 구성과 가격 경쟁·신제품 전환 비용을 봅니다."
+        },
+        {
+          "name": "재고 / 공급 약정",
+          "meaning": "판매 전 보유 제품 및 미래 구매 의무",
+          "read": "매출 증가 기대가 꺾일 때 남을 재고와 계약 부담을 확인합니다."
+        }
+      ],
+      "risks": [
+        "대형 고객의 자체 칩 개발·제품 전환·경쟁",
+        "제조·패키징 공급 집중과 수출 제한"
+      ],
+      "valuation": "높은 성장률이 유지되는 기간과 장기 마진을 함께 검토합니다. 현재 수요가 주문 중복·사전 확보를 포함하는지, 주식보상과 공급 약정까지 확인합니다.",
+      "questions": [
+        "고객은 칩 가격보다 어떤 전체 운영비 절감에 돈을 내는가?",
+        "대형 고객이 자체 개발을 확대해도 유지될 경쟁력은 무엇인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA",
+          "exchange": "NASDAQ",
+          "business": "GPU·AI 가속 컴퓨팅·네트워크·소프트웨어",
+          "watch": "데이터센터 매출·시스템 전환·마진·공급",
+          "ir": "https://investor.nvidia.com/home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices",
+          "exchange": "NASDAQ",
+          "business": "CPU·GPU·데이터센터·임베디드 반도체",
+          "watch": "서버 점유율·AI GPU·클라이언트·마진",
+          "ir": "https://ir.amd.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AVGO",
+          "name": "Broadcom",
+          "exchange": "NASDAQ",
+          "business": "네트워크·맞춤형 반도체와 인프라 소프트웨어",
+          "watch": "AI 네트워크·맞춤 칩·소프트웨어; 복합 사업",
+          "ir": "https://investors.broadcom.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm",
+          "exchange": "NASDAQ",
+          "business": "Snapdragon·통신 반도체와 이동통신 특허 사용료",
+          "watch": "프리미엄 스마트폰·자동차·PC·특허 계약",
+          "ir": "https://investor.qualcomm.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "technology-chip-manufacturing",
+      "name": "파운드리·메모리·종합반도체",
+      "en": "Foundry, Memory & Integrated Chips",
+      "summary": "대규모 공정·설비 투자로 실제 반도체를 생산합니다.",
+      "mechanics": "파운드리는 고객 설계 칩을 대신 생산하고, 메모리는 저장·작업용 반도체를 판매하며, 종합반도체 기업은 설계와 제조를 함께 합니다. 공장은 고정비가 커서 가동률·수율이 이익을 좌우합니다. 메모리 가격과 첨단 공정 경쟁은 다른 주기이므로 하나로 묶어 전망하지 않습니다.",
+      "watch": [
+        "공정별 수요·가동률·수율과 신규 공장 램프업",
+        "메모리 가격·비트 출하·고부가 제품 구성",
+        "설비투자·감가상각·고객 선급금과 현금흐름"
+      ],
+      "kpis": [
+        {
+          "name": "가동률 / 수율",
+          "meaning": "생산 능력 중 사용 비율 / 생산품 중 양품 비율",
+          "read": "높을수록 원가 효율에 유리하지만 공시 범위를 확인합니다."
+        },
+        {
+          "name": "ASP / 비트 출하",
+          "meaning": "평균 판매가격 / 공급한 메모리 용량의 변화",
+          "read": "메모리 매출을 가격과 물량으로 분해합니다."
+        },
+        {
+          "name": "설비투자 / 매출",
+          "meaning": "미래 생산 능력에 쓴 투자액의 매출 대비 수준",
+          "read": "성장 준비와 공급 과잉 가능성을 동시에 봅니다."
+        }
+      ],
+      "risks": [
+        "과잉 공급·가격 하락·공장 가동률 하락",
+        "공정 전환 지연·막대한 투자·지역 및 지정학 집중"
+      ],
+      "valuation": "단기 PER은 경기 바닥에서 높고 정점에서 낮아질 수 있습니다. 정상화 마진·감가상각·설비투자와 현금회수를 함께 봅니다.",
+      "questions": [
+        "새 설비를 채울 고객 수요가 얼마나 확인되어 있는가?",
+        "매출 증가가 가격 상승인지 실제 생산·출하 증가인지 구분되는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing",
+          "exchange": "NYSE",
+          "business": "고객 칩을 생산하는 파운드리",
+          "watch": "첨단 공정·패키징·설비투자·해외 공장; 대만 ADR",
+          "ir": "https://investor.tsmc.com/english",
+          "kind": "ADR"
+        },
+        {
+          "ticker": "MU",
+          "name": "Micron Technology",
+          "exchange": "NASDAQ",
+          "business": "DRAM·NAND 등 메모리",
+          "watch": "메모리 가격·고대역폭 메모리·비트 성장·투자",
+          "ir": "https://investors.micron.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "INTC",
+          "name": "Intel",
+          "exchange": "NASDAQ",
+          "business": "프로세서 설계·제조와 파운드리 사업",
+          "watch": "제품 경쟁력·공정 전환·외부 고객·현금",
+          "ir": "https://www.intc.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "technology-semi-equipment",
+      "name": "반도체 장비·공정 제어",
+      "en": "Semiconductor Equipment",
+      "summary": "칩 공장이 생산하고 검사하는 데 필요한 장비와 서비스를 공급합니다.",
+      "mechanics": "반도체 제조사가 새 공장을 짓거나 공정을 바꿀 때 장비를 판매하고 설치된 장비의 유지보수·업그레이드에서 반복 수입을 얻습니다. 고객의 설비투자 계획이 매출에 시차를 두고 반영됩니다. 공정이 복잡해지면 생산량이 같아도 식각·증착·검사 단계가 늘 수 있습니다.",
+      "watch": [
+        "고객사의 웨이퍼 공정 장비 투자 계획과 집행",
+        "메모리·첨단 로직·중국 등 수요 구성",
+        "신규 장비와 설치 기반 서비스의 매출 차이"
+      ],
+      "kpis": [
+        {
+          "name": "시스템 / 서비스 매출",
+          "meaning": "신규 장비와 유지보수·부품 등 매출의 구분",
+          "read": "신규 투자 둔화 시 반복 서비스가 얼마나 완충하는지 봅니다."
+        },
+        {
+          "name": "수주 / 수주잔고",
+          "meaning": "받은 주문과 아직 매출로 인식하지 않은 주문",
+          "read": "취소 가능성·납기·기업별 공시 여부를 확인합니다."
+        },
+        {
+          "name": "매출총이익률",
+          "meaning": "장비·서비스 매출 대비 직접 원가 차감 이익",
+          "read": "고부가 장비 구성·고객 서비스·공급비용 영향을 읽습니다."
+        }
+      ],
+      "risks": [
+        "고객 설비투자 축소·주문 연기",
+        "수출 통제·특정 공정 기술 변화·고객 집중"
+      ],
+      "valuation": "장비 투자 주기의 중간 수준 이익과 서비스 비중을 반영합니다. 고객의 투자 발표액 전체가 해당 회사 주문으로 이어진다고 가정하지 않습니다.",
+      "questions": [
+        "공정이 복잡해질수록 이 회사 장비 사용 단계가 늘어나는가?",
+        "신규 공장 투자가 멈춰도 서비스 매출이 유지되는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "AMAT",
+          "name": "Applied Materials",
+          "exchange": "NASDAQ",
+          "business": "박막·재료공학 중심 반도체 장비와 서비스",
+          "watch": "공정 투자·제품 구성·중국 노출·서비스",
+          "ir": "https://investors.appliedmaterials.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LRCX",
+          "name": "Lam Research",
+          "exchange": "NASDAQ",
+          "business": "식각·증착·세정 장비",
+          "watch": "메모리 투자·공정 복잡도·설치 기반 서비스",
+          "ir": "https://investor.lamresearch.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "KLAC",
+          "name": "KLA",
+          "exchange": "NASDAQ",
+          "business": "반도체 검사·계측·공정 제어",
+          "watch": "수율 관리 수요·검사 투자·서비스 비중",
+          "ir": "https://ir.kla.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "technology-cloud-software",
+      "name": "클라우드·기업 소프트웨어",
+      "en": "Cloud & Enterprise Software",
+      "summary": "기업의 컴퓨팅 자원과 업무 도구를 사용량·구독료로 제공합니다.",
+      "mechanics": "클라우드는 연산·저장 용량 사용에 따라, 업무 소프트웨어는 좌석 수·기능·사용량에 따라 요금을 받습니다. 계약이 반복돼도 고객이 좌석을 줄이거나 사용량을 최적화하면 성장이 둔화될 수 있습니다. 자체 데이터센터를 보유한 공급자와 외부 클라우드를 쓰는 소프트웨어 기업의 투자 부담은 다릅니다.",
+      "watch": [
+        "계약 증가·갱신과 실제 사용량 매출의 차이",
+        "AI 기능의 별도 과금·고객 채택·추론 비용",
+        "데이터센터 투자와 주식보상 후 주주 현금 가치"
+      ],
+      "kpis": [
+        {
+          "name": "ARR",
+          "meaning": "Annual Recurring Revenue, 연환산 반복 매출 지표",
+          "read": "회계 매출이 아니며 포함 계약과 계산 방식이 다릅니다."
+        },
+        {
+          "name": "RPO",
+          "meaning": "Remaining Performance Obligations, 아직 매출로 인식하지 않은 계약상 의무",
+          "read": "계약 기간·취소 조건·인식 시점을 확인합니다."
+        },
+        {
+          "name": "NRR / 순매출유지율",
+          "meaning": "기존 고객의 확장·축소·이탈을 합한 매출 유지 정도",
+          "read": "100%를 넘으면 기존 고객군이 순확장했음을 뜻하나 정의를 확인합니다."
+        }
+      ],
+      "risks": [
+        "IT 예산 축소·좌석 감축·고객 사용 최적화",
+        "AI 경쟁·대규모 설비투자·주식보상에 따른 희석"
+      ],
+      "valuation": "매출 배수에 성장·유지율·장기 마진을 함께 적용합니다. FCF가 커 보여도 주식보상으로 주식 수가 늘고 데이터센터 투자가 앞서갈 수 있습니다.",
+      "questions": [
+        "고객이 비용을 줄일 때도 이 서비스를 유지해야 하는 이유는 무엇인가?",
+        "AI 기능의 추가 매출이 컴퓨팅 비용을 웃도는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft",
+          "exchange": "NASDAQ",
+          "business": "Azure·Microsoft 365·기업 소프트웨어 등",
+          "watch": "클라우드 성장·AI 수익화·설비투자·마진",
+          "ir": "https://www.microsoft.com/en-us/Investor/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ORCL",
+          "name": "Oracle",
+          "exchange": "NYSE",
+          "business": "데이터베이스·기업 애플리케이션·클라우드 인프라",
+          "watch": "클라우드 계약·실제 매출·설비투자·부채",
+          "ir": "https://investor.oracle.com/home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CRM",
+          "name": "Salesforce",
+          "exchange": "NYSE",
+          "business": "고객관계관리 중심 기업 소프트웨어",
+          "watch": "계약 잔고·고객 확장·AI 상품·주식보상",
+          "ir": "https://investor.salesforce.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ADBE",
+          "name": "Adobe",
+          "exchange": "NASDAQ",
+          "business": "디자인·영상·문서·디지털 마케팅 소프트웨어",
+          "watch": "Creative Cloud 갱신·Firefly 유료화·문서·경쟁",
+          "ir": "https://www.adobe.com/investor-relations.html",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "technology-cybersecurity",
+      "name": "사이버보안",
+      "en": "Cybersecurity",
+      "summary": "기업의 기기·네트워크·클라우드·사용자 접근을 보호합니다.",
+      "mechanics": "보안 기능을 장비·소프트웨어·구독 서비스로 판매합니다. 여러 보안 도구를 한 플랫폼으로 묶으면 고객 사용 범위가 넓어질 수 있지만, 무료 기간과 할인으로 단기 매출이 늦어질 수도 있습니다. 보안의 필요성과 개별 공급자의 성장·신뢰성은 구분해야 합니다.",
+      "watch": [
+        "신규 고객 확보와 기존 고객의 추가 모듈 채택",
+        "플랫폼 통합이 고객 비용 절감과 회사 매출로 연결되는지 확인",
+        "침해·장애 이후 고객 유지·보상·보험·운영 비용"
+      ],
+      "kpis": [
+        {
+          "name": "ARR / 구독 매출",
+          "meaning": "연환산 반복 매출 또는 실제 인식된 구독 매출",
+          "read": "장비 매출·선불 청구와 구분해 비교합니다."
+        },
+        {
+          "name": "고객 확장 / 모듈 채택",
+          "meaning": "기존 고객이 사용하는 제품 범위의 확대",
+          "read": "할인 판매인지 실제 유료 사용 증가인지 확인합니다."
+        },
+        {
+          "name": "청구액 / 잔고 / 현금흐름",
+          "meaning": "계약 청구·미인식 계약·현금 회수의 서로 다른 지표",
+          "read": "다년 선불 계약은 현금흐름을 앞당길 수 있습니다."
+        }
+      ],
+      "risks": [
+        "침해·업데이트 장애로 고객 신뢰와 비용 악화",
+        "대형 플랫폼 경쟁·도구 통합·가격 할인"
+      ],
+      "valuation": "반복 매출 성장과 유지율에 주식보상·할인·선불 현금효과를 더해 봅니다. 모든 보안 업체가 같은 시장과 동일한 마진 구조를 가진 것은 아닙니다.",
+      "questions": [
+        "고객은 이 제품 덕분에 어떤 위험이나 운영비를 줄이는가?",
+        "장애가 발생해도 고객이 쉽게 떠나지 못하는 이유가 신뢰인가, 전환 비용인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "PANW",
+          "name": "Palo Alto Networks",
+          "exchange": "NASDAQ",
+          "business": "네트워크·클라우드·보안 운영 플랫폼",
+          "watch": "플랫폼 확장·구독·계약·인수 통합",
+          "ir": "https://investors.paloaltonetworks.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CRWD",
+          "name": "CrowdStrike",
+          "exchange": "NASDAQ",
+          "business": "클라우드 기반 엔드포인트·보안 플랫폼",
+          "watch": "ARR·모듈 채택·고객 유지·서비스 신뢰",
+          "ir": "https://ir.crowdstrike.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "FTNT",
+          "name": "Fortinet",
+          "exchange": "NASDAQ",
+          "business": "네트워크 보안 장비와 구독 서비스",
+          "watch": "장비 교체·서비스 매출·계약·마진",
+          "ir": "https://investor.fortinet.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "technology-hardware",
+      "name": "기기·서버·네트워크",
+      "en": "Hardware, Servers & Networking",
+      "summary": "개인과 데이터센터가 사용하는 컴퓨팅 기기와 연결 장비를 공급합니다.",
+      "mechanics": "스마트폰·PC·서버·네트워크 장비를 설계·조달·판매하고 지원 서비스로 추가 수익을 얻습니다. 기기 생태계와 소프트웨어가 차별성을 만들지만 부품 가격·제품 교체 주기·유통 재고에 영향을 받습니다. AI 서버는 판매액이 커도 고가 부품의 비중 때문에 이익률이 높지 않을 수 있습니다.",
+      "watch": [
+        "소비자 기기 교체와 기업·클라우드 투자 수요 구분",
+        "주요 부품 조달·납기·재고·고객 집중",
+        "하드웨어 매출 증가가 서비스·소프트웨어 이익으로 이어지는지 확인"
+      ],
+      "kpis": [
+        {
+          "name": "출하 / 매출 / ASP",
+          "meaning": "판매 수량·총매출·평균 판매가격",
+          "read": "고가 부품을 포함한 제품 비중 변화가 매출을 키울 수 있습니다."
+        },
+        {
+          "name": "매출총이익률",
+          "meaning": "판매액에서 부품·제조 등의 직접 비용을 뺀 비율",
+          "read": "매출 성장보다 부가가치와 제품 구성의 변화를 확인합니다."
+        },
+        {
+          "name": "재고 / 현금전환주기",
+          "meaning": "부품·제품 재고와 구매부터 대금 회수까지의 기간",
+          "read": "선급 조달·긴 납기가 현금을 묶는지 봅니다."
+        }
+      ],
+      "risks": [
+        "교체 수요 둔화·재고 조정·부품 및 공급망 집중",
+        "대형 고객의 자체 설계·가격 경쟁·기술 전환"
+      ],
+      "valuation": "제품별 마진과 교체 주기의 지속성, 서비스 반복 매출, 순현금·부채를 함께 비교합니다. AI 관련 매출의 크기를 이익 기여로 바로 환산하지 않습니다.",
+      "questions": [
+        "매출 증가 중 회사가 실제로 가져가는 부가가치는 얼마나 되는가?",
+        "다음 기술 전환 때도 고객이 같은 공급자를 선택할 이유가 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple",
+          "exchange": "NASDAQ",
+          "business": "iPhone·Mac 등 기기와 서비스 생태계",
+          "watch": "기기 교체·서비스·설치 기반·지역별 수요",
+          "ir": "https://investor.apple.com/investor-relations/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "DELL",
+          "name": "Dell Technologies",
+          "exchange": "NYSE",
+          "business": "PC·서버·스토리지·기업 IT 인프라",
+          "watch": "AI 서버 출하·마진·PC 수요·운전자본",
+          "ir": "https://investors.delltechnologies.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ANET",
+          "name": "Arista Networks",
+          "exchange": "NYSE",
+          "business": "데이터센터·기업용 네트워크 장비와 소프트웨어",
+          "watch": "클라우드 고객 투자·고속 네트워크·고객 집중",
+          "ir": "https://investors.arista.com/Home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CSCO",
+          "name": "Cisco Systems",
+          "exchange": "NASDAQ",
+          "business": "기업 네트워크 장비·보안·Splunk·협업 소프트웨어",
+          "watch": "기업 IT 예산·장비 교체·구독·Splunk 통합",
+          "ir": "https://investor.cisco.com/",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "ticker": "LIN",
+  "oneLiner": "산업용 가스 생산·공급과 관련 엔지니어링",
+  "businessModel": "산업·전자·의료 고객에게 산소·질소·수소 등 가스를 공급합니다. 큰 공장에는 현장 생산설비와 장기 계약을, 작은 고객에는 액체 운송·용기를 제공합니다. 공급 안정성과 고객 공정에의 연결이 중요하며 설비 제작·엔지니어링도 수행합니다.",
+  "revenueStreams": [
+    {
+      "name": "산업용 가스",
+      "description": "현장·파이프라인·액체·용기 가스 공급",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.linde.com/investors"
+    },
+    {
+      "name": "엔지니어링",
+      "description": "가스 생산·처리 플랜트 설계와 장비",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.linde.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1879",
+      "event": "Carl Linde가 독일 냉동기 회사 설립"
+    },
+    {
+      "year": "1907",
+      "event": "미국 Linde Air Products 설립"
+    },
+    {
+      "year": "2018",
+      "event": "Praxair와 Linde AG 통합"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "장기 계약",
+      "detail": "고객 공정에 연결된 공급 계약이 반복성을 줍니다."
+    },
+    {
+      "title": "공급 방식",
+      "detail": "대형·중소 고객을 다양한 유통 방식으로 대응합니다."
+    },
+    {
+      "title": "공정 지식",
+      "detail": "고순도·안전·에너지 효율 기술을 보유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "에너지 비용",
+      "detail": "전력·가스 전가 조건과 시차를 확인해야 합니다."
+    },
+    {
+      "title": "고객 가동",
+      "detail": "계약 보호가 있어도 제조업 물량 감소 영향은 남습니다."
+    },
+    {
+      "title": "프로젝트 위험",
+      "detail": "대형 저탄소 프로젝트는 일반 가스와 위험이 다릅니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Air Products",
+      "ticker": "APD",
+      "comparison": "APD의 수소·대형 프로젝트 집중과 비교합니다."
+    },
+    {
+      "name": "Air Liquide",
+      "ticker": null,
+      "comparison": "글로벌 산업·의료 가스 경쟁사로 지역·공급계약 구성이 다릅니다."
+    }
+  ],
+  "macroLink": "제조업 가동·전자 투자·의료 수요와 연결됩니다. 가격 인상과 에너지 전가 매출을 실제 물량 성장에서 분리합니다.",
+  "monitoring": [
+    "최소구매·비용 전가 계약이 이익을 얼마나 보호하는가?",
+    "프로젝트 수주가 가동·ROIC로 전환되는가?",
+    "가격과 물량 성장의 균형이 유지되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Linde · 투자자 자료",
+      "url": "https://www.linde.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Linde · 기업 연혁·사업 소개",
+      "url": "https://www.linde.com/about-us",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

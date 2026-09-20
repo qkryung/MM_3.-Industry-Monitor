@@ -1,0 +1,94 @@
+{
+  "ticker": "CMI",
+  "oneLiner": "엔진·발전 시스템·관련 부품과 서비스",
+  "businessModel": "트럭·버스·건설장비 업체에 엔진과 구동·배출 관련 부품을 공급하고 산업 고객에게 발전기를 판매합니다. 장비를 쓰는 고객은 교체 부품과 정비도 구매합니다. 도로 운송 경기와 데이터센터·비상발전 수요는 서로 다른 방향으로 움직일 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "엔진·부품",
+      "description": "상용차·산업 장비용 엔진·구동·배출 부품",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.cummins.com/"
+    },
+    {
+      "name": "발전·유통 서비스",
+      "description": "발전 시스템과 글로벌 정비·부품 공급",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.cummins.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1919",
+      "event": "Clessie Cummins와 W.G. Irwin이 설립"
+    },
+    {
+      "year": "1933",
+      "event": "Model H 엔진으로 트럭 시장 확대"
+    },
+    {
+      "year": "1964",
+      "event": "NYSE 상장"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "엔진 경험",
+      "detail": "내구성·효율·규제 대응 기술을 축적했습니다."
+    },
+    {
+      "title": "정비망",
+      "detail": "설치된 엔진에 장기 부품·서비스를 공급합니다."
+    },
+    {
+      "title": "수요 분산",
+      "detail": "트럭 외 발전·산업 고객을 보유합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "트럭 경기",
+      "detail": "고객 생산 감축이 엔진·부품 주문에 영향을 줍니다."
+    },
+    {
+      "title": "규제 비용",
+      "detail": "배출 규제·품질·인증 비용을 부담합니다."
+    },
+    {
+      "title": "기술 전환",
+      "detail": "배터리·수소 등 투자 회수 속도가 불확실합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Caterpillar",
+      "ticker": "CAT",
+      "comparison": "발전·산업 엔진이 겹치지만 CAT은 완성 중장비도 큽니다."
+    },
+    {
+      "name": "PACCAR",
+      "ticker": "PCAR",
+      "comparison": "트럭 제조사이면서 자체 엔진을 보유한 고객·경쟁 관계입니다."
+    }
+  ],
+  "macroLink": "트럭 주문·운임과 비상발전 투자를 분리해 봅니다. 연료·배출 규제가 제품 교체 시점을 앞당기거나 미룰 수 있습니다.",
+  "monitoring": [
+    "트럭 엔진 약세와 발전 수요의 상쇄 정도는?",
+    "규제·품질 관련 현금 지출은 얼마나 남았는가?",
+    "신규 동력 기술 투자에서 실제 고객 주문은 늘어나는가?"
+  ],
+  "sources": [
+    {
+      "title": "Cummins · 투자자 자료",
+      "url": "https://investor.cummins.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Cummins · 기업 연혁·사업 소개",
+      "url": "https://www.social.cummins.com/timeline",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

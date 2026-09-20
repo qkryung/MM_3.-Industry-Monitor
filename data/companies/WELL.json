@@ -1,0 +1,106 @@
+{
+  "ticker": "WELL",
+  "oneLiner": "고령자 주거시설을 보유하고 운영 성과에 참여하는 헬스케어 부동산 회사입니다.",
+  "businessModel": "고령자 주거시설을 운영사와 함께 운용하거나 장기로 임대합니다. 운영형 포트폴리오는 입주자가 내는 주거·돌봄 요금을 수입으로 인식하고 인건비·식비 등도 부담합니다. 순임대형은 운영사가 비용을 부담하고 회사는 임대료를 받습니다. 두 구조의 매출과 수익률은 직접 비교하지 말고 순영업이익을 함께 봅니다.",
+  "revenueStreams": [
+    {
+      "name": "고령자 주거 운영 수입",
+      "description": "운영형 자산의 입주자 주거·돌봄 관련 요금입니다. 대응하는 인건비·서비스 비용이 큽니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://welltower.com/investors/"
+    },
+    {
+      "name": "부동산 임대료",
+      "description": "순임대 등 임대형 계약의 임대료입니다. 운영형 입주자 수입과 중복되지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://welltower.com/investors/"
+    },
+    {
+      "name": "대출 등 금융 수입",
+      "description": "헬스케어 부동산 관련 대출·금융 투자에서 받는 이자 등입니다. 자산 매각 대금과 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://welltower.com/investors/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1970",
+      "event": "헬스케어 시설 투자에 집중하는 REIT로 설립됐습니다."
+    },
+    {
+      "year": "2015",
+      "event": "Health Care REIT에서 Welltower로 이름을 바꿨습니다."
+    },
+    {
+      "year": "2018",
+      "event": "보통주 티커가 HCN에서 WELL로 변경됐습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고령자 수요",
+      "detail": "고령 인구의 주거·돌봄 필요와 직접 연결되는 자산을 보유합니다."
+    },
+    {
+      "title": "운영 데이터",
+      "detail": "입주율·가격·인력 배치 정보를 여러 시설에 적용할 수 있습니다."
+    },
+    {
+      "title": "운영사 관계",
+      "detail": "전문 운영사와의 관계가 인수 기회와 기존 자산 개선에 활용됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "인력 비용",
+      "detail": "운영형 자산은 간호·돌봄 인력 부족과 임금 상승을 직접 부담합니다."
+    },
+    {
+      "title": "입주 전환",
+      "detail": "시설별 신규 입주와 퇴거가 바뀌면 고정비 때문에 이익 변동이 커집니다."
+    },
+    {
+      "title": "운영·평판 위험",
+      "detail": "환자·입주자 안전 문제와 운영사 부실은 자산 소유자에게도 영향을 줍니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Ventas",
+      "ticker": "VTR",
+      "comparison": "고령자 주거 운영·임대와 다른 헬스케어 부동산을 함께 보유합니다."
+    },
+    {
+      "name": "Healthpeak",
+      "ticker": "DOC",
+      "comparison": "연구소·외래 의료시설 비중이 커 동일한 고령자 주거 회사로 볼 수 없습니다."
+    }
+  ],
+  "macroLink": "고령화는 장기 수요이지만 당기 실적은 입주율·가격·돌봄 인건비에 달렸습니다. 주택 매각 여건과 가계 자산은 입주자의 비용 부담 능력에 연결됩니다.",
+  "monitoring": [
+    "운영형 시설의 입주율 상승이 인건비를 뺀 순영업이익 증가로 이어지는가?",
+    "가격 인상과 신규 입주·퇴거율 사이에 악화 신호가 없는가?",
+    "취득 자산의 초기 수익률과 추가 개선 투자액을 함께 공개하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Welltower · 투자자 자료",
+      "url": "https://welltower.com/investors/",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "Welltower · 연혁·기업 자료",
+      "url": "https://welltower.com/wp-content/uploads/2016/03/Welltower-Annual-Report-2015-2016.pdf",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    },
+    {
+      "title": "Welltower · 주식 세무자료 연혁",
+      "url": "https://welltower.com/investors/tax-notices/",
+      "note": "2017 HCN·2018 WELL 표기 등 티커 전환 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

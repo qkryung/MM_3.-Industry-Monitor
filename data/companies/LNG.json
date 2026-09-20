@@ -1,0 +1,94 @@
+{
+  "ticker": "LNG",
+  "oneLiner": "미국 천연가스 액화·수출과 장기 LNG 판매 계약",
+  "businessModel": "미국 천연가스를 구매해 액체로 만들고 해외 가스회사·발전사·트레이더에 LNG로 판매합니다. 장기계약의 고정 액화요금과 가스 연동 가격 구조가 핵심이며, 미계약 물량의 단기 판매는 국제 가격에 더 민감합니다.",
+  "revenueStreams": [
+    {
+      "name": "장기 LNG 판매",
+      "description": "고정 액화요금과 원료가격 연동 계약에 따른 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://lngir.cheniere.com/"
+    },
+    {
+      "name": "단기 판매·마케팅",
+      "description": "미계약 물량·외부 구매 LNG의 판매 및 최적화",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://lngir.cheniere.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1996",
+      "event": "탐사·생산 기업으로 설립"
+    },
+    {
+      "year": "2016",
+      "event": "Sabine Pass에서 첫 LNG 수출"
+    },
+    {
+      "year": "2018",
+      "event": "Corpus Christi에서 LNG 생산 시작"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "운영 실적",
+      "detail": "두 대형 수출기지의 운영·증설 경험이 있습니다."
+    },
+    {
+      "title": "장기 계약",
+      "detail": "액화요금 계약은 현물 가격 노출을 줄일 수 있습니다."
+    },
+    {
+      "title": "미국 가스 기반",
+      "detail": "풍부한 미국 가스를 국제 수요와 연결합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "집중 자산",
+      "detail": "주요 터미널 중단은 큰 물량 손실로 이어집니다."
+    },
+    {
+      "title": "증설 자본",
+      "detail": "허가·공사비·부채와 수익 발생 시차가 큽니다."
+    },
+    {
+      "title": "계약·시장",
+      "detail": "고객 신용·미계약 물량·국제 공급 과잉 위험이 남습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Shell",
+      "ticker": "SHEL",
+      "comparison": "Shell은 글로벌 LNG 생산·트레이딩과 원유·정유까지 포함합니다."
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "comparison": "Sempra는 LNG 인프라 외 규제 유틸리티와 지분 구조를 함께 봐야 합니다."
+    }
+  ],
+  "macroLink": "미국 가스가격과 해외 LNG 가격차, 해운비·수출허가가 중요합니다. 큰 가격차가 곧 동일한 이익 증가를 뜻하지 않습니다.",
+  "monitoring": [
+    "증설 설비가 계약된 일정·예산으로 가동되는가?",
+    "현물가격 변화에 노출된 물량은 어느 정도인가?",
+    "고정 액화요금이 부채·유지비·환원을 충분히 감당하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Cheniere Energy · 투자자 자료",
+      "url": "https://lngir.cheniere.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Cheniere Energy · 기업 연혁·사업 소개",
+      "url": "https://www.cheniere.com/about/history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

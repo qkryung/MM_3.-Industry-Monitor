@@ -1,0 +1,101 @@
+{
+  "ticker": "MAR",
+  "oneLiner": "호텔 건물보다 브랜드·예약·운영 서비스를 제공해 수수료를 받는 기업입니다.",
+  "businessModel": "호텔 소유주에게 Marriott 브랜드와 예약·회원·운영 체계를 제공합니다. 가맹 수수료와 관리 수수료가 핵심이고 일부 호텔을 직접 보유·임차합니다. 고객 숙박 매출 전체가 Marriott 매출이 아니라는 점이 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "프랜차이즈 수수료",
+      "description": "호텔 브랜드·예약망·관련 라이선스 사용료.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://marriott.gcs-web.com/"
+    },
+    {
+      "name": "관리 수수료",
+      "description": "운영 대행에 따른 기본·성과 보수.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://marriott.gcs-web.com/"
+    },
+    {
+      "name": "보유·임차 및 기타",
+      "description": "직접 운영 호텔 등 수입; 비용 상환 매출은 별도 성격.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://marriott.gcs-web.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1927,
+      "event": "음료 판매점에서 사업 시작."
+    },
+    {
+      "year": 1957,
+      "event": "첫 호텔 개장으로 숙박업 진출."
+    },
+    {
+      "year": 2016,
+      "event": "Starwood 인수로 브랜드·회원 기반 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "브랜드와 회원망",
+      "detail": "다양한 가격대와 Bonvoy 회원 기반이 호텔 소유주에게 수요를 제공합니다."
+    },
+    {
+      "title": "적은 직접 자산",
+      "detail": "모든 호텔을 직접 짓지 않고 수수료 기반으로 객실을 늘릴 수 있습니다."
+    },
+    {
+      "title": "개발 파이프라인",
+      "detail": "소유주와 장기 계약을 통해 미래 객실 성장 기반을 확보합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "소유주 투자 여건",
+      "detail": "금리가 높고 건설비가 비싸면 계약한 호텔 개장이 늦어질 수 있습니다."
+    },
+    {
+      "title": "브랜드 일관성",
+      "detail": "여러 운영 주체의 서비스 품질을 유지해야 합니다."
+    },
+    {
+      "title": "여행 경기",
+      "detail": "호텔을 덜 보유해도 객실 매출에 연동하는 수수료는 수요 둔화에 노출됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Hilton Worldwide",
+      "ticker": "HLT",
+      "comparison": "회원·브랜드·프랜차이즈와 호텔 개발 계약을 경쟁합니다."
+    },
+    {
+      "name": "Hyatt Hotels",
+      "ticker": "H",
+      "comparison": "고급 숙박·리조트·운영 계약에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "출장·단체행사·휴가 수요가 객실 단가와 가동률로 전달됩니다. 금리는 Marriott 차입뿐 아니라 호텔 소유주의 신규 개발 자금에도 작용합니다.",
+  "monitoring": [
+    "RevPAR 개선은 가격과 가동률 중 어디서 오는가?",
+    "신규 객실 순증이 개발 계약의 개장 지연을 상쇄하는가?",
+    "회원·직접 예약망이 호텔 소유주에게 실질 가치를 주는가?"
+  ],
+  "sources": [
+    {
+      "title": "Marriott International · 공식 IR",
+      "url": "https://marriott.gcs-web.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Marriott · Our Story",
+      "url": "https://www.marriott.com/about/culture-and-values/history.mi",
+      "note": "1927년 원류·1957년 호텔 진출·2016년 Starwood 인수."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

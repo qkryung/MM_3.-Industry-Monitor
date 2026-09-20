@@ -1,0 +1,111 @@
+{
+  "ticker": "TSLA",
+  "oneLiner": "전기차와 에너지저장 장치를 직접 설계·생산·판매하는 기업입니다.",
+  "businessModel": "자동차 판매와 리스가 큰 사업이고 배터리 저장·태양광, 충전·정비·보험 등의 수입이 더해집니다. 차량 소프트웨어도 수익원이지만 현재 판매되는 제품의 수익성과 미래 자율주행 기대를 분리해야 합니다. 가격 인하가 물량을 늘려도 이익을 줄일 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "자동차",
+      "description": "차량 판매·리스와 자동차 규제 크레딧 등.",
+      "share": 73.32,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://ir.tesla.com/_flysystem/s3/sec/000162828026003952/tsla-20251231-gen.pdf"
+    },
+    {
+      "name": "에너지",
+      "description": "에너지저장·태양광 제품 판매와 서비스.",
+      "share": 13.47,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://ir.tesla.com/_flysystem/s3/sec/000162828026003952/tsla-20251231-gen.pdf"
+    },
+    {
+      "name": "서비스 및 기타",
+      "description": "정비·중고차·유료 충전·보험 등.",
+      "share": 13.21,
+      "period": "FY2025 · 2025-12-31 종료",
+      "sourceUrl": "https://ir.tesla.com/_flysystem/s3/sec/000162828026003952/tsla-20251231-gen.pdf"
+    }
+  ],
+  "history": [
+    {
+      "year": 2003,
+      "event": "Tesla 법인 설립."
+    },
+    {
+      "year": 2008,
+      "event": "Roadster 정규 생산 시작."
+    },
+    {
+      "year": 2010,
+      "event": "Nasdaq 상장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "제품·소프트웨어 통합",
+      "detail": "차량·앱·소프트웨어 업데이트를 함께 설계합니다."
+    },
+    {
+      "title": "직접 판매 접점",
+      "detail": "고객 주문과 가격을 직접 관리해 유통 중간 단계를 줄입니다."
+    },
+    {
+      "title": "에너지저장 기반",
+      "detail": "자동차 외에 전력 저장 수요를 다루는 별도 제품군이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "가격과 제품 집중",
+      "detail": "주력 차종의 가격 경쟁이 전체 자동차 이익에 크게 영향을 줍니다."
+    },
+    {
+      "title": "미래 기대의 검증",
+      "detail": "자율주행·로봇 사업 기대를 실현된 수입과 구분해야 합니다."
+    },
+    {
+      "title": "생산·품질 비용",
+      "detail": "신공장·신차·리콜·보증 비용이 현금흐름을 흔들 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "General Motors",
+      "ticker": "GM",
+      "comparison": "전기차뿐 아니라 기존 차량 현금창출과 유통망을 함께 활용합니다."
+    },
+    {
+      "name": "Toyota Motor",
+      "ticker": "TM",
+      "comparison": "하이브리드와 다양한 동력계를 통해 구매 수요를 경쟁합니다."
+    }
+  ],
+  "macroLink": "금리·월 납입액·전기차 지원 정책이 차량 수요에 직접 작용합니다. 배터리 비용과 전력망 투자는 에너지 사업에 별도로 영향을 줍니다.",
+  "monitoring": [
+    "인도량 증가가 가격 인하와 규제 크레딧을 제외한 수익성으로 이어지는가?",
+    "에너지저장 매출과 마진이 자동차와 별도로 성장하는가?",
+    "신사업 투자가 기존 사업 현금창출 범위에서 감당되는가?"
+  ],
+  "sources": [
+    {
+      "title": "Tesla · 공식 IR",
+      "url": "https://ir.tesla.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 비중은 명시된 회계기간의 원문 매출에서 계산했으며 현재 실시간 수치가 아닙니다."
+    },
+    {
+      "title": "Tesla · 2010 연차보고서",
+      "url": "https://ir.tesla.com/_flysystem/s3/sec/000119312511054847/d10k-gen_0.pdf",
+      "note": "법인 설립·IPO·초기 사업의 역사 자료."
+    },
+    {
+      "title": "Tesla · Roadster 생산 개시",
+      "url": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster",
+      "note": "2008년 정규 생산 발표."
+    },
+    {
+      "title": "Tesla 2025년 Form 10-K",
+      "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026003952/tsla-20251231-gen.pdf",
+      "note": "연간 매출 합계 94,827백만 USD. 자동차에는 판매·리스·규제 크레딧 포함. 원문 p.50. 비중은 각 항목÷표시 항목 합계로 산출하고 소수 둘째 자리 반올림."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

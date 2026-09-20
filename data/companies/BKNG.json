@@ -1,0 +1,101 @@
+{
+  "ticker": "BKNG",
+  "oneLiner": "숙박·항공·렌터카 예약을 연결하고 수수료와 결제 관련 수입을 얻습니다.",
+  "businessModel": "Booking.com·Priceline·Agoda·KAYAK·OpenTable 등을 운영합니다. 직접 호텔을 많이 소유하지 않고 여행자와 공급자를 연결합니다. 고객이 플랫폼에서 결제하는 merchant와 공급자에게 결제하는 agency 방식은 매출·현금 시점이 다릅니다.",
+  "revenueStreams": [
+    {
+      "name": "Merchant",
+      "description": "플랫폼이 여행 예약의 결제 등을 맡는 거래 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.bookingholdings.com/overview/"
+    },
+    {
+      "name": "Agency",
+      "description": "여행 공급자와 이용자를 연결하고 받는 중개 수수료.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.bookingholdings.com/overview/"
+    },
+    {
+      "name": "광고 및 기타",
+      "description": "검색·예약 연계 광고와 기타 서비스 수입.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.bookingholdings.com/overview/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1997,
+      "event": "Priceline의 원류 회사 설립."
+    },
+    {
+      "year": 2005,
+      "event": "Booking.com 인수."
+    },
+    {
+      "year": 2018,
+      "event": "회사 이름을 Booking Holdings로 변경."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "숙박 공급망",
+      "detail": "호텔·대체 숙박의 다양한 선택지가 예약 전환을 돕습니다."
+    },
+    {
+      "title": "글로벌 수요",
+      "detail": "여러 국가·브랜드로 여행자와 숙소를 연결합니다."
+    },
+    {
+      "title": "반복·직접 예약",
+      "detail": "앱·충성 프로그램으로 유료 검색 의존을 줄일 여지가 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "검색 광고 비용",
+      "detail": "검색엔진을 통해 신규 고객을 확보하면 매출과 마케팅 비용이 함께 늘어납니다."
+    },
+    {
+      "title": "공급자 직판",
+      "detail": "호텔은 자체 회원·직접 예약으로 수수료를 줄이려 합니다."
+    },
+    {
+      "title": "규제·결제 위험",
+      "detail": "플랫폼 규칙·가격 조항·여행 취소와 결제 운영이 부담이 됩니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Expedia Group",
+      "ticker": "EXPE",
+      "comparison": "글로벌 온라인 숙박·여행 예약을 직접 경쟁합니다."
+    },
+    {
+      "name": "Airbnb",
+      "ticker": "ABNB",
+      "comparison": "대체 숙박과 여행자 유입을 경쟁하지만 숙소 구성은 다릅니다."
+    }
+  ],
+  "macroLink": "가계 여행 지출·항공 공급·환율이 예약량과 단가를 바꿉니다. 예약 시점과 실제 숙박·매출 인식의 시차를 고려해야 합니다.",
+  "monitoring": [
+    "객실박수 성장에 직접 예약 비중이 함께 늘어나는가?",
+    "merchant 확대가 결제비·취소비를 넘는 이익을 만드는가?",
+    "총예약액보다 마케팅 차감 후 이익이 더 잘 성장하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Booking Holdings · 공식 IR",
+      "url": "https://ir.bookingholdings.com/overview/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Booking Holdings · 공식 연혁",
+      "url": "https://www.bookingholdings.com/about/history/",
+      "note": "Priceline 원류·Booking.com 인수·2018년 사명 변경."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

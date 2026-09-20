@@ -1,0 +1,447 @@
+{
+  "id": "materials",
+  "name": "소재",
+  "en": "Materials",
+  "code": "15",
+  "color": "#a88967",
+  "summary": "제품과 인프라의 출발점인 금속·화학·포장 등 기초 투입물을 공급합니다.",
+  "concept": "소재는 광물을 캐는 기업부터 화학·포장·도료를 만드는 기업까지 포함합니다. 범용 소재는 국제 가격과 공급능력에 민감하고, 특수 소재는 성능·고객 인증·서비스가 가격 결정력을 만들 수 있습니다. 상품 판매가격과 원료·에너지 비용의 차이, 생산량, 공장 가동률을 함께 봐야 합니다. 구리·금·철강처럼 같은 금속군 안에서도 수요와 가격 동인이 다릅니다.",
+  "drivers": [
+    "중국·미국 등 최종 소비국의 건설·제조업 수요",
+    "원자재 가격·제품 스프레드·산업 생산능력 증설",
+    "품질 차별화·가격 전가·지역별 원가 경쟁력"
+  ],
+  "watch": [
+    "가격과 물량을 분리하고 고객 재고 축적·축소 확인",
+    "신규 광산·화학설비·제지공장의 가동 일정 점검",
+    "단위원가·가동률·유지 투자와 환경 의무를 함께 확인"
+  ],
+  "risks": [
+    "중국 수요 둔화·공급 과잉에 따른 가격 하락",
+    "원료·에너지·인건비 상승과 판매가 전가 지연",
+    "광산 사고·환경 규제·사업국가 정책 변화"
+  ],
+  "valueChain": [
+    "자원·원료 확보",
+    "채굴·기초 가공",
+    "고기능화·제품화",
+    "제조·건설 고객"
+  ],
+  "macro": {
+    "growth": "제조업·건설 경기 회복은 산업용 금속·화학 수요에 우호적입니다. 금과 생활용 포장은 수요 특성이 다릅니다.",
+    "rates": "높은 금리는 건설 수요와 재고 보유를 압박합니다. 금은 실질금리 외에 안전자산 수요·중앙은행 매입도 중요합니다.",
+    "inflation": "가격 상승이 생산 원가보다 빠르면 이익이 늘 수 있습니다. 원료를 구매하는 가공사는 반대 결과가 생길 수 있습니다.",
+    "dollar": "달러 강세는 원자재 수요와 해외 매출 환산에 부담이 될 수 있으나, 현지 통화 비용 하락이 광산 원가를 낮출 수 있습니다."
+  },
+  "valuation": "사이클 중간 가격·가동률의 이익과 FCF로 평가합니다. 광산은 매장량·광산 수명·개발비, 특수소재는 지속 가능한 가격 결정력과 ROIC를 별도로 확인합니다.",
+  "pitfall": "모든 소재를 같은 경기민감주로 묶지 않습니다. 원료 생산자와 원료를 구매하는 가공사는 같은 가격 변화에 반대로 반응할 수 있습니다.",
+  "related": [
+    "industrials",
+    "energy",
+    "consumer-staples",
+    "technology",
+    "real-estate"
+  ],
+  "sources": [
+    {
+      "title": "USGS · 광물 통계",
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/commodity-statistics-and-information",
+      "note": "광물별 생산·수급·무역 조사, 2026 자료 접근 · 확인 2026-09-20"
+    },
+    {
+      "title": "USGS · Mineral Commodity Summaries 2026",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026.pdf",
+      "note": "2026-02 발간; 구리·철강 등 공급 구조의 기초 · 확인 2026-09-20"
+    },
+    {
+      "title": "LyondellBasell · 투자자 정보",
+      "url": "https://investors.lyondellbasell.com/",
+      "note": "폴리머·화학 사업과 보고서 · 확인 2026-09-20"
+    },
+    {
+      "title": "Freeport-McMoRan · 투자자 정보",
+      "url": "https://investors.fcx.com/",
+      "note": "구리·금·몰리브덴 생산 자산과 공시 · 확인 2026-09-20"
+    },
+    {
+      "title": "Ecolab · 투자자 정보",
+      "url": "https://investor.ecolab.com/",
+      "note": "물·위생·특수 솔루션 사업 자료 · 확인 2026-09-20"
+    },
+    {
+      "title": "International Paper · 투자자 정보",
+      "url": "https://www.internationalpaper.com/investors",
+      "note": "포장 사업과 구조 변화 공시 · 확인 2026-09-20"
+    },
+    {
+      "title": "Amcor · FY2026 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000022/amcr-20260630.htm",
+      "note": "2026-06-30 회계연도; AMCR NYSE 보통주 확인 · 확인 2026-09-20"
+    },
+    {
+      "title": "Linde · 투자자 정보",
+      "url": "https://www.linde.com/investors",
+      "note": "산업용 가스·엔지니어링 사업 및 LIN NASDAQ 상장 확인 · 확인 2026-09-20"
+    },
+    {
+      "title": "Air Products · 투자자 정보",
+      "url": "https://investors.airproducts.com/",
+      "note": "산업용 가스·수소 공급 방식과 사업 자료 · 확인 2026-09-20"
+    }
+  ],
+  "industries": [
+    {
+      "id": "materials-chemicals",
+      "name": "기초·기능성 화학",
+      "en": "Basic & Performance Chemicals",
+      "summary": "석유·가스 등 원료를 플라스틱·화학 중간재·기능성 소재로 바꿉니다.",
+      "mechanics": "에탄·나프타 등 원료를 가공해 제조업에 필요한 소재를 공급합니다. 범용 제품은 제품 가격과 원료 비용 사이의 스프레드·가동률이 핵심입니다. 기능성 제품은 고객 요구에 맞춘 성능과 인증에서 부가가치를 얻지만 최종 시장 수요에서 완전히 자유롭지는 않습니다.",
+      "watch": [
+        "제품-원료 가격차와 지역별 원료 비용 차이",
+        "중국·중동 등 신규 생산능력과 설비 폐쇄",
+        "고객 재고 축소가 끝나는지와 최종 판매 수요"
+      ],
+      "kpis": [
+        {
+          "name": "제품 스프레드",
+          "meaning": "제품 판매가격에서 주요 원료가격을 뺀 차이",
+          "read": "에너지·인건비·가공비가 빠져 실제 이익률과 같지 않습니다."
+        },
+        {
+          "name": "가동률",
+          "meaning": "공장 생산능력 중 실제 생산 비율",
+          "read": "낮은 가동률은 단위당 고정비를 높입니다."
+        },
+        {
+          "name": "가격·물량 효과",
+          "meaning": "매출 변화를 단가와 판매량으로 분리한 수치",
+          "read": "물량 증가가 가격 할인으로 만들어진 것은 아닌지 확인합니다."
+        }
+      ],
+      "risks": [
+        "공급 과잉이 장기간 지속되는 구조적 불황",
+        "높은 에너지 비용·환경 투자와 배당 부담"
+      ],
+      "valuation": "정상 가동률·스프레드의 EV/EBITDA와 FCF를 봅니다. 적자기에 장부가만으로 저평가를 판단하지 않습니다.",
+      "questions": [
+        "가격 하락의 원인은 고객 재고 조정인가, 신규 공급의 구조적 증가인가?",
+        "범용 제품과 기능성 제품의 이익 기여는 얼마나 다른가?"
+      ],
+      "companies": [
+        {
+          "ticker": "DOW",
+          "name": "Dow",
+          "exchange": "NYSE",
+          "business": "포장·인프라·소비재용 화학과 소재",
+          "watch": "원료 경쟁력·수요·설비 가동률",
+          "ir": "https://investors.dow.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LYB",
+          "name": "LyondellBasell",
+          "exchange": "NYSE",
+          "business": "폴리올레핀·화학 중간재·복합 소재",
+          "watch": "지역별 스프레드와 사업 재편",
+          "ir": "https://investors.lyondellbasell.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "EMN",
+          "name": "Eastman Chemical",
+          "exchange": "NYSE",
+          "business": "기능성 소재·첨가제·화학 제품",
+          "watch": "최종 수요와 순환 소재 투자 수익",
+          "ir": "https://investors.eastman.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "materials-metals",
+      "name": "금속·광산",
+      "en": "Metals & Mining",
+      "summary": "구리·금 같은 광물을 생산하거나 철강으로 가공합니다. 금속별 수급을 따로 봅니다.",
+      "mechanics": "광산은 매장 자원을 캐서 금속을 판매하며 품위·회수율·채굴 비용이 경쟁력을 좌우합니다. 철강사는 철광석·석탄 또는 철스크랩·전력을 투입해 강재를 만듭니다. 구리는 전력·제조 수요, 금은 투자·실질금리·중앙은행 수요, 철강은 건설·제조업과 공급 규제가 중요합니다.",
+      "watch": [
+        "금속별 재고·생산 차질·신규 공급",
+        "광석 품위·회수율과 에너지·인건비",
+        "철강 판매가격과 스크랩 등 원료 비용 차이"
+      ],
+      "kpis": [
+        {
+          "name": "생산·판매량",
+          "meaning": "채굴·가공하고 판매한 금속의 양",
+          "read": "광석 품위 저하와 계획 보수의 영향을 구분합니다."
+        },
+        {
+          "name": "단위 현금원가·AISC",
+          "meaning": "금속 한 단위의 운영비 또는 유지비 포함 원가",
+          "read": "AISC는 주로 금광산에서 쓰며 포함 항목과 부산물 공제 기준을 확인합니다."
+        },
+        {
+          "name": "유지·성장 설비투자",
+          "meaning": "현재 생산 유지와 미래 생산 확대를 위한 투자",
+          "read": "현재 FCF가 좋아도 미래 유지비가 누락됐는지 점검합니다."
+        }
+      ],
+      "risks": [
+        "채굴 사고·파업·인허가·국가별 세제 변화",
+        "원자재 가격 급락과 신규 프로젝트 비용 초과"
+      ],
+      "valuation": "광산은 보수적 금속 가격의 자산가치와 현금흐름, 철강은 정상 스프레드의 EV/EBITDA로 봅니다. 광산주를 금속 현물과 동일하게 취급하지 않습니다.",
+      "questions": [
+        "가격이 그대로여도 품위와 생산량 변화로 이익이 줄 수 있는가?",
+        "향후 5년 생산을 유지하려면 어느 정도 자본을 다시 투입해야 하는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "FCX",
+          "name": "Freeport-McMoRan",
+          "exchange": "NYSE",
+          "business": "구리를 중심으로 금·몰리브덴도 생산",
+          "watch": "구리 가격·광산 가동·단위 원가",
+          "ir": "https://investors.fcx.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NEM",
+          "name": "Newmont",
+          "exchange": "NYSE",
+          "business": "금 중심의 글로벌 광산 운영",
+          "watch": "금 생산량·유지비·자산 포트폴리오",
+          "ir": "https://www.newmont.com/investors/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NUE",
+          "name": "Nucor",
+          "exchange": "NYSE",
+          "business": "전기로 철강·강재 및 원료 사업",
+          "watch": "강재-스크랩 스프레드와 가동률",
+          "ir": "https://investors.nucor.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "STLD",
+          "name": "Steel Dynamics",
+          "business": "전기로 철강·금속 재활용·철강 가공",
+          "watch": "철강 스프레드·가동률·알루미늄 투자",
+          "ir": "https://ir.steeldynamics.com/",
+          "exchange": "NASDAQ",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "materials-specialty",
+      "name": "도료·특수 솔루션",
+      "en": "Coatings & Specialty Solutions",
+      "summary": "고객의 성능·품질·위생 문제를 해결하며 원료 이상의 가치를 제공하는 소재 분야입니다.",
+      "mechanics": "도료는 보호·내구성·색상 기능을, 수처리·위생 솔루션은 공정 효율과 안전을 제공합니다. 브랜드·판매망·고객 인증·현장 서비스가 가격 결정력을 뒷받침할 수 있습니다. 그래도 주택·자동차·공장 등 최종 수요와 원재료 가격의 영향을 받으므로 안정적이라는 말만으로 판단하지 않습니다.",
+      "watch": [
+        "가격 인상 유지와 물량 회복",
+        "건설·자동차·산업·서비스 고객별 수요",
+        "신제품·서비스가 고객 비용을 얼마나 절감하는지"
+      ],
+      "kpis": [
+        {
+          "name": "유기적 매출 성장",
+          "meaning": "인수·환율을 제외한 기존 사업의 성장",
+          "read": "가격과 물량을 따로 읽습니다."
+        },
+        {
+          "name": "매출총이익률",
+          "meaning": "제품·서비스 원가 차감 후 남는 비율",
+          "read": "원료 가격 하락의 일시적 효과와 구조적 개선을 구분합니다."
+        },
+        {
+          "name": "ROIC",
+          "meaning": "투하 자본 대비 세후 사업 수익률",
+          "read": "인수 영업권을 포함했는지 확인하고 장기 추세를 봅니다."
+        }
+      ],
+      "risks": [
+        "고객 경기 둔화와 가격 인상에 따른 물량 감소",
+        "대체 기술·환경 규제·인수 통합 실패"
+      ],
+      "valuation": "PER·EV/EBITDA 프리미엄을 고객 유지·ROIC·FCF로 검증합니다. 범용 소재와 같은 배수만 적용하거나 안정성을 과대평가하지 않습니다.",
+      "questions": [
+        "이 제품을 바꾸기 어려운 이유가 실제 성능·인증·서비스에 있는가?",
+        "이익률 개선이 원료 하락에만 의존하는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "SHW",
+          "name": "Sherwin-Williams",
+          "exchange": "NYSE",
+          "business": "건축·산업용 도료와 자체 유통망",
+          "watch": "전문 시공업자 수요·가격·매장 생산성",
+          "ir": "https://investors.sherwin-williams.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PPG",
+          "name": "PPG Industries",
+          "exchange": "NYSE",
+          "business": "산업·항공·자동차 등 기능성 코팅",
+          "watch": "최종 시장별 물량과 포트폴리오 변화",
+          "ir": "https://investor.ppg.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ECL",
+          "name": "Ecolab",
+          "exchange": "NYSE",
+          "business": "물·위생·감염예방 관련 화학과 현장 서비스",
+          "watch": "가격·물량·고객 비용 절감 성과",
+          "ir": "https://investor.ecolab.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AVNT",
+          "name": "Avient",
+          "business": "특수 폴리머·색상·첨가제·복합소재",
+          "watch": "고부가 소재 물량·고객 프로그램·부채",
+          "ir": "https://www.avient.com/investors",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "RPM",
+          "name": "RPM International",
+          "business": "건축·산업용 코팅·밀봉재·유지보수 제품",
+          "watch": "보수·건설 수요와 브랜드·원가",
+          "ir": "https://www.rpminc.com/investors/",
+          "exchange": "NYSE",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "materials-packaging",
+      "name": "포장·제지",
+      "en": "Packaging & Paper",
+      "summary": "식품·소비재·전자상거래 상품을 보호하고 유통하는 포장재를 만듭니다.",
+      "mechanics": "골판지·종이·플라스틱 포장 등을 공급하며 소비재 생산과 상품 이동량이 수요를 만듭니다. 원료인 펄프·폐지·수지·에너지 비용과 판매가격의 전가 시점이 이익을 좌우합니다. 생활 필수품 고객이 있어도 산업용 포장·전자상거래는 재고와 경기 사이클을 겪습니다.",
+      "watch": [
+        "박스 출하량과 고객 재고 조정",
+        "원지·폐지·수지 가격의 전가 시차",
+        "공장 가동률·폐쇄·인수 통합과 재활용 규정"
+      ],
+      "kpis": [
+        {
+          "name": "출하량",
+          "meaning": "판매한 박스·포장재의 물리적 규모",
+          "read": "조업일수와 인수 효과를 맞춰 비교합니다."
+        },
+        {
+          "name": "단위당 가격·원가",
+          "meaning": "판매 단가와 원료·생산 비용",
+          "read": "원료 연동 계약은 매출이 줄어도 마진이 유지될 수 있습니다."
+        },
+        {
+          "name": "공장 가동률",
+          "meaning": "생산능력을 실제로 사용한 정도",
+          "read": "고정비가 커 수요가 약하면 이익 감소가 크게 나타날 수 있습니다."
+        }
+      ],
+      "risks": [
+        "새 설비·가격 경쟁으로 제품 가격 하락",
+        "환경 정책·원료비·인수 후 부채 부담"
+      ],
+      "valuation": "정상 출하량·가동률의 EV/EBITDA·FCF로 비교합니다. 종이 포장과 플라스틱 포장의 고객·원가 구조 차이를 반영합니다.",
+      "questions": [
+        "매출 감소는 원료 연동 가격 하락인가, 실제 출하량 감소인가?",
+        "친환경 전환 투자가 고객 계약과 수익성으로 연결되는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "IP",
+          "name": "International Paper",
+          "exchange": "NYSE",
+          "business": "섬유 기반 산업·소비재 포장",
+          "watch": "DS Smith 통합·구조 재편과 포장 출하",
+          "ir": "https://www.internationalpaper.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PKG",
+          "name": "Packaging Corporation of America",
+          "exchange": "NYSE",
+          "business": "골판지원지·골판지 상자 중심 포장",
+          "watch": "박스 출하·가격 전가·가동률",
+          "ir": "https://ir.packagingcorp.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AMCR",
+          "name": "Amcor",
+          "exchange": "NYSE",
+          "business": "소비재·식품·의료용 연포장·경질포장",
+          "watch": "고객 물량·원료비 전가·인수 통합",
+          "ir": "https://www.amcor.com/investors",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "materials-industrial-gases",
+      "name": "산업용 가스",
+      "en": "Industrial Gases",
+      "summary": "산소·질소·수소 등을 공장·병원·반도체 시설에 공급합니다. 대형 미국 거래소 상장 사례 2곳을 비교합니다.",
+      "mechanics": "고객 공장 옆에 생산설비를 설치해 장기계약으로 공급하거나 액화 가스·용기를 운송해 판매합니다. 고객 공정에 필수적이고 공급 안정성이 중요해 장기 관계가 형성됩니다. 일부 계약은 에너지 비용을 전가하지만 모든 사업이 같은 보호를 받지는 않으며, 대형 수소 프로젝트는 일반 가스 공급보다 건설·정책 위험이 클 수 있습니다.",
+      "watch": [
+        "현장 공급·액체 운송·용기 사업의 계약 차이",
+        "장기 고객 계약과 신규 설비 가동 일정",
+        "전력·천연가스 비용 전가와 대형 프로젝트 자본 배분"
+      ],
+      "kpis": [
+        {
+          "name": "가격·물량 성장",
+          "meaning": "기존 사업 성장을 판매가격과 가스 사용량으로 구분",
+          "read": "에너지 비용 전가로 생긴 매출 증가는 별도로 해석합니다."
+        },
+        {
+          "name": "수주잔고·프로젝트 수익",
+          "meaning": "장기계약을 확보한 미가동 프로젝트와 예상 수익",
+          "read": "건설비·고객 신용·최소구매 약정을 확인합니다."
+        },
+        {
+          "name": "ROIC·잉여현금흐름",
+          "meaning": "설비 투자 대비 수익과 투자 후 남는 현금",
+          "read": "성장 투자 규모 때문에 FCF가 낮은지, 투자 수익이 악화된 것인지 구분합니다."
+        }
+      ],
+      "risks": [
+        "고객 공장 가동 축소와 에너지 비용 전가 지연",
+        "대형 수소·저탄소 프로젝트의 비용 초과·정책·수요 위험"
+      ],
+      "valuation": "안정적인 장기계약의 질을 PER·EV/EBITDA·ROIC로 평가하되 미가동 대형 프로젝트의 투자·위험은 별도로 반영합니다.",
+      "questions": [
+        "계약에 최소구매와 에너지 비용 전가가 실제로 포함되어 있는가?",
+        "대형 프로젝트에서 고객이 확약한 물량과 회사가 부담할 자본은 얼마인가?"
+      ],
+      "companies": [
+        {
+          "ticker": "LIN",
+          "name": "Linde",
+          "exchange": "NASDAQ",
+          "business": "산업용 가스 생산·공급과 관련 엔지니어링",
+          "watch": "가격·물량·장기 공급 계약·투자 수익",
+          "ir": "https://www.linde.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "APD",
+          "name": "Air Products and Chemicals",
+          "exchange": "NYSE",
+          "business": "산업용 가스·수소 생산과 고객 현장 공급",
+          "watch": "프로젝트 집행·장기 계약·자본 배분",
+          "ir": "https://investors.airproducts.com/",
+          "kind": "보통주"
+        }
+      ]
+    }
+  ]
+}

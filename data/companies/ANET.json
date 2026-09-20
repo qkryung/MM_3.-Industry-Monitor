@@ -1,0 +1,99 @@
+{
+  "ticker": "ANET",
+  "oneLiner": "대형 데이터센터의 서버를 빠르게 연결하는 네트워크 장비·소프트웨어 회사.",
+  "businessModel": "클라우드·기업 고객에게 고속 이더넷 스위치와 이를 운영하는 EOS 소프트웨어를 제공합니다. 고객은 데이터 이동 속도뿐 아니라 장애·설정 관리의 일관성을 중요하게 봅니다. AI 서버 증가가 연결 장비 수요를 만들 수 있지만 대형 고객의 설계와 구매 시점에 따라 실적이 달라집니다.",
+  "revenueStreams": [
+    {
+      "name": "제품",
+      "description": "클라우드·데이터센터·캠퍼스용 스위치·라우팅 등 네트워크 제품과 관련 소프트웨어.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.arista.com/Home/default.aspx"
+    },
+    {
+      "name": "서비스",
+      "description": "기술 지원·유지보수 및 소프트웨어 관련 서비스.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.arista.com/Home/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2004,
+      "event": "전신 Arastra 설립."
+    },
+    {
+      "year": 2008,
+      "event": "Arista EOS와 첫 상용 스위칭 제품 출시."
+    },
+    {
+      "year": 2014,
+      "event": "ANET로 뉴욕증권거래소 기업공개."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "일관된 운영체제",
+      "detail": "여러 장비에서 EOS를 사용해 네트워크 운영·자동화를 통일할 수 있습니다."
+    },
+    {
+      "title": "클라우드 고객 경험",
+      "detail": "대규모 데이터센터가 요구하는 안정성·검증·고속 연결 경험을 축적했습니다."
+    },
+    {
+      "title": "상용 반도체 활용",
+      "detail": "전문 반도체 업체의 기술 진전에 맞춰 네트워크 제품을 개발할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "대형 고객 집중",
+      "detail": "일부 클라우드 고객의 지출·제품 전환 시점이 실적을 크게 바꿉니다."
+    },
+    {
+      "title": "핵심 부품 의존",
+      "detail": "주요 스위칭 반도체 공급과 출시 일정에 영향을 받습니다."
+    },
+    {
+      "title": "AI 네트워크 경쟁",
+      "detail": "이더넷의 확산 여부와 경쟁사의 통합 GPU·네트워크 제안에 대응해야 합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Cisco Systems",
+      "ticker": "CSCO",
+      "comparison": "기업·데이터센터 네트워크 전반에서 경쟁하며 제품 범위가 넓습니다."
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "comparison": "AI 데이터센터의 이더넷·InfiniBand 네트워크에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "클라우드 설비투자와 기업 네트워크 교체가 수요를 결정합니다. 전체 AI 투자액보다 네트워크 구조·속도 전환·고객별 구매 시기를 보는 편이 더 직접적입니다.",
+  "monitoring": [
+    "대형 클라우드 고객별 지출 집중과 신규 고객 확대가 어떻게 변하는가?",
+    "AI용 이더넷 사업이 시험 도입에서 반복 출하로 넘어가는가?",
+    "캠퍼스 네트워크 확장이 기존 클라우드 사업의 변동을 줄이는가?"
+  ],
+  "sources": [
+    {
+      "title": "Arista Networks · 공식 IR",
+      "url": "https://investors.arista.com/Home/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Arista 공식 회사 개요·연혁",
+      "url": "https://www.arista.com/en/company/quick-facts",
+      "note": "2004년 전신·2008년 제품 출시·2014년 IPO 구분 확인."
+    },
+    {
+      "title": "Arista IPO 공식 발표",
+      "url": "https://www.arista.com/en/company/news/press-release/940-pr-20140606-01",
+      "note": "2014년 상장 일정 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

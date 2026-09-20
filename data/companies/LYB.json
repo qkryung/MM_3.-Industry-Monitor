@@ -1,0 +1,94 @@
+{
+  "ticker": "LYB",
+  "oneLiner": "폴리올레핀·화학 중간재·복합 소재",
+  "businessModel": "포장·자동차·건설 제조사에 폴리에틸렌·폴리프로필렌과 화학 중간재·복합소재를 판매합니다. 생산 공정 라이선스·촉매도 수익원입니다. 범용 소재의 가격차와 고부가 복합소재·기술 수익을 나눠 봐야 사업의 질을 이해할 수 있습니다.",
+  "revenueStreams": [
+    {
+      "name": "폴리머·중간재",
+      "description": "올레핀·폴리올레핀·화학 중간재 제조",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.lyondellbasell.com/"
+    },
+    {
+      "name": "복합소재·기술",
+      "description": "맞춤 복합소재·촉매·공정 라이선스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.lyondellbasell.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2007",
+      "event": "Basell과 Lyondell 통합"
+    },
+    {
+      "year": "2018",
+      "event": "A. Schulman 인수"
+    },
+    {
+      "year": "2019",
+      "event": "Circulen 재활용·재생 기반 폴리머 브랜드 도입"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "공정 기술",
+      "detail": "폴리올레핀 제조 기술·촉매를 외부 고객에도 제공합니다."
+    },
+    {
+      "title": "다양한 생산",
+      "detail": "지역별 원료·제품 포트폴리오를 운영합니다."
+    },
+    {
+      "title": "기능성 확장",
+      "detail": "복합소재로 범용 제품 외 고객 요구에 대응합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "공급 과잉",
+      "detail": "새 설비가 수요보다 빠르게 늘면 가격차가 축소됩니다."
+    },
+    {
+      "title": "유럽 비용",
+      "detail": "지역별 에너지·규제 비용 경쟁력이 다릅니다."
+    },
+    {
+      "title": "전환 집행",
+      "detail": "사업 매각·재활용 투자 성과에는 시간이 필요합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Dow",
+      "ticker": "DOW",
+      "comparison": "원료 기반과 폴리머 구성을 비교하되 실리콘 등 차이를 반영합니다."
+    },
+    {
+      "name": "Avient",
+      "ticker": "AVNT",
+      "comparison": "Avient는 가공·배합·특수소재 중심이라 범용 제조와 수익구조가 다릅니다."
+    }
+  ],
+  "macroLink": "원유·가스 원료차와 세계 제조업·중국 공급능력이 중요합니다. 경기 회복만으로 공급 과잉이 해소되지는 않습니다.",
+  "monitoring": [
+    "저수익 지역의 구조 조정이 현금 손실을 줄이는가?",
+    "기술·복합소재가 범용 부진을 완충하는가?",
+    "재활용 투자가 확정 고객과 수익 계약을 확보했는가?"
+  ],
+  "sources": [
+    {
+      "title": "LyondellBasell · 투자자 자료",
+      "url": "https://investors.lyondellbasell.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "LyondellBasell · 기업 연혁·사업 소개",
+      "url": "https://www.lyondellbasell.com/en/who-we-are/history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

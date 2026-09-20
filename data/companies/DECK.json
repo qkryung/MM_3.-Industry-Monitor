@@ -1,0 +1,106 @@
+{
+  "ticker": "DECK",
+  "oneLiner": "HOKA와 UGG처럼 뚜렷한 사용 목적의 신발 브랜드를 키우는 회사입니다.",
+  "businessModel": "브랜드 제품을 도매 파트너와 자체 매장·온라인에서 판매합니다. HOKA는 러닝·편안한 착화, UGG는 생활·패션 수요와 연결됩니다. 두 브랜드의 성장 원인이 달라 총매출만으로는 제품 유행과 채널 재고를 구분하기 어렵습니다.",
+  "revenueStreams": [
+    {
+      "name": "HOKA",
+      "description": "러닝·걷기 등 HOKA 신발과 관련 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.deckers.com/"
+    },
+    {
+      "name": "UGG",
+      "description": "UGG 신발·의류·액세서리.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.deckers.com/"
+    },
+    {
+      "name": "기타 브랜드",
+      "description": "그 외 보유 브랜드의 제품 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.deckers.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1973,
+      "event": "Santa Barbara에서 신발 사업 시작."
+    },
+    {
+      "year": 1995,
+      "event": "UGG 브랜드 인수."
+    },
+    {
+      "year": 2013,
+      "event": "HOKA 인수로 러닝 시장 확장."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "선명한 브랜드 용도",
+      "detail": "러닝·착화·패션처럼 구매 이유가 구체적입니다."
+    },
+    {
+      "title": "두 성장 기반",
+      "detail": "HOKA와 UGG가 서로 다른 계절·용도 수요를 다룹니다."
+    },
+    {
+      "title": "도매·직판 병행",
+      "detail": "전문 판매점의 도달력과 직접 고객 관계를 함께 활용합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "주력 브랜드 집중",
+      "detail": "두 브랜드의 인기가 약해지면 대체 수입원이 제한됩니다."
+    },
+    {
+      "title": "성장 기대와 유행",
+      "detail": "빠른 출점·상품 확대가 희소성과 정상가 판매를 해칠 수 있습니다."
+    },
+    {
+      "title": "채널 재고",
+      "detail": "도매 주문이 실제 소비보다 앞서면 이후 주문 조정이 발생합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Nike",
+      "ticker": "NKE",
+      "comparison": "러닝·일상 신발과 스포츠 매장 공간을 경쟁합니다."
+    },
+    {
+      "name": "On Holding",
+      "ticker": "ONON",
+      "comparison": "프리미엄 러닝·일상 신발 시장에서 경쟁합니다."
+    }
+  ],
+  "macroLink": "선택 소비·여행·스포츠 참여와 날씨·환율이 브랜드별로 다르게 작용합니다. HOKA 성장과 UGG 계절성을 분리해서 봅니다.",
+  "monitoring": [
+    "브랜드별 도매 출하와 최종 소비가 함께 증가하는가?",
+    "직판 확대가 정상가 판매·영업이익으로 이어지는가?",
+    "신규 제품이 기존 대표 제품에 대한 과도한 의존을 낮추는가?"
+  ],
+  "sources": [
+    {
+      "title": "Deckers Outdoor · 공식 IR",
+      "url": "https://ir.deckers.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Deckers · 기업 연혁",
+      "url": "https://www.deckers.com/culture/how-we-got-here",
+      "note": "1973년 원류·UGG·HOKA 등 브랜드 확장 설명."
+    },
+    {
+      "title": "Deckers · 2026 연차보고서",
+      "url": "https://ir.deckers.com/sec-filings/all-sec-filings/content/0001628280-26-037664/deck-20260331.htm",
+      "note": "브랜드 구성·인수 이력·사업 위험 원문."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

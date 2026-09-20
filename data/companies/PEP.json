@@ -1,0 +1,94 @@
+{
+  "ticker": "PEP",
+  "oneLiner": "스낵과 음료를 함께 생산·유통하는 소비재 회사입니다.",
+  "businessModel": "Frito-Lay·Quaker 식품과 Pepsi·Gatorade 등 음료를 판매합니다. 스낵과 음료는 같은 소매 고객을 만나지만 원재료·유통·경쟁 구조가 다릅니다. 가격 인상으로 매출이 늘었는지, 소비자가 실제로 더 샀는지를 구분해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "식품·스낵",
+      "description": "감자칩·옥수수 스낵·오트밀 등 식품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pepsico.com/investors"
+    },
+    {
+      "name": "음료",
+      "description": "탄산·스포츠 음료·물 등 음료 제품.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.pepsico.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": 1965,
+      "event": "Pepsi-Cola와 Frito-Lay 합병으로 PepsiCo 출범."
+    },
+    {
+      "year": 2001,
+      "event": "Quaker Oats 결합으로 Gatorade·식품 기반 확대."
+    },
+    {
+      "year": 2022,
+      "event": "Tropicana 등 일부 주스 사업을 합작회사 구조로 전환."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "스낵·음료 조합",
+      "detail": "여러 소비 상황을 다뤄 소매업체와의 접점을 넓힙니다."
+    },
+    {
+      "title": "유통 실행",
+      "detail": "빈번한 상품 공급과 매장 진열 관리가 브랜드 판매를 돕습니다."
+    },
+    {
+      "title": "다양한 가격·포장",
+      "detail": "용량·가격대를 조정해 다른 가계 예산에 대응할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "수량 감소 위험",
+      "detail": "계속된 가격 인상은 저가 대체품 이동을 유발할 수 있습니다."
+    },
+    {
+      "title": "비용 구조",
+      "detail": "운송·인건비·포장·농산물 비용이 동시에 영향을 줍니다."
+    },
+    {
+      "title": "건강 선호 변화",
+      "detail": "당·염분·가공식품에 대한 소비 선호와 규제가 제품 구성을 바꿉니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Coca-Cola",
+      "ticker": "KO",
+      "comparison": "음료 브랜드·유통을 직접 경쟁하지만 식품 비중이 다릅니다."
+    },
+    {
+      "name": "Mondelēz",
+      "ticker": "MDLZ",
+      "comparison": "스낵·간식 지출과 매장 진열을 경쟁합니다."
+    }
+  ],
+  "macroLink": "곡물·감자·설탕·포장·운송비를 판매가격과 연결해 봅니다. 저소득 소비 약화는 소용량·저가 상품 구성과 판매량에 나타날 수 있습니다.",
+  "monitoring": [
+    "식품과 음료의 판매량이 가격 인상 뒤 유지되는가?",
+    "생산성 절감이 판촉 확대를 넘어 이익을 개선하는가?",
+    "해외 성장은 현지 판매와 환율 중 무엇의 결과인가?"
+  ],
+  "sources": [
+    {
+      "title": "PepsiCo · 공식 IR",
+      "url": "https://www.pepsico.com/investors",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "PepsiCo · 주주 FAQ",
+      "url": "https://www.pepsico.com/investors/shareholders-services",
+      "note": "1965년 출범·2001년 Quaker·2022년 주스 사업 거래 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

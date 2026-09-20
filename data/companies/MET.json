@@ -1,0 +1,101 @@
+{
+  "ticker": "MET",
+  "oneLiner": "직장 복지보험과 생명·퇴직 관련 약속을 관리하는 글로벌 보험사입니다.",
+  "businessModel": "기업이 직원에게 제공하는 생명·장애·치과 등 복지보험, 해외 생명보험, 퇴직·연금 관련 솔루션을 운영합니다. 보험료·상품 수수료와 장기 운용자산의 투자수익을 얻고 보험금·계약자 이자·운영비를 부담합니다. 보험 적립금이나 연금 수탁자산을 매출로 보지 않으며, 장기 약속과 투자자산의 만기·신용 위험을 함께 분석해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "보험료",
+      "description": "직장 복지·생명·사고·건강 등 보장의 대가",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.metlife.com/overview/default.aspx"
+    },
+    {
+      "name": "상품·관리 수수료",
+      "description": "계약·퇴직·투자관리 서비스에 대한 보수",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.metlife.com/overview/default.aspx"
+    },
+    {
+      "name": "순투자수익",
+      "description": "보험·연금 책임을 뒷받침하는 자산의 이자·배당 등; 지급 약속과 함께 평가",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.metlife.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": "1868",
+      "event": "Metropolitan Life Insurance Company가 영업을 시작했습니다."
+    },
+    {
+      "year": "2000",
+      "event": "상호회사에서 주식회사로 전환하고 상장했습니다."
+    },
+    {
+      "year": "2010",
+      "event": "Alico 인수로 해외 보험 기반을 확대했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기업 복지 관계",
+      "detail": "기업 고객과 다년 관계를 통해 여러 직원 보장을 제공할 수 있습니다."
+    },
+    {
+      "title": "장기 자산관리",
+      "detail": "보험·퇴직부채에 맞춘 투자 운용 능력이 사업의 핵심입니다."
+    },
+    {
+      "title": "지역·상품 분산",
+      "detail": "미국 기업보험과 여러 해외 시장을 결합합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "장기 추정 위험",
+      "detail": "사망·장애·해약·수명 가정의 오차가 오랜 기간 이익에 반영될 수 있습니다."
+    },
+    {
+      "title": "신용·금리 위험",
+      "detail": "장기 투자자산의 부실과 자산·부채 만기 불일치는 손실을 만듭니다."
+    },
+    {
+      "title": "환율·규제",
+      "detail": "해외 사업의 환산과 현지 자본·상품 규정이 복잡합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Prudential Financial",
+      "ticker": "PRU",
+      "comparison": "미국 생명·퇴직·운용에서 경쟁하지만 상품·해외 구성에 차이가 있습니다."
+    },
+    {
+      "name": "Aflac",
+      "ticker": "AFL",
+      "comparison": "직장·보장성 보험이 일부 겹치지만 Aflac은 미국·일본 보충보험에 더 집중합니다."
+    }
+  ],
+  "macroLink": "금리 상승은 재투자수익을 높일 수 있지만 계약자 행동·채권평가·부채 가치도 바꿉니다. 실업과 고용은 직장 복지 가입에, 환율은 해외 이익 환산에 작용합니다.",
+  "monitoring": [
+    "기업 복지보험의 계약 유지와 손해율이 함께 안정적인가?",
+    "투자수익 개선이 신용위험 확대를 대가로 얻어진 것은 아닌가?",
+    "자산과 부채의 만기·금리 민감도가 어떻게 맞춰져 있는가?"
+  ],
+  "sources": [
+    {
+      "title": "MetLife · 투자자 자료",
+      "url": "https://investor.metlife.com/overview/default.aspx",
+      "note": "사업·실적자료와 주요 위험 확인. 강점·약점·매크로 연결은 사업구조에 대한 정성적 해석이며 매수·매도 의견이 아닙니다."
+    },
+    {
+      "title": "MetLife · 연혁·기업 자료",
+      "url": "https://www.metlife.com/global/company/our-history/",
+      "note": "설립 배경과 주요 변화 확인. 연도는 사건 발생연도입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

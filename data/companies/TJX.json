@@ -1,0 +1,101 @@
+{
+  "ticker": "TJX",
+  "oneLiner": "브랜드 상품을 유연하게 조달해 할인 가격으로 판매하는 유통사입니다.",
+  "businessModel": "TJ Maxx·Marshalls·HomeGoods·TK Maxx 등을 운영합니다. 정해진 상품을 계속 진열하기보다 기회에 맞춰 브랜드 상품을 조달해 자주 바뀌는 구색을 제공합니다. 낮은 가격과 발견하는 재미가 방문을 유도하지만 조달·재고 회전의 실행력이 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "Marmaxx",
+      "description": "미국 TJ Maxx·Marshalls의 의류·생활용품 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tjx.com/"
+    },
+    {
+      "name": "HomeGoods",
+      "description": "미국 HomeGoods 등 가정용품 판매.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tjx.com/"
+    },
+    {
+      "name": "캐나다·국제 사업",
+      "description": "캐나다 및 유럽·호주 등의 브랜드 할인 유통.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.tjx.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": 1977,
+      "event": "첫 TJ Maxx 매장 개점."
+    },
+    {
+      "year": 1987,
+      "event": "TJX 법인 설립으로 브랜드 체계 형성."
+    },
+    {
+      "year": 1995,
+      "event": "Marshalls 인수."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "유연한 매입",
+      "detail": "소매·브랜드 업계의 과잉 상품을 기회로 활용할 수 있습니다."
+    },
+    {
+      "title": "가성비와 탐색",
+      "detail": "가격과 매번 달라지는 상품이 반복 방문 동기를 만듭니다."
+    },
+    {
+      "title": "매입 조직",
+      "detail": "국제 공급업체 관계와 조달 경험이 사업의 핵심 자산입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "구색의 일관성 한계",
+      "detail": "고객이 원하는 특정 제품을 항상 제공할 수 없습니다."
+    },
+    {
+      "title": "매장 운영비",
+      "detail": "임금·임대·도난 비용이 낮은 판매가격의 이익을 줄일 수 있습니다."
+    },
+    {
+      "title": "조달 판단 위험",
+      "detail": "기회 매입도 수요를 잘못 읽으면 재고와 할인이 늘어납니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Ross Stores",
+      "ticker": "ROST",
+      "comparison": "미국 의류 중심 할인 유통 모델로 직접 경쟁합니다."
+    },
+    {
+      "name": "Burlington Stores",
+      "ticker": "BURL",
+      "comparison": "오프프라이스 매장과 상품 조달을 경쟁합니다."
+    }
+  ],
+  "macroLink": "소비자가 저가로 이동하면 고객 유입 기회가 생길 수 있지만 전체 소비 축소는 상품 수요를 누릅니다. 다른 소매업체의 재고도 TJX 조달 환경에 영향을 줍니다.",
+  "monitoring": [
+    "기존점 성장이 방문객 증가에서 오는가?",
+    "상품 회전과 정상적인 매입 마진이 유지되는가?",
+    "신규 매장 증가가 기존 매장 매출을 잠식하지 않는가?"
+  ],
+  "sources": [
+    {
+      "title": "TJX Companies · 공식 IR",
+      "url": "https://investor.tjx.com/",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "TJX · 공식 연혁",
+      "url": "https://www.tjx.com/company/history",
+      "note": "1977년 매장 원류·1987년 법인·1995년 Marshalls 인수."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

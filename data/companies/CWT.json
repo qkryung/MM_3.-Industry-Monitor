@@ -1,0 +1,94 @@
+{
+  "ticker": "CWT",
+  "oneLiner": "캘리포니아 등 여러 주의 수도·하수도 서비스",
+  "businessModel": "Cal Water를 중심으로 캘리포니아와 다른 서부 지역·텍사스에서 수도·하수도 시스템을 운영합니다. 고객이 내는 요금으로 취수·정수·관로 비용과 허용 수익을 회수합니다. 가뭄으로 물 판매량이 줄어도 규제상 매출 조정 장치가 있으면 영향이 달라지므로 물량과 회계상 수익을 함께 읽어야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "규제 수도·하수도",
+      "description": "지역 수도 공급·하수 처리와 승인된 설비 투자 회수",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.calwatergroup.com/investors"
+    },
+    {
+      "name": "계약·관련 서비스",
+      "description": "외부 수도 운영 등 비규제·관련 서비스; 규모는 별도 공시 확인",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.calwatergroup.com/investors"
+    }
+  ],
+  "history": [
+    {
+      "year": "1926",
+      "event": "캘리포니아 네 도시 수도망을 기반으로 출범"
+    },
+    {
+      "year": "1999",
+      "event": "Washington Water 인수로 다른 주에 진출"
+    },
+    {
+      "year": "2021",
+      "event": "Texas Water Service 설립·텍사스 유틸리티 투자"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "현지 수도 경험",
+      "detail": "다양한 캘리포니아 수원·수질·지역 규제 운영 경험이 있습니다."
+    },
+    {
+      "title": "필수 투자",
+      "detail": "노후 관로·수질 개선은 지속적인 자산 투자 수요입니다."
+    },
+    {
+      "title": "지역 확대",
+      "detail": "다른 주의 수도망 인수로 장기 성장 경로를 넓힙니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "캘리포니아 집중",
+      "detail": "해당 주의 요금·가뭄 정책이 이익에 큰 영향을 줍니다."
+    },
+    {
+      "title": "규제 시차",
+      "detail": "요금 결정 지연과 소급 반영은 분기 실적을 왜곡할 수 있습니다."
+    },
+    {
+      "title": "수원·오염",
+      "detail": "물 구입 비용·오염 처리·설비 안전 비용이 증가할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "American States Water",
+      "ticker": "AWR",
+      "comparison": "비슷한 캘리포니아 노출이나 AWR에는 군 시설 계약·전력 사업이 있습니다."
+    },
+    {
+      "name": "American Water",
+      "ticker": "AWK",
+      "comparison": "AWK는 더 넓은 다지역 규제 기반을 갖고 인수 전략도 규모가 다릅니다."
+    }
+  ],
+  "macroLink": "가뭄·물 구입 비용·공사비·금리가 중요합니다. 절수 정책에 따른 물량 감소와 요금 조정 방식의 관계를 먼저 확인합니다.",
+  "monitoring": [
+    "캘리포니아 요금 심사 지연·소급 반영이 정상 이익을 어떻게 바꾸는가?",
+    "수질 처리·관로 투자가 허용 자산에 반영되는가?",
+    "텍사스 등 신규 지역의 인수·연결 증가가 현금 수익으로 이어지는가?"
+  ],
+  "sources": [
+    {
+      "title": "California Water Service Group · 투자자 자료",
+      "url": "https://www.calwatergroup.com/investors",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "California Water Service Group · 기업 연혁·사업 소개",
+      "url": "https://www.calwatergroup.com/our-company/company-history",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

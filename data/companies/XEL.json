@@ -1,0 +1,99 @@
+{
+  "ticker": "XEL",
+  "oneLiner": "전력·가스 공급과 규제 발전·전력망",
+  "businessModel": "중서부·서부 여러 주에서 발전소·송배전망·가스 배관을 운영합니다. 가정·기업의 에너지 요금으로 규제기관이 허용한 비용과 수익을 회수하며, 석탄 발전 전환·재생에너지·전력망 투자가 성장 경로입니다. 지역별 산불 책임과 투자 회수 조건 때문에 단순한 친환경 발전 테마로만 보기는 어렵습니다.",
+  "revenueStreams": [
+    {
+      "name": "규제 전력",
+      "description": "발전·송배전 및 고객 전기요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.xcelenergy.com/"
+    },
+    {
+      "name": "규제 가스",
+      "description": "지역 천연가스 배급과 관련 서비스 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.xcelenergy.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1872",
+      "event": "위스콘신 사업 전신의 하나가 설립"
+    },
+    {
+      "year": "2000",
+      "event": "Northern States Power와 New Century Energies 결합으로 Xcel 출범"
+    },
+    {
+      "year": "2018",
+      "event": "XEL이 Nasdaq에서 거래 시작"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "지역 분산",
+      "detail": "서로 다른 경제권·기후의 고객을 보유합니다."
+    },
+    {
+      "title": "전환 투자",
+      "detail": "발전·전력망 교체를 규제 자산 성장으로 연결할 수 있습니다."
+    },
+    {
+      "title": "운영 경험",
+      "detail": "풍력·원전·가스 등 여러 발전원의 운영 기반이 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "산불 책임",
+      "detail": "재해 관련 청구·보험 한도·규제 판단이 현금과 평가에 영향을 줍니다."
+    },
+    {
+      "title": "규제 회수",
+      "detail": "승인되지 않은 비용이나 회수 지연이 수익을 압박합니다."
+    },
+    {
+      "title": "건설·금리",
+      "detail": "장기 설비투자의 비용과 자금 조달 변동이 큽니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Duke Energy",
+      "ticker": "DUK",
+      "comparison": "규제 발전·망 모델은 비슷하지만 기후·규제 관할과 전환 일정이 다릅니다."
+    },
+    {
+      "name": "American Electric Power",
+      "ticker": "AEP",
+      "comparison": "AEP는 송전망 투자의 비중·지리적 노출을 비교하는 기준입니다."
+    }
+  ],
+  "macroLink": "풍력·태양광 원가와 세제, 전력 수요 및 차입금리가 투자 경제성을 바꿉니다. 기후 위험은 경기와 별도로 작동합니다.",
+  "monitoring": [
+    "산불 관련 합의·소송·보험 회수가 새로 달라졌는가?",
+    "석탄 대체 설비의 일정과 고객 요금 부담이 승인 범위에 들어오는가?",
+    "주별 요금 결정이 실제 수익률을 뒷받침하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Xcel Energy · 투자자 자료",
+      "url": "https://investors.xcelenergy.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Xcel Energy · 기업 연혁·사업 소개",
+      "url": "https://xcelenergy.com/staticfiles/xe/PDF/News/Xtra/Xtra_10_October_2015.pdf",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "Xcel · Nasdaq 이전 공지",
+      "url": "https://investors.xcelenergy.com/news-events/news-releases/news-details/2017/Xcel-Energy-to-Transfer-Stock-Exchange-Listing-to-Nasdaq/default.aspx",
+      "note": "2017년 말 이전 효력·2018-01-02 Nasdaq 거래 시작"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

@@ -1,0 +1,440 @@
+{
+  "id": "consumer-staples",
+  "name": "필수소비재",
+  "en": "Consumer Staples",
+  "code": "30",
+  "color": "#79B494",
+  "summary": "식품·음료·생활용품처럼 일상에서 반복 구매하는 상품과 유통을 다룹니다.",
+  "concept": "사람들이 매일 사용하는 제품을 반복 판매하는 산업입니다. 경기 변화에 상대적으로 덜 민감한 편이지만 판매량이 보장되거나 주가가 안정적이라는 뜻은 아닙니다. 브랜드 업체는 가격 결정력과 원가 관리, 유통업체는 낮은 마진에서도 많은 상품을 빠르게 회전시키는 능력이 중요합니다.",
+  "drivers": [
+    "인구·생활 습관·반복 수요: 자주 구매하는 이유가 유지되는지 봅니다.",
+    "가격 결정력: 가격을 올려도 소비자가 자사 브랜드를 선택하는지 확인합니다.",
+    "원재료·포장·운송·인건비: 가격 인상과 원가 상승의 시차가 이익을 바꿉니다."
+  ],
+  "watch": [
+    "유기적 매출 성장에서 가격·제품 구성과 판매량을 분리합니다. 인수·환율 효과는 따로 봅니다.",
+    "고가 브랜드에서 자체 브랜드·저가 상품으로 이동하는지 확인합니다.",
+    "대형 유통업체의 협상력과 재고 정책이 제조업체 주문에 미치는 영향을 봅니다."
+  ],
+  "risks": [
+    "과도한 가격 인상 뒤 판매량 감소·자체 브랜드로 이동",
+    "원자재·포장·물류 비용 및 환율 변동",
+    "건강 선호 변화·제품 회수·규제와 유통 채널 집중"
+  ],
+  "valueChain": [
+    "농산물·원재료 조달",
+    "가공·브랜드·포장",
+    "도매·소매 유통",
+    "일상 소비·반복 구매"
+  ],
+  "macro": {
+    "growth": "경기 둔화에도 수요가 이어지기 쉽지만 소비자는 더 싼 브랜드나 매장으로 이동할 수 있습니다. 방어적 특성과 개별 기업 실적을 구분합니다.",
+    "rates": "높은 금리는 차입비용과 배당주의 상대 매력에 영향을 줍니다. 안정적 수익에도 비싼 주가 배수는 낮아질 수 있습니다.",
+    "inflation": "원가 상승을 가격에 전가하는 데 시간이 걸립니다. 이후 원가가 내려와도 판촉 경쟁이 늘면 마진 회복이 제한될 수 있습니다.",
+    "dollar": "해외 매출 비중이 큰 브랜드는 달러 강세 시 환산 부담을 받습니다. 현지 생산·조달과 환헤지가 일부 상쇄할 수 있습니다."
+  },
+  "valuation": "PER과 FCF 수익률에 유기적 성장·판매량·자본수익률을 함께 봅니다. 안정적 배당만 보고 원금 위험과 부채를 놓치지 않습니다. 유통은 매우 낮은 마진의 높은 회전율 사업이므로 브랜드 제조업과 배수를 바로 비교하기 어렵습니다.",
+  "pitfall": "필수품이라는 이유로 가격 인상을 무한히 받아줄 수 있다고 생각하면 안 됩니다. 매출이 늘어도 판매량이 줄고 점유율을 잃는다면 브랜드 경쟁력을 다시 점검해야 합니다.",
+  "related": [
+    "consumer-discretionary",
+    "materials",
+    "industrials",
+    "energy"
+  ],
+  "sources": [
+    {
+      "title": "MSCI · GICS 분류 체계",
+      "url": "https://www.msci.com/indexes/index-resources/gics",
+      "note": "필수소비재 상위 분류 원칙. 하위 트리는 이해를 돕는 학습용 그룹입니다."
+    },
+    {
+      "title": "USDA ERS · Food Price Outlook",
+      "url": "https://www.ers.usda.gov/data-products/food-price-outlook",
+      "note": "식품 소비자·생산자 물가와 원가 환경을 확인하는 미국 농무부 자료. 2026년 8월 갱신 자료 확인."
+    },
+    {
+      "title": "P&G · 공식 투자자 관계",
+      "url": "https://www.pginvestor.com/overview/default.aspx",
+      "note": "유기적 성장과 가격·수량·제품 구성 변화의 공시 사례입니다."
+    },
+    {
+      "title": "Coca-Cola · 공식 투자자 관계",
+      "url": "https://investors.coca-colacompany.com/",
+      "note": "음료 브랜드·원액·병입 파트너 구조와 실적 공시 확인 경로입니다."
+    },
+    {
+      "title": "Walmart · 공식 투자자 관계",
+      "url": "https://stock.walmart.com/",
+      "note": "소매·전자상거래·회원제 사업 자료와 현재 Nasdaq 상장 정보 확인."
+    },
+    {
+      "title": "SEC · 미국 상장 티커·거래소 목록",
+      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+      "note": "2026-09-20 대조. Walmart와 Kimberly-Clark의 현재 거래소는 Nasdaq으로 반영했습니다."
+    }
+  ],
+  "industries": [
+    {
+      "id": "consumer-staples-food",
+      "name": "가공식품·스낵",
+      "en": "Packaged Foods & Snacks",
+      "summary": "곡물·유제품 등 원재료를 브랜드 식품으로 가공해 판매합니다.",
+      "mechanics": "브랜드 제품을 제조해 소매점·음식점 등으로 판매합니다. 매출은 판매량과 가격·제품 구성의 결합이며 원재료 가격이 바뀌어도 계약·헤지·재고 때문에 비용 반영에는 시차가 생깁니다. 소비자가 저가 대체품으로 이동하는지 확인해야 가격 인상의 지속성을 판단할 수 있습니다.",
+      "watch": [
+        "가격·구성 효과와 실제 판매량 변화",
+        "곡물·코코아·설탕·포장재 원가와 헤지 시차",
+        "건강 선호·소용량 제품·자체 브랜드 경쟁"
+      ],
+      "kpis": [
+        {
+          "name": "유기적 매출 성장",
+          "meaning": "인수·매각·환율 영향을 조정한 매출 변화",
+          "read": "기업별 정의가 다르며 가격과 수량으로 다시 분해합니다."
+        },
+        {
+          "name": "판매량 / 제품 구성",
+          "meaning": "판매 수량 또는 수량과 제품 구성의 결합 지표",
+          "read": "가격 인상으로 수량이 줄어든 구간을 확인합니다."
+        },
+        {
+          "name": "매출총이익률",
+          "meaning": "매출에서 재료·제조 등 원가를 차감한 비율",
+          "read": "원가 하락과 판촉 확대 중 무엇이 주도하는지 봅니다."
+        }
+      ],
+      "risks": [
+        "원재료 급등과 판가 전가 실패",
+        "소비 취향 변화·자체 브랜드 경쟁·제품 안전 문제"
+      ],
+      "valuation": "브랜드의 지속 가능한 판매량과 정상적인 원재료 비용을 기준으로 이익을 평가합니다. 가격 인상만으로 만든 성장에 높은 배수를 주지 않도록 주의합니다.",
+      "questions": [
+        "가격을 올린 뒤 소비자가 얼마나 떠났는가?",
+        "원재료 가격이 내려갈 때 절감분을 지킬 수 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "PEP",
+          "name": "PepsiCo",
+          "exchange": "NASDAQ",
+          "business": "스낵·식품과 음료의 복합 사업",
+          "watch": "스낵 판매량·가격·북미 수요·해외 성장",
+          "ir": "https://www.pepsico.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MDLZ",
+          "name": "Mondelēz International",
+          "exchange": "NASDAQ",
+          "business": "초콜릿·비스킷·스낵 브랜드",
+          "watch": "코코아 원가·가격·판매량·해외 매출",
+          "ir": "https://ir.mondelezinternational.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "GIS",
+          "name": "General Mills",
+          "exchange": "NYSE",
+          "business": "포장식품과 반려동물 식품",
+          "watch": "소매 판매량·판촉·제품 구성·반려동물 부문",
+          "ir": "https://investors.generalmills.com/home/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "KHC",
+          "name": "Kraft Heinz",
+          "exchange": "NYSE",
+          "business": "소스·조미료·간편식 등 글로벌 포장식품",
+          "watch": "판매량·가격·브랜드 투자·사업 재편",
+          "ir": "https://ir.kraftheinzcompany.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-staples-beverages",
+      "name": "음료·주류",
+      "en": "Beverages",
+      "summary": "브랜드·유통망·반복 소비를 바탕으로 음료를 판매합니다.",
+      "mechanics": "브랜드와 원액을 공급하는 회사, 직접 병입·유통하는 회사, 주류를 제조·판매하는 회사의 자산 구조는 서로 다릅니다. 제품 가격과 패키지 크기, 유통 채널 구성에 따라 매출과 이익이 바뀝니다. 주류는 소비자의 절주·건강 선호와 규제도 함께 살핍니다.",
+      "watch": [
+        "판매량과 가격·패키지 구성의 변화",
+        "브랜드 선호·에너지음료·무알코올 등 소비 변화",
+        "원액 업체와 병입·유통 업체의 비용·마진 구분"
+      ],
+      "kpis": [
+        {
+          "name": "판매량",
+          "meaning": "병·캔·단위 상자 등으로 측정한 수량",
+          "read": "단위 정의와 출하·최종 소비의 차이를 확인합니다."
+        },
+        {
+          "name": "가격 / 믹스",
+          "meaning": "가격 변화와 고가·저가 상품 구성의 합산 효과",
+          "read": "모든 고객이 같은 비율로 가격을 더 낸 것으로 해석하지 않습니다."
+        },
+        {
+          "name": "영업이익률",
+          "meaning": "영업이익이 매출에서 차지하는 비율",
+          "read": "브랜드 라이선스·원액·직접 유통의 구조 차이를 반영합니다."
+        }
+      ],
+      "risks": [
+        "설탕세·주류 규제·건강 선호 변화",
+        "유통 재고·원가 상승·특정 브랜드 의존"
+      ],
+      "valuation": "브랜드 가치와 유통 실행력, 지속적인 수량 성장으로 배수를 판단합니다. 원액 중심 기업의 높은 마진을 병입 업체에 그대로 기대하면 안 됩니다.",
+      "questions": [
+        "성장이 판매량 증가인가, 더 작은 포장과 가격 변화인가?",
+        "유통업체에 쌓인 재고가 실제 소비보다 앞서 있지 않은가?"
+      ],
+      "companies": [
+        {
+          "ticker": "KO",
+          "name": "Coca-Cola",
+          "exchange": "NYSE",
+          "business": "글로벌 음료 브랜드·원액 및 일부 병입 사업",
+          "watch": "단위 판매량·가격/믹스·환율",
+          "ir": "https://investors.coca-colacompany.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MNST",
+          "name": "Monster Beverage",
+          "exchange": "NASDAQ",
+          "business": "에너지음료 중심 브랜드",
+          "watch": "국가별 수량·신제품·유통·원가",
+          "ir": "https://investors.monsterbevcorp.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "STZ",
+          "name": "Constellation Brands",
+          "exchange": "NYSE",
+          "business": "미국 시장의 맥주와 와인·증류주 사업",
+          "watch": "맥주 소비·유통 출하·제품 포트폴리오",
+          "ir": "https://ir.cbrands.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "KDP",
+          "name": "Keurig Dr Pepper",
+          "exchange": "NASDAQ",
+          "business": "Dr Pepper 등 음료와 Keurig·JDE Peet’s 커피 사업",
+          "watch": "음료 판매량·커피·인수 통합·차입금·분사 계획",
+          "ir": "https://investors.keurigdrpepper.com/",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-staples-household",
+      "name": "생활·개인용품",
+      "en": "Household & Personal Products",
+      "summary": "세제·구강·위생용품처럼 반복 구매하는 생활 제품을 판매합니다.",
+      "mechanics": "브랜드와 제품 성능을 통해 범용 제품보다 높은 가격을 받고, 대규모 생산·유통으로 단위 비용을 낮춥니다. 광고·연구개발은 브랜드를 유지하는 비용입니다. 펄프·수지·포장재 등 원가 상승을 소비자가 납득할 제품 개선과 가격으로 상쇄하는지가 중요합니다.",
+      "watch": [
+        "유기적 성장에서 판매량과 가격을 구분",
+        "프리미엄 제품과 저가·자체 브랜드 간 점유율 이동",
+        "펄프·수지·포장·물류 비용과 생산성 절감"
+      ],
+      "kpis": [
+        {
+          "name": "유기적 매출 성장",
+          "meaning": "환율·사업 인수·매각 효과를 뺀 성장",
+          "read": "가격 인상 이후 판매량과 점유율이 유지되는지 봅니다."
+        },
+        {
+          "name": "시장점유율",
+          "meaning": "해당 제품 시장에서 회사가 차지하는 판매 비중",
+          "read": "금액 점유율과 수량 점유율은 다를 수 있습니다."
+        },
+        {
+          "name": "현금 전환",
+          "meaning": "이익이 영업현금 또는 잉여현금으로 이어지는 정도",
+          "read": "재고·매출채권 변화와 조정 항목을 함께 봅니다."
+        }
+      ],
+      "risks": [
+        "브랜드 차별성 약화와 자체 브랜드 확산",
+        "원재료·환율 충격·제품 회수·신제품 실패"
+      ],
+      "valuation": "배당의 과거 기록보다 현금창출력·재투자·순차입금을 봅니다. 성숙 시장의 낮은 수량 성장을 가격 인상만으로 얼마나 보완할 수 있는지 평가합니다.",
+      "questions": [
+        "소비자가 저가 제품 대신 더 지불할 이유가 명확한가?",
+        "생산성 절감이 품질·광고·연구개발 축소에서 나온 것은 아닌가?"
+      ],
+      "companies": [
+        {
+          "ticker": "PG",
+          "name": "Procter & Gamble",
+          "exchange": "NYSE",
+          "business": "세제·미용·위생·생활용품 브랜드",
+          "watch": "유기적 성장·수량·생산성·환율",
+          "ir": "https://www.pginvestor.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CL",
+          "name": "Colgate-Palmolive",
+          "exchange": "NYSE",
+          "business": "구강·개인·생활용품 및 Hill’s 반려동물 영양",
+          "watch": "구강 점유율·신흥시장·반려동물 사업",
+          "ir": "https://investor.colgatepalmolive.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "KMB",
+          "name": "Kimberly-Clark",
+          "exchange": "NASDAQ",
+          "business": "기저귀·티슈 등 개인·생활 위생용품",
+          "watch": "펄프 비용·가격/믹스·생산성·사업구조 변화",
+          "ir": "https://www.investor.kimberly-clark.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "EL",
+          "name": "Estée Lauder Companies",
+          "exchange": "NYSE",
+          "business": "프레스티지 스킨케어·메이크업·향수·헤어케어",
+          "watch": "중국·여행소매·브랜드 수요·재고·마진 회복",
+          "ir": "https://www.elcompanies.com/en/investors",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-staples-retail",
+      "name": "식료품·회원제 유통",
+      "en": "Staples Distribution & Retail",
+      "summary": "생활 필수품을 낮은 가격과 높은 회전율로 판매합니다.",
+      "mechanics": "매입한 상품에 작은 마진을 붙여 많이 팔고 재고를 빠르게 돌립니다. 회원제 유통은 회원료라는 반복 수입이 추가됩니다. 전자상거래·광고·배송 서비스는 성장 기회지만, 주문당 배송 비용이 이익을 얼마나 소모하는지도 봐야 합니다.",
+      "watch": [
+        "기존점 매출의 방문객·객단가 구성",
+        "식품·일반상품 비중과 전자상거래 수익성",
+        "회원 갱신·회원료·광고 등 부가 수익의 기여"
+      ],
+      "kpis": [
+        {
+          "name": "기존점 매출",
+          "meaning": "비교 가능한 기존 매장·채널의 매출 성장",
+          "read": "식품 인플레이션 효과와 고객 증가를 구분합니다."
+        },
+        {
+          "name": "회원 갱신율",
+          "meaning": "회원 중 다음 기간에도 유지한 비율",
+          "read": "회원제 사업의 충성도를 보되 국가·계산 방식 차이를 확인합니다."
+        },
+        {
+          "name": "영업이익률 / 재고 회전",
+          "meaning": "작은 마진과 빠른 상품 회전의 결합",
+          "read": "매출이 커도 배송·임금·도난 비용으로 이익이 줄 수 있습니다."
+        }
+      ],
+      "risks": [
+        "가격 전쟁·임금 및 배송비 상승",
+        "재고 손실·전자상거래 투자 부담·유통 규제"
+      ],
+      "valuation": "회원료 성장과 소매 이익을 나눠 보고 높은 매출 대비 낮은 마진을 감안합니다. 안정적 사업이라도 높은 주가 배수는 별도로 검토합니다.",
+      "questions": [
+        "고객은 가격·접근성·회원 혜택 중 무엇 때문에 반복 방문하는가?",
+        "온라인 주문 증가가 실제 영업이익을 늘리는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "WMT",
+          "name": "Walmart",
+          "exchange": "NASDAQ",
+          "business": "식료품 중심 종합 유통·Sam’s Club·전자상거래",
+          "watch": "방문객·전자상거래 이익·회원료·광고",
+          "ir": "https://stock.walmart.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "COST",
+          "name": "Costco Wholesale",
+          "exchange": "NASDAQ",
+          "business": "창고형 회원제 도매 유통",
+          "watch": "회원 갱신·회원료·기존점 매출·출점",
+          "ir": "https://investor.costco.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "KR",
+          "name": "Kroger",
+          "exchange": "NYSE",
+          "business": "미국 식료품 유통·자체 브랜드·관련 서비스",
+          "watch": "동일점 매출·식품 마진·디지털 주문 경제성",
+          "ir": "https://ir.kroger.com/overview/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "consumer-staples-tobacco",
+      "name": "담배·니코틴",
+      "en": "Tobacco & Nicotine",
+      "summary": "규제가 강한 니코틴 시장에서 가격과 제품 전환이 실적을 좌우합니다.",
+      "mechanics": "전통 담배는 판매량 감소를 가격 인상으로 일부 보완하고, 기업들은 전자담배·가열식 담배·니코틴 파우치 등으로 사업을 확대합니다. 새로운 제품이 기존 매출을 대체하더라도 허가·유통·마케팅 비용과 수익성은 별개입니다. 제품의 사업성과와 건강 관련 주장을 구분해 읽습니다.",
+      "watch": [
+        "궐련 판매량 감소와 가격 인상의 상쇄 정도",
+        "무연 제품의 매출·이익 기여와 기존 제품 잠식",
+        "국가별 허가·세금·향료 규제·불법 유통"
+      ],
+      "kpis": [
+        {
+          "name": "궐련 출하량",
+          "meaning": "전통 담배 제품의 판매·출하 수량",
+          "read": "출하와 실제 소비 간 재고 차이를 함께 확인합니다."
+        },
+        {
+          "name": "무연 제품 매출 비중",
+          "meaning": "전체 매출 중 궐련 외 제품이 차지하는 비중",
+          "read": "회사가 사용하는 무연 정의와 이익 기여를 구분합니다."
+        },
+        {
+          "name": "FCF / 배당 충당력",
+          "meaning": "투자 후 현금으로 배당을 감당하는 수준",
+          "read": "높은 배당수익률이 사업 위험의 보상인지 살핍니다."
+        }
+      ],
+      "risks": [
+        "제품 허가·판매·과세 규제와 소송",
+        "전통 담배 감소 가속·불법 제품 경쟁·전환 투자 실패"
+      ],
+      "valuation": "낮은 PER과 높은 배당수익률만으로 판단하지 않습니다. 제품별 장기 수요, 규제 시나리오, 부채와 배당의 현금 충당력을 함께 봅니다.",
+      "questions": [
+        "전통 제품의 감소를 새 제품의 이익이 실제로 대체하는가?",
+        "배당과 신제품 투자, 차입금 상환을 동시에 감당할 수 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "PM",
+          "name": "Philip Morris International",
+          "exchange": "NYSE",
+          "business": "해외 담배 및 IQOS·니코틴 파우치 등",
+          "watch": "무연 제품 비중·수익성·허가·환율",
+          "ir": "https://www.pmi.com/investor-relations/overview",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MO",
+          "name": "Altria Group",
+          "exchange": "NYSE",
+          "business": "미국 담배·니코틴 제품 사업",
+          "watch": "미국 궐련 감소·가격·대체 제품·배당",
+          "ir": "https://investor.altria.com/press-releases/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "BTI",
+          "name": "British American Tobacco",
+          "exchange": "NYSE",
+          "business": "글로벌 담배와 비연소 니코틴 제품",
+          "watch": "신규 카테고리·미국 사업·부채; 영국 기업 ADR",
+          "ir": "https://www.bat.com/investors-and-reporting/shareholder-information/faq",
+          "kind": "ADR"
+        }
+      ]
+    }
+  ]
+}

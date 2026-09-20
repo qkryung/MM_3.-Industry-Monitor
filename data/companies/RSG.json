@@ -1,0 +1,99 @@
+{
+  "ticker": "RSG",
+  "oneLiner": "폐기물·재활용·환경 처리 서비스",
+  "businessModel": "기업·지자체·가정에 폐기물 수거·처리·재활용 서비스를 팔고 산업 고객에는 유해·특수 폐기물 처리도 제공합니다. 자사 처리시설로 물량을 연결해 비용과 서비스 품질을 관리하며 인수로 지역 밀도·서비스 범위를 확대합니다.",
+  "revenueStreams": [
+    {
+      "name": "폐기물·재활용",
+      "description": "수거·이송·매립·재활용 요금",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.republicservices.com/"
+    },
+    {
+      "name": "환경 솔루션",
+      "description": "산업·특수 폐기물 처리와 현장 서비스",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.republicservices.com/"
+    }
+  ],
+  "history": [
+    {
+      "year": "1996",
+      "event": "Republic Services 법인 설립"
+    },
+    {
+      "year": "1998",
+      "event": "NYSE 상장"
+    },
+    {
+      "year": "2008",
+      "event": "Allied Waste와 합병"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "통합 처리망",
+      "detail": "수거부터 최종 처리까지 자산을 연결합니다."
+    },
+    {
+      "title": "다양한 서비스",
+      "detail": "산업 환경 문제를 여러 서비스로 해결할 수 있습니다."
+    },
+    {
+      "title": "노선·가격 관리",
+      "detail": "밀도와 계약 관리로 반복 현금 창출을 지원합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "환경 책임",
+      "detail": "특수 폐기물은 규제·안전·복구 의무가 큽니다."
+    },
+    {
+      "title": "노무·차량 비용",
+      "detail": "인력·차량 교체비 인상을 가격에 반영해야 합니다."
+    },
+    {
+      "title": "인수 가격",
+      "detail": "높은 인수 대금은 미래 투자 수익을 낮출 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Waste Management",
+      "ticker": "WM",
+      "comparison": "시설망·재활용·의료폐기물 구성 차이를 비교합니다."
+    },
+    {
+      "name": "Waste Connections",
+      "ticker": "WCN",
+      "comparison": "지역·고객 구성과 인수 전략이 달라 물량 비교를 맞춰야 합니다."
+    }
+  ],
+  "macroLink": "산업 생산·건설 활동은 처리 물량을, 임금·연료는 수거 비용을 움직입니다. 요금 반영 시차가 중요합니다.",
+  "monitoring": [
+    "가격 대비 기존 고객 물량은 유지되는가?",
+    "환경 솔루션 성장은 인수 효과를 제외해도 지속되는가?",
+    "신규 재활용·가스 시설이 목표 가동률에 도달하는가?"
+  ],
+  "sources": [
+    {
+      "title": "Republic Services · 투자자 자료",
+      "url": "https://investor.republicservices.com/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "Republic Services · 사업 확장·회사 연혁",
+      "url": "https://investor.republicservices.com/static-files/ebb983a3-0340-41c3-9aea-ba8dfca53e3d",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    },
+    {
+      "title": "설립·합병 연혁 공시",
+      "url": "https://investor.republicservices.com/node/12086/html",
+      "note": "1996년 법인 설립 및 2008년 Allied Waste 합병 확인"
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

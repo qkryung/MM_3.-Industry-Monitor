@@ -1,0 +1,99 @@
+{
+  "ticker": "MU",
+  "oneLiner": "DRAM과 NAND 메모리를 직접 개발·생산하는 미국 반도체 회사.",
+  "businessModel": "DRAM은 계산 중 데이터를 빠르게 다루고 NAND는 데이터를 저장합니다. Micron은 메모리 공장을 운영해 서버·모바일·PC·자동차 고객에 공급합니다. 판매량 증가보다 평균 판매가격과 제조 원가의 변화가 이익을 더 크게 바꿀 수 있으며 AI용 고대역폭 메모리도 전체 수급 안에서 봐야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "DRAM",
+      "description": "서버·PC·모바일 DRAM과 AI 가속기용 고대역폭 메모리인 HBM.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.micron.com/overview/default.aspx"
+    },
+    {
+      "name": "NAND·기타",
+      "description": "데이터센터·소비자용 저장 장치와 NAND 제품 등.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.micron.com/overview/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 1978,
+      "event": "아이다호주 보이시에서 반도체 설계 회사로 설립."
+    },
+    {
+      "year": 1984,
+      "event": "기업공개로 상장."
+    },
+    {
+      "year": 2013,
+      "event": "Elpida 인수로 DRAM 사업을 확대."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "DRAM·NAND 양쪽 기반",
+      "detail": "계산용 메모리와 저장용 메모리의 제품·고객 경험을 함께 보유합니다."
+    },
+    {
+      "title": "HBM 기회",
+      "detail": "AI 가속기 주변에 필요한 고성능 메모리를 공급할 수 있습니다."
+    },
+    {
+      "title": "자동차·산업 경험",
+      "detail": "품질 인증과 긴 공급 기간을 요구하는 고객 관계가 축적되어 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "가격 경기순환",
+      "detail": "공급 과잉 때 메모리 가격이 크게 하락해 출하량 증가에도 손실이 날 수 있습니다."
+    },
+    {
+      "title": "공장 투자 부담",
+      "detail": "공정 전환과 증설에 큰 현금이 필요하며 감가상각이 지속됩니다."
+    },
+    {
+      "title": "HBM 실행 위험",
+      "detail": "수율·고객 인증·패키징 문제가 발생하면 높은 성장 기대가 실제 이익으로 이어지지 못합니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "SK hynix",
+      "ticker": "000660.KS",
+      "comparison": "DRAM·HBM·NAND에서 경쟁하는 한국 상장사입니다."
+    },
+    {
+      "name": "Samsung Electronics",
+      "ticker": "005930.KS",
+      "comparison": "메모리 전반에서 경쟁하며 생산 규모와 제품 범위가 넓습니다."
+    }
+  ],
+  "macroLink": "메모리 수급은 경기와 재고, 공급업체들의 투자 결정이 함께 만듭니다. AI 수요 강세와 일반 PC·모바일 메모리 부진이 동시에 나타날 수 있습니다.",
+  "monitoring": [
+    "DRAM과 NAND의 판매가격·비트 출하·단위원가가 각각 어떻게 변하는가?",
+    "HBM 공급 계약이 수율과 현금 이익으로 이어지는가?",
+    "재고 감소가 고객 수요 회복 때문인지 생산 감축 때문인지 구분했는가?"
+  ],
+  "sources": [
+    {
+      "title": "Micron Technology · 공식 IR",
+      "url": "https://investors.micron.com/overview/default.aspx",
+      "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+    },
+    {
+      "title": "Micron 회사 연혁",
+      "url": "https://www.micron.com/about/company/company-timeline",
+      "note": "1978년 설립·1984년 IPO·2013년 Elpida 인수 확인."
+    },
+    {
+      "title": "Micron 회사 소개",
+      "url": "https://www.micron.com/about",
+      "note": "메모리·저장 제품과 제조 회사의 배경 확인."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}

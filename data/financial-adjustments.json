@@ -1,0 +1,12 @@
+{
+  "XOM": {
+    "predecessorCik": 34088,
+    "historyThrough": "2026-06-30",
+    "note": "2026-07-01 법인 승계·소재지 변경으로 SEC 식별자(CIK)가 34088에서 2115436으로 바뀌었습니다. 이전 기간은 전신 법인의 공시를 연결했습니다. 공식 승계 자료에 따르면 기존 주식은 1:1 교환되며 XOM 티커는 유지됩니다.",
+    "sourceUrl": "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0001193125-26-291990/d71068d8k12b.htm"
+  },
+  "VMRK": {
+    "note": "2026-08-17 합병 이전 수치는 SEC 식별자(CIK 906107)를 유지한 전신 Equity Residential(EQR)의 연결 공시입니다. 합병 후 Vivmark 전체의 실적이나 AvalonBay와 합산한 가상 실적이 아닙니다. 합병 전후의 매출·자산 증가율을 같은 사업 범위의 성장률로 읽지 마세요.",
+    "sourceUrl": "https://investors.vivmarkresidential.com/news-events/press-releases/detail/113/vivmark-residential-launches-as-one-of-the-countrys-leading-real-estate-companies"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "ticker": "COP",
+  "oneLiner": "미국·해외 자산을 보유한 독립 탐사·생산 기업",
+  "businessModel": "원유·가스를 개발해 정유사·가스 구매자에게 판매하는 생산 중심 기업입니다. 정유 사업을 보유한 통합기업과 달리 제품 마진의 완충이 작습니다. 유전별 원가·생산 감소율·투자 일정을 관리해 주주에게 남는 현금을 늘립니다.",
+  "revenueStreams": [
+    {
+      "name": "원유·액체 생산",
+      "description": "유전에서 생산한 원유·천연가스액 판매",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.conocophillips.com/investor-relations/"
+    },
+    {
+      "name": "천연가스·LNG 관련 판매",
+      "description": "미국·해외 가스 생산과 장기 프로젝트 수익",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.conocophillips.com/investor-relations/"
+    }
+  ],
+  "history": [
+    {
+      "year": "2002",
+      "event": "Conoco·Phillips 합병으로 출범"
+    },
+    {
+      "year": "2012",
+      "event": "Phillips 66 분사 후 생산 중심으로 전환"
+    },
+    {
+      "year": "2024",
+      "event": "Marathon Oil 인수 완료"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "지역 포트폴리오",
+      "detail": "미국 셰일과 해외 장기 자산을 함께 보유합니다."
+    },
+    {
+      "title": "개발 선택권",
+      "detail": "여러 프로젝트 중 비용·회수기간을 비교해 투자할 수 있습니다."
+    },
+    {
+      "title": "운영 규모",
+      "detail": "인접 셰일 자산 통합은 인프라·시추 효율에 도움이 됩니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "직접 가격 노출",
+      "detail": "생산 중심이라 원유·가스 하락의 충격이 큽니다."
+    },
+    {
+      "title": "대형 개발비",
+      "detail": "알래스카·LNG 등은 회수기간과 허가 불확실성이 있습니다."
+    },
+    {
+      "title": "유지 투자",
+      "detail": "자연 감소를 보충하지 않으면 생산량이 줄어듭니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "EOG Resources",
+      "ticker": "EOG",
+      "comparison": "EOG는 미국 육상 유정 개발과 자산 선택에 집중합니다."
+    },
+    {
+      "name": "Chevron",
+      "ticker": "CVX",
+      "comparison": "Chevron은 정유·판매를 가진 통합기업이어서 이익 구성이 다릅니다."
+    }
+  ],
+  "macroLink": "원유·가스 가격과 프로젝트 원가가 핵심이며 금리 상승은 장기 자산의 현재가치와 고객 수요를 압박합니다.",
+  "monitoring": [
+    "인수 증가분을 제외한 생산량·단위원가는 개선되는가?",
+    "대형 프로젝트가 계획한 비용·일정을 지키는가?",
+    "중간 유가에서 유지 투자 후 현금이 얼마나 남는가?"
+  ],
+  "sources": [
+    {
+      "title": "ConocoPhillips · 투자자 자료",
+      "url": "https://www.conocophillips.com/investor-relations/",
+      "note": "공식 IR·사업 공시. 수치 비중을 추정하지 않고 수익원을 설명합니다."
+    },
+    {
+      "title": "ConocoPhillips · 기업 연혁·사업 소개",
+      "url": "https://www.conocophillips.com/about-us/our-history/",
+      "note": "공식 사업·연혁 자료. 강약점·경쟁·거시 연결은 이를 바탕으로 한 학습용 분석입니다."
+    }
+  ],
+  "reviewedOn": "2026-09-20"
+}
