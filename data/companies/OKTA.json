@@ -1,0 +1,183 @@
+{
+  "ticker": "OKTA",
+  "oneLiner": "직원·고객·AI 에이전트 신원 보안를 제공하는 Okta.",
+  "businessModel": "직원·고객·AI 에이전트의 인증·권한·접근을 관리하는 독립 신원 플랫폼입니다. Workforce와 Auth0 계열 고객 신원을 교차 판매해 성장합니다.",
+  "revenueStreams": [
+    {
+      "name": "직원 신원 구독",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 직원·고객·AI 에이전트의 인증·권한·접근을 관리하는 독립 신원 플랫폼입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Second-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx"
+    },
+    {
+      "name": "고객·머신 신원 구독",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 직원·고객·AI 에이전트의 인증·권한·접근을 관리하는 독립 신원 플랫폼입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Second-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2026,
+      "event": "공식 투자자 자료에서 현재 사업 구성과 전략을 공개."
+    },
+    {
+      "year": 2026,
+      "event": "FY2027 2분기 매출은 11%, cRPO는 14% 성장했고 FCF는 2.27억 달러였습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 가치와 전환 비용",
+      "detail": "다양한 애플리케이션 연동과 인증 흐름에 내재된 변경 비용이 있습니다."
+    },
+    {
+      "title": "확장 기반",
+      "detail": "독립 플랫폼이라는 위치는 여러 클라우드·소프트웨어를 쓰는 기업에 유리합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "사업 위험",
+      "detail": "Microsoft 등 통합 플랫폼의 가격 공세가 신규 판매를 제한합니다."
+    },
+    {
+      "title": "실행·재무 위험",
+      "detail": "보안 사고는 제품의 핵심인 신뢰를 훼손하고 갱신·영업비를 동시에 악화시킵니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Zscaler",
+      "ticker": "ZS",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "PANW",
+      "ticker": "PANW",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "MSFT",
+      "ticker": "MSFT",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    }
+  ],
+  "macroLink": "고용 증가 둔화는 직원 좌석 성장을 낮추지만 머신·에이전트 신원은 새 수요입니다. 데이터 보호·보안규제는 수요를 높이는 동시에 제품 책임을 강화합니다.",
+  "monitoring": [
+    "cRPO, 신규제품, 보안 신뢰 회복를 분기별로 확인합니다.",
+    "에이전트 신원 제품 매출",
+    "갱신 둔화 또는 중대한 신원 보안 사고"
+  ],
+  "sources": [
+    {
+      "title": "Okta · 공식 실적·공시",
+      "url": "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Second-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Okta · 공식 기업·투자자 자료",
+      "url": "https://investor.okta.com/",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 다양한 애플리케이션 연동과 인증 흐름에 내재된 변경 비용이 있습니다. 투자판단의 핵심은 에이전트 신원 제품 매출입니다. Microsoft 등 통합 플랫폼의 가격 공세가 신규 판매를 제한합니다.",
+    "businessDrivers": [
+      {
+        "title": "매출을 만드는 변수",
+        "detail": "직원 신원 구독와 고객·머신 신원 구독의 성장 경로를 나눕니다. 직원·고객·AI 에이전트의 인증·권한·접근을 관리하는 독립 신원 플랫폼입니다. Workforce와 Auth0 계열 고객 신원을 교차 판매해 성장합니다."
+      },
+      {
+        "title": "확인할 운영지표",
+        "detail": "cRPO, 신규제품, 보안 신뢰 회복. 신규 계약·매출 인식·현금 회수는 서로 다른 단계입니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "수요와 경기",
+        "detail": "고용 증가 둔화는 직원 좌석 성장을 낮추지만 머신·에이전트 신원은 새 수요입니다."
+      },
+      {
+        "title": "비용·금리·정책 전달",
+        "detail": "데이터 보호·보안규제는 수요를 높이는 동시에 제품 책임을 강화합니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "경제적 해자 가설",
+        "detail": "다양한 애플리케이션 연동과 인증 흐름에 내재된 변경 비용이 있습니다."
+      },
+      {
+        "title": "해자를 유지하는 조건",
+        "detail": "독립 플랫폼이라는 위치는 여러 클라우드·소프트웨어를 쓰는 기업에 유리합니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "공식 실적에서 확인한 흐름",
+        "detail": "FY2027 2분기 매출은 11%, cRPO는 14% 성장했고 FCF는 2.27억 달러였습니다."
+      },
+      {
+        "title": "재무 건전성·이익의 질",
+        "detail": "성숙단계에서는 매출배수보다 주식보상 후 현금창출과 자사주가 실제 희석을 상쇄하는지 중요합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "성장률·현금마진을 맞춘 EV/매출 및 EV/FCF",
+        "peers": [
+          "ZS",
+          "PANW",
+          "MSFT"
+        ],
+        "rationale": "사업모델에 근거한 비교군이며 동일한 회계기간·성장률·현금마진으로 맞춰야 합니다. 동일 산업이라는 이유만으로 같은 배수가 정당화되지는 않습니다.",
+        "watch": "현재 시세·완전희석 주식수·순차입을 확인한 뒤 실제 배수를 산출합니다. 검증되지 않은 목표가나 저평가 결론은 제시하지 않습니다."
+      },
+      "absolute": {
+        "method": "사업별 성장·마진·재투자를 연결한 2단계 FCFF DCF",
+        "drivers": [
+          "좌석·신원 수",
+          "신규제품·유지율",
+          "영업비 효율과 희석"
+        ],
+        "watch": "성장 둔화·마진 압박·할인율 상승의 하방 시나리오를 비교합니다. 영구성장률은 장기 시장성장보다 보수적으로 두고 현금·부채·리스·희석을 주당가치에 반영합니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "정책·규제의 투자 영향",
+        "detail": "개인정보·데이터 국외이전·AI 사용 통제와 공공기관 보안·조달 요건이 고객 도입과 서비스 비용을 바꿀 수 있습니다. 회사별 계약·위험요인으로 적용 범위를 확인합니다.",
+        "sourceUrl": "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Second-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx"
+      }
+    ],
+    "catalysts": [
+      "에이전트 신원 제품 매출 여부를 다음 공식 실적에서 확인합니다.",
+      "cRPO, 신규제품, 보안 신뢰 회복의 개선이 현금창출로 연결되는지 확인합니다."
+    ],
+    "falsifiers": [
+      "갱신 둔화 또는 중대한 신원 보안 사고 시 핵심 가정을 다시 검토합니다.",
+      "보안 사고는 제품의 핵심인 신뢰를 훼손하고 갱신·영업비를 동시에 악화시킵니다."
+    ],
+    "sources": [
+      {
+        "title": "Okta · 공식 실적·공시",
+        "url": "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Second-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Okta · 공식 기업·투자자 자료",
+        "url": "https://investor.okta.com/",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

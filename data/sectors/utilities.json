@@ -167,6 +167,78 @@
           "ir": "https://investors.xcelenergy.com/",
           "exchange": "NASDAQ",
           "kind": "보통주"
+        },
+        {
+          "ticker": "D",
+          "name": "Dominion Energy",
+          "exchange": "NYSE",
+          "business": "규제 전력·가스 자산을 운영해 인가된 요금으로 에너지를 공급합니다.",
+          "watch": "요금기반·허용수익률·투자회수·FFO/부채",
+          "ir": "https://investors.dominionenergy.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ETR",
+          "name": "Entergy",
+          "exchange": "NYSE",
+          "business": "미 남부 지역의 규제 전력사업을 통해 발전·송배전 서비스를 제공합니다.",
+          "watch": "산업부하·요금기반·복구비 회수·신용지표",
+          "ir": "https://www.entergy.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PEG",
+          "name": "Public Service Enterprise Group",
+          "exchange": "NYSE",
+          "business": "규제 송배전·가스 사업과 발전 관련 자산을 운영합니다.",
+          "watch": "요금기반·송전투자·발전 현금·부채",
+          "ir": "https://investor.pseg.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ED",
+          "name": "Consolidated Edison",
+          "exchange": "NYSE",
+          "business": "뉴욕권의 전력·가스·증기 공급망을 운영합니다.",
+          "watch": "요금사건·설비투자·운영비·배당커버",
+          "ir": "https://investor.conedison.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ES",
+          "name": "Eversource Energy",
+          "exchange": "NYSE",
+          "business": "뉴잉글랜드 지역의 전력·가스 등 규제 공급망을 운영합니다.",
+          "watch": "규제자산 성장·자금조달·비용회수·FFO",
+          "ir": "https://investors.eversource.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "WEC",
+          "name": "WEC Energy Group",
+          "exchange": "NYSE",
+          "business": "중서부 전력·가스 유틸리티와 관련 인프라를 운영합니다.",
+          "watch": "요금기반·허용ROE·발전투자·신용등급",
+          "ir": "https://investor.wecenergygroup.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PCG",
+          "name": "PG&E",
+          "exchange": "NYSE",
+          "business": "북부·중부 캘리포니아에서 전력·가스 서비스를 제공합니다.",
+          "watch": "산불안전 지출·요금회수·희석·부채",
+          "ir": "https://investor.pgecorp.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CNP",
+          "name": "CenterPoint Energy",
+          "exchange": "NYSE",
+          "business": "텍사스 등의 전력 송배전과 여러 주의 가스 배급망을 운영합니다.",
+          "watch": "신뢰도 투자·요금승인·현금흐름·부채",
+          "ir": "https://investors.centerpointenergy.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -242,6 +314,15 @@
           "watch": "배관 교체·요금 회수·규제 투자",
           "ir": "https://www.investors.atmosenergy.com/overview/",
           "exchange": "NYSE",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AES",
+          "name": "AES",
+          "exchange": "NYSE",
+          "business": "규제 전력사업과 장기계약 기반 발전·재생에너지 프로젝트를 운영합니다.",
+          "watch": "현금 인수계약 승인·종결·무산 시 자금조달",
+          "ir": "https://www.aes.com/investors",
           "kind": "보통주"
         }
       ]

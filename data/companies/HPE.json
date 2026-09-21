@@ -1,0 +1,183 @@
+{
+  "ticker": "HPE",
+  "oneLiner": "서버·네트워킹·하이브리드 IT를 제공하는 Hewlett Packard Enterprise.",
+  "businessModel": "기업 서버·네트워킹·하이브리드 IT를 공급하며 금융서비스도 제공합니다. Juniper 결합에 따른 네트워킹 비중과 AI 시스템 주문의 현금화가 투자 논점입니다.",
+  "revenueStreams": [
+    {
+      "name": "Cloud & AI",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 기업 서버·네트워킹·하이브리드 IT를 공급하며 금융서비스도 제공합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.hpe.com/~/media/Files/H/HP-Enterprise-IR/documents/q3-2026/q3-2026-quarterly-results.pdf"
+    },
+    {
+      "name": "Networking",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 기업 서버·네트워킹·하이브리드 IT를 공급하며 금융서비스도 제공합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.hpe.com/~/media/Files/H/HP-Enterprise-IR/documents/q3-2026/q3-2026-quarterly-results.pdf"
+    }
+  ],
+  "history": [
+    {
+      "year": 2026,
+      "event": "공식 투자자 자료에서 현재 사업 구성과 전략을 공개."
+    },
+    {
+      "year": 2026,
+      "event": "FY2026 3분기 공시는 Cloud & AI와 Networking으로 보고구조가 바뀌었음을 명시합니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 가치와 전환 비용",
+      "detail": "기업 고객·채널·유지보수 관계와 네트워크 설치기반이 반복 수익을 지원합니다."
+    },
+    {
+      "title": "확장 기반",
+      "detail": "네트워킹·서버·관리 소프트웨어의 통합이 고객 운영을 단순화할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "사업 위험",
+      "detail": "AI 서버 매출 증가는 낮은 마진과 운전자본 증가를 동반할 수 있습니다."
+    },
+    {
+      "title": "실행·재무 위험",
+      "detail": "대형 인수의 통합·차입·경쟁당국 조건이 주주 현금에 부담입니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "DELL",
+      "ticker": "DELL",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "CSCO",
+      "ticker": "CSCO",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "ANET",
+      "ticker": "ANET",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    }
+  ],
+  "macroLink": "기업 IT 교체와 AI 투자 주기를 나누고 네트워크 지출이 서버 설치를 뒤따르는 시차를 봅니다. 금리는 고객 금융사업과 인수부채 양쪽에 영향을 줍니다.",
+  "monitoring": [
+    "AI 서버 현금회수, Juniper 통합과 부채를 분기별로 확인합니다.",
+    "Juniper 통합과 네트워킹 이익",
+    "서버 성장에도 FCF·차입비율 악화"
+  ],
+  "sources": [
+    {
+      "title": "Hewlett Packard Enterprise · 공식 실적·공시",
+      "url": "https://investors.hpe.com/~/media/Files/H/HP-Enterprise-IR/documents/q3-2026/q3-2026-quarterly-results.pdf",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Hewlett Packard Enterprise · 공식 기업·투자자 자료",
+      "url": "https://investors.hpe.com/",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 기업 고객·채널·유지보수 관계와 네트워크 설치기반이 반복 수익을 지원합니다. 투자판단의 핵심은 Juniper 통합과 네트워킹 이익입니다. AI 서버 매출 증가는 낮은 마진과 운전자본 증가를 동반할 수 있습니다.",
+    "businessDrivers": [
+      {
+        "title": "매출을 만드는 변수",
+        "detail": "Cloud & AI와 Networking의 성장 경로를 나눕니다. 기업 서버·네트워킹·하이브리드 IT를 공급하며 금융서비스도 제공합니다. Juniper 결합에 따른 네트워킹 비중과 AI 시스템 주문의 현금화가 투자 논점입니다."
+      },
+      {
+        "title": "확인할 운영지표",
+        "detail": "AI 서버 현금회수, Juniper 통합과 부채. 신규 계약·매출 인식·현금 회수는 서로 다른 단계입니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "수요와 경기",
+        "detail": "기업 IT 교체와 AI 투자 주기를 나누고 네트워크 지출이 서버 설치를 뒤따르는 시차를 봅니다."
+      },
+      {
+        "title": "비용·금리·정책 전달",
+        "detail": "금리는 고객 금융사업과 인수부채 양쪽에 영향을 줍니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "경제적 해자 가설",
+        "detail": "기업 고객·채널·유지보수 관계와 네트워크 설치기반이 반복 수익을 지원합니다."
+      },
+      {
+        "title": "해자를 유지하는 조건",
+        "detail": "네트워킹·서버·관리 소프트웨어의 통합이 고객 운영을 단순화할 수 있습니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "공식 실적에서 확인한 흐름",
+        "detail": "FY2026 3분기 공시는 Cloud & AI와 Networking으로 보고구조가 바뀌었음을 명시합니다."
+      },
+      {
+        "title": "재무 건전성·이익의 질",
+        "detail": "과거 서버·하이브리드클라우드·금융 부문과 단순 비교하지 말고 재작성 표와 금융부채를 별도로 분석합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "EV/EBIT·FCF 수익률 및 부문별 비교",
+        "peers": [
+          "DELL",
+          "CSCO",
+          "ANET"
+        ],
+        "rationale": "사업모델에 근거한 비교군이며 동일한 회계기간·성장률·현금마진으로 맞춰야 합니다. 동일 산업이라는 이유만으로 같은 배수가 정당화되지는 않습니다.",
+        "watch": "현재 시세·완전희석 주식수·순차입을 확인한 뒤 실제 배수를 산출합니다. 검증되지 않은 목표가나 저평가 결론은 제시하지 않습니다."
+      },
+      "absolute": {
+        "method": "사업별 성장·마진·재투자를 연결한 2단계 FCFF DCF",
+        "drivers": [
+          "네트워크 수주·갱신",
+          "AI 시스템 현금회수",
+          "인수 시너지·차입상환"
+        ],
+        "watch": "성장 둔화·마진 압박·할인율 상승의 하방 시나리오를 비교합니다. 영구성장률은 장기 시장성장보다 보수적으로 두고 현금·부채·리스·희석을 주당가치에 반영합니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "정책·규제의 투자 영향",
+        "detail": "첨단 기술의 수출허가·고객 최종사용자·정부 연구계약 조건을 확인합니다. 지원 발표액을 매출이나 무조건적인 현금으로 넣지 않습니다.",
+        "sourceUrl": "https://investors.hpe.com/~/media/Files/H/HP-Enterprise-IR/documents/q3-2026/q3-2026-quarterly-results.pdf"
+      }
+    ],
+    "catalysts": [
+      "Juniper 통합과 네트워킹 이익 여부를 다음 공식 실적에서 확인합니다.",
+      "AI 서버 현금회수, Juniper 통합과 부채의 개선이 현금창출로 연결되는지 확인합니다."
+    ],
+    "falsifiers": [
+      "서버 성장에도 FCF·차입비율 악화 시 핵심 가정을 다시 검토합니다.",
+      "대형 인수의 통합·차입·경쟁당국 조건이 주주 현금에 부담입니다."
+    ],
+    "sources": [
+      {
+        "title": "Hewlett Packard Enterprise · 공식 실적·공시",
+        "url": "https://investors.hpe.com/~/media/Files/H/HP-Enterprise-IR/documents/q3-2026/q3-2026-quarterly-results.pdf",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Hewlett Packard Enterprise · 공식 기업·투자자 자료",
+        "url": "https://investors.hpe.com/",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

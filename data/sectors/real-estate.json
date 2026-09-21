@@ -220,6 +220,33 @@
           "watch": "선벨트 준공 물량, 임대 혜택, NOI",
           "ir": "https://ir.maac.com/corporate-profile/default.aspx",
           "kind": "보통주"
+        },
+        {
+          "ticker": "INVH",
+          "name": "Invitation Homes",
+          "exchange": "NYSE",
+          "business": "미국 단독주택을 대규모로 소유·운영하고 임대료·관리 수익을 얻습니다.",
+          "watch": "동일주택 NOI·점유율·수선CAPEX·레버리지",
+          "ir": "https://ir.invitationhomes.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AMH",
+          "name": "American Homes 4 Rent",
+          "exchange": "NYSE",
+          "business": "단독주택을 취득·개발·임대하며 임대주택 운영 규모를 확대합니다.",
+          "watch": "동일주택 NOI·개발수익률·임대성장·부채",
+          "ir": "https://investors.amh.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "UDR",
+          "name": "UDR",
+          "exchange": "NYSE",
+          "business": "미국 주요 고용시장의 아파트를 소유·운영하며 임대료와 관련 수익을 얻습니다.",
+          "watch": "동일자산 NOI·갱신임대료·점유율·부채",
+          "ir": "https://ir.udr.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -296,6 +323,24 @@
           "watch": "임차인 신용, 신규 취득 수익률, 조달비용",
           "ir": "https://investors.agreerealty.com/overview/default.aspx",
           "kind": "보통주"
+        },
+        {
+          "ticker": "VICI",
+          "name": "VICI Properties",
+          "exchange": "NYSE",
+          "business": "카지노·레저 부동산을 소유하고 장기 순임대 계약으로 임대료를 받습니다.",
+          "watch": "임차인 커버·AFFO·임대료상승·조달비용",
+          "ir": "https://investors.viciproperties.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "GLPI",
+          "name": "Gaming and Leisure Properties",
+          "exchange": "NASDAQ",
+          "business": "게임·레저 시설 부동산을 소유하고 운영사와 장기 순임대 계약을 체결합니다.",
+          "watch": "임차인커버·투자 스프레드·AFFO·부채",
+          "ir": "https://investors.glpropinc.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -371,6 +416,24 @@
           "business": "미국 통신타워 임대. 2026년 5월 광섬유·스몰셀 사업 매각 완료",
           "watch": "통신사 신규 임차, Sprint·DISH 해지 영향, 매각 후 차입금",
           "ir": "https://investor.crowncastle.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "IRM",
+          "name": "Iron Mountain",
+          "exchange": "NYSE",
+          "business": "기업의 문서·정보를 보관·관리하고 데이터센터 공간과 전력을 제공합니다.",
+          "watch": "보관량·가격·데이터센터 예약·AFFO·부채",
+          "ir": "https://investors.ironmountain.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SBAC",
+          "name": "SBA Communications",
+          "exchange": "NASDAQ",
+          "business": "이동통신사에 철탑·통신시설 공간을 임대하고 구축 서비스를 제공합니다.",
+          "watch": "동일타워 매출·해지율·추가임차·레버리지",
+          "ir": "https://ir.sbasite.com/",
           "kind": "보통주"
         }
       ]
@@ -514,6 +577,33 @@
           "business": "매매·임대 중개, 시설·프로젝트·투자관리 서비스",
           "watch": "거래 수수료와 반복 서비스 매출",
           "ir": "https://ir.cbre.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "EXR",
+          "name": "Extra Space Storage",
+          "exchange": "NYSE",
+          "business": "개인·기업용 셀프스토리지를 소유·운영하고 제3자 시설을 관리합니다.",
+          "watch": "신규·기존 임대료·점유율·동일자산 NOI",
+          "ir": "https://ir.extraspace.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PSA",
+          "name": "Public Storage",
+          "exchange": "NYSE",
+          "business": "셀프스토리지 공간을 임대하고 관련 서비스 수익을 얻습니다.",
+          "watch": "동일자산 NOI·신규임대료·점유율·부채비용",
+          "ir": "https://investors.publicstorage.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CUBE",
+          "name": "CubeSmart",
+          "exchange": "NYSE",
+          "business": "셀프스토리지 시설을 소유·운영하고 외부 시설의 관리를 맡습니다.",
+          "watch": "입주율·신규고객 요율·NOI·유지투자",
+          "ir": "https://investors.cubesmart.com/",
           "kind": "보통주"
         }
       ]

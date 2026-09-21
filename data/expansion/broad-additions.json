@@ -1,0 +1,1107 @@
+[
+  {
+    "sectorId": "communication",
+    "industryId": "communication-telecom",
+    "company": {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile",
+      "exchange": "NASDAQ",
+      "business": "일반 스마트폰과 직접 통신하는 저궤도 위성망을 구축해 이동통신사와 연결 서비스를 판매합니다.",
+      "watch": "궤도 위성 수·서비스 가능지역·현금소진",
+      "ir": "https://investors.ast-science.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "communication",
+    "industryId": "communication-digital-platforms",
+    "company": {
+      "ticker": "RDDT",
+      "name": "Reddit",
+      "exchange": "NYSE",
+      "business": "주제별 커뮤니티의 이용자 관심사를 광고주와 연결하고 데이터 이용권을 판매합니다.",
+      "watch": "일간 이용자·이용자당 광고매출·주식보상",
+      "ir": "https://investor.redditinc.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "communication",
+    "industryId": "communication-streaming",
+    "company": {
+      "ticker": "ROKU",
+      "name": "Roku",
+      "exchange": "NASDAQ",
+      "business": "TV 운영체제와 스트리밍 기기를 통해 시청자를 확보하고 광고·콘텐츠 유통으로 수익을 냅니다.",
+      "watch": "FOX 인수 승인·주식대가·광고 총이익",
+      "ir": "https://www.roku.com/investor",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-discretionary",
+    "industryId": "consumer-discretionary-travel",
+    "company": {
+      "ticker": "ABNB",
+      "name": "Airbnb",
+      "exchange": "NASDAQ",
+      "business": "숙소 호스트와 여행객을 연결하고 예약에 따른 서비스 수수료를 받습니다.",
+      "watch": "예약 숙박일수·평균 일일요금·마케팅 효율",
+      "ir": "https://investors.airbnb.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-discretionary",
+    "industryId": "consumer-discretionary-retail",
+    "company": {
+      "ticker": "DASH",
+      "name": "DoorDash",
+      "exchange": "NASDAQ",
+      "business": "음식점·소매점의 주문과 배달을 중개하며 가맹점 도구·광고·멤버십을 제공합니다.",
+      "watch": "주문수·총주문금액·기여이익·주식보상",
+      "ir": "https://ir.doordash.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-discretionary",
+    "industryId": "consumer-discretionary-travel",
+    "company": {
+      "ticker": "EXPE",
+      "name": "Expedia Group",
+      "exchange": "NASDAQ",
+      "business": "Expedia·Hotels.com·Vrbo와 기업 대상 예약 인프라에서 여행 거래를 중개합니다.",
+      "watch": "예약액·숙박일수·B2B 성장·판매비율",
+      "ir": "https://ir.expediagroup.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-discretionary",
+    "industryId": "consumer-discretionary-travel",
+    "company": {
+      "ticker": "NCLH",
+      "name": "Norwegian Cruise Line Holdings",
+      "exchange": "NYSE",
+      "business": "Norwegian·Oceania·Regent 브랜드로 크루즈 여행과 선내 서비스를 판매합니다.",
+      "watch": "순수익률·승객일수·순부채·선박 투자",
+      "ir": "https://www.nclhltd.com/investors",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-discretionary",
+    "industryId": "consumer-discretionary-restaurants",
+    "company": {
+      "ticker": "YUM",
+      "name": "Yum! Brands",
+      "exchange": "NYSE",
+      "business": "KFC·Taco Bell·Habit의 가맹·직영망에서 수익을 얻습니다. Pizza Hut는 2026년 매각해 계속사업과 분리합니다.",
+      "watch": "계속사업 동일점포 매출·순신규 점포·매각대금 배분",
+      "ir": "https://investors.yum.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-discretionary",
+    "industryId": "consumer-discretionary-restaurants",
+    "company": {
+      "ticker": "BROS",
+      "name": "Dutch Bros",
+      "exchange": "NYSE",
+      "business": "드라이브스루 중심 음료 매장을 직접 운영하고 가맹 로열티를 받습니다.",
+      "watch": "동일점포 거래건수·신규점 수익률·점포 투자비",
+      "ir": "https://investors.dutchbros.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-discretionary",
+    "industryId": "consumer-discretionary-apparel",
+    "company": {
+      "ticker": "ONON",
+      "name": "On Holding",
+      "exchange": "NYSE",
+      "business": "프리미엄 러닝화와 의류를 도매·직접 판매 채널로 판매합니다.",
+      "watch": "직접판매 비중·총이익률·재고 증가율",
+      "ir": "https://investors.on-running.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-staples",
+    "industryId": "consumer-staples-beverages",
+    "company": {
+      "ticker": "CELH",
+      "name": "Celsius Holdings",
+      "exchange": "NASDAQ",
+      "business": "CELSIUS·Alani Nu·Rockstar 에너지 음료를 브랜드와 유통망을 통해 판매합니다.",
+      "watch": "소매 판매·유통재고·인수 통합·총이익률",
+      "ir": "https://ir.celsiusholdingsinc.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-staples",
+    "industryId": "consumer-staples-food",
+    "company": {
+      "ticker": "HSY",
+      "name": "Hershey",
+      "exchange": "NYSE",
+      "business": "초콜릿·제과 브랜드와 짠맛 스낵을 소매 유통망에 판매합니다.",
+      "watch": "가격 대비 판매량·코코아 헤지·총이익률",
+      "ir": "https://investors.thehersheycompany.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-staples",
+    "industryId": "consumer-staples-retail",
+    "company": {
+      "ticker": "SYY",
+      "name": "Sysco",
+      "exchange": "NYSE",
+      "business": "외식업체·학교·병원 등에 식품과 관련 물품을 조달·배송합니다.",
+      "watch": "박스 판매량·독립 식당 비중·배송 생산성",
+      "ir": "https://investors.sysco.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-staples",
+    "industryId": "consumer-staples-food",
+    "company": {
+      "ticker": "CAG",
+      "name": "Conagra Brands",
+      "exchange": "NYSE",
+      "business": "냉동식품·상온식품·스낵 브랜드를 소매와 외식 채널에 판매합니다.",
+      "watch": "유기적 판매량·판촉·재고·순부채",
+      "ir": "https://www.conagrabrands.com/investor-relations",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-staples",
+    "industryId": "consumer-staples-food",
+    "company": {
+      "ticker": "TSN",
+      "name": "Tyson Foods",
+      "exchange": "NYSE",
+      "business": "소·돼지·닭고기를 가공하고 가공식품 브랜드를 판매합니다.",
+      "watch": "축종별 영업이익·원료육 가격·가동률",
+      "ir": "https://ir.tyson.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-staples",
+    "industryId": "consumer-staples-household",
+    "company": {
+      "ticker": "CHD",
+      "name": "Church & Dwight",
+      "exchange": "NYSE",
+      "business": "ARM & HAMMER 등 생활용품·개인용품 브랜드를 판매합니다.",
+      "watch": "유기적 판매량·브랜드 투자·인수 수익률",
+      "ir": "https://investor.churchdwight.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "consumer-staples",
+    "industryId": "consumer-staples-food",
+    "company": {
+      "ticker": "MKC",
+      "name": "McCormick",
+      "exchange": "NYSE",
+      "business": "가정용 향신료와 식품업체·외식업체용 향미 솔루션을 공급합니다.",
+      "watch": "Unilever Foods 거래·신주·통합부채·향미사업 성장",
+      "ir": "https://ir.mccormick.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "energy",
+    "industryId": "energy-integrated",
+    "company": {
+      "ticker": "TTE",
+      "name": "TotalEnergies",
+      "exchange": "NYSE",
+      "business": "석유·가스 생산과 LNG·정유·전력 사업을 함께 운영합니다.",
+      "watch": "현금손익분기 유가·LNG 현금흐름·자본수익률",
+      "ir": "https://totalenergies.com/investors",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "energy",
+    "industryId": "energy-integrated",
+    "company": {
+      "ticker": "BP",
+      "name": "BP",
+      "exchange": "NYSE",
+      "business": "석유·가스 생산과 정유·마케팅·에너지 사업에서 현금을 창출합니다.",
+      "watch": "순부채·자산매각·상류 생산·환원 커버리지",
+      "ir": "https://www.bp.com/en/global/corporate/investors.html",
+      "kind": "ADR"
+    }
+  },
+  {
+    "sectorId": "energy",
+    "industryId": "energy-midstream",
+    "company": {
+      "ticker": "ENB",
+      "name": "Enbridge",
+      "exchange": "NYSE",
+      "business": "원유·가스 파이프라인과 가스 유틸리티를 통해 운송·배급 요금을 받습니다.",
+      "watch": "배당가능현금·부채배율·프로젝트 가동",
+      "ir": "https://www.enbridge.com/investment-center",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "energy",
+    "industryId": "energy-midstream",
+    "company": {
+      "ticker": "TRP",
+      "name": "TC Energy",
+      "exchange": "NYSE",
+      "business": "북미 천연가스 운송·저장과 발전 관련 자산을 운영합니다.",
+      "watch": "유지·성장투자·현금배당커버·부채",
+      "ir": "https://www.tcenergy.com/investors/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "energy",
+    "industryId": "energy-midstream",
+    "company": {
+      "ticker": "ET",
+      "name": "Energy Transfer",
+      "exchange": "NYSE",
+      "business": "천연가스·원유·NGL의 집하·처리·운송·수출 인프라를 운영합니다.",
+      "watch": "분배가능현금·레버리지·수수료 비중",
+      "ir": "https://ir.energytransfer.com/",
+      "kind": "보통지분(MLP)"
+    }
+  },
+  {
+    "sectorId": "energy",
+    "industryId": "energy-midstream",
+    "company": {
+      "ticker": "EPD",
+      "name": "Enterprise Products Partners",
+      "exchange": "NYSE",
+      "business": "NGL·원유·천연가스의 운송·분별·저장·수출 서비스를 제공합니다.",
+      "watch": "분배금 커버·수수료 현금·성장투자 회수",
+      "ir": "https://ir.enterpriseproducts.com/",
+      "kind": "보통지분(MLP)"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-banks",
+    "company": {
+      "ticker": "C",
+      "name": "Citigroup",
+      "exchange": "NYSE",
+      "business": "글로벌 기업금융·결제·증권 업무와 소비자 금융을 운영합니다.",
+      "watch": "유형자기자본수익률·CET1·효율성·신용비용",
+      "ir": "https://www.citigroup.com/citi/investor/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-payments",
+    "company": {
+      "ticker": "AXP",
+      "name": "American Express",
+      "exchange": "NYSE",
+      "business": "카드 발급·가맹점 결제망·대출을 연결해 가맹점 수수료·연회비·이자를 받습니다.",
+      "watch": "카드 지출·수수료·대손률·혜택비용",
+      "ir": "https://ir.americanexpress.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-banks",
+    "company": {
+      "ticker": "SOFI",
+      "name": "SoFi Technologies",
+      "exchange": "NASDAQ",
+      "business": "모바일 금융 서비스와 대출을 제공하고 금융기관에 기술 플랫폼을 판매합니다.",
+      "watch": "예금비용·개인대출 연체·수수료·희석",
+      "ir": "https://investors.sofi.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-payments",
+    "company": {
+      "ticker": "AFRM",
+      "name": "Affirm Holdings",
+      "exchange": "NASDAQ",
+      "business": "소비자에게 할부 결제를 제공하고 가맹점·대출 이자에서 수익을 얻습니다.",
+      "watch": "거래액·네트워크 수익·대손·조달 스프레드",
+      "ir": "https://investors.affirm.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-banks",
+    "company": {
+      "ticker": "NU",
+      "name": "Nu Holdings",
+      "exchange": "NYSE",
+      "business": "브라질·멕시코 등에서 모바일 계좌·카드·대출·투자 서비스를 제공합니다.",
+      "watch": "활성고객·고객당 수익·위험조정 이자마진",
+      "ir": "https://www.investidores.nu/en/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-insurance",
+    "company": {
+      "ticker": "ALL",
+      "name": "Allstate",
+      "exchange": "NYSE",
+      "business": "자동차·주택 등 개인 손해보험을 판매하고 보험료를 운용합니다.",
+      "watch": "기초 합산비율·갱신 보험료·대재해 손실",
+      "ir": "https://www.allstateinvestors.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-insurance",
+    "company": {
+      "ticker": "TRV",
+      "name": "Travelers",
+      "exchange": "NYSE",
+      "business": "기업·개인 손해보험과 보증보험을 판매하며 보험자산을 운용합니다.",
+      "watch": "합산비율·준비금 개발·갱신요율·투자수익",
+      "ir": "https://investor.travelers.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-insurance",
+    "company": {
+      "ticker": "PRU",
+      "name": "Prudential Financial",
+      "exchange": "NYSE",
+      "business": "생명보험·퇴직·연금과 PGIM 자산관리를 통해 위험보장·투자 서비스를 제공합니다.",
+      "watch": "법정자본·해약률·스프레드·운용순유입",
+      "ir": "https://investor.prudential.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "financials",
+    "industryId": "financials-asset-management",
+    "company": {
+      "ticker": "APO",
+      "name": "Apollo Global Management",
+      "exchange": "NYSE",
+      "business": "대체자산 운용과 Athene 보험자산의 장기 신용투자를 결합합니다.",
+      "watch": "수수료관련이익·스프레드관련이익·자본·자금유입",
+      "ir": "https://ir.apollo.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-pharma",
+    "company": {
+      "ticker": "ABBV",
+      "name": "AbbVie",
+      "exchange": "NYSE",
+      "business": "면역·종양·신경·에스테틱 분야의 의약품을 개발·판매합니다.",
+      "watch": "Skyrizi·Rinvoq 성장·기존약 감소·순부채",
+      "ir": "https://investors.abbvie.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-pharma",
+    "company": {
+      "ticker": "PFE",
+      "name": "Pfizer",
+      "exchange": "NYSE",
+      "business": "백신·전문의약품과 종양학 포트폴리오를 개발·판매합니다.",
+      "watch": "비코로나 매출·파이프라인·영업현금·배당커버",
+      "ir": "https://investors.pfizer.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-pharma",
+    "company": {
+      "ticker": "BMY",
+      "name": "Bristol Myers Squibb",
+      "exchange": "NYSE",
+      "business": "종양·혈액·면역·심혈관 의약품을 개발·판매합니다.",
+      "watch": "성장제품 매출·기존약 침식·인수부채",
+      "ir": "https://www.bms.com/investors.html",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-pharma",
+    "company": {
+      "ticker": "ZTS",
+      "name": "Zoetis",
+      "exchange": "NYSE",
+      "business": "반려동물·가축의 의약품·백신·진단제품을 수의사와 축산업에 공급합니다.",
+      "watch": "반려동물 유기적 성장·가격·R&D·마진",
+      "ir": "https://investor.zoetis.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-devices",
+    "company": {
+      "ticker": "BSX",
+      "name": "Boston Scientific",
+      "exchange": "NYSE",
+      "business": "심장·혈관·내시경 등 최소침습 의료기기와 소모품을 병원에 공급합니다.",
+      "watch": "유기적 매출·신제품 침투·총이익·인수부채",
+      "ir": "https://investors.bostonscientific.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-devices",
+    "company": {
+      "ticker": "DXCM",
+      "name": "Dexcom",
+      "exchange": "NASDAQ",
+      "business": "당뇨병 환자에게 연속혈당측정 센서와 관련 소프트웨어를 제공합니다.",
+      "watch": "신규환자·센서 교체매출·순판매단가·총이익",
+      "ir": "https://investors.dexcom.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-devices",
+    "company": {
+      "ticker": "EW",
+      "name": "Edwards Lifesciences",
+      "exchange": "NYSE",
+      "business": "구조적 심장질환 치료용 인공판막과 관련 의료기기를 공급합니다.",
+      "watch": "시술량·신규 적응증·임상 결과·R&D",
+      "ir": "https://ir.edwards.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-tools",
+    "company": {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories",
+      "exchange": "NASDAQ",
+      "business": "동물병원 진단장비·소모품·검사실 서비스와 관련 소프트웨어를 제공합니다.",
+      "watch": "동일병원 검사량·반복매출·설치장비·마진",
+      "ir": "https://ir.idexx.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-biotech",
+    "company": {
+      "ticker": "MRNA",
+      "name": "Moderna",
+      "exchange": "NASDAQ",
+      "business": "mRNA 플랫폼을 활용해 감염병 백신과 치료제 후보를 개발·상업화합니다.",
+      "watch": "백신 접종·R&D·현금소진·임상 성공률",
+      "ir": "https://investors.modernatx.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-biotech",
+    "company": {
+      "ticker": "BNTX",
+      "name": "BioNTech",
+      "exchange": "NASDAQ",
+      "business": "mRNA·면역치료 플랫폼으로 백신과 종양학 의약품을 개발합니다.",
+      "watch": "백신 수익배분·종양학 데이터·현금·R&D",
+      "ir": "https://investors.biontech.de/",
+      "kind": "ADR"
+    }
+  },
+  {
+    "sectorId": "health-care",
+    "industryId": "health-care-biotech",
+    "company": {
+      "ticker": "ALNY",
+      "name": "Alnylam Pharmaceuticals",
+      "exchange": "NASDAQ",
+      "business": "RNA 간섭 기술로 질병 관련 단백질 생성을 억제하는 의약품을 개발·판매합니다.",
+      "watch": "제품 매출·환자 침투·급여·영업손익",
+      "ir": "https://investors.alnylam.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "RKLB",
+      "name": "Rocket Lab",
+      "exchange": "NASDAQ",
+      "business": "발사 서비스와 위성·우주부품·임무 솔루션을 고객에게 제공합니다.",
+      "watch": "Iridium 인수·희석·Neutron·수주 현금전환",
+      "ir": "https://investors.rocketlabcorp.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "LUNR",
+      "name": "Intuitive Machines",
+      "exchange": "NASDAQ",
+      "business": "우주선 제작·달 임무와 통신·항법·운영 인프라를 정부·상업 고객에게 제공합니다.",
+      "watch": "계약수주·임무 성공·진행률 매출·현금소진",
+      "ir": "https://investors.intuitivemachines.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "RDW",
+      "name": "Redwire",
+      "exchange": "NYSE",
+      "business": "우주용 전력·안테나·항법 부품과 방위용 자율 시스템을 공급합니다.",
+      "watch": "수주잔고·유기적 성장·계약 총이익·부채",
+      "ir": "https://ir.rdw.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "ACHR",
+      "name": "Archer Aviation",
+      "exchange": "NYSE",
+      "business": "전기 수직이착륙 항공기와 관련 운영·방위 사업의 상업화를 추진합니다.",
+      "watch": "인증 진행·제조 원가·현금소진·희석",
+      "ir": "https://investors.archer.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "JOBY",
+      "name": "Joby Aviation",
+      "exchange": "NYSE",
+      "business": "전기 수직이착륙기를 개발하고 항공 이동 서비스를 구축합니다.",
+      "watch": "인증 단계·생산량·운항 비용·현금소진",
+      "ir": "https://ir.jobyaviation.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "AVAV",
+      "name": "AeroVironment",
+      "exchange": "NASDAQ",
+      "business": "무인항공기·배회형 탄약과 관련 방위 기술·지원 서비스를 공급합니다.",
+      "watch": "수주대비매출·탄약 생산능력·계약마진",
+      "ir": "https://investor.avinc.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "KTOS",
+      "name": "Kratos Defense & Security Solutions",
+      "exchange": "NASDAQ",
+      "business": "무인기·추진·위성통신·전자 방위 시스템을 개발·생산합니다.",
+      "watch": "양산 전환·수주잔고·R&D·설비투자",
+      "ir": "https://ir.kratosdefense.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-aerospace",
+    "company": {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries",
+      "exchange": "NYSE",
+      "business": "미 해군 함정·잠수함을 건조하고 방위 임무 기술·서비스를 제공합니다.",
+      "watch": "함정 인도·조선마진·수주잔고·현금전환",
+      "ir": "https://ir.hii.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-electrical",
+    "company": {
+      "ticker": "VRT",
+      "name": "Vertiv",
+      "exchange": "NYSE",
+      "business": "데이터센터·통신시설에 전력관리·냉각 설비와 유지보수를 제공합니다.",
+      "watch": "유기적 수주·액체냉각·수주잔고·총이익",
+      "ir": "https://investors.vertiv.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-electrical",
+    "company": {
+      "ticker": "PWR",
+      "name": "Quanta Services",
+      "exchange": "NYSE",
+      "business": "전력망·통신·에너지 인프라를 설계·건설·유지보수합니다.",
+      "watch": "수주잔고·전력망 투자·작업자 생산성·현금",
+      "ir": "https://investors.quantaservices.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-electrical",
+    "company": {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "exchange": "NYSE",
+      "business": "상업·산업시설의 기계·전기·배관 설비와 유지보수를 제공합니다.",
+      "watch": "수주잔고·유기적 매출·공사마진·운전자본",
+      "ir": "https://investors.comfortsystemsusa.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-transport",
+    "company": {
+      "ticker": "WAB",
+      "name": "Wabtec",
+      "exchange": "NYSE",
+      "business": "철도 기관차·부품·제어장비와 정비·업그레이드 서비스를 공급합니다.",
+      "watch": "서비스 성장·기관차 현대화·수주·현금",
+      "ir": "https://ir.wabteccorp.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-transport",
+    "company": {
+      "ticker": "CSX",
+      "name": "CSX",
+      "exchange": "NASDAQ",
+      "business": "미국 동부 철도망으로 산업재·원자재·컨테이너 화물을 운송합니다.",
+      "watch": "차량수·단위당 매출·운영비율·열차속도",
+      "ir": "https://investors.csx.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-transport",
+    "company": {
+      "ticker": "CNI",
+      "name": "Canadian National Railway",
+      "exchange": "NYSE",
+      "business": "캐나다·미국 철도망을 통해 벌크·상품·컨테이너 화물을 운송합니다.",
+      "watch": "유상 톤마일·단위 매출·운영비율·CAPEX",
+      "ir": "https://www.cn.ca/en/investors/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-transport",
+    "company": {
+      "ticker": "CP",
+      "name": "Canadian Pacific Kansas City",
+      "exchange": "NYSE",
+      "business": "캐나다·미국·멕시코를 잇는 철도망으로 화물 운송을 제공합니다.",
+      "watch": "국경간 물량·시너지·운영비율·부채",
+      "ir": "https://investor.cpkcr.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "industrials",
+    "industryId": "industrials-transport",
+    "company": {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "exchange": "NYSE",
+      "business": "승객·운전자 및 배달 고객·상점을 연결하고 거래 수수료를 받습니다.",
+      "watch": "총예약액·거래수·운전자 공급·잉여현금",
+      "ir": "https://investor.uber.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "materials",
+    "industryId": "materials-metals",
+    "company": {
+      "ticker": "BHP",
+      "name": "BHP Group",
+      "exchange": "NYSE",
+      "business": "철광석·구리 등 광물을 대규모 광산에서 생산해 세계 산업 고객에게 공급합니다.",
+      "watch": "원가곡선·구리 생산·철광석 가격·투자",
+      "ir": "https://www.bhp.com/investors",
+      "kind": "ADR"
+    }
+  },
+  {
+    "sectorId": "materials",
+    "industryId": "materials-metals",
+    "company": {
+      "ticker": "RIO",
+      "name": "Rio Tinto",
+      "exchange": "NYSE",
+      "business": "철광석·알루미늄·구리 등 광물을 채굴·제련합니다.",
+      "watch": "광종별 원가·생산량·개발투자·순부채",
+      "ir": "https://www.riotinto.com/en/invest",
+      "kind": "ADR"
+    }
+  },
+  {
+    "sectorId": "materials",
+    "industryId": "materials-metals",
+    "company": {
+      "ticker": "SCCO",
+      "name": "Southern Copper",
+      "exchange": "NYSE",
+      "business": "페루·멕시코에서 구리와 부산물 광물을 채굴·제련합니다.",
+      "watch": "구리 생산·부산물 차감원가·프로젝트 허가",
+      "ir": "https://southerncoppercorp.com/eng/company-presentations/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "materials",
+    "industryId": "materials-metals",
+    "company": {
+      "ticker": "AA",
+      "name": "Alcoa",
+      "exchange": "NYSE",
+      "business": "보크사이트·알루미나·알루미늄을 생산합니다.",
+      "watch": "South32 자산 인수·조달·금속-원가 스프레드",
+      "ir": "https://investors.alcoa.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "materials",
+    "industryId": "materials-metals",
+    "company": {
+      "ticker": "CLF",
+      "name": "Cleveland-Cliffs",
+      "exchange": "NYSE",
+      "business": "철광석 원료부터 자동차·산업용 철강까지 공급합니다.",
+      "watch": "열연 가격·자동차 출하·톤당 이익·부채",
+      "ir": "https://www.clevelandcliffs.com/investors",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "materials",
+    "industryId": "materials-chemicals",
+    "company": {
+      "ticker": "CF",
+      "name": "CF Industries",
+      "exchange": "NYSE",
+      "business": "천연가스를 원료로 암모니아·질소 비료를 생산합니다.",
+      "watch": "질소가격-가스비 스프레드·가동률·투자",
+      "ir": "https://investor.cfindustries.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "materials",
+    "industryId": "materials-chemicals",
+    "company": {
+      "ticker": "MOS",
+      "name": "Mosaic",
+      "exchange": "NYSE",
+      "business": "인산·칼륨 비료를 채굴·제조하고 농업 시장에 유통합니다.",
+      "watch": "제품별 판매량·비료가격·현금원가·부채",
+      "ir": "https://investors.mosaicco.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-residential",
+    "company": {
+      "ticker": "UDR",
+      "name": "UDR",
+      "exchange": "NYSE",
+      "business": "미국 주요 고용시장의 아파트를 소유·운영하며 임대료와 관련 수익을 얻습니다.",
+      "watch": "동일자산 NOI·갱신임대료·점유율·부채",
+      "ir": "https://ir.udr.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-residential",
+    "company": {
+      "ticker": "INVH",
+      "name": "Invitation Homes",
+      "exchange": "NYSE",
+      "business": "미국 단독주택을 대규모로 소유·운영하고 임대료·관리 수익을 얻습니다.",
+      "watch": "동일주택 NOI·점유율·수선CAPEX·레버리지",
+      "ir": "https://ir.invitationhomes.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-residential",
+    "company": {
+      "ticker": "AMH",
+      "name": "American Homes 4 Rent",
+      "exchange": "NYSE",
+      "business": "단독주택을 취득·개발·임대하며 임대주택 운영 규모를 확대합니다.",
+      "watch": "동일주택 NOI·개발수익률·임대성장·부채",
+      "ir": "https://investors.amh.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-office-services",
+    "company": {
+      "ticker": "EXR",
+      "name": "Extra Space Storage",
+      "exchange": "NYSE",
+      "business": "개인·기업용 셀프스토리지를 소유·운영하고 제3자 시설을 관리합니다.",
+      "watch": "신규·기존 임대료·점유율·동일자산 NOI",
+      "ir": "https://ir.extraspace.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-office-services",
+    "company": {
+      "ticker": "PSA",
+      "name": "Public Storage",
+      "exchange": "NYSE",
+      "business": "셀프스토리지 공간을 임대하고 관련 서비스 수익을 얻습니다.",
+      "watch": "동일자산 NOI·신규임대료·점유율·부채비용",
+      "ir": "https://investors.publicstorage.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-retail",
+    "company": {
+      "ticker": "VICI",
+      "name": "VICI Properties",
+      "exchange": "NYSE",
+      "business": "카지노·레저 부동산을 소유하고 장기 순임대 계약으로 임대료를 받습니다.",
+      "watch": "임차인 커버·AFFO·임대료상승·조달비용",
+      "ir": "https://investors.viciproperties.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-retail",
+    "company": {
+      "ticker": "GLPI",
+      "name": "Gaming and Leisure Properties",
+      "exchange": "NASDAQ",
+      "business": "게임·레저 시설 부동산을 소유하고 운영사와 장기 순임대 계약을 체결합니다.",
+      "watch": "임차인커버·투자 스프레드·AFFO·부채",
+      "ir": "https://investors.glpropinc.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-office-services",
+    "company": {
+      "ticker": "CUBE",
+      "name": "CubeSmart",
+      "exchange": "NYSE",
+      "business": "셀프스토리지 시설을 소유·운영하고 외부 시설의 관리를 맡습니다.",
+      "watch": "입주율·신규고객 요율·NOI·유지투자",
+      "ir": "https://investors.cubesmart.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-digital",
+    "company": {
+      "ticker": "IRM",
+      "name": "Iron Mountain",
+      "exchange": "NYSE",
+      "business": "기업의 문서·정보를 보관·관리하고 데이터센터 공간과 전력을 제공합니다.",
+      "watch": "보관량·가격·데이터센터 예약·AFFO·부채",
+      "ir": "https://investors.ironmountain.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "real-estate",
+    "industryId": "real-estate-digital",
+    "company": {
+      "ticker": "SBAC",
+      "name": "SBA Communications",
+      "exchange": "NASDAQ",
+      "business": "이동통신사에 철탑·통신시설 공간을 임대하고 구축 서비스를 제공합니다.",
+      "watch": "동일타워 매출·해지율·추가임차·레버리지",
+      "ir": "https://ir.sbasite.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "D",
+      "name": "Dominion Energy",
+      "exchange": "NYSE",
+      "business": "규제 전력·가스 자산을 운영해 인가된 요금으로 에너지를 공급합니다.",
+      "watch": "요금기반·허용수익률·투자회수·FFO/부채",
+      "ir": "https://investors.dominionenergy.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "ETR",
+      "name": "Entergy",
+      "exchange": "NYSE",
+      "business": "미 남부 지역의 규제 전력사업을 통해 발전·송배전 서비스를 제공합니다.",
+      "watch": "산업부하·요금기반·복구비 회수·신용지표",
+      "ir": "https://www.entergy.com/investors",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "PEG",
+      "name": "Public Service Enterprise Group",
+      "exchange": "NYSE",
+      "business": "규제 송배전·가스 사업과 발전 관련 자산을 운영합니다.",
+      "watch": "요금기반·송전투자·발전 현금·부채",
+      "ir": "https://investor.pseg.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "ED",
+      "name": "Consolidated Edison",
+      "exchange": "NYSE",
+      "business": "뉴욕권의 전력·가스·증기 공급망을 운영합니다.",
+      "watch": "요금사건·설비투자·운영비·배당커버",
+      "ir": "https://investor.conedison.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "ES",
+      "name": "Eversource Energy",
+      "exchange": "NYSE",
+      "business": "뉴잉글랜드 지역의 전력·가스 등 규제 공급망을 운영합니다.",
+      "watch": "규제자산 성장·자금조달·비용회수·FFO",
+      "ir": "https://investors.eversource.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "WEC",
+      "name": "WEC Energy Group",
+      "exchange": "NYSE",
+      "business": "중서부 전력·가스 유틸리티와 관련 인프라를 운영합니다.",
+      "watch": "요금기반·허용ROE·발전투자·신용등급",
+      "ir": "https://investor.wecenergygroup.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "PCG",
+      "name": "PG&E",
+      "exchange": "NYSE",
+      "business": "북부·중부 캘리포니아에서 전력·가스 서비스를 제공합니다.",
+      "watch": "산불안전 지출·요금회수·희석·부채",
+      "ir": "https://investor.pgecorp.com/",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-diversified",
+    "company": {
+      "ticker": "AES",
+      "name": "AES",
+      "exchange": "NYSE",
+      "business": "규제 전력사업과 장기계약 기반 발전·재생에너지 프로젝트를 운영합니다.",
+      "watch": "현금 인수계약 승인·종결·무산 시 자금조달",
+      "ir": "https://www.aes.com/investors",
+      "kind": "보통주"
+    }
+  },
+  {
+    "sectorId": "utilities",
+    "industryId": "utilities-regulated",
+    "company": {
+      "ticker": "CNP",
+      "name": "CenterPoint Energy",
+      "exchange": "NYSE",
+      "business": "텍사스 등의 전력 송배전과 여러 주의 가스 배급망을 운영합니다.",
+      "watch": "신뢰도 투자·요금승인·현금흐름·부채",
+      "ir": "https://investors.centerpointenergy.com/",
+      "kind": "보통주"
+    }
+  }
+]

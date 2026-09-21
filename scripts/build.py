@@ -11,8 +11,8 @@ import math
 
 ROOT = Path(__file__).resolve().parents[1]
 ORDER = ["communication", "consumer-discretionary", "consumer-staples", "energy", "financials", "real-estate", "health-care", "industrials", "materials", "technology", "utilities"]
-CSS = ["tokens", "base", "layout", "components", "research", "navigation"]
-JS = ["core", "views", "navigation", "treemap", "company", "app"]
+CSS = ["tokens", "base", "layout", "components", "research", "navigation", "company-directory", "investment-report"]
+JS = ["core", "views", "navigation", "company-directory", "treemap", "investment-report", "company", "app"]
 
 
 def read(path: Path) -> str:
@@ -49,7 +49,7 @@ def validate(sectors: list, context: dict) -> dict:
                 require(all(isinstance(k.get(f), str) and k[f].strip() for f in ["name", "meaning", "read"]), "Incomplete KPI")
             for c in i["companies"]:
                 require(all(isinstance(c.get(f), str) and c[f].strip() for f in ["ticker", "name", "exchange", "business", "watch", "ir", "kind"]), f"Incomplete company in {i['id']}")
-                require(c["kind"] in {"보통주", "ADR"}, f"Unsupported security kind: {c['ticker']}")
+                require(c["kind"] in {"보통주", "ADR", "보통지분(MLP)"}, f"Unsupported security kind: {c['ticker']}")
                 require(c["ticker"] not in tickers, f"Duplicate company ticker: {c['ticker']}")
                 tickers.add(c["ticker"])
                 require(urlparse(c["ir"]).scheme == "https", f"Invalid IR link: {c['ticker']}")
@@ -73,7 +73,7 @@ def main() -> None:
     styles += "\n/* Lucide icon license\n" + read(ROOT / "assets/icons/LICENSE").replace("*/", "* /") + "\n*/\n"
     scripts = "\n".join(read(ROOT / f"src/js/{name}.js") for name in JS)
     extras = {}
-    for key, filename, default in [("profiles", "companies.json", {}), ("financials", "financials.json", {"companies":{}}), ("updateStatus", "update-status.json", {})]:
+    for key, filename, default in [("profiles", "companies.json", {}), ("financials", "financials.json", {"companies":{}}), ("marketData", "market-data.json", {"companies":{}}), ("updateStatus", "update-status.json", {})]:
         path = ROOT / "data" / filename
         extras[key] = json.loads(read(path)) if path.exists() else default
     if (ROOT / "data/companies").exists():
@@ -87,6 +87,19 @@ def main() -> None:
             require(len(p.get(key,[]))>=2,f"Incomplete {key}: {ticker}")
         for source in p["sources"]:
             require(urlparse(source["url"]).scheme=="https" and source.get("note"),f"Missing primary source: {ticker}")
+        research=p.get("investmentResearch",{})
+        require(research.get("thesis") and research.get("asOf"),f"Missing investment research: {ticker}")
+        date.fromisoformat(research["asOf"])
+        for key in ("businessDrivers","macro","moat","financialFocus","policy"):
+            require(len(research.get(key,[]))>=(1 if key=="policy" else 2) and all(x.get("title") and x.get("detail") for x in research[key]),f"Incomplete investment {key}: {ticker}")
+        for key in ("catalysts","falsifiers","sources"):
+            require(len(research.get(key,[]))>=2,f"Incomplete investment {key}: {ticker}")
+        for source in research["sources"]:
+            require(urlparse(source.get("url","")).scheme=="https" and source.get("note"),f"Missing investment evidence: {ticker}")
+        for key in ("relative","absolute"):
+            require(research.get("valuation",{}).get(key,{}).get("method"),f"Missing {key} valuation method: {ticker}")
+    require(set(extras["financials"]["companies"])==tickers,"Financial universe must match coverage")
+    require(set(extras["marketData"]["companies"])==tickers,"Market snapshots must match coverage")
     for ticker,f in extras["financials"]["companies"].items():
         for period in f.get("annual",[])+([f["latestQuarter"]] if f.get("latestQuarter") else []):
             for key,m in period["metrics"].items():

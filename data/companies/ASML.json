@@ -1,0 +1,183 @@
+{
+  "ticker": "ASML",
+  "oneLiner": "EUV·DUV 반도체 노광장비를 제공하는 ASML Holding.",
+  "businessModel": "반도체 웨이퍼에 회로를 새기는 EUV·DUV 노광장비와 유지보수·업그레이드를 공급합니다. 고객의 첨단공정 전환과 설치 기반이 수익원입니다.",
+  "revenueStreams": [
+    {
+      "name": "노광 시스템 판매",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 반도체 웨이퍼에 회로를 새기는 EUV·DUV 노광장비와 유지보수·업그레이드를 공급합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results"
+    },
+    {
+      "name": "설치기반 서비스·업그레이드",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 반도체 웨이퍼에 회로를 새기는 EUV·DUV 노광장비와 유지보수·업그레이드를 공급합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results"
+    }
+  ],
+  "history": [
+    {
+      "year": 2026,
+      "event": "공식 투자자 자료에서 현재 사업 구성과 전략을 공개."
+    },
+    {
+      "year": 2026,
+      "event": "2026년 2분기 순매출 93억 유로, 총이익률 54.0%가 공시됐습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 가치와 전환 비용",
+      "detail": "EUV의 광학·광원·정밀제어와 공급망 통합은 매우 높은 기술 장벽입니다."
+    },
+    {
+      "title": "확장 기반",
+      "detail": "고객 공정과 장비 최적화가 서비스 매출과 장기 협력을 강화합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "사업 위험",
+      "detail": "소수 고객의 투자 일정과 신규 장비 인식 시점에 매출이 흔들립니다."
+    },
+    {
+      "title": "실행·재무 위험",
+      "detail": "중국 수출허가 및 High-NA 도입 속도·수익성이 핵심 불확실성입니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "AMAT",
+      "ticker": "AMAT",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "LRCX",
+      "ticker": "LRCX",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "KLAC",
+      "ticker": "KLAC",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    }
+  ],
+  "macroLink": "AI 반도체와 HBM 증설은 노광 수요를 지원하지만 장비업체 수주에는 시차가 있습니다. 유로 환율과 네덜란드·미국의 수출규제가 지역별 판매를 바꿉니다.",
+  "monitoring": [
+    "수주변동, 고객투자, 중국 수출허가를 분기별로 확인합니다.",
+    "고객 첨단공정 투자 집행",
+    "수출허가 축소·장비 인도 연기"
+  ],
+  "sources": [
+    {
+      "title": "ASML Holding · 공식 실적·공시",
+      "url": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "ASML Holding · 공식 기업·투자자 자료",
+      "url": "https://www.asml.com/en/investors/financial-results/q2-2026",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: EUV의 광학·광원·정밀제어와 공급망 통합은 매우 높은 기술 장벽입니다. 투자판단의 핵심은 고객 첨단공정 투자 집행입니다. 소수 고객의 투자 일정과 신규 장비 인식 시점에 매출이 흔들립니다.",
+    "businessDrivers": [
+      {
+        "title": "매출을 만드는 변수",
+        "detail": "노광 시스템 판매와 설치기반 서비스·업그레이드의 성장 경로를 나눕니다. 반도체 웨이퍼에 회로를 새기는 EUV·DUV 노광장비와 유지보수·업그레이드를 공급합니다. 고객의 첨단공정 전환과 설치 기반이 수익원입니다."
+      },
+      {
+        "title": "확인할 운영지표",
+        "detail": "수주변동, 고객투자, 중국 수출허가. 신규 계약·매출 인식·현금 회수는 서로 다른 단계입니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "수요와 경기",
+        "detail": "AI 반도체와 HBM 증설은 노광 수요를 지원하지만 장비업체 수주에는 시차가 있습니다."
+      },
+      {
+        "title": "비용·금리·정책 전달",
+        "detail": "유로 환율과 네덜란드·미국의 수출규제가 지역별 판매를 바꿉니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "경제적 해자 가설",
+        "detail": "EUV의 광학·광원·정밀제어와 공급망 통합은 매우 높은 기술 장벽입니다."
+      },
+      {
+        "title": "해자를 유지하는 조건",
+        "detail": "고객 공정과 장비 최적화가 서비스 매출과 장기 협력을 강화합니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "공식 실적에서 확인한 흐름",
+        "detail": "2026년 2분기 순매출 93억 유로, 총이익률 54.0%가 공시됐습니다."
+      },
+      {
+        "title": "재무 건전성·이익의 질",
+        "detail": "고객선수금과 재고·설비투자를 함께 봐야 영업현금의 반복성을 알 수 있고 달러 ADR와 유로 실적의 통화도 맞춰야 합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "중간주기 EV/EBIT·P/E·FCF 수익률",
+        "peers": [
+          "AMAT",
+          "LRCX",
+          "KLAC"
+        ],
+        "rationale": "사업모델에 근거한 비교군이며 동일한 회계기간·성장률·현금마진으로 맞춰야 합니다. 동일 산업이라는 이유만으로 같은 배수가 정당화되지는 않습니다.",
+        "watch": "현재 시세·완전희석 주식수·순차입을 확인한 뒤 실제 배수를 산출합니다. 검증되지 않은 목표가나 저평가 결론은 제시하지 않습니다."
+      },
+      "absolute": {
+        "method": "경기 중간 이익률을 사용하는 2단계 FCFF DCF",
+        "drivers": [
+          "EUV·DUV 출하",
+          "서비스 설치기반",
+          "High-NA 마진·운전자본"
+        ],
+        "watch": "성장 둔화·마진 압박·할인율 상승의 하방 시나리오를 비교합니다. 영구성장률은 장기 시장성장보다 보수적으로 두고 현금·부채·리스·희석을 주당가치에 반영합니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "정책·규제의 투자 영향",
+        "detail": "첨단 기술의 수출허가·고객 최종사용자·정부 연구계약 조건을 확인합니다. 지원 발표액을 매출이나 무조건적인 현금으로 넣지 않습니다.",
+        "sourceUrl": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results"
+      }
+    ],
+    "catalysts": [
+      "고객 첨단공정 투자 집행 여부를 다음 공식 실적에서 확인합니다.",
+      "수주변동, 고객투자, 중국 수출허가의 개선이 현금창출로 연결되는지 확인합니다."
+    ],
+    "falsifiers": [
+      "수출허가 축소·장비 인도 연기 시 핵심 가정을 다시 검토합니다.",
+      "중국 수출허가 및 High-NA 도입 속도·수익성이 핵심 불확실성입니다."
+    ],
+    "sources": [
+      {
+        "title": "ASML Holding · 공식 실적·공시",
+        "url": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "ASML Holding · 공식 기업·투자자 자료",
+        "url": "https://www.asml.com/en/investors/financial-results/q2-2026",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

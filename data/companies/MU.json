@@ -1,21 +1,21 @@
 {
   "ticker": "MU",
-  "oneLiner": "DRAM과 NAND 메모리를 직접 개발·생산하는 미국 반도체 회사.",
-  "businessModel": "DRAM은 계산 중 데이터를 빠르게 다루고 NAND는 데이터를 저장합니다. Micron은 메모리 공장을 운영해 서버·모바일·PC·자동차 고객에 공급합니다. 판매량 증가보다 평균 판매가격과 제조 원가의 변화가 이익을 더 크게 바꿀 수 있으며 AI용 고대역폭 메모리도 전체 수급 안에서 봐야 합니다.",
+  "oneLiner": "DRAM·NAND 메모리와 저장장치를 중심으로 수익을 만드는 Micron Technology.",
+  "businessModel": "DRAM과 NAND를 직접 개발·제조해 클라우드·AI 서버·모바일·PC·자동차 고객에 공급합니다. HBM은 대역폭과 패키징·수율이 중요한 DRAM 제품이며 일반 DRAM·NAND와 수요·수익구조를 구분해야 합니다. 판매량뿐 아니라 평균가격·원가·공장가동률·공급규율이 이익을 결정합니다.",
   "revenueStreams": [
     {
-      "name": "DRAM",
-      "description": "서버·PC·모바일 DRAM과 AI 가속기용 고대역폭 메모리인 HBM.",
+      "name": "DRAM·HBM",
+      "description": "서버·모바일·PC·자동차 메모리와 AI용 고대역폭 메모리. 비트 출하와 ASP 외에 HBM 수율·패키징·고객 인증이 중요합니다.",
       "share": null,
       "period": null,
-      "sourceUrl": "https://investors.micron.com/overview/default.aspx"
+      "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Results-for-the-Third-Quarter-of-Fiscal-2026/default.aspx"
     },
     {
-      "name": "NAND·기타",
-      "description": "데이터센터·소비자용 저장 장치와 NAND 제품 등.",
+      "name": "NAND·SSD",
+      "description": "데이터센터·클라이언트·모바일의 저장용 메모리와 SSD. NAND 가격주기·QLC·컨트롤러·고객 인증이 경제성을 만듭니다.",
       "share": null,
       "period": null,
-      "sourceUrl": "https://investors.micron.com/overview/default.aspx"
+      "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Results-for-the-Third-Quarter-of-Fiscal-2026/default.aspx"
     }
   ],
   "history": [
@@ -34,51 +34,77 @@
   ],
   "strengths": [
     {
-      "title": "DRAM·NAND 양쪽 기반",
-      "detail": "계산용 메모리와 저장용 메모리의 제품·고객 경험을 함께 보유합니다."
+      "title": "기술·규모의 진입 장벽",
+      "detail": "첨단 DRAM·NAND 공정과 설비에는 막대한 자본·공정 지식이 필요합니다. 경제적 장벽은 높지만 기존 소수 공급자 사이의 경쟁은 지속됩니다."
     },
     {
-      "title": "HBM 기회",
-      "detail": "AI 가속기 주변에 필요한 고성능 메모리를 공급할 수 있습니다."
+      "title": "고객 인증·품질",
+      "detail": "HBM과 자동차 메모리의 신뢰성·패키징·장기 공급 요구는 설계 채택 이후의 전환 비용을 높입니다."
     },
     {
-      "title": "자동차·산업 경험",
-      "detail": "품질 인증과 긴 공급 기간을 요구하는 고객 관계가 축적되어 있습니다."
+      "title": "해자의 한계",
+      "detail": "메모리의 표준화와 공급주기 때문에 기술 우위가 영구 가격 결정권을 뜻하지 않습니다. 높은 ROIC를 여러 주기 동안 유지하는지가 해자의 증거입니다."
     }
   ],
   "weaknesses": [
     {
-      "title": "가격 경기순환",
-      "detail": "공급 과잉 때 메모리 가격이 크게 하락해 출하량 증가에도 손실이 날 수 있습니다."
+      "title": "순환적 가격 급락",
+      "detail": "재고 조정과 공급 증가가 겹치면 매출·마진·재고가 동시에 악화됩니다."
     },
     {
-      "title": "공장 투자 부담",
-      "detail": "공정 전환과 증설에 큰 현금이 필요하며 감가상각이 지속됩니다."
+      "title": "투자 회수와 수율",
+      "detail": "신규 공장·HBM 패키징 투자, 공정 전환 실패는 현금소모와 감가상각을 높입니다."
     },
     {
-      "title": "HBM 실행 위험",
-      "detail": "수율·고객 인증·패키징 문제가 발생하면 높은 성장 기대가 실제 이익으로 이어지지 못합니다."
+      "title": "지정학·고객 집중",
+      "detail": "수출·중국 판매 제한, 특정 AI 플랫폼 의존이 성장 경로를 바꿀 수 있습니다."
     }
   ],
   "competitors": [
     {
       "name": "SK hynix",
       "ticker": "000660.KS",
-      "comparison": "DRAM·HBM·NAND에서 경쟁하는 한국 상장사입니다."
+      "comparison": "DRAM·HBM·NAND의 가장 직접적인 비교군으로 HBM 세대·점유율·통화를 맞춥니다."
     },
     {
       "name": "Samsung Electronics",
       "ticker": "005930.KS",
-      "comparison": "메모리 전반에서 경쟁하며 생산 규모와 제품 범위가 넓습니다."
+      "comparison": "메모리 외 스마트폰·파운드리 사업이 혼합돼 사업별 비교가 필요합니다."
+    },
+    {
+      "name": "Sandisk",
+      "ticker": "SNDK",
+      "comparison": "NAND·SSD 비교에는 유용하나 DRAM·HBM 가치에는 직접 대응하지 않습니다."
     }
   ],
-  "macroLink": "메모리 수급은 경기와 재고, 공급업체들의 투자 결정이 함께 만듭니다. AI 수요 강세와 일반 PC·모바일 메모리 부진이 동시에 나타날 수 있습니다.",
+  "macroLink": "하이퍼스케일 투자와 가속기 설치가 HBM 수요를 이끌지만 전력·건설 병목은 출하를 늦출 수 있습니다. 고객의 장기 계약도 인도·가격 조건을 읽어야 합니다. 주요 업체 증설·미세공정 전환·재고 축적이 중장기 가격을 바꿉니다. 공급 부족에서 과잉으로 바뀌는 시점이 EPS보다 먼저 가치에 영향을 줍니다. 금리와 장비·전력·건설비가 신규 공장의 자본수익률을 좌우합니다. 해외 공장 비용과 달러 매출의 통화 차이도 점검합니다.",
   "monitoring": [
-    "DRAM과 NAND의 판매가격·비트 출하·단위원가가 각각 어떻게 변하는가?",
-    "HBM 공급 계약이 수율과 현금 이익으로 이어지는가?",
-    "재고 감소가 고객 수요 회복 때문인지 생산 감축 때문인지 구분했는가?"
+    "HBM4 양산·다수 고객 인증과 수율 개선",
+    "고객 장기계약이 실제 수금·가격 안정성으로 연결",
+    "메모리 재고·업계 비트 공급·총 capex의 균형",
+    "HBM 성장에도 일반 메모리 가격하락으로 정상 현금이익 감소",
+    "매출채권·재고가 매출보다 지속적으로 빠르게 증가",
+    "증설·지원금 지연과 수율 악화로 ROIC가 자본비용 미달"
   ],
   "sources": [
+    {
+      "title": "Micron FY2026 Q3 실적",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Results-for-the-Third-Quarter-of-Fiscal-2026/default.aspx",
+      "note": "공식 실제 실적과 회사의 미래 제품·재무 전망을 구분.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Micron 공식 IR",
+      "url": "https://investors.micron.com/overview/default.aspx",
+      "note": "사업·분기보고·제품 자료.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "미 상무부 Micron 투자 발표",
+      "url": "https://www.commerce.gov/news/press-releases/2025/06/president-trump-secures-200b-investment-micron-technology-memory-chip",
+      "note": "CHIPS와 미국 생산 투자 관련 정책근거.",
+      "accessedOn": "2026-09-21"
+    },
     {
       "title": "Micron Technology · 공식 IR",
       "url": "https://investors.micron.com/overview/default.aspx",
@@ -95,5 +121,148 @@
       "note": "메모리·저장 제품과 제조 회사의 배경 확인."
     }
   ],
-  "reviewedOn": "2026-09-20"
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: AI가 메모리의 전략적 가치를 높이고 HBM·서버 DRAM의 믹스를 개선하는 기회는 분명합니다. 하지만 극단적으로 높은 당기 마진은 장기 정상치가 아닐 수 있습니다. 투자판단은 HBM 기술 우위뿐 아니라 신규 공급·일반 메모리 가격·보조금 차감 전후 투자수익을 합친 중간주기 현금창출에 달려 있습니다.",
+    "businessDrivers": [
+      {
+        "title": "HBM 성장",
+        "detail": "고객별 인증·양산 일정과 수율, 제품 세대 전환을 봅니다. 회사는 HBM4 대량 출하와 HBM4E의 2027년 양산 기대를 밝혔으나 후자는 전망입니다."
+      },
+      {
+        "title": "일반 메모리",
+        "detail": "HBM이 웨이퍼·패키징 자원을 더 쓰면 일반 DRAM 공급도 달라집니다. PC·모바일 수요가 약해도 가격이 오를 수 있어 수요와 공급 효과를 분리합니다."
+      },
+      {
+        "title": "비트당 이익",
+        "detail": "DRAM·NAND 각각의 비트 성장·ASP·단위원가를 연결합니다. 제품 고도화가 수율 저하·감가상각·대규모 capex를 상쇄하는지 확인합니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "AI capex와 재고",
+        "detail": "하이퍼스케일 투자와 가속기 설치가 HBM 수요를 이끌지만 전력·건설 병목은 출하를 늦출 수 있습니다. 고객의 장기 계약도 인도·가격 조건을 읽어야 합니다."
+      },
+      {
+        "title": "공급 순환",
+        "detail": "주요 업체 증설·미세공정 전환·재고 축적이 중장기 가격을 바꿉니다. 공급 부족에서 과잉으로 바뀌는 시점이 EPS보다 먼저 가치에 영향을 줍니다."
+      },
+      {
+        "title": "금리·환율·투자비",
+        "detail": "금리와 장비·전력·건설비가 신규 공장의 자본수익률을 좌우합니다. 해외 공장 비용과 달러 매출의 통화 차이도 점검합니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "기술·규모의 진입 장벽",
+        "detail": "첨단 DRAM·NAND 공정과 설비에는 막대한 자본·공정 지식이 필요합니다. 경제적 장벽은 높지만 기존 소수 공급자 사이의 경쟁은 지속됩니다."
+      },
+      {
+        "title": "고객 인증·품질",
+        "detail": "HBM과 자동차 메모리의 신뢰성·패키징·장기 공급 요구는 설계 채택 이후의 전환 비용을 높입니다."
+      },
+      {
+        "title": "해자의 한계",
+        "detail": "메모리의 표준화와 공급주기 때문에 기술 우위가 영구 가격 결정권을 뜻하지 않습니다. 높은 ROIC를 여러 주기 동안 유지하는지가 해자의 증거입니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "실적의 가파른 회복",
+        "detail": "FY2026 3분기 매출은 414.56억 달러로 직전 분기 238.60억, 전년동기 93.01억 달러보다 크게 증가했습니다. 동일 기간 비교를 유지하고 이를 그대로 장기 성장률로 쓰지 않습니다."
+      },
+      {
+        "title": "현금과 재투자",
+        "detail": "회사는 분기 영업현금 253.9억 달러와 순 capex 71억 달러를 발표했습니다. 정부지원 차감 전 총투자·보조금 수령시점과 조정 FCF 정의를 따로 확인합니다."
+      },
+      {
+        "title": "재무 건전성",
+        "detail": "현금 증가와 차입 감소는 완충력을 높였지만 매출채권도 빠르게 증가했습니다. 현금회수일수·계약조건·재고·설비약정을 연결해야 재무 여력의 지속성을 알 수 있습니다."
+      },
+      {
+        "title": "정상화 원칙",
+        "detail": "높은 당기 총이익률을 영구 마진으로 쓰지 않습니다. HBM과 일반 DRAM·NAND의 정상 이익률, 유지투자·증설투자, 감가상각을 구분해 ROIC를 평가합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "중간주기 P/E·EV/EBIT·FCF 수익률, 정상 ROE와 P/B 교차검증",
+        "peers": [
+          "000660.KS",
+          "005930.KS",
+          "SNDK"
+        ],
+        "rationale": "호황의 낮은 P/E를 저평가로 오해하지 않습니다. 같은 회계기간과 사이클 위치, HBM 믹스·투자 강도를 맞춘 뒤 정상 이익과 장부가치를 교차확인합니다.",
+        "watch": "실제 비교에는 같은 기준일 시세·완전희석 주식수·순차입과 동일 회계기간이 필요합니다. 미래 컨센서스와 목표가는 검증 없이 가정하지 않습니다."
+      },
+      "absolute": {
+        "method": "DRAM·HBM·NAND별 중간주기 FCFF DCF",
+        "drivers": [
+          "제품별 비트 수요와 ASP 정상화",
+          "HBM·일반 DRAM·NAND 믹스와 수율",
+          "감가상각·유지 및 성장 capex",
+          "지원금·세금·순차입과 희석"
+        ],
+        "watch": "강한 가격이 정상화되는 기준 시나리오와 과잉공급 시나리오를 반드시 포함합니다. 정부지원은 수령 조건과 시점을 반영하고 장기 ROIC가 자본비용을 넘는지 확인합니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "CHIPS·미국 제조 투자",
+        "detail": "상무부는 Micron의 미국 투자와 CHIPS 지원을 설명했습니다. 지원한도는 당기 현금수령과 다르며 건설·고용·집행 조건을 충족해야 합니다. 보조금을 제품 수요 보장으로 해석하지 않습니다.",
+        "sourceUrl": "https://www.commerce.gov/news/press-releases/2025/06/president-trump-secures-200b-investment-micron-technology-memory-chip"
+      },
+      {
+        "title": "허가·환경·공급망",
+        "detail": "미국 생산 확대는 고객 공급안보에 유리하지만 공사·환경 인허가·장비·인력 일정이 투자 회수 시점을 바꿉니다. 중국 및 수출 관련 제한은 최신 공시에서 제품·고객별 영향을 확인해야 합니다.",
+        "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Results-for-the-Third-Quarter-of-Fiscal-2026/default.aspx"
+      }
+    ],
+    "catalysts": [
+      "HBM4 양산·다수 고객 인증과 수율 개선",
+      "고객 장기계약이 실제 수금·가격 안정성으로 연결",
+      "메모리 재고·업계 비트 공급·총 capex의 균형"
+    ],
+    "falsifiers": [
+      "HBM 성장에도 일반 메모리 가격하락으로 정상 현금이익 감소",
+      "매출채권·재고가 매출보다 지속적으로 빠르게 증가",
+      "증설·지원금 지연과 수율 악화로 ROIC가 자본비용 미달"
+    ],
+    "sources": [
+      {
+        "title": "Micron FY2026 Q3 실적",
+        "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Results-for-the-Third-Quarter-of-Fiscal-2026/default.aspx",
+        "note": "공식 실제 실적과 회사의 미래 제품·재무 전망을 구분.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Micron 공식 IR",
+        "url": "https://investors.micron.com/overview/default.aspx",
+        "note": "사업·분기보고·제품 자료.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "미 상무부 Micron 투자 발표",
+        "url": "https://www.commerce.gov/news/press-releases/2025/06/president-trump-secures-200b-investment-micron-technology-memory-chip",
+        "note": "CHIPS와 미국 생산 투자 관련 정책근거.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Micron Technology · 공식 IR",
+        "url": "https://investors.micron.com/overview/default.aspx",
+        "note": "사업·제품·공시 확인 경로. 아래 설명은 정성적 분석이며 매출 비중 수치는 추정하지 않았습니다."
+      },
+      {
+        "title": "Micron 회사 연혁",
+        "url": "https://www.micron.com/about/company/company-timeline",
+        "note": "1978년 설립·1984년 IPO·2013년 Elpida 인수 확인."
+      },
+      {
+        "title": "Micron 회사 소개",
+        "url": "https://www.micron.com/about",
+        "note": "메모리·저장 제품과 제조 회사의 배경 확인."
+      }
+    ]
+  }
 }

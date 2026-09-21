@@ -1,0 +1,183 @@
+{
+  "ticker": "STX",
+  "oneLiner": "대용량 HDD·데이터 저장 솔루션를 제공하는 Seagate Technology.",
+  "businessModel": "클라우드·기업·개인용 대용량 HDD를 공급합니다. HAMR 기술은 디스크당 저장량을 높여 용량당 원가와 고객의 총소유비용을 개선하는 전략입니다.",
+  "revenueStreams": [
+    {
+      "name": "대용량 nearline HDD",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 클라우드·기업·개인용 대용량 HDD를 공급합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stxq42026pressreleasefinan.htm"
+    },
+    {
+      "name": "레거시·기타 저장제품",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 클라우드·기업·개인용 대용량 HDD를 공급합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stxq42026pressreleasefinan.htm"
+    }
+  ],
+  "history": [
+    {
+      "year": 2026,
+      "event": "공식 투자자 자료에서 현재 사업 구성과 전략을 공개."
+    },
+    {
+      "year": 2026,
+      "event": "FY2026 매출 122억 달러, FCF 31억 달러와 연간 부채상환 14억 달러가 공시됐습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 가치와 전환 비용",
+      "detail": "자기기록·헤드·미디어·펌웨어의 통합과 고객 인증이 해자입니다."
+    },
+    {
+      "title": "확장 기반",
+      "detail": "HAMR의 안정적인 대량 생산은 용량과 원가에서 차별화할 수 있습니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "사업 위험",
+      "detail": "새 기록기술 수율·고객 검증 지연은 투자회수를 늦춥니다."
+    },
+    {
+      "title": "실행·재무 위험",
+      "detail": "클라우드 발주 집중과 부채·배당 부담이 경기하강 위험을 높입니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Western Digital",
+      "ticker": "WDC",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "MU",
+      "ticker": "MU",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "Sandisk",
+      "ticker": "SNDK",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    }
+  ],
+  "macroLink": "데이터 생성량의 구조적 증가와 클라우드 capex 순환이 함께 작용합니다. 경기호황의 가격과 마진을 영구 정상치로 쓰지 않아야 합니다.",
+  "monitoring": [
+    "HAMR 양산수율, 클라우드 출하와 부채를 분기별로 확인합니다.",
+    "HAMR 고객 채택 확대",
+    "양산불량·부채부담과 주문 축소"
+  ],
+  "sources": [
+    {
+      "title": "Seagate Technology · 공식 실적·공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stxq42026pressreleasefinan.htm",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Seagate Technology · 공식 기업·투자자 자료",
+      "url": "https://investors.seagate.com/",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 자기기록·헤드·미디어·펌웨어의 통합과 고객 인증이 해자입니다. 투자판단의 핵심은 HAMR 고객 채택 확대입니다. 새 기록기술 수율·고객 검증 지연은 투자회수를 늦춥니다.",
+    "businessDrivers": [
+      {
+        "title": "매출을 만드는 변수",
+        "detail": "대용량 nearline HDD와 레거시·기타 저장제품의 성장 경로를 나눕니다. 클라우드·기업·개인용 대용량 HDD를 공급합니다. HAMR 기술은 디스크당 저장량을 높여 용량당 원가와 고객의 총소유비용을 개선하는 전략입니다."
+      },
+      {
+        "title": "확인할 운영지표",
+        "detail": "HAMR 양산수율, 클라우드 출하와 부채. 신규 계약·매출 인식·현금 회수는 서로 다른 단계입니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "수요와 경기",
+        "detail": "데이터 생성량의 구조적 증가와 클라우드 capex 순환이 함께 작용합니다."
+      },
+      {
+        "title": "비용·금리·정책 전달",
+        "detail": "경기호황의 가격과 마진을 영구 정상치로 쓰지 않아야 합니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "경제적 해자 가설",
+        "detail": "자기기록·헤드·미디어·펌웨어의 통합과 고객 인증이 해자입니다."
+      },
+      {
+        "title": "해자를 유지하는 조건",
+        "detail": "HAMR의 안정적인 대량 생산은 용량과 원가에서 차별화할 수 있습니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "공식 실적에서 확인한 흐름",
+        "detail": "FY2026 매출 122억 달러, FCF 31억 달러와 연간 부채상환 14억 달러가 공시됐습니다."
+      },
+      {
+        "title": "재무 건전성·이익의 질",
+        "detail": "일시적으로 높은 총이익률보다 중간주기 FCF와 차입·배당·자사주의 우선순위를 점검합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "중간주기 EV/EBIT·P/E·FCF 수익률",
+        "peers": [
+          "WDC",
+          "MU",
+          "SNDK"
+        ],
+        "rationale": "사업모델에 근거한 비교군이며 동일한 회계기간·성장률·현금마진으로 맞춰야 합니다. 동일 산업이라는 이유만으로 같은 배수가 정당화되지는 않습니다.",
+        "watch": "현재 시세·완전희석 주식수·순차입을 확인한 뒤 실제 배수를 산출합니다. 검증되지 않은 목표가나 저평가 결론은 제시하지 않습니다."
+      },
+      "absolute": {
+        "method": "경기 중간 이익률을 사용하는 2단계 FCFF DCF",
+        "drivers": [
+          "HAMR 출하·수율",
+          "TB당 가격·원가",
+          "순차입·유지 capex"
+        ],
+        "watch": "성장 둔화·마진 압박·할인율 상승의 하방 시나리오를 비교합니다. 영구성장률은 장기 시장성장보다 보수적으로 두고 현금·부채·리스·희석을 주당가치에 반영합니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "정책·규제의 투자 영향",
+        "detail": "첨단 기술의 수출허가·고객 최종사용자·정부 연구계약 조건을 확인합니다. 지원 발표액을 매출이나 무조건적인 현금으로 넣지 않습니다.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stxq42026pressreleasefinan.htm"
+      }
+    ],
+    "catalysts": [
+      "HAMR 고객 채택 확대 여부를 다음 공식 실적에서 확인합니다.",
+      "HAMR 양산수율, 클라우드 출하와 부채의 개선이 현금창출로 연결되는지 확인합니다."
+    ],
+    "falsifiers": [
+      "양산불량·부채부담과 주문 축소 시 핵심 가정을 다시 검토합니다.",
+      "클라우드 발주 집중과 부채·배당 부담이 경기하강 위험을 높입니다."
+    ],
+    "sources": [
+      {
+        "title": "Seagate Technology · 공식 실적·공시",
+        "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stxq42026pressreleasefinan.htm",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Seagate Technology · 공식 기업·투자자 자료",
+        "url": "https://investors.seagate.com/",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

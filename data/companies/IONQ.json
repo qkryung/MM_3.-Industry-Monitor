@@ -1,0 +1,255 @@
+{
+  "ticker": "IONQ",
+  "oneLiner": "이온트랩 양자컴퓨팅·네트워크 플랫폼를 중심으로 수익을 만드는 IonQ.",
+  "businessModel": "이온트랩 양자컴퓨터에서 출발해 네트워킹·센싱·보안·우주 인프라와 반도체 제조까지 확장하고 있습니다. 양자컴퓨터 시스템 판매·클라우드 이용·연구개발 계약과 인수기업 매출을 구별해야 합니다. 기술 로드맵·예약·RPO는 당기 매출이나 독립 검증된 양자 우위와 같은 뜻이 아닙니다.",
+  "revenueStreams": [
+    {
+      "name": "양자컴퓨팅",
+      "description": "시스템 판매·클라우드 이용·연구개발 계약. 고객 검수와 서비스 제공 시점에 따라 매출이 변동합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx"
+    },
+    {
+      "name": "네트워크·보안·센싱·기타",
+      "description": "양자보안·통신·센싱 및 관련 인수 사업. 기존 컴퓨터 사업의 유기적 성장과 별도로 평가합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx"
+    },
+    {
+      "name": "제조·인수 사업",
+      "description": "SkyWater 등 인수 이후 추가되는 제조 역량. 인수 시점·회계 연결·투자와 현금유출을 맞춰야 합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2026,
+      "event": "1분기 실적자료에서 컴퓨팅·네트워크 등 플랫폼 확장을 설명."
+    },
+    {
+      "year": 2026,
+      "event": "2분기 실적 발표에서 SkyWater 인수 완료와 인수 후 현금정보를 제공."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "이온트랩 역량",
+      "detail": "원자 기반 큐비트·제어·시스템 통합과 축적된 연구 인력은 쉽게 재현하기 어렵습니다. 회사가 제시하는 최고 성능은 독립 검증·실제 작업으로 확인해야 합니다."
+    },
+    {
+      "title": "배포·파트너십",
+      "detail": "클라우드 접근과 고객 배포 경험은 사용·개발 피드백을 늘릴 수 있습니다. 채널 노출을 독점 수요나 높은 이용률로 간주하지 않습니다."
+    },
+    {
+      "title": "경제적 해자 형성 단계",
+      "detail": "기술 특허와 R&D는 잠재적 장벽이지만 장기 가격결정력·반복매출·높은 ROIC는 아직 추가 입증이 필요합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "상용화 시간 불확실성",
+      "detail": "기술 로드맵 지연과 실제 경제적 우위 미달은 가치의 큰 부분을 훼손할 수 있습니다."
+    },
+    {
+      "title": "인수·현금소모",
+      "detail": "매출을 사오는 인수와 제조시설 확대는 현금지출·복잡도·희석을 높입니다."
+    },
+    {
+      "title": "비교 지표 혼란",
+      "detail": "큐비트 수·충실도·예약과 매출을 혼동하거나 서로 다른 방식의 성능을 단순 비교하기 쉽습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Rigetti Computing",
+      "ticker": "RGTI",
+      "comparison": "초전도 방식으로 기술·매출 구조·성숙도가 달라 단순 매출배수 비교에 한계가 있습니다."
+    },
+    {
+      "name": "D-Wave Quantum",
+      "ticker": "QBTS",
+      "comparison": "어닐링 및 게이트 모델로 고객 문제·기술경로가 다릅니다."
+    },
+    {
+      "name": "Quantum Computing Inc.",
+      "ticker": "QUBT",
+      "comparison": "광자·파운드리 사업으로 상용화 단계와 제조투자를 조정해야 합니다."
+    }
+  ],
+  "macroLink": "기술주권·국방·연구기관 예산이 초기 수요와 인프라를 지원합니다. 예산 집행 지연이나 계약조건 변경이 인식 시점을 흔들 수 있습니다. 현금이익이 먼 미래에 있어 할인율과 주식시장 유동성에 가치가 민감합니다. 현금이 풍부해도 인수·시설투자·연구개발로 runway가 짧아질 수 있습니다. 초전도·중성원자·광자·고전 GPU·알고리즘 개선이 경쟁합니다. 전체 양자시장의 성장과 특정 방식의 시장점유율은 다른 가정입니다.",
+  "monitoring": [
+    "논리적 성능·오류정정과 고객 작업의 독립 재현",
+    "예약·RPO의 검수·매출·현금 전환",
+    "인수효과 제외 성장과 반복 상업 고객 확대",
+    "인수 이후 현금소모·시설투자 가이던스 검증",
+    "기술 성능은 개선돼도 고객의 유료 반복 사용 확대 실패",
+    "인수 매출을 제외하면 성장과 총이익 개선이 약함",
+    "현금소모·추가 조달이 예상보다 빨라 주당가치 희석"
+  ],
+  "sources": [
+    {
+      "title": "IonQ Q2 2026 실적",
+      "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx",
+      "note": "GAAP·조정손실, 인수 후 pro forma 현금과 전망.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "IonQ 분기자료",
+      "url": "https://investors.ionq.com/financials/quarterly-results/",
+      "note": "발표·분기보고 자료. 회사 성능주장과 분석 판단을 구분.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "IonQ 공식 IR",
+      "url": "https://investors.ionq.com/overview/default.aspx",
+      "note": "사업영역과 회사의 기술 설명.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "IonQ Q1 2026 투자자 자료",
+      "url": "https://s28.q4cdn.com/828571518/files/doc_financials/2026/q1/IONQ_Q1-2026-Investor-Updates-vFinal-2026-05-06.pdf",
+      "note": "사업 확장과 당시 SkyWater 거래 진행단계.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 양자컴퓨터 상용화와 통합 플랫폼 확장의 선택권을 가진 기업입니다. 아직 손익보다 기술성과의 재현성, 고객의 반복 유료사용, 인수효과를 제외한 성장과 현금소모가 더 중요합니다. 잠재 시장 전체를 회사 매출로 환산하지 않으며 증자·인수 후 주당가치 기준으로 단계별 관찰이 적절합니다.",
+    "businessDrivers": [
+      {
+        "title": "기술에서 매출로",
+        "detail": "게이트 충실도·논리 큐비트·오류정정·실행속도·문제 규모를 함께 확인합니다. 단일 성능 수치나 회사 고유 지표만으로 경쟁우위를 확정하지 않습니다."
+      },
+      {
+        "title": "계약의 질",
+        "detail": "예약·RPO의 취소조건·인도·검수·연구개발 단계와 반복 클라우드 수익을 분리합니다. 정부 연구과제 매출과 일반 상업 생산수요의 의미가 다릅니다."
+      },
+      {
+        "title": "인수 통합",
+        "detail": "네트워크·보안·제조 확장은 시장을 넓히지만 사업구성이 달라집니다. 인수 전후 유기적 매출, 교차판매, 유지투자·운전자본을 추적합니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "정부·연구 예산",
+        "detail": "기술주권·국방·연구기관 예산이 초기 수요와 인프라를 지원합니다. 예산 집행 지연이나 계약조건 변경이 인식 시점을 흔들 수 있습니다."
+      },
+      {
+        "title": "금리와 자금조달",
+        "detail": "현금이익이 먼 미래에 있어 할인율과 주식시장 유동성에 가치가 민감합니다. 현금이 풍부해도 인수·시설투자·연구개발로 runway가 짧아질 수 있습니다."
+      },
+      {
+        "title": "기술 대체",
+        "detail": "초전도·중성원자·광자·고전 GPU·알고리즘 개선이 경쟁합니다. 전체 양자시장의 성장과 특정 방식의 시장점유율은 다른 가정입니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "이온트랩 역량",
+        "detail": "원자 기반 큐비트·제어·시스템 통합과 축적된 연구 인력은 쉽게 재현하기 어렵습니다. 회사가 제시하는 최고 성능은 독립 검증·실제 작업으로 확인해야 합니다."
+      },
+      {
+        "title": "배포·파트너십",
+        "detail": "클라우드 접근과 고객 배포 경험은 사용·개발 피드백을 늘릴 수 있습니다. 채널 노출을 독점 수요나 높은 이용률로 간주하지 않습니다."
+      },
+      {
+        "title": "경제적 해자 형성 단계",
+        "detail": "기술 특허와 R&D는 잠재적 장벽이지만 장기 가격결정력·반복매출·높은 ROIC는 아직 추가 입증이 필요합니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "성장 구성",
+        "detail": "Q2 2026 매출은 8,010만 달러로 287% 증가했습니다. 회사의 유기적 성장 전망과 인수 매출을 분리하고 컴퓨팅 외 사업의 기여를 확인합니다."
+      },
+      {
+        "title": "GAAP와 조정 손실",
+        "detail": "GAAP 순손실 18.677억 달러와 조정 EBITDA 손실 1.203억 달러는 다릅니다. 워런트 등 공정가치 변화·보상·인수 조정을 보고, 순손실을 현금소진액으로 그대로 읽지 않습니다."
+      },
+      {
+        "title": "인수 후 현금",
+        "detail": "분기말 현금·현금성자산·투자자산은 30억 달러지만 회사의 SkyWater 인수 후 pro forma 수치는 20억 달러입니다. 인수 전 잔고로 생존기간을 계산하면 과대평가됩니다."
+      },
+      {
+        "title": "희석·자본수익",
+        "detail": "전환·워런트·SBC·인수대가와 이후 운영·제조 capex를 포함한 완전희석 주식수를 사용합니다. 매출 성장률보다 반복 고객·매출총이익·현금소모 개선을 우선 확인합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "EV/매출은 참고; 순현금·기술단계·매출의 질을 함께 비교",
+        "peers": [
+          "RGTI",
+          "QBTS",
+          "QUBT"
+        ],
+        "rationale": "초기 기업끼리 높은 매출배수를 비교하는 것은 적정가치의 근거가 아닙니다. 현금·인수·반복매출·검증된 기술 성과·추가 조달 필요액을 같은 기준에 맞추는 용도로 사용합니다.",
+        "watch": "실제 비교에는 같은 기준일 시세·완전희석 주식수·순차입과 동일 회계기간이 필요합니다. 미래 컨센서스와 목표가는 검증 없이 가정하지 않습니다."
+      },
+      "absolute": {
+        "method": "성공·지연·실패 확률을 분리한 단계별 DCF와 잔여현금 분석",
+        "drivers": [
+          "독립 검증된 기술 단계별 성공확률",
+          "시스템 매출·반복 사용료·비컴퓨팅 매출",
+          "현금소진·인수·시설투자",
+          "추가 자금조달·워런트·주식보상 희석"
+        ],
+        "watch": "과도한 TAM 점유율과 빠른 흑자전환을 기본 가정으로 넣지 않습니다. 실패 시 회수 가능한 현금도 운영의무·인수대가를 차감하고, 기술 지연에 따라 필요한 추가 증자가 주당가치를 얼마나 줄이는지 봅니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "정부·안보·수출",
+        "detail": "정부 프로젝트는 기회와 조달·예산 위험을 함께 만듭니다. 양자·보안·제조 기술은 수출·고객제한과 심사에 노출될 수 있어 계약별 조건을 확인합니다.",
+        "sourceUrl": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx"
+      },
+      {
+        "title": "인수·제조 확대",
+        "detail": "SkyWater 인수로 사업구성이 달라졌으므로 기존 양자컴퓨팅의 자본경량 가정을 유지하지 않습니다. 지원금·보안요건·시설투자 의무가 공개된 범위에서 반영되어야 합니다.",
+        "sourceUrl": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx"
+      }
+    ],
+    "catalysts": [
+      "논리적 성능·오류정정과 고객 작업의 독립 재현",
+      "예약·RPO의 검수·매출·현금 전환",
+      "인수효과 제외 성장과 반복 상업 고객 확대",
+      "인수 이후 현금소모·시설투자 가이던스 검증"
+    ],
+    "falsifiers": [
+      "기술 성능은 개선돼도 고객의 유료 반복 사용 확대 실패",
+      "인수 매출을 제외하면 성장과 총이익 개선이 약함",
+      "현금소모·추가 조달이 예상보다 빨라 주당가치 희석"
+    ],
+    "sources": [
+      {
+        "title": "IonQ Q2 2026 실적",
+        "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-Second-Quarter-2026-Revenues-Growing-287-YoY/default.aspx",
+        "note": "GAAP·조정손실, 인수 후 pro forma 현금과 전망.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "IonQ 분기자료",
+        "url": "https://investors.ionq.com/financials/quarterly-results/",
+        "note": "발표·분기보고 자료. 회사 성능주장과 분석 판단을 구분.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "IonQ 공식 IR",
+        "url": "https://investors.ionq.com/overview/default.aspx",
+        "note": "사업영역과 회사의 기술 설명.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "IonQ Q1 2026 투자자 자료",
+        "url": "https://s28.q4cdn.com/828571518/files/doc_financials/2026/q1/IONQ_Q1-2026-Investor-Updates-vFinal-2026-05-06.pdf",
+        "note": "사업 확장과 당시 SkyWater 거래 진행단계.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

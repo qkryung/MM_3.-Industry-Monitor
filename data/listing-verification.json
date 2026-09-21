@@ -1,8 +1,8 @@
 {
-  "checkedOn": "2026-09-20",
+  "checkedOn": null,
   "source": "https://www.sec.gov/files/company_tickers_exchange.json",
   "scope": "Ticker/exchange identity; differences require manual review.",
-  "total": 206,
+  "total": 331,
   "mismatches": [
     "KHC"
   ],
@@ -13,8 +13,18 @@
       "exchange": "NYSE",
       "sec_name": "AGILENT TECHNOLOGIES, INC.",
       "cik": 1090872,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001090872.json",
+      "matched": true
+    },
+    {
+      "ticker": "AA",
+      "name": "Alcoa",
+      "exchange": "NYSE",
+      "sec_name": "Alcoa Corp",
+      "cik": 1675149,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001675149.json",
       "matched": true
     },
     {
@@ -23,8 +33,28 @@
       "exchange": "NASDAQ",
       "sec_name": "Apple Inc.",
       "cik": 320193,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000320193.json",
+      "matched": true
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie",
+      "exchange": "NYSE",
+      "sec_name": "AbbVie Inc.",
+      "cik": 1551152,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001551152.json",
+      "matched": true
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb",
+      "exchange": "NASDAQ",
+      "sec_name": "Airbnb, Inc.",
+      "cik": 1559720,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001559720.json",
       "matched": true
     },
     {
@@ -33,8 +63,18 @@
       "exchange": "NYSE",
       "sec_name": "ABBOTT LABORATORIES",
       "cik": 1800,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000001800.json",
+      "matched": true
+    },
+    {
+      "ticker": "ACHR",
+      "name": "Archer Aviation",
+      "exchange": "NYSE",
+      "sec_name": "Archer Aviation Inc.",
+      "cik": 1824502,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001824502.json",
       "matched": true
     },
     {
@@ -43,7 +83,7 @@
       "exchange": "NASDAQ",
       "sec_name": "ADOBE INC.",
       "cik": 796343,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000796343.json",
       "matched": true
     },
@@ -53,7 +93,7 @@
       "exchange": "NYSE",
       "sec_name": "AGREE REALTY CORP",
       "cik": 917251,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000917251.json",
       "matched": true
     },
@@ -63,8 +103,68 @@
       "exchange": "NASDAQ",
       "sec_name": "AMERICAN ELECTRIC POWER CO INC",
       "cik": 4904,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000004904.json",
+      "matched": true
+    },
+    {
+      "ticker": "AES",
+      "name": "AES",
+      "exchange": "NYSE",
+      "sec_name": "AES CORP",
+      "cik": 874761,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000874761.json",
+      "matched": true
+    },
+    {
+      "ticker": "AFRM",
+      "name": "Affirm Holdings",
+      "exchange": "NASDAQ",
+      "sec_name": "Affirm Holdings, Inc.",
+      "cik": 1820953,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001820953.json",
+      "matched": true
+    },
+    {
+      "ticker": "AI",
+      "name": "C3.ai",
+      "exchange": "NYSE",
+      "sec_name": "C3.ai, Inc.",
+      "cik": 1577526,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001577526.json",
+      "matched": true
+    },
+    {
+      "ticker": "ALAB",
+      "name": "Astera Labs",
+      "exchange": "NASDAQ",
+      "sec_name": "Astera Labs, Inc.",
+      "cik": 1736297,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001736297.json",
+      "matched": true
+    },
+    {
+      "ticker": "ALL",
+      "name": "Allstate",
+      "exchange": "NYSE",
+      "sec_name": "ALLSTATE CORP",
+      "cik": 899051,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000899051.json",
+      "matched": true
+    },
+    {
+      "ticker": "ALNY",
+      "name": "Alnylam Pharmaceuticals",
+      "exchange": "NASDAQ",
+      "sec_name": "ALNYLAM PHARMACEUTICALS, INC.",
+      "cik": 1178670,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001178670.json",
       "matched": true
     },
     {
@@ -73,7 +173,7 @@
       "exchange": "NASDAQ",
       "sec_name": "APPLIED MATERIALS INC /DE",
       "cik": 6951,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000006951.json",
       "matched": true
     },
@@ -83,7 +183,7 @@
       "exchange": "NYSE",
       "sec_name": "Amcor plc",
       "cik": 1748790,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001748790.json",
       "matched": true
     },
@@ -93,7 +193,7 @@
       "exchange": "NASDAQ",
       "sec_name": "ADVANCED MICRO DEVICES INC",
       "cik": 2488,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000002488.json",
       "matched": true
     },
@@ -103,8 +203,18 @@
       "exchange": "NASDAQ",
       "sec_name": "AMGEN INC",
       "cik": 318154,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000318154.json",
+      "matched": true
+    },
+    {
+      "ticker": "AMH",
+      "name": "American Homes 4 Rent",
+      "exchange": "NYSE",
+      "sec_name": "American Homes 4 Rent",
+      "cik": 1562401,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001562401.json",
       "matched": true
     },
     {
@@ -113,7 +223,7 @@
       "exchange": "NYSE",
       "sec_name": "AMERICAN TOWER CORP /MA/",
       "cik": 1053507,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001053507.json",
       "matched": true
     },
@@ -123,7 +233,7 @@
       "exchange": "NASDAQ",
       "sec_name": "AMAZON COM INC",
       "cik": 1018724,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001018724.json",
       "matched": true
     },
@@ -133,7 +243,7 @@
       "exchange": "NYSE",
       "sec_name": "Arista Networks, Inc.",
       "cik": 1596532,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001596532.json",
       "matched": true
     },
@@ -143,8 +253,28 @@
       "exchange": "NYSE",
       "sec_name": "Air Products & Chemicals, Inc.",
       "cik": 2969,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000002969.json",
+      "matched": true
+    },
+    {
+      "ticker": "APO",
+      "name": "Apollo Global Management",
+      "exchange": "NYSE",
+      "sec_name": "Apollo Global Management, Inc.",
+      "cik": 1858681,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001858681.json",
+      "matched": true
+    },
+    {
+      "ticker": "APP",
+      "name": "AppLovin",
+      "exchange": "NASDAQ",
+      "sec_name": "AppLovin Corp",
+      "cik": 1751008,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001751008.json",
       "matched": true
     },
     {
@@ -153,8 +283,38 @@
       "exchange": "NYSE",
       "sec_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
       "cik": 1035443,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001035443.json",
+      "matched": true
+    },
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "exchange": "NASDAQ",
+      "sec_name": "ARM HOLDINGS PLC /UK",
+      "cik": 1973239,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001973239.json",
+      "matched": true
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML Holding",
+      "exchange": "NASDAQ",
+      "sec_name": "ASML HOLDING NV",
+      "cik": 937966,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000937966.json",
+      "matched": true
+    },
+    {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile",
+      "exchange": "NASDAQ",
+      "sec_name": "AST SpaceMobile, Inc.",
+      "cik": 1780312,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001780312.json",
       "matched": true
     },
     {
@@ -163,8 +323,18 @@
       "exchange": "NYSE",
       "sec_name": "ATMOS ENERGY CORP",
       "cik": 731802,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000731802.json",
+      "matched": true
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment",
+      "exchange": "NASDAQ",
+      "sec_name": "AeroVironment Inc",
+      "cik": 1368622,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001368622.json",
       "matched": true
     },
     {
@@ -173,7 +343,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Broadcom Inc.",
       "cik": 1730168,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001730168.json",
       "matched": true
     },
@@ -183,7 +353,7 @@
       "exchange": "NYSE",
       "sec_name": "AVIENT CORP",
       "cik": 1122976,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001122976.json",
       "matched": true
     },
@@ -193,7 +363,7 @@
       "exchange": "NYSE",
       "sec_name": "American Water Works Company, Inc.",
       "cik": 1410636,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001410636.json",
       "matched": true
     },
@@ -203,8 +373,18 @@
       "exchange": "NYSE",
       "sec_name": "AMERICAN STATES WATER CO",
       "cik": 1056903,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001056903.json",
+      "matched": true
+    },
+    {
+      "ticker": "AXP",
+      "name": "American Express",
+      "exchange": "NYSE",
+      "sec_name": "AMERICAN EXPRESS CO",
+      "cik": 4962,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000004962.json",
       "matched": true
     },
     {
@@ -213,8 +393,18 @@
       "exchange": "NYSE",
       "sec_name": "BANK OF AMERICA CORP /DE/",
       "cik": 70858,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000070858.json",
+      "matched": true
+    },
+    {
+      "ticker": "BHP",
+      "name": "BHP Group",
+      "exchange": "NYSE",
+      "sec_name": "BHP Group Ltd",
+      "cik": 811809,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000811809.json",
       "matched": true
     },
     {
@@ -223,7 +413,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Booking Holdings Inc.",
       "cik": 1075531,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001075531.json",
       "matched": true
     },
@@ -233,7 +423,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Baker Hughes Co",
       "cik": 1701605,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001701605.json",
       "matched": true
     },
@@ -243,8 +433,38 @@
       "exchange": "NYSE",
       "sec_name": "BlackRock, Inc.",
       "cik": 2012383,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0002012383.json",
+      "matched": true
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol Myers Squibb",
+      "exchange": "NYSE",
+      "sec_name": "BRISTOL MYERS SQUIBB CO",
+      "cik": 14272,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000014272.json",
+      "matched": true
+    },
+    {
+      "ticker": "BNTX",
+      "name": "BioNTech",
+      "exchange": "NASDAQ",
+      "sec_name": "BioNTech SE",
+      "cik": 1776985,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001776985.json",
+      "matched": true
+    },
+    {
+      "ticker": "BP",
+      "name": "BP",
+      "exchange": "NYSE",
+      "sec_name": "BP PLC",
+      "cik": 313807,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000313807.json",
       "matched": true
     },
     {
@@ -253,8 +473,28 @@
       "exchange": "NYSE",
       "sec_name": "BERKSHIRE HATHAWAY INC",
       "cik": 1067983,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001067983.json",
+      "matched": true
+    },
+    {
+      "ticker": "BROS",
+      "name": "Dutch Bros",
+      "exchange": "NYSE",
+      "sec_name": "Dutch Bros Inc.",
+      "cik": 1866581,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001866581.json",
+      "matched": true
+    },
+    {
+      "ticker": "BSX",
+      "name": "Boston Scientific",
+      "exchange": "NYSE",
+      "sec_name": "BOSTON SCIENTIFIC CORP",
+      "cik": 885725,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000885725.json",
       "matched": true
     },
     {
@@ -263,7 +503,7 @@
       "exchange": "NYSE",
       "sec_name": "British American Tobacco p.l.c.",
       "cik": 1303523,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001303523.json",
       "matched": true
     },
@@ -273,7 +513,7 @@
       "exchange": "NYSE",
       "sec_name": "Blackstone Inc.",
       "cik": 1393818,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001393818.json",
       "matched": true
     },
@@ -283,8 +523,28 @@
       "exchange": "NYSE",
       "sec_name": "BXP, Inc.",
       "cik": 1037540,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001037540.json",
+      "matched": true
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup",
+      "exchange": "NYSE",
+      "sec_name": "CITIGROUP INC",
+      "cik": 831001,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000831001.json",
+      "matched": true
+    },
+    {
+      "ticker": "CAG",
+      "name": "Conagra Brands",
+      "exchange": "NYSE",
+      "sec_name": "CONAGRA BRANDS INC.",
+      "cik": 23217,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000023217.json",
       "matched": true
     },
     {
@@ -293,7 +553,7 @@
       "exchange": "NYSE",
       "sec_name": "CATERPILLAR INC",
       "cik": 18230,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000018230.json",
       "matched": true
     },
@@ -303,7 +563,7 @@
       "exchange": "NYSE",
       "sec_name": "Chubb Ltd",
       "cik": 896159,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000896159.json",
       "matched": true
     },
@@ -313,7 +573,7 @@
       "exchange": "NYSE",
       "sec_name": "CBRE GROUP, INC.",
       "cik": 1138118,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001138118.json",
       "matched": true
     },
@@ -323,7 +583,7 @@
       "exchange": "NYSE",
       "sec_name": "CROWN CASTLE INC.",
       "cik": 1051470,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001051470.json",
       "matched": true
     },
@@ -333,8 +593,38 @@
       "exchange": "NASDAQ",
       "sec_name": "Constellation Energy Corp",
       "cik": 1868275,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001868275.json",
+      "matched": true
+    },
+    {
+      "ticker": "CELH",
+      "name": "Celsius Holdings",
+      "exchange": "NASDAQ",
+      "sec_name": "Celsius Holdings, Inc.",
+      "cik": 1341766,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001341766.json",
+      "matched": true
+    },
+    {
+      "ticker": "CF",
+      "name": "CF Industries",
+      "exchange": "NYSE",
+      "sec_name": "CF Industries Holdings, Inc.",
+      "cik": 1324404,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001324404.json",
+      "matched": true
+    },
+    {
+      "ticker": "CHD",
+      "name": "Church & Dwight",
+      "exchange": "NYSE",
+      "sec_name": "CHURCH & DWIGHT CO INC /DE/",
+      "cik": 313927,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000313927.json",
       "matched": true
     },
     {
@@ -343,7 +633,7 @@
       "exchange": "NYSE",
       "sec_name": "Cigna Group",
       "cik": 1739940,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001739940.json",
       "matched": true
     },
@@ -353,8 +643,18 @@
       "exchange": "NYSE",
       "sec_name": "COLGATE PALMOLIVE CO",
       "cik": 21665,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000021665.json",
+      "matched": true
+    },
+    {
+      "ticker": "CLF",
+      "name": "Cleveland-Cliffs",
+      "exchange": "NYSE",
+      "sec_name": "CLEVELAND-CLIFFS INC.",
+      "cik": 764065,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000764065.json",
       "matched": true
     },
     {
@@ -363,7 +663,7 @@
       "exchange": "NASDAQ",
       "sec_name": "COMCAST CORP",
       "cik": 1166691,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001166691.json",
       "matched": true
     },
@@ -373,7 +673,7 @@
       "exchange": "NASDAQ",
       "sec_name": "CME GROUP INC.",
       "cik": 1156375,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001156375.json",
       "matched": true
     },
@@ -383,7 +683,7 @@
       "exchange": "NYSE",
       "sec_name": "CHIPOTLE MEXICAN GRILL INC",
       "cik": 1058090,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001058090.json",
       "matched": true
     },
@@ -393,8 +693,38 @@
       "exchange": "NYSE",
       "sec_name": "CUMMINS INC",
       "cik": 26172,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000026172.json",
+      "matched": true
+    },
+    {
+      "ticker": "CNI",
+      "name": "Canadian National Railway",
+      "exchange": "NYSE",
+      "sec_name": "CANADIAN NATIONAL RAILWAY CO",
+      "cik": 16868,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000016868.json",
+      "matched": true
+    },
+    {
+      "ticker": "CNP",
+      "name": "CenterPoint Energy",
+      "exchange": "NYSE",
+      "sec_name": "CENTERPOINT ENERGY INC",
+      "cik": 1130310,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001130310.json",
+      "matched": true
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase Global",
+      "exchange": "NASDAQ",
+      "sec_name": "Coinbase Global, Inc.",
+      "cik": 1679788,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001679788.json",
       "matched": true
     },
     {
@@ -403,7 +733,7 @@
       "exchange": "NYSE",
       "sec_name": "CONOCOPHILLIPS",
       "cik": 1163165,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001163165.json",
       "matched": true
     },
@@ -413,8 +743,28 @@
       "exchange": "NASDAQ",
       "sec_name": "COSTCO WHOLESALE CORP /NEW",
       "cik": 909832,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000909832.json",
+      "matched": true
+    },
+    {
+      "ticker": "CP",
+      "name": "Canadian Pacific Kansas City",
+      "exchange": "NYSE",
+      "sec_name": "CANADIAN PACIFIC KANSAS CITY LTD/CN",
+      "cik": 16875,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000016875.json",
+      "matched": true
+    },
+    {
+      "ticker": "CRDO",
+      "name": "Credo Technology",
+      "exchange": "NASDAQ",
+      "sec_name": "Credo Technology Group Holding Ltd",
+      "cik": 1807794,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001807794.json",
       "matched": true
     },
     {
@@ -423,7 +773,7 @@
       "exchange": "NYSE",
       "sec_name": "Salesforce, Inc.",
       "cik": 1108524,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001108524.json",
       "matched": true
     },
@@ -433,7 +783,7 @@
       "exchange": "NASDAQ",
       "sec_name": "CrowdStrike Holdings, Inc.",
       "cik": 1535527,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001535527.json",
       "matched": true
     },
@@ -443,8 +793,18 @@
       "exchange": "NASDAQ",
       "sec_name": "CISCO SYSTEMS, INC.",
       "cik": 858877,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000858877.json",
+      "matched": true
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX",
+      "exchange": "NASDAQ",
+      "sec_name": "CSX CORP",
+      "cik": 277948,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000277948.json",
       "matched": true
     },
     {
@@ -453,8 +813,18 @@
       "exchange": "NASDAQ",
       "sec_name": "CINTAS CORP",
       "cik": 723254,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000723254.json",
+      "matched": true
+    },
+    {
+      "ticker": "CUBE",
+      "name": "CubeSmart",
+      "exchange": "NYSE",
+      "sec_name": "CubeSmart",
+      "cik": 1298675,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001298675.json",
       "matched": true
     },
     {
@@ -463,7 +833,7 @@
       "exchange": "NYSE",
       "sec_name": "CHEVRON CORP",
       "cik": 93410,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000093410.json",
       "matched": true
     },
@@ -473,8 +843,38 @@
       "exchange": "NYSE",
       "sec_name": "CALIFORNIA WATER SERVICE GROUP",
       "cik": 1035201,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001035201.json",
+      "matched": true
+    },
+    {
+      "ticker": "D",
+      "name": "Dominion Energy",
+      "exchange": "NYSE",
+      "sec_name": "DOMINION ENERGY, INC",
+      "cik": 715957,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000715957.json",
+      "matched": true
+    },
+    {
+      "ticker": "DASH",
+      "name": "DoorDash",
+      "exchange": "NASDAQ",
+      "sec_name": "DoorDash, Inc.",
+      "cik": 1792789,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001792789.json",
+      "matched": true
+    },
+    {
+      "ticker": "DDOG",
+      "name": "Datadog",
+      "exchange": "NASDAQ",
+      "sec_name": "Datadog, Inc.",
+      "cik": 1561550,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001561550.json",
       "matched": true
     },
     {
@@ -483,7 +883,7 @@
       "exchange": "NYSE",
       "sec_name": "DEERE & CO",
       "cik": 315189,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000315189.json",
       "matched": true
     },
@@ -493,7 +893,7 @@
       "exchange": "NYSE",
       "sec_name": "DECKERS OUTDOOR CORP",
       "cik": 910521,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000910521.json",
       "matched": true
     },
@@ -503,7 +903,7 @@
       "exchange": "NYSE",
       "sec_name": "Dell Technologies Inc.",
       "cik": 1571996,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001571996.json",
       "matched": true
     },
@@ -513,7 +913,7 @@
       "exchange": "NYSE",
       "sec_name": "HORTON D R INC /DE/",
       "cik": 882184,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000882184.json",
       "matched": true
     },
@@ -523,7 +923,7 @@
       "exchange": "NYSE",
       "sec_name": "DANAHER CORP /DE/",
       "cik": 313616,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000313616.json",
       "matched": true
     },
@@ -533,7 +933,7 @@
       "exchange": "NYSE",
       "sec_name": "Walt Disney Co",
       "cik": 1744489,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001744489.json",
       "matched": true
     },
@@ -543,7 +943,7 @@
       "exchange": "NYSE",
       "sec_name": "DIGITAL REALTY TRUST, INC.",
       "cik": 1297996,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001297996.json",
       "matched": true
     },
@@ -553,7 +953,7 @@
       "exchange": "NYSE",
       "sec_name": "HEALTHPEAK PROPERTIES, INC.",
       "cik": 765880,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000765880.json",
       "matched": true
     },
@@ -563,7 +963,7 @@
       "exchange": "NYSE",
       "sec_name": "DOW INC.",
       "cik": 1751788,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001751788.json",
       "matched": true
     },
@@ -573,7 +973,7 @@
       "exchange": "NYSE",
       "sec_name": "DTE ENERGY CO",
       "cik": 936340,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000936340.json",
       "matched": true
     },
@@ -583,8 +983,18 @@
       "exchange": "NYSE",
       "sec_name": "Duke Energy CORP",
       "cik": 1326160,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001326160.json",
+      "matched": true
+    },
+    {
+      "ticker": "DXCM",
+      "name": "Dexcom",
+      "exchange": "NASDAQ",
+      "sec_name": "DEXCOM INC",
+      "cik": 1093557,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001093557.json",
       "matched": true
     },
     {
@@ -593,8 +1003,18 @@
       "exchange": "NYSE",
       "sec_name": "ECOLAB INC.",
       "cik": 31462,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000031462.json",
+      "matched": true
+    },
+    {
+      "ticker": "ED",
+      "name": "Consolidated Edison",
+      "exchange": "NYSE",
+      "sec_name": "CONSOLIDATED EDISON INC",
+      "cik": 1047862,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001047862.json",
       "matched": true
     },
     {
@@ -603,7 +1023,7 @@
       "exchange": "NYSE",
       "sec_name": "EASTGROUP PROPERTIES INC",
       "cik": 49600,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000049600.json",
       "matched": true
     },
@@ -613,7 +1033,7 @@
       "exchange": "NYSE",
       "sec_name": "ESTEE LAUDER COMPANIES INC",
       "cik": 1001250,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001001250.json",
       "matched": true
     },
@@ -623,7 +1043,7 @@
       "exchange": "NYSE",
       "sec_name": "Elevance Health, Inc.",
       "cik": 1156039,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001156039.json",
       "matched": true
     },
@@ -633,8 +1053,18 @@
       "exchange": "NYSE",
       "sec_name": "EASTMAN CHEMICAL CO",
       "cik": 915389,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000915389.json",
+      "matched": true
+    },
+    {
+      "ticker": "ENB",
+      "name": "Enbridge",
+      "exchange": "NYSE",
+      "sec_name": "ENBRIDGE INC",
+      "cik": 895728,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000895728.json",
       "matched": true
     },
     {
@@ -643,8 +1073,18 @@
       "exchange": "NYSE",
       "sec_name": "EOG RESOURCES INC",
       "cik": 821189,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000821189.json",
+      "matched": true
+    },
+    {
+      "ticker": "EPD",
+      "name": "Enterprise Products Partners",
+      "exchange": "NYSE",
+      "sec_name": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+      "cik": 1061219,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001061219.json",
       "matched": true
     },
     {
@@ -653,7 +1093,7 @@
       "exchange": "NASDAQ",
       "sec_name": "EQUINIX INC",
       "cik": 1101239,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001101239.json",
       "matched": true
     },
@@ -663,8 +1103,18 @@
       "exchange": "NYSE",
       "sec_name": "EQT Corp",
       "cik": 33213,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000033213.json",
+      "matched": true
+    },
+    {
+      "ticker": "ES",
+      "name": "Eversource Energy",
+      "exchange": "NYSE",
+      "sec_name": "EVERSOURCE ENERGY",
+      "cik": 72741,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000072741.json",
       "matched": true
     },
     {
@@ -673,8 +1123,18 @@
       "exchange": "NYSE",
       "sec_name": "ESSEX PROPERTY TRUST, INC.",
       "cik": 920522,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000920522.json",
+      "matched": true
+    },
+    {
+      "ticker": "ET",
+      "name": "Energy Transfer",
+      "exchange": "NYSE",
+      "sec_name": "Energy Transfer LP",
+      "cik": 1276187,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001276187.json",
       "matched": true
     },
     {
@@ -683,8 +1143,28 @@
       "exchange": "NYSE",
       "sec_name": "Eaton Corp plc",
       "cik": 1551182,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001551182.json",
+      "matched": true
+    },
+    {
+      "ticker": "ETR",
+      "name": "Entergy",
+      "exchange": "NYSE",
+      "sec_name": "ENTERGY CORP /DE/",
+      "cik": 65984,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000065984.json",
+      "matched": true
+    },
+    {
+      "ticker": "EW",
+      "name": "Edwards Lifesciences",
+      "exchange": "NYSE",
+      "sec_name": "Edwards Lifesciences Corp",
+      "cik": 1099800,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001099800.json",
       "matched": true
     },
     {
@@ -693,8 +1173,28 @@
       "exchange": "NASDAQ",
       "sec_name": "EXELON CORP",
       "cik": 1109357,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001109357.json",
+      "matched": true
+    },
+    {
+      "ticker": "EXPE",
+      "name": "Expedia Group",
+      "exchange": "NASDAQ",
+      "sec_name": "Expedia Group, Inc.",
+      "cik": 1324424,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001324424.json",
+      "matched": true
+    },
+    {
+      "ticker": "EXR",
+      "name": "Extra Space Storage",
+      "exchange": "NYSE",
+      "sec_name": "Extra Space Storage Inc.",
+      "cik": 1289490,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001289490.json",
       "matched": true
     },
     {
@@ -703,7 +1203,7 @@
       "exchange": "NYSE",
       "sec_name": "FORD MOTOR CO",
       "cik": 37996,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000037996.json",
       "matched": true
     },
@@ -713,7 +1213,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Diamondback Energy, Inc.",
       "cik": 1539838,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001539838.json",
       "matched": true
     },
@@ -723,7 +1223,7 @@
       "exchange": "NYSE",
       "sec_name": "FREEPORT-MCMORAN INC",
       "cik": 831259,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000831259.json",
       "matched": true
     },
@@ -733,8 +1233,18 @@
       "exchange": "NYSE",
       "sec_name": "FEDEX CORP",
       "cik": 1048911,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001048911.json",
+      "matched": true
+    },
+    {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "exchange": "NYSE",
+      "sec_name": "COMFORT SYSTEMS USA INC",
+      "cik": 1035983,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001035983.json",
       "matched": true
     },
     {
@@ -743,7 +1253,7 @@
       "exchange": "NYSE",
       "sec_name": "FIRST INDUSTRIAL REALTY TRUST INC",
       "cik": 921825,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000921825.json",
       "matched": true
     },
@@ -753,7 +1263,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Fortinet, Inc.",
       "cik": 1262039,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001262039.json",
       "matched": true
     },
@@ -763,7 +1273,7 @@
       "exchange": "NYSE",
       "sec_name": "GENERAL ELECTRIC CO",
       "cik": 40545,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000040545.json",
       "matched": true
     },
@@ -773,7 +1283,7 @@
       "exchange": "NYSE",
       "sec_name": "GE Vernova Inc.",
       "cik": 1996810,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001996810.json",
       "matched": true
     },
@@ -783,7 +1293,7 @@
       "exchange": "NASDAQ",
       "sec_name": "GILEAD SCIENCES, INC.",
       "cik": 882095,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000882095.json",
       "matched": true
     },
@@ -793,8 +1303,18 @@
       "exchange": "NYSE",
       "sec_name": "GENERAL MILLS INC",
       "cik": 40704,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000040704.json",
+      "matched": true
+    },
+    {
+      "ticker": "GLPI",
+      "name": "Gaming and Leisure Properties",
+      "exchange": "NASDAQ",
+      "sec_name": "Gaming & Leisure Properties, Inc.",
+      "cik": 1575965,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001575965.json",
       "matched": true
     },
     {
@@ -803,7 +1323,7 @@
       "exchange": "NYSE",
       "sec_name": "General Motors Co",
       "cik": 1467858,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001467858.json",
       "matched": true
     },
@@ -813,7 +1333,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Alphabet Inc.",
       "cik": 1652044,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001652044.json",
       "matched": true
     },
@@ -823,7 +1343,7 @@
       "exchange": "NYSE",
       "sec_name": "GOLDMAN SACHS GROUP INC",
       "cik": 886982,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000886982.json",
       "matched": true
     },
@@ -833,7 +1353,7 @@
       "exchange": "NYSE",
       "sec_name": "HALLIBURTON CO",
       "cik": 45012,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000045012.json",
       "matched": true
     },
@@ -843,7 +1363,7 @@
       "exchange": "NYSE",
       "sec_name": "HCA Healthcare, Inc.",
       "cik": 860730,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000860730.json",
       "matched": true
     },
@@ -853,8 +1373,18 @@
       "exchange": "NYSE",
       "sec_name": "HOME DEPOT, INC.",
       "cik": 354950,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000354950.json",
+      "matched": true
+    },
+    {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries",
+      "exchange": "NYSE",
+      "sec_name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+      "cik": 1501585,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001501585.json",
       "matched": true
     },
     {
@@ -863,8 +1393,48 @@
       "exchange": "NYSE",
       "sec_name": "Hilton Worldwide Holdings Inc.",
       "cik": 1585689,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001585689.json",
+      "matched": true
+    },
+    {
+      "ticker": "HOOD",
+      "name": "Robinhood Markets",
+      "exchange": "NASDAQ",
+      "sec_name": "Robinhood Markets, Inc.",
+      "cik": 1783879,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001783879.json",
+      "matched": true
+    },
+    {
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise",
+      "exchange": "NYSE",
+      "sec_name": "Hewlett Packard Enterprise Co",
+      "cik": 1645590,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001645590.json",
+      "matched": true
+    },
+    {
+      "ticker": "HSY",
+      "name": "Hershey",
+      "exchange": "NYSE",
+      "sec_name": "HERSHEY CO",
+      "cik": 47111,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000047111.json",
+      "matched": true
+    },
+    {
+      "ticker": "HUBS",
+      "name": "HubSpot",
+      "exchange": "NYSE",
+      "sec_name": "HUBSPOT INC",
+      "cik": 1404655,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001404655.json",
       "matched": true
     },
     {
@@ -873,8 +1443,18 @@
       "exchange": "NASDAQ",
       "sec_name": "Interactive Brokers Group, Inc.",
       "cik": 1381197,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001381197.json",
+      "matched": true
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "exchange": "NYSE",
+      "sec_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+      "cik": 51143,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000051143.json",
       "matched": true
     },
     {
@@ -883,8 +1463,28 @@
       "exchange": "NYSE",
       "sec_name": "Intercontinental Exchange, Inc.",
       "cik": 1571949,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001571949.json",
+      "matched": true
+    },
+    {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories",
+      "exchange": "NASDAQ",
+      "sec_name": "IDEXX LABORATORIES INC /DE",
+      "cik": 874716,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000874716.json",
+      "matched": true
+    },
+    {
+      "ticker": "INOD",
+      "name": "Innodata",
+      "exchange": "NASDAQ",
+      "sec_name": "INNODATA INC",
+      "cik": 903651,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000903651.json",
       "matched": true
     },
     {
@@ -893,8 +1493,28 @@
       "exchange": "NASDAQ",
       "sec_name": "INTEL CORP",
       "cik": 50863,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000050863.json",
+      "matched": true
+    },
+    {
+      "ticker": "INVH",
+      "name": "Invitation Homes",
+      "exchange": "NYSE",
+      "sec_name": "Invitation Homes Inc.",
+      "cik": 1687229,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001687229.json",
+      "matched": true
+    },
+    {
+      "ticker": "IONQ",
+      "name": "IonQ",
+      "exchange": "NYSE",
+      "sec_name": "IonQ, Inc.",
+      "cik": 1824920,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001824920.json",
       "matched": true
     },
     {
@@ -903,8 +1523,18 @@
       "exchange": "NYSE",
       "sec_name": "INTERNATIONAL PAPER CO /NEW/",
       "cik": 51434,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000051434.json",
+      "matched": true
+    },
+    {
+      "ticker": "IRM",
+      "name": "Iron Mountain",
+      "exchange": "NYSE",
+      "sec_name": "IRON MOUNTAIN INC",
+      "cik": 1020569,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001020569.json",
       "matched": true
     },
     {
@@ -913,7 +1543,7 @@
       "exchange": "NASDAQ",
       "sec_name": "INTUITIVE SURGICAL INC",
       "cik": 1035267,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001035267.json",
       "matched": true
     },
@@ -923,8 +1553,18 @@
       "exchange": "NYSE",
       "sec_name": "JOHNSON & JOHNSON",
       "cik": 200406,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000200406.json",
+      "matched": true
+    },
+    {
+      "ticker": "JOBY",
+      "name": "Joby Aviation",
+      "exchange": "NYSE",
+      "sec_name": "Joby Aviation, Inc.",
+      "cik": 1819848,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001819848.json",
       "matched": true
     },
     {
@@ -933,7 +1573,7 @@
       "exchange": "NYSE",
       "sec_name": "JPMORGAN CHASE & CO",
       "cik": 19617,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000019617.json",
       "matched": true
     },
@@ -943,7 +1583,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Keurig Dr Pepper Inc.",
       "cik": 1418135,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001418135.json",
       "matched": true
     },
@@ -953,7 +1593,7 @@
       "exchange": "NYSE",
       "sec_name": "Kraft Heinz Co",
       "cik": 1637459,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001637459.json",
       "matched": false
     },
@@ -963,7 +1603,7 @@
       "exchange": "NYSE",
       "sec_name": "KIMCO REALTY CORP",
       "cik": 879101,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000879101.json",
       "matched": true
     },
@@ -973,7 +1613,7 @@
       "exchange": "NYSE",
       "sec_name": "KKR & Co. Inc.",
       "cik": 1404912,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001404912.json",
       "matched": true
     },
@@ -983,7 +1623,7 @@
       "exchange": "NASDAQ",
       "sec_name": "KLA CORP",
       "cik": 319201,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000319201.json",
       "matched": true
     },
@@ -993,7 +1633,7 @@
       "exchange": "NASDAQ",
       "sec_name": "KIMBERLY CLARK CORP",
       "cik": 55785,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000055785.json",
       "matched": true
     },
@@ -1003,7 +1643,7 @@
       "exchange": "NYSE",
       "sec_name": "KINDER MORGAN, INC.",
       "cik": 1506307,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001506307.json",
       "matched": true
     },
@@ -1013,7 +1653,7 @@
       "exchange": "NYSE",
       "sec_name": "COCA COLA CO",
       "cik": 21344,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000021344.json",
       "matched": true
     },
@@ -1023,8 +1663,18 @@
       "exchange": "NYSE",
       "sec_name": "KROGER CO",
       "cik": 56873,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000056873.json",
+      "matched": true
+    },
+    {
+      "ticker": "KTOS",
+      "name": "Kratos Defense & Security Solutions",
+      "exchange": "NASDAQ",
+      "sec_name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
+      "cik": 1069258,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001069258.json",
       "matched": true
     },
     {
@@ -1033,7 +1683,7 @@
       "exchange": "NYSE",
       "sec_name": "LENNAR CORP /NEW/",
       "cik": 920760,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000920760.json",
       "matched": true
     },
@@ -1043,7 +1693,7 @@
       "exchange": "NASDAQ",
       "sec_name": "LINDE PLC",
       "cik": 1707925,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001707925.json",
       "matched": true
     },
@@ -1053,7 +1703,7 @@
       "exchange": "NYSE",
       "sec_name": "ELI LILLY & Co",
       "cik": 59478,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000059478.json",
       "matched": true
     },
@@ -1063,7 +1713,7 @@
       "exchange": "NYSE",
       "sec_name": "LOCKHEED MARTIN CORP",
       "cik": 936468,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000936468.json",
       "matched": true
     },
@@ -1073,7 +1723,7 @@
       "exchange": "NYSE",
       "sec_name": "Cheniere Energy, Inc.",
       "cik": 3570,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000003570.json",
       "matched": true
     },
@@ -1083,7 +1733,7 @@
       "exchange": "NYSE",
       "sec_name": "LOWES COMPANIES INC",
       "cik": 60667,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000060667.json",
       "matched": true
     },
@@ -1093,7 +1743,7 @@
       "exchange": "NASDAQ",
       "sec_name": "LAM RESEARCH CORP",
       "cik": 707549,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000707549.json",
       "matched": true
     },
@@ -1103,8 +1753,18 @@
       "exchange": "NASDAQ",
       "sec_name": "lululemon athletica inc.",
       "cik": 1397187,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001397187.json",
+      "matched": true
+    },
+    {
+      "ticker": "LUNR",
+      "name": "Intuitive Machines",
+      "exchange": "NASDAQ",
+      "sec_name": "Intuitive Machines, Inc.",
+      "cik": 1844452,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001844452.json",
       "matched": true
     },
     {
@@ -1113,7 +1773,7 @@
       "exchange": "NYSE",
       "sec_name": "LyondellBasell Industries N.V.",
       "cik": 1489393,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001489393.json",
       "matched": true
     },
@@ -1123,7 +1783,7 @@
       "exchange": "NYSE",
       "sec_name": "Mastercard Inc",
       "cik": 1141391,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001141391.json",
       "matched": true
     },
@@ -1133,7 +1793,7 @@
       "exchange": "NYSE",
       "sec_name": "MID AMERICA APARTMENT COMMUNITIES INC.",
       "cik": 912595,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000912595.json",
       "matched": true
     },
@@ -1143,7 +1803,7 @@
       "exchange": "NASDAQ",
       "sec_name": "MARRIOTT INTERNATIONAL INC /MD/",
       "cik": 1048286,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001048286.json",
       "matched": true
     },
@@ -1153,8 +1813,18 @@
       "exchange": "NYSE",
       "sec_name": "MCDONALDS CORP",
       "cik": 63908,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000063908.json",
+      "matched": true
+    },
+    {
+      "ticker": "MDB",
+      "name": "MongoDB",
+      "exchange": "NASDAQ",
+      "sec_name": "MongoDB, Inc.",
+      "cik": 1441816,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001441816.json",
       "matched": true
     },
     {
@@ -1163,7 +1833,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Mondelez International, Inc.",
       "cik": 1103982,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001103982.json",
       "matched": true
     },
@@ -1173,7 +1843,7 @@
       "exchange": "NYSE",
       "sec_name": "Medtronic plc",
       "cik": 1613103,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001613103.json",
       "matched": true
     },
@@ -1183,7 +1853,7 @@
       "exchange": "NYSE",
       "sec_name": "METLIFE INC",
       "cik": 1099219,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001099219.json",
       "matched": true
     },
@@ -1193,8 +1863,18 @@
       "exchange": "NASDAQ",
       "sec_name": "Meta Platforms, Inc.",
       "cik": 1326801,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001326801.json",
+      "matched": true
+    },
+    {
+      "ticker": "MKC",
+      "name": "McCormick",
+      "exchange": "NYSE",
+      "sec_name": "MCCORMICK & CO INC",
+      "cik": 63754,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000063754.json",
       "matched": true
     },
     {
@@ -1203,7 +1883,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Monster Beverage Corp",
       "cik": 865752,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000865752.json",
       "matched": true
     },
@@ -1213,8 +1893,18 @@
       "exchange": "NYSE",
       "sec_name": "ALTRIA GROUP, INC.",
       "cik": 764180,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000764180.json",
+      "matched": true
+    },
+    {
+      "ticker": "MOS",
+      "name": "Mosaic",
+      "exchange": "NYSE",
+      "sec_name": "MOSAIC CO",
+      "cik": 1285785,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001285785.json",
       "matched": true
     },
     {
@@ -1223,8 +1913,18 @@
       "exchange": "NYSE",
       "sec_name": "Marathon Petroleum Corp",
       "cik": 1510295,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001510295.json",
+      "matched": true
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems",
+      "exchange": "NASDAQ",
+      "sec_name": "MONOLITHIC POWER SYSTEMS, INC.",
+      "cik": 1280452,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001280452.json",
       "matched": true
     },
     {
@@ -1233,8 +1933,28 @@
       "exchange": "NYSE",
       "sec_name": "Merck & Co., Inc.",
       "cik": 310158,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000310158.json",
+      "matched": true
+    },
+    {
+      "ticker": "MRNA",
+      "name": "Moderna",
+      "exchange": "NASDAQ",
+      "sec_name": "Moderna, Inc.",
+      "cik": 1682852,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001682852.json",
+      "matched": true
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "exchange": "NASDAQ",
+      "sec_name": "Marvell Technology, Inc.",
+      "cik": 1835632,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001835632.json",
       "matched": true
     },
     {
@@ -1243,7 +1963,7 @@
       "exchange": "NYSE",
       "sec_name": "MORGAN STANLEY",
       "cik": 895421,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000895421.json",
       "matched": true
     },
@@ -1253,7 +1973,7 @@
       "exchange": "NASDAQ",
       "sec_name": "MICROSOFT CORP",
       "cik": 789019,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000789019.json",
       "matched": true
     },
@@ -1263,8 +1983,18 @@
       "exchange": "NASDAQ",
       "sec_name": "MICRON TECHNOLOGY INC",
       "cik": 723125,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000723125.json",
+      "matched": true
+    },
+    {
+      "ticker": "NCLH",
+      "name": "Norwegian Cruise Line Holdings",
+      "exchange": "NYSE",
+      "sec_name": "Norwegian Cruise Line Holdings Ltd.",
+      "cik": 1513761,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001513761.json",
       "matched": true
     },
     {
@@ -1273,7 +2003,7 @@
       "exchange": "NASDAQ",
       "sec_name": "NASDAQ, INC.",
       "cik": 1120193,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001120193.json",
       "matched": true
     },
@@ -1283,7 +2013,7 @@
       "exchange": "NYSE",
       "sec_name": "NEXTERA ENERGY INC",
       "cik": 753308,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000753308.json",
       "matched": true
     },
@@ -1293,8 +2023,18 @@
       "exchange": "NYSE",
       "sec_name": "NEWMONT Corp /DE/",
       "cik": 1164727,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001164727.json",
+      "matched": true
+    },
+    {
+      "ticker": "NET",
+      "name": "Cloudflare",
+      "exchange": "NYSE",
+      "sec_name": "Cloudflare, Inc.",
+      "cik": 1477333,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001477333.json",
       "matched": true
     },
     {
@@ -1303,7 +2043,7 @@
       "exchange": "NASDAQ",
       "sec_name": "NETFLIX INC",
       "cik": 1065280,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001065280.json",
       "matched": true
     },
@@ -1313,7 +2053,7 @@
       "exchange": "NYSE",
       "sec_name": "NIKE, Inc.",
       "cik": 320187,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000320187.json",
       "matched": true
     },
@@ -1323,8 +2063,18 @@
       "exchange": "NYSE",
       "sec_name": "NORTHROP GRUMMAN CORP /DE/",
       "cik": 1133421,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001133421.json",
+      "matched": true
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow",
+      "exchange": "NYSE",
+      "sec_name": "ServiceNow, Inc.",
+      "cik": 1373715,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001373715.json",
       "matched": true
     },
     {
@@ -1333,7 +2083,7 @@
       "exchange": "NYSE",
       "sec_name": "NRG ENERGY, INC.",
       "cik": 1013871,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001013871.json",
       "matched": true
     },
@@ -1343,8 +2093,28 @@
       "exchange": "NASDAQ",
       "sec_name": "NetEase, Inc.",
       "cik": 1110646,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001110646.json",
+      "matched": true
+    },
+    {
+      "ticker": "NTNX",
+      "name": "Nutanix",
+      "exchange": "NASDAQ",
+      "sec_name": "Nutanix, Inc.",
+      "cik": 1618732,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001618732.json",
+      "matched": true
+    },
+    {
+      "ticker": "NU",
+      "name": "Nu Holdings",
+      "exchange": "NYSE",
+      "sec_name": "Nu Holdings Ltd.",
+      "cik": 1691493,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001691493.json",
       "matched": true
     },
     {
@@ -1353,7 +2123,7 @@
       "exchange": "NYSE",
       "sec_name": "NUCOR CORP",
       "cik": 73309,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000073309.json",
       "matched": true
     },
@@ -1363,7 +2133,7 @@
       "exchange": "NASDAQ",
       "sec_name": "NVIDIA CORP",
       "cik": 1045810,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001045810.json",
       "matched": true
     },
@@ -1373,8 +2143,18 @@
       "exchange": "NYSE",
       "sec_name": "NOVO NORDISK A S",
       "cik": 353278,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000353278.json",
+      "matched": true
+    },
+    {
+      "ticker": "NXPI",
+      "name": "NXP Semiconductors",
+      "exchange": "NASDAQ",
+      "sec_name": "NXP Semiconductors N.V.",
+      "cik": 1413447,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001413447.json",
       "matched": true
     },
     {
@@ -1383,7 +2163,7 @@
       "exchange": "NYSE",
       "sec_name": "REALTY INCOME CORP",
       "cik": 726728,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000726728.json",
       "matched": true
     },
@@ -1393,8 +2173,38 @@
       "exchange": "NYSE",
       "sec_name": "ONEOK INC /NEW/",
       "cik": 1039684,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001039684.json",
+      "matched": true
+    },
+    {
+      "ticker": "OKTA",
+      "name": "Okta",
+      "exchange": "NASDAQ",
+      "sec_name": "Okta, Inc.",
+      "cik": 1660134,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001660134.json",
+      "matched": true
+    },
+    {
+      "ticker": "ON",
+      "name": "ON Semiconductor",
+      "exchange": "NASDAQ",
+      "sec_name": "ON SEMICONDUCTOR CORP",
+      "cik": 1097864,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001097864.json",
+      "matched": true
+    },
+    {
+      "ticker": "ONON",
+      "name": "On Holding",
+      "exchange": "NYSE",
+      "sec_name": "On Holding AG",
+      "cik": 1858985,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001858985.json",
       "matched": true
     },
     {
@@ -1403,7 +2213,7 @@
       "exchange": "NYSE",
       "sec_name": "ORACLE CORP",
       "cik": 1341439,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001341439.json",
       "matched": true
     },
@@ -1413,7 +2223,7 @@
       "exchange": "NYSE",
       "sec_name": "OCCIDENTAL PETROLEUM CORP /DE/",
       "cik": 797468,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000797468.json",
       "matched": true
     },
@@ -1423,8 +2233,38 @@
       "exchange": "NASDAQ",
       "sec_name": "Palo Alto Networks Inc",
       "cik": 1327567,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001327567.json",
+      "matched": true
+    },
+    {
+      "ticker": "PATH",
+      "name": "UiPath",
+      "exchange": "NYSE",
+      "sec_name": "UiPath, Inc.",
+      "cik": 1734722,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001734722.json",
+      "matched": true
+    },
+    {
+      "ticker": "PCG",
+      "name": "PG&E",
+      "exchange": "NYSE",
+      "sec_name": "PG&E Corp",
+      "cik": 1004980,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001004980.json",
+      "matched": true
+    },
+    {
+      "ticker": "PEG",
+      "name": "Public Service Enterprise Group",
+      "exchange": "NYSE",
+      "sec_name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+      "cik": 788784,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000788784.json",
       "matched": true
     },
     {
@@ -1433,8 +2273,18 @@
       "exchange": "NASDAQ",
       "sec_name": "PEPSICO INC",
       "cik": 77476,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000077476.json",
+      "matched": true
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer",
+      "exchange": "NYSE",
+      "sec_name": "PFIZER INC",
+      "cik": 78003,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000078003.json",
       "matched": true
     },
     {
@@ -1443,7 +2293,7 @@
       "exchange": "NYSE",
       "sec_name": "PROCTER & GAMBLE Co",
       "cik": 80424,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000080424.json",
       "matched": true
     },
@@ -1453,7 +2303,7 @@
       "exchange": "NYSE",
       "sec_name": "PROGRESSIVE CORP/OH/",
       "cik": 80661,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000080661.json",
       "matched": true
     },
@@ -1463,7 +2313,7 @@
       "exchange": "NYSE",
       "sec_name": "Parker-Hannifin Corp",
       "cik": 76334,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000076334.json",
       "matched": true
     },
@@ -1473,7 +2323,7 @@
       "exchange": "NYSE",
       "sec_name": "PULTEGROUP INC/MI/",
       "cik": 822416,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000822416.json",
       "matched": true
     },
@@ -1483,7 +2333,7 @@
       "exchange": "NYSE",
       "sec_name": "PINTEREST, INC.",
       "cik": 1506293,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001506293.json",
       "matched": true
     },
@@ -1493,7 +2343,7 @@
       "exchange": "NYSE",
       "sec_name": "PACKAGING CORP OF AMERICA",
       "cik": 75677,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000075677.json",
       "matched": true
     },
@@ -1503,8 +2353,18 @@
       "exchange": "NYSE",
       "sec_name": "Prologis, Inc.",
       "cik": 1045609,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001045609.json",
+      "matched": true
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies",
+      "exchange": "NASDAQ",
+      "sec_name": "Palantir Technologies Inc.",
+      "cik": 1321655,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001321655.json",
       "matched": true
     },
     {
@@ -1513,7 +2373,7 @@
       "exchange": "NYSE",
       "sec_name": "Philip Morris International Inc.",
       "cik": 1413329,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001413329.json",
       "matched": true
     },
@@ -1523,8 +2383,28 @@
       "exchange": "NYSE",
       "sec_name": "PPG INDUSTRIES INC",
       "cik": 79879,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000079879.json",
+      "matched": true
+    },
+    {
+      "ticker": "PRU",
+      "name": "Prudential Financial",
+      "exchange": "NYSE",
+      "sec_name": "PRUDENTIAL FINANCIAL INC",
+      "cik": 1137774,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001137774.json",
+      "matched": true
+    },
+    {
+      "ticker": "PSA",
+      "name": "Public Storage",
+      "exchange": "NYSE",
+      "sec_name": "Public Storage",
+      "cik": 1393311,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001393311.json",
       "matched": true
     },
     {
@@ -1533,8 +2413,18 @@
       "exchange": "NYSE",
       "sec_name": "Phillips 66",
       "cik": 1534701,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001534701.json",
+      "matched": true
+    },
+    {
+      "ticker": "PWR",
+      "name": "Quanta Services",
+      "exchange": "NYSE",
+      "sec_name": "QUANTA SERVICES, INC.",
+      "cik": 1050915,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001050915.json",
       "matched": true
     },
     {
@@ -1543,8 +2433,18 @@
       "exchange": "NASDAQ",
       "sec_name": "PayPal Holdings, Inc.",
       "cik": 1633917,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001633917.json",
+      "matched": true
+    },
+    {
+      "ticker": "QBTS",
+      "name": "D-Wave Quantum",
+      "exchange": "NASDAQ",
+      "sec_name": "D-Wave Quantum Inc.",
+      "cik": 1907982,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001907982.json",
       "matched": true
     },
     {
@@ -1553,8 +2453,18 @@
       "exchange": "NASDAQ",
       "sec_name": "QUALCOMM INC/DE",
       "cik": 804328,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000804328.json",
+      "matched": true
+    },
+    {
+      "ticker": "QUBT",
+      "name": "Quantum Computing Inc.",
+      "exchange": "NASDAQ",
+      "sec_name": "Quantum Computing Inc.",
+      "cik": 1758009,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001758009.json",
       "matched": true
     },
     {
@@ -1563,7 +2473,7 @@
       "exchange": "NYSE",
       "sec_name": "Roblox Corp",
       "cik": 1315098,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001315098.json",
       "matched": true
     },
@@ -1573,8 +2483,28 @@
       "exchange": "NYSE",
       "sec_name": "ROYAL CARIBBEAN CRUISES LTD",
       "cik": 884887,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000884887.json",
+      "matched": true
+    },
+    {
+      "ticker": "RDDT",
+      "name": "Reddit",
+      "exchange": "NYSE",
+      "sec_name": "Reddit, Inc.",
+      "cik": 1713445,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001713445.json",
+      "matched": true
+    },
+    {
+      "ticker": "RDW",
+      "name": "Redwire",
+      "exchange": "NYSE",
+      "sec_name": "Redwire Corp",
+      "cik": 1819810,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001819810.json",
       "matched": true
     },
     {
@@ -1583,8 +2513,38 @@
       "exchange": "NASDAQ",
       "sec_name": "REGENERON PHARMACEUTICALS, INC.",
       "cik": 872589,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000872589.json",
+      "matched": true
+    },
+    {
+      "ticker": "RGTI",
+      "name": "Rigetti Computing",
+      "exchange": "NASDAQ",
+      "sec_name": "Rigetti Computing, Inc.",
+      "cik": 1838359,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001838359.json",
+      "matched": true
+    },
+    {
+      "ticker": "RIO",
+      "name": "Rio Tinto",
+      "exchange": "NYSE",
+      "sec_name": "RIO TINTO PLC",
+      "cik": 863064,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000863064.json",
+      "matched": true
+    },
+    {
+      "ticker": "RKLB",
+      "name": "Rocket Lab",
+      "exchange": "NASDAQ",
+      "sec_name": "Rocket Lab Corp",
+      "cik": 1819994,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001819994.json",
       "matched": true
     },
     {
@@ -1593,8 +2553,18 @@
       "exchange": "NYSE",
       "sec_name": "ROCKWELL AUTOMATION, INC",
       "cik": 1024478,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001024478.json",
+      "matched": true
+    },
+    {
+      "ticker": "ROKU",
+      "name": "Roku",
+      "exchange": "NASDAQ",
+      "sec_name": "ROKU, INC",
+      "cik": 1428439,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001428439.json",
       "matched": true
     },
     {
@@ -1603,7 +2573,7 @@
       "exchange": "NYSE",
       "sec_name": "RPM INTERNATIONAL INC/DE/",
       "cik": 110621,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000110621.json",
       "matched": true
     },
@@ -1613,7 +2583,7 @@
       "exchange": "NYSE",
       "sec_name": "REPUBLIC SERVICES, INC.",
       "cik": 1060391,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001060391.json",
       "matched": true
     },
@@ -1623,8 +2593,18 @@
       "exchange": "NYSE",
       "sec_name": "RTX Corp",
       "cik": 101829,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000101829.json",
+      "matched": true
+    },
+    {
+      "ticker": "SBAC",
+      "name": "SBA Communications",
+      "exchange": "NASDAQ",
+      "sec_name": "SBA COMMUNICATIONS CORP",
+      "cik": 1034054,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001034054.json",
       "matched": true
     },
     {
@@ -1633,8 +2613,18 @@
       "exchange": "NASDAQ",
       "sec_name": "STARBUCKS CORP",
       "cik": 829224,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000829224.json",
+      "matched": true
+    },
+    {
+      "ticker": "SCCO",
+      "name": "Southern Copper",
+      "exchange": "NYSE",
+      "sec_name": "SOUTHERN COPPER CORP/",
+      "cik": 1001838,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001001838.json",
       "matched": true
     },
     {
@@ -1643,7 +2633,7 @@
       "exchange": "NYSE",
       "sec_name": "SCHWAB CHARLES CORP",
       "cik": 316709,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000316709.json",
       "matched": true
     },
@@ -1653,8 +2643,18 @@
       "exchange": "NYSE",
       "sec_name": "Shell plc",
       "cik": 1306965,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001306965.json",
+      "matched": true
+    },
+    {
+      "ticker": "SHOP",
+      "name": "Shopify",
+      "exchange": "NASDAQ",
+      "sec_name": "SHOPIFY INC.",
+      "cik": 1594805,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001594805.json",
       "matched": true
     },
     {
@@ -1663,7 +2663,7 @@
       "exchange": "NYSE",
       "sec_name": "SHERWIN WILLIAMS CO",
       "cik": 89800,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000089800.json",
       "matched": true
     },
@@ -1673,8 +2673,18 @@
       "exchange": "NYSE",
       "sec_name": "SLB LIMITED/NV",
       "cik": 87347,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000087347.json",
+      "matched": true
+    },
+    {
+      "ticker": "SMCI",
+      "name": "Super Micro Computer",
+      "exchange": "NASDAQ",
+      "sec_name": "Super Micro Computer, Inc.",
+      "cik": 1375365,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001375365.json",
       "matched": true
     },
     {
@@ -1683,8 +2693,28 @@
       "exchange": "NYSE",
       "sec_name": "Snap Inc",
       "cik": 1564408,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001564408.json",
+      "matched": true
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "exchange": "NASDAQ",
+      "sec_name": "Sandisk Corp",
+      "cik": 2023554,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0002023554.json",
+      "matched": true
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake",
+      "exchange": "NYSE",
+      "sec_name": "Snowflake Inc.",
+      "cik": 1640147,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001640147.json",
       "matched": true
     },
     {
@@ -1693,8 +2723,28 @@
       "exchange": "NYSE",
       "sec_name": "SOUTHERN CO",
       "cik": 92122,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000092122.json",
+      "matched": true
+    },
+    {
+      "ticker": "SOFI",
+      "name": "SoFi Technologies",
+      "exchange": "NASDAQ",
+      "sec_name": "SoFi Technologies, Inc.",
+      "cik": 1818874,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001818874.json",
+      "matched": true
+    },
+    {
+      "ticker": "SPCX",
+      "name": "SpaceX",
+      "exchange": "NASDAQ",
+      "sec_name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+      "cik": 1181412,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001181412.json",
       "matched": true
     },
     {
@@ -1703,7 +2753,7 @@
       "exchange": "NYSE",
       "sec_name": "SIMON PROPERTY GROUP INC.",
       "cik": 1063761,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001063761.json",
       "matched": true
     },
@@ -1713,7 +2763,7 @@
       "exchange": "NYSE",
       "sec_name": "Spotify Technology S.A.",
       "cik": 1639920,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001639920.json",
       "matched": true
     },
@@ -1723,7 +2773,7 @@
       "exchange": "NYSE",
       "sec_name": "SEMPRA",
       "cik": 1032208,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001032208.json",
       "matched": true
     },
@@ -1733,8 +2783,28 @@
       "exchange": "NASDAQ",
       "sec_name": "STEEL DYNAMICS INC",
       "cik": 1022671,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001022671.json",
+      "matched": true
+    },
+    {
+      "ticker": "STM",
+      "name": "STMicroelectronics",
+      "exchange": "NYSE",
+      "sec_name": "STMicroelectronics N.V.",
+      "cik": 932787,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000932787.json",
+      "matched": true
+    },
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology",
+      "exchange": "NASDAQ",
+      "sec_name": "Seagate Technology Holdings plc",
+      "cik": 1137789,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001137789.json",
       "matched": true
     },
     {
@@ -1743,7 +2813,7 @@
       "exchange": "NYSE",
       "sec_name": "CONSTELLATION BRANDS, INC.",
       "cik": 16918,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000016918.json",
       "matched": true
     },
@@ -1753,8 +2823,18 @@
       "exchange": "NYSE",
       "sec_name": "STRYKER CORP",
       "cik": 310764,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000310764.json",
+      "matched": true
+    },
+    {
+      "ticker": "SYY",
+      "name": "Sysco",
+      "exchange": "NYSE",
+      "sec_name": "SYSCO CORP",
+      "cik": 96021,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000096021.json",
       "matched": true
     },
     {
@@ -1763,8 +2843,18 @@
       "exchange": "NYSE",
       "sec_name": "AT&T INC.",
       "cik": 732717,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000732717.json",
+      "matched": true
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian",
+      "exchange": "NASDAQ",
+      "sec_name": "Atlassian Corp",
+      "cik": 1650372,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001650372.json",
       "matched": true
     },
     {
@@ -1773,7 +2863,7 @@
       "exchange": "NYSE",
       "sec_name": "TENET HEALTHCARE CORP",
       "cik": 70318,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000070318.json",
       "matched": true
     },
@@ -1783,7 +2873,7 @@
       "exchange": "NYSE",
       "sec_name": "TJX COMPANIES INC /DE/",
       "cik": 109198,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000109198.json",
       "matched": true
     },
@@ -1793,7 +2883,7 @@
       "exchange": "NYSE",
       "sec_name": "TOYOTA MOTOR CORP/",
       "cik": 1094517,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001094517.json",
       "matched": true
     },
@@ -1803,7 +2893,7 @@
       "exchange": "NYSE",
       "sec_name": "THERMO FISHER SCIENTIFIC INC.",
       "cik": 97745,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000097745.json",
       "matched": true
     },
@@ -1813,8 +2903,28 @@
       "exchange": "NASDAQ",
       "sec_name": "T-Mobile US, Inc.",
       "cik": 1283699,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001283699.json",
+      "matched": true
+    },
+    {
+      "ticker": "TRP",
+      "name": "TC Energy",
+      "exchange": "NYSE",
+      "sec_name": "TC ENERGY CORP",
+      "cik": 1232384,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001232384.json",
+      "matched": true
+    },
+    {
+      "ticker": "TRV",
+      "name": "Travelers",
+      "exchange": "NYSE",
+      "sec_name": "TRAVELERS COMPANIES, INC.",
+      "cik": 86312,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000086312.json",
       "matched": true
     },
     {
@@ -1823,7 +2933,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Tesla, Inc.",
       "cik": 1318605,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001318605.json",
       "matched": true
     },
@@ -1833,8 +2943,28 @@
       "exchange": "NYSE",
       "sec_name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
       "cik": 1046179,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001046179.json",
+      "matched": true
+    },
+    {
+      "ticker": "TSN",
+      "name": "Tyson Foods",
+      "exchange": "NYSE",
+      "sec_name": "TYSON FOODS, INC.",
+      "cik": 100493,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000100493.json",
+      "matched": true
+    },
+    {
+      "ticker": "TTE",
+      "name": "TotalEnergies",
+      "exchange": "NYSE",
+      "sec_name": "TotalEnergies SE",
+      "cik": 879764,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000879764.json",
       "matched": true
     },
     {
@@ -1843,8 +2973,38 @@
       "exchange": "NASDAQ",
       "sec_name": "TAKE TWO INTERACTIVE SOFTWARE INC",
       "cik": 946581,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000946581.json",
+      "matched": true
+    },
+    {
+      "ticker": "U",
+      "name": "Unity Software",
+      "exchange": "NYSE",
+      "sec_name": "Unity Software Inc.",
+      "cik": 1810806,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001810806.json",
+      "matched": true
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "exchange": "NYSE",
+      "sec_name": "Uber Technologies, Inc",
+      "cik": 1543151,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001543151.json",
+      "matched": true
+    },
+    {
+      "ticker": "UDR",
+      "name": "UDR",
+      "exchange": "NYSE",
+      "sec_name": "UDR, Inc.",
+      "cik": 74208,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000074208.json",
       "matched": true
     },
     {
@@ -1853,7 +3013,7 @@
       "exchange": "NYSE",
       "sec_name": "UNIVERSAL HEALTH SERVICES INC",
       "cik": 352915,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000352915.json",
       "matched": true
     },
@@ -1863,7 +3023,7 @@
       "exchange": "NYSE",
       "sec_name": "UNITEDHEALTH GROUP INC",
       "cik": 731766,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000731766.json",
       "matched": true
     },
@@ -1873,7 +3033,7 @@
       "exchange": "NYSE",
       "sec_name": "UNION PACIFIC CORP",
       "cik": 100885,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000100885.json",
       "matched": true
     },
@@ -1883,7 +3043,7 @@
       "exchange": "NYSE",
       "sec_name": "UNITED PARCEL SERVICE INC",
       "cik": 1090727,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001090727.json",
       "matched": true
     },
@@ -1893,7 +3053,7 @@
       "exchange": "NYSE",
       "sec_name": "UNITED RENTALS, INC.",
       "cik": 1067701,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001067701.json",
       "matched": true
     },
@@ -1901,9 +3061,9 @@
       "ticker": "USB",
       "name": "U.S. Bancorp",
       "exchange": "NYSE",
-      "sec_name": "US BANCORP DE",
+      "sec_name": "US BANCORP \\DE\\",
       "cik": 36104,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000036104.json",
       "matched": true
     },
@@ -1913,8 +3073,18 @@
       "exchange": "NYSE",
       "sec_name": "VISA INC.",
       "cik": 1403161,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001403161.json",
+      "matched": true
+    },
+    {
+      "ticker": "VICI",
+      "name": "VICI Properties",
+      "exchange": "NYSE",
+      "sec_name": "VICI PROPERTIES INC.",
+      "cik": 1705696,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001705696.json",
       "matched": true
     },
     {
@@ -1923,7 +3093,7 @@
       "exchange": "NYSE",
       "sec_name": "VALERO ENERGY CORP/TX",
       "cik": 1035002,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001035002.json",
       "matched": true
     },
@@ -1933,7 +3103,7 @@
       "exchange": "NYSE",
       "sec_name": "VIVMARK RESIDENTIAL",
       "cik": 906107,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000906107.json",
       "matched": true
     },
@@ -1943,8 +3113,18 @@
       "exchange": "NYSE",
       "sec_name": "VORNADO REALTY TRUST",
       "cik": 899689,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000899689.json",
+      "matched": true
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv",
+      "exchange": "NYSE",
+      "sec_name": "Vertiv Holdings Co",
+      "cik": 1674101,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001674101.json",
       "matched": true
     },
     {
@@ -1953,7 +3133,7 @@
       "exchange": "NASDAQ",
       "sec_name": "VERTEX PHARMACEUTICALS INC / MA",
       "cik": 875320,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000875320.json",
       "matched": true
     },
@@ -1963,7 +3143,7 @@
       "exchange": "NYSE",
       "sec_name": "Vistra Corp.",
       "cik": 1692819,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001692819.json",
       "matched": true
     },
@@ -1973,7 +3153,7 @@
       "exchange": "NYSE",
       "sec_name": "Ventas, Inc.",
       "cik": 740260,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000740260.json",
       "matched": true
     },
@@ -1983,8 +3163,48 @@
       "exchange": "NYSE",
       "sec_name": "VERIZON COMMUNICATIONS INC",
       "cik": 732712,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000732712.json",
+      "matched": true
+    },
+    {
+      "ticker": "WAB",
+      "name": "Wabtec",
+      "exchange": "NYSE",
+      "sec_name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+      "cik": 943452,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000943452.json",
+      "matched": true
+    },
+    {
+      "ticker": "WDAY",
+      "name": "Workday",
+      "exchange": "NASDAQ",
+      "sec_name": "Workday, Inc.",
+      "cik": 1327811,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001327811.json",
+      "matched": true
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "exchange": "NASDAQ",
+      "sec_name": "WESTERN DIGITAL CORP",
+      "cik": 106040,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000106040.json",
+      "matched": true
+    },
+    {
+      "ticker": "WEC",
+      "name": "WEC Energy Group",
+      "exchange": "NYSE",
+      "sec_name": "WEC ENERGY GROUP, INC.",
+      "cik": 783325,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0000783325.json",
       "matched": true
     },
     {
@@ -1993,7 +3213,7 @@
       "exchange": "NYSE",
       "sec_name": "WELLTOWER INC.",
       "cik": 766704,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000766704.json",
       "matched": true
     },
@@ -2003,7 +3223,7 @@
       "exchange": "NYSE",
       "sec_name": "WELLS FARGO & COMPANY/MN",
       "cik": 72971,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000072971.json",
       "matched": true
     },
@@ -2013,7 +3233,7 @@
       "exchange": "NYSE",
       "sec_name": "WASTE MANAGEMENT INC",
       "cik": 823768,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000823768.json",
       "matched": true
     },
@@ -2023,7 +3243,7 @@
       "exchange": "NYSE",
       "sec_name": "WILLIAMS COMPANIES, INC.",
       "cik": 107263,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000107263.json",
       "matched": true
     },
@@ -2033,7 +3253,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Warner Music Group Corp.",
       "cik": 1319161,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0001319161.json",
       "matched": true
     },
@@ -2043,7 +3263,7 @@
       "exchange": "NASDAQ",
       "sec_name": "Walmart Inc.",
       "cik": 104169,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000104169.json",
       "matched": true
     },
@@ -2053,7 +3273,7 @@
       "exchange": "NASDAQ",
       "sec_name": "XCEL ENERGY INC",
       "cik": 72903,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0000072903.json",
       "matched": true
     },
@@ -2063,8 +3283,38 @@
       "exchange": "NYSE",
       "sec_name": "ExxonMobil Holdings Corp",
       "cik": 2115436,
-      "verifiedOn": "2026-09-20",
+      "verifiedOn": "2026-09-21",
       "identitySource": "https://data.sec.gov/submissions/CIK0002115436.json",
+      "matched": true
+    },
+    {
+      "ticker": "YUM",
+      "name": "Yum! Brands",
+      "exchange": "NYSE",
+      "sec_name": "YUM BRANDS INC",
+      "cik": 1041061,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001041061.json",
+      "matched": true
+    },
+    {
+      "ticker": "ZS",
+      "name": "Zscaler",
+      "exchange": "NASDAQ",
+      "sec_name": "Zscaler, Inc.",
+      "cik": 1713683,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001713683.json",
+      "matched": true
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis",
+      "exchange": "NYSE",
+      "sec_name": "Zoetis Inc.",
+      "cik": 1555280,
+      "verifiedOn": "2026-09-21",
+      "identitySource": "https://data.sec.gov/submissions/CIK0001555280.json",
       "matched": true
     }
   ]

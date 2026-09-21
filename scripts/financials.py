@@ -13,16 +13,25 @@ QUARTER_FORMS = {"10-Q", "10-Q/A", "6-K", "6-K/A"}
 TAGS = {
     "revenue": [("us-gaap", x) for x in ["Revenues", "RevenueFromContractWithCustomerExcludingAssessedTax", "SalesRevenueNet", "RevenueFromContractWithCustomerIncludingAssessedTax", "OperatingRevenues", "RegulatedAndUnregulatedOperatingRevenue"]] + [("ifrs-full", "Revenue"), ("ifrs-full", "RevenueFromContractsWithCustomers")],
     "operatingIncome": [("us-gaap", "OperatingIncomeLoss"), ("ifrs-full", "ProfitLossFromOperatingActivities")],
-    "netIncome": [("us-gaap", "NetIncomeLoss"), ("us-gaap", "ProfitLoss"), ("us-gaap", "NetIncomeLossAvailableToCommonStockholdersBasic"), ("ifrs-full", "ProfitLossAttributableToOwnersOfParent"), ("ifrs-full", "ProfitLoss")],
+    "netIncome": [("us-gaap", "NetIncomeLossAvailableToCommonStockholdersBasic"), ("us-gaap", "NetIncomeLoss"), ("us-gaap", "ProfitLoss"), ("ifrs-full", "ProfitLossAttributableToOwnersOfParent"), ("ifrs-full", "ProfitLoss")],
     "eps": [("us-gaap", "EarningsPerShareDiluted"), ("ifrs-full", "DilutedEarningsLossPerShare")],
     "operatingCashFlow": [("us-gaap", "NetCashProvidedByUsedInOperatingActivities"), ("ifrs-full", "CashFlowsFromUsedInOperatingActivities")],
     "capex": [("us-gaap", "PaymentsToAcquirePropertyPlantAndEquipment"), ("ifrs-full", "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities")],
     "assets": [("us-gaap", "Assets"), ("ifrs-full", "Assets")],
     "equity": [("us-gaap", "StockholdersEquity"), ("us-gaap", "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"), ("ifrs-full", "EquityAttributableToOwnersOfParent"), ("ifrs-full", "Equity")],
     "cash": [("us-gaap", "CashAndCashEquivalentsAtCarryingValue"), ("ifrs-full", "CashAndCashEquivalents")],
+    "liabilities": [("us-gaap", "Liabilities"), ("ifrs-full", "Liabilities")],
+    "currentAssets": [("us-gaap", "AssetsCurrent"), ("ifrs-full", "CurrentAssets")],
+    "currentLiabilities": [("us-gaap", "LiabilitiesCurrent"), ("ifrs-full", "CurrentLiabilities")],
+    "longTermDebt": [("us-gaap", "LongTermDebtNoncurrent"), ("us-gaap", "LongTermDebt"), ("ifrs-full", "NoncurrentBorrowings")],
+    "currentDebt": [("us-gaap", "LongTermDebtCurrent"), ("ifrs-full", "CurrentBorrowings")],
+    "shortTermBorrowings": [("us-gaap", "ShortTermBorrowings")],
+    "stockCompensation": [("us-gaap", "ShareBasedCompensation"), ("ifrs-full", "AdjustmentsForSharebasedPayments")],
+    "dilutedShares": [("us-gaap", "WeightedAverageNumberOfDilutedSharesOutstanding"), ("ifrs-full", "AdjustedWeightedAverageShares")],
 }
-BALANCES = {"assets", "equity", "cash"}
+BALANCES = {"assets", "equity", "cash", "liabilities", "currentAssets", "currentLiabilities", "longTermDebt", "currentDebt", "shortTermBorrowings"}
 LABELS = {"revenue":"매출·영업수익", "operatingIncome":"영업이익", "netIncome":"순이익", "eps":"희석 EPS", "operatingCashFlow":"영업현금흐름", "capex":"유형자산 투자", "assets":"총자산", "equity":"자기자본", "cash":"현금·현금성자산", "freeCashFlow":"단순 잉여현금흐름", "operatingMargin":"영업이익률", "netMargin":"순이익률"}
+LABELS.update({"liabilities":"총부채", "currentAssets":"유동자산", "currentLiabilities":"유동부채", "longTermDebt":"장기차입금(표준 태그)", "currentDebt":"유동성 장기차입금", "shortTermBorrowings":"단기차입금", "stockCompensation":"주식보상비용", "dilutedShares":"가중평균 희석주식 수"})
 
 
 def days(row):
@@ -44,7 +53,7 @@ def all_rows(facts, metric, cutoff, financial_sector=False):
     for rank, (taxonomy, tag) in enumerate(tags):
         concept = facts.get("facts", {}).get(taxonomy, {}).get(tag, {})
         for unit, entries in concept.get("units", {}).items():
-            if unit in {"pure", "shares"}:
+            if unit == "pure" or (unit == "shares" and metric != "dilutedShares"):
                 continue
             for r in entries:
                 if r.get("filed", "9999") > cutoff or r.get("end", "9999") > cutoff or not isinstance(r.get("val"), (int, float)):
@@ -71,7 +80,7 @@ def period_metrics(rows, cik, end, kind, currency, hint=None):
                 okay = duration is None
             elif kind == "annual":
                 okay = r["form"] in ANNUAL_FORMS and duration is not None and 330 <= duration <= 400
-            elif key in {"operatingCashFlow", "capex"}:
+            elif key in {"operatingCashFlow", "capex", "stockCompensation"}:
                 # Interim cash flow is usually year-to-date, and remains explicitly labeled.
                 okay = r["form"] in QUARTER_FORMS and duration is not None and 60 <= duration <= 300
             else:
@@ -80,7 +89,7 @@ def period_metrics(rows, cik, end, kind, currency, hint=None):
                 available.append(r)
         if not available:
             continue
-        preferred = [r for r in available if r["unit"] == (currency + "/shares" if key == "eps" else currency)]
+        preferred = [r for r in available if r["unit"] == ("shares" if key == "dilutedShares" else currency + "/shares" if key == "eps" else currency)]
         if preferred:
             available = preferred
         # Choose recent restated facts, then the intended primary taxonomy concept.
@@ -88,7 +97,7 @@ def period_metrics(rows, cik, end, kind, currency, hint=None):
         available=[r for r in available if r["filed"]==latest_filed]
         available.sort(key=lambda r:(r.get("accn")==hint, -r["rank"], days(r) or 0), reverse=True)
         metrics[key]=normalize(available[0], cik, key)
-        if kind == "quarter" and key in {"operatingCashFlow", "capex"} and days(available[0]) > 110:
+        if kind == "quarter" and key in {"operatingCashFlow", "capex", "stockCompensation"} and days(available[0]) > 110:
             metrics[key]["cumulative"] = True
     def compatible(a, b):
         return all(a.get(k)==b.get(k) for k in ["unit","start","end","basis"])

@@ -224,6 +224,51 @@
           "ir": "https://www.geaerospace.com/investor-relations",
           "exchange": "NYSE",
           "kind": "보통주"
+        },
+        {
+          "ticker": "ACHR",
+          "name": "Archer Aviation",
+          "exchange": "NYSE",
+          "business": "전기 수직이착륙 항공기와 관련 운영·방위 사업의 상업화를 추진합니다.",
+          "watch": "인증 진행·제조 원가·현금소진·희석",
+          "ir": "https://investors.archer.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "JOBY",
+          "name": "Joby Aviation",
+          "exchange": "NYSE",
+          "business": "전기 수직이착륙기를 개발하고 항공 이동 서비스를 구축합니다.",
+          "watch": "인증 단계·생산량·운항 비용·현금소진",
+          "ir": "https://ir.jobyaviation.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AVAV",
+          "name": "AeroVironment",
+          "exchange": "NASDAQ",
+          "business": "무인항공기·배회형 탄약과 관련 방위 기술·지원 서비스를 공급합니다.",
+          "watch": "수주대비매출·탄약 생산능력·계약마진",
+          "ir": "https://investor.avinc.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "KTOS",
+          "name": "Kratos Defense & Security Solutions",
+          "exchange": "NASDAQ",
+          "business": "무인기·추진·위성통신·전자 방위 시스템을 개발·생산합니다.",
+          "watch": "양산 전환·수주잔고·R&D·설비투자",
+          "ir": "https://ir.kratosdefense.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "HII",
+          "name": "Huntington Ingalls Industries",
+          "exchange": "NYSE",
+          "business": "미 해군 함정·잠수함을 건조하고 방위 임무 기술·서비스를 제공합니다.",
+          "watch": "함정 인도·조선마진·수주잔고·현금전환",
+          "ir": "https://ir.hii.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -300,6 +345,33 @@
           "ir": "https://www.gevernova.com/investors",
           "exchange": "NYSE",
           "kind": "보통주"
+        },
+        {
+          "ticker": "VRT",
+          "name": "Vertiv",
+          "exchange": "NYSE",
+          "business": "데이터센터·통신시설에 전력관리·냉각 설비와 유지보수를 제공합니다.",
+          "watch": "유기적 수주·액체냉각·수주잔고·총이익",
+          "ir": "https://investors.vertiv.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PWR",
+          "name": "Quanta Services",
+          "exchange": "NYSE",
+          "business": "전력망·통신·에너지 인프라를 설계·건설·유지보수합니다.",
+          "watch": "수주잔고·전력망 투자·작업자 생산성·현금",
+          "ir": "https://investors.quantaservices.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "FIX",
+          "name": "Comfort Systems USA",
+          "exchange": "NYSE",
+          "business": "상업·산업시설의 기계·전기·배관 설비와 유지보수를 제공합니다.",
+          "watch": "수주잔고·유기적 매출·공사마진·운전자본",
+          "ir": "https://investors.comfortsystemsusa.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -366,6 +438,51 @@
           "business": "특송·소포 중심의 글로벌 운송 네트워크",
           "watch": "2026-06-01 Freight 분사 후 실적 비교 범위와 비용 효율",
           "ir": "https://investor.fedex.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "WAB",
+          "name": "Wabtec",
+          "exchange": "NYSE",
+          "business": "철도 기관차·부품·제어장비와 정비·업그레이드 서비스를 공급합니다.",
+          "watch": "서비스 성장·기관차 현대화·수주·현금",
+          "ir": "https://ir.wabteccorp.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CSX",
+          "name": "CSX",
+          "exchange": "NASDAQ",
+          "business": "미국 동부 철도망으로 산업재·원자재·컨테이너 화물을 운송합니다.",
+          "watch": "차량수·단위당 매출·운영비율·열차속도",
+          "ir": "https://investors.csx.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CNI",
+          "name": "Canadian National Railway",
+          "exchange": "NYSE",
+          "business": "캐나다·미국 철도망을 통해 벌크·상품·컨테이너 화물을 운송합니다.",
+          "watch": "유상 톤마일·단위 매출·운영비율·CAPEX",
+          "ir": "https://www.cn.ca/en/investors/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CP",
+          "name": "Canadian Pacific Kansas City",
+          "exchange": "NYSE",
+          "business": "캐나다·미국·멕시코를 잇는 철도망으로 화물 운송을 제공합니다.",
+          "watch": "국경간 물량·시너지·운영비율·부채",
+          "ir": "https://investor.cpkcr.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "UBER",
+          "name": "Uber Technologies",
+          "exchange": "NYSE",
+          "business": "승객·운전자 및 배달 고객·상점을 연결하고 거래 수수료를 받습니다.",
+          "watch": "총예약액·거래수·운전자 공급·잉여현금",
+          "ir": "https://investor.uber.com/",
           "kind": "보통주"
         }
       ]
@@ -434,6 +551,83 @@
           "watch": "고객 유지·신규 영업·서비스 비용",
           "ir": "https://www.cintas.com/investors/",
           "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "industrials-space",
+      "name": "우주 발사·위성 인프라",
+      "en": "Space Launch & Infrastructure",
+      "summary": "발사 서비스, 위성·우주선·부품, 궤도 통신 및 우주 임무 인프라에 투자하는 기업을 비교합니다.",
+      "mechanics": "발사 계약은 일정·재사용률·실패 위험에 민감하고, 위성 통신은 이용자·접속 품질·서비스 지역과 위성 보충 투자에 영향을 받습니다. 정부 개발 사업은 예산·검수·계약 조건에 따라 수주와 매출 인식 시점이 다릅니다. 우주 외 AI 등 다른 사업을 보유한 그룹은 부문별 손익과 자금 소요를 구분해야 합니다.",
+      "watch": [
+        "발사 빈도·재사용과 단위 임무 현금 원가",
+        "수주잔고의 취소·옵션·검수 조건과 현금 회수",
+        "정부 계약·주파수·발사 허가·안전 심사 및 부문별 투자"
+      ],
+      "kpis": [
+        {
+          "name": "발사·임무 성공과 일정",
+          "meaning": "계약 이행량과 기술·운영 신뢰도",
+          "read": "발사 횟수 증가가 가격 할인이나 원가 상승 없이 이루어지는지 봅니다."
+        },
+        {
+          "name": "수주잔고·매출 전환",
+          "meaning": "계약상 남은 수행 의무와 실제 매출 인식",
+          "read": "미행사 옵션·취소권·고정가 계약 손실을 분리합니다."
+        },
+        {
+          "name": "반복 수익과 재투자",
+          "meaning": "통신·서비스 수익에서 유지·보충 투자 후 남는 현금",
+          "read": "연구개발과 신규 위성·발사체 자본 지출을 EBITDA와 함께 확인합니다."
+        }
+      ],
+      "risks": [
+        "임무 실패·개발 지연·고정가 계약 초과원가",
+        "정부 예산·주파수 및 수출 제한·대규모 투자 자금 조달"
+      ],
+      "valuation": "통신 구독·발사·정부 시스템·AI 등 부문별 합산가치로 사업 차이를 반영합니다. 적자 개발 사업은 성공확률과 증자·희석을 포함하고, 성숙 서비스는 유지 투자 후 현금을 할인합니다.",
+      "questions": [
+        "발사와 위성 수 증가가 유지 투자 이후에도 주주 현금을 늘리는가?",
+        "정부 사업 지연·예산 변경 시 고정비와 자금 소요를 얼마나 감당할 수 있는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "RKLB",
+          "name": "Rocket Lab",
+          "exchange": "NASDAQ",
+          "business": "발사 서비스와 위성·우주부품·임무 솔루션을 고객에게 제공합니다.",
+          "watch": "Iridium 인수·희석·Neutron·수주 현금전환",
+          "ir": "https://investors.rocketlabcorp.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "LUNR",
+          "name": "Intuitive Machines",
+          "exchange": "NASDAQ",
+          "business": "우주선 제작·달 임무와 통신·항법·운영 인프라를 정부·상업 고객에게 제공합니다.",
+          "watch": "계약수주·임무 성공·진행률 매출·현금소진",
+          "ir": "https://investors.intuitivemachines.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "RDW",
+          "name": "Redwire",
+          "exchange": "NYSE",
+          "business": "우주용 전력·안테나·항법 부품과 방위용 자율 시스템을 공급합니다.",
+          "watch": "수주잔고·유기적 성장·계약 총이익·부채",
+          "ir": "https://ir.rdw.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SPCX",
+          "name": "SpaceX",
+          "exchange": "NASDAQ",
+          "ir": "https://ir.spacex.com/",
+          "business": "발사체·Starlink·AI 인프라",
+          "watch": "재사용 발사, 가입자 수익성, AI 투자 현금소모",
+          "kind": "보통주",
+          "cik": 1181412
         }
       ]
     }

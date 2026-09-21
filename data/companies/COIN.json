@@ -1,0 +1,241 @@
+{
+  "ticker": "COIN",
+  "oneLiner": "암호자산 거래·수탁·스테이블코인 인프라를 중심으로 수익을 만드는 Coinbase Global.",
+  "businessModel": "개인·기관의 디지털자산 거래를 중개하고 수탁·스테이킹·USDC·개발자 인프라를 제공합니다. 거래매출은 거래량×수수료율로, 스테이블코인 수익은 평균 USDC 잔고×단기금리×배분조건으로 분해해야 합니다. 파생상품과 Base의 성장도 거래량 자체보다 수수료·비용을 뺀 경제성이 중요합니다.",
+  "revenueStreams": [
+    {
+      "name": "거래 수수료",
+      "description": "현물·파생상품·예측시장 등의 거래량과 개인·기관 믹스에 따른 순수수료. 높은 기관 거래량이 높은 수익률을 뜻하지는 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx"
+    },
+    {
+      "name": "구독·서비스",
+      "description": "USDC 관련 수익·수탁·스테이킹·구독 등. 반복적이라는 표현에도 금리와 암호자산 가격에 민감한 항목이 포함됩니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx"
+    },
+    {
+      "name": "개발자·온체인 인프라",
+      "description": "Base·결제·개발자 플랫폼의 사용 확대. 네트워크 거래량과 기업이 실제 수취하는 이익을 구분합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2025,
+      "event": "SEC가 Coinbase 대상 민사 집행소송의 취하를 발표."
+    },
+    {
+      "year": 2026,
+      "event": "2분기 발표에서 현물 이외 거래·스테이블코인·구독서비스의 다각화를 강조."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "신뢰·규제 인프라",
+      "detail": "수탁 보안·규제 대응·기관 연결을 축적하는 비용이 신규 사업자의 진입 장벽입니다. 다만 신뢰는 보안 사고 한 번으로 훼손될 수 있습니다."
+    },
+    {
+      "title": "유동성·제품 연결",
+      "detail": "개인 거래·Prime·수탁·파생상품·USDC를 연결하면 고객의 거래와 자산을 같은 플랫폼에 유지할 유인이 생깁니다."
+    },
+    {
+      "title": "해자의 한계",
+      "detail": "멀티호밍과 탈중앙 거래소, 전통 금융사의 진입으로 수수료 경쟁이 가능합니다. 점유율보다 위험조정 수익성과 고객 유지가 해자의 증거입니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "경기민감·수수료 하락",
+      "detail": "거래량·가격·금리가 동시에 불리해질 수 있고 시장점유율 확보를 위한 할인은 수익성을 약화시킵니다."
+    },
+    {
+      "title": "보안·규제 비용",
+      "detail": "사이버 사고·고객보상·소송·자금세탁방지 의무는 비용과 신뢰에 직접 영향을 줍니다."
+    },
+    {
+      "title": "회계이익 변동",
+      "detail": "보유 암호자산·투자 평가손익은 본업 현금수익과 다르게 움직입니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Robinhood",
+      "ticker": "HOOD",
+      "comparison": "개인 금융·암호자산 거래 접점은 유사하지만 증권·순이자 수익 비중이 다릅니다."
+    },
+    {
+      "name": "CME Group",
+      "ticker": "CME",
+      "comparison": "파생 거래 인프라의 참고군이나 거래상품·규제·마진 안정성이 다릅니다."
+    },
+    {
+      "name": "Intercontinental Exchange",
+      "ticker": "ICE",
+      "comparison": "거래·데이터 인프라의 참고군이며 모기지·데이터 사업 혼합을 조정해야 합니다."
+    }
+  ],
+  "macroLink": "금리·달러·시장 유동성이 암호자산 가격과 거래 활성을 통해 매출에 전달됩니다. 변동성 확대는 거래를 늘릴 수 있지만 급락·유동성 고갈은 고객 잔고와 신뢰를 훼손합니다. 금리하락은 위험자산 거래에 우호적일 수 있으나 USDC 준비자산 기반 수익을 낮춥니다. 금리 방향 하나로 실적을 예측하지 않습니다. ETF·기관 수탁과 결제 활용은 자산·거래를 유입시키지만 기관 단가는 개인보다 낮을 수 있어 자산 증가와 수익 증가를 분리합니다.",
+  "monitoring": [
+    "USDC 평균 잔고 성장으로 금리하락 영향을 상쇄하는지",
+    "파생상품·예측시장·수탁의 수익 증가가 현금비용보다 빠른지",
+    "거래량이 약한 분기에도 고객 유지와 본업 현금흐름이 견조한지",
+    "점유율 상승에도 수수료율 하락으로 거래 총이익이 지속 악화",
+    "USDC 잔고 성장보다 금리·보상비용 영향이 큼",
+    "보안사고·상품제한으로 고객자산 유출과 비용 증가"
+  ],
+  "sources": [
+    {
+      "title": "Coinbase Q2 2026 실적",
+      "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx",
+      "note": "GAAP/조정 손익, 거래 및 USDC 관련 회사 발표. 시장점유율·온체인 통계는 회사 주장으로 구분.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Coinbase 분기자료",
+      "url": "https://investor.coinbase.com/financials/quarterly-results/default.aspx",
+      "note": "공시 및 분기자료 확인 경로.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "SEC Coinbase 민사소송 취하",
+      "url": "https://www.sec.gov/newsroom/press-releases/2025-47",
+      "note": "집행사건 취하 사실과 정책적 설명.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 투자 논점은 암호자산 거래의 경기민감성을 수탁·USDC·파생상품·온체인 인프라가 얼마나 낮추는가입니다. 2026년 2분기 점유율 상승과 GAAP 손실이 함께 나타났으므로 점유율 확대만으로 이익의 안정성을 인정하기는 어렵습니다. 금리하락에도 사용량과 잔고가 성장해 현금수익을 유지하는지 확인할 관찰 대상입니다.",
+    "businessDrivers": [
+      {
+        "title": "거래 경제성",
+        "detail": "현물·파생상품 거래량, 개인·기관 비중, 평균 수수료율을 함께 봅니다. 시장점유율이 높아져도 저수수료 고객으로 믹스가 이동하면 매출과 이익은 약해질 수 있습니다."
+      },
+      {
+        "title": "USDC 수익",
+        "detail": "평균 잔고 증가와 정책금리 하락은 반대 방향으로 작용합니다. 발행사·유통사 간 배분계약, 고객 보상금·유통비용을 뺀 순경제성을 추적합니다."
+      },
+      {
+        "title": "다각화의 질",
+        "detail": "회사 발표의 비BTC 현물 이외 매출은 다른 암호자산 거래까지 포함하므로 비순환 매출과 같지 않습니다. 수탁·구독·개발자 수익 각각의 변동성을 구분합니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "유동성과 위험선호",
+        "detail": "금리·달러·시장 유동성이 암호자산 가격과 거래 활성을 통해 매출에 전달됩니다. 변동성 확대는 거래를 늘릴 수 있지만 급락·유동성 고갈은 고객 잔고와 신뢰를 훼손합니다."
+      },
+      {
+        "title": "금리의 양면성",
+        "detail": "금리하락은 위험자산 거래에 우호적일 수 있으나 USDC 준비자산 기반 수익을 낮춥니다. 금리 방향 하나로 실적을 예측하지 않습니다."
+      },
+      {
+        "title": "기관 채택",
+        "detail": "ETF·기관 수탁과 결제 활용은 자산·거래를 유입시키지만 기관 단가는 개인보다 낮을 수 있어 자산 증가와 수익 증가를 분리합니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "신뢰·규제 인프라",
+        "detail": "수탁 보안·규제 대응·기관 연결을 축적하는 비용이 신규 사업자의 진입 장벽입니다. 다만 신뢰는 보안 사고 한 번으로 훼손될 수 있습니다."
+      },
+      {
+        "title": "유동성·제품 연결",
+        "detail": "개인 거래·Prime·수탁·파생상품·USDC를 연결하면 고객의 거래와 자산을 같은 플랫폼에 유지할 유인이 생깁니다."
+      },
+      {
+        "title": "해자의 한계",
+        "detail": "멀티호밍과 탈중앙 거래소, 전통 금융사의 진입으로 수수료 경쟁이 가능합니다. 점유율보다 위험조정 수익성과 고객 유지가 해자의 증거입니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "확인된 실적 흐름",
+        "detail": "2026년 2분기 조정 EBITDA는 2.078억 달러로 전년동기 5.121억 달러보다 낮았고 GAAP 순손실은 3.595억 달러였습니다. 시장점유율 확대와 실적 개선은 다른 질문입니다."
+      },
+      {
+        "title": "이익의 질",
+        "detail": "주식보상·암호자산 평가손익·사고 보상 및 회수액을 나눠 읽습니다. 조정 EBITDA 흑자가 주주의 현금흐름이나 GAAP 이익과 같지는 않습니다."
+      },
+      {
+        "title": "유동성 구분",
+        "detail": "고객자산·수탁자산은 기업의 자유현금이 아닙니다. 현금·회사보유 USDC·차입·전환사채·담보 및 고객 보호 의무를 분리해 순유동성을 산출해야 합니다."
+      },
+      {
+        "title": "하방 점검",
+        "detail": "낮은 거래량·수수료율·금리의 조합에서 고정비를 감당할 수 있는지 보고, 자사주보다 규제자본·보안투자·희석 후 현금을 우선 평가합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "중간 거래주기 EV/EBITDA·정상 P/E와 사업별 SOTP",
+        "peers": [
+          "HOOD",
+          "CME",
+          "ICE"
+        ],
+        "rationale": "거래소 배수는 참고하되 Coinbase의 거래주기·보안·규제 위험 프리미엄을 반영합니다. 강세장 EPS를 그대로 쓰거나 고객자산을 기업현금으로 차감하면 싸게 보일 수 있습니다.",
+        "watch": "실제 비교에는 같은 기준일 시세·완전희석 주식수·순차입과 동일 회계기간이 필요합니다. 미래 컨센서스와 목표가는 검증 없이 가정하지 않습니다."
+      },
+      "absolute": {
+        "method": "사업별 정상화 현금흐름 DCF·SOTP",
+        "drivers": [
+          "현물·파생 거래량과 수수료율",
+          "USDC 잔고·금리·배분비용",
+          "수탁·구독·개발자 매출 성장",
+          "고정비·세금·주식보상 및 순차입"
+        ],
+        "watch": "약세·중간·강세 거래주기를 나누고 USDC 금리 민감도를 별도로 둡니다. Base의 잠재가치를 거래소 현금흐름과 중복 계산하지 않으며 검증된 장기 이익률 없이는 목표가를 제시하지 않습니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "SEC 사건의 범위",
+        "detail": "2025년 SEC 소송 취하는 확인된 사건입니다. 모든 상품·스테이킹·해외사업의 적법성이나 향후 감독 면제를 뜻하지 않습니다.",
+        "sourceUrl": "https://www.sec.gov/newsroom/press-releases/2025-47"
+      },
+      {
+        "title": "사업확장 규제",
+        "detail": "예측시장·파생상품·스테이블코인·수탁에는 서로 다른 연방·주·해외 규제가 적용됩니다. 상품 승인과 수익 배분조건 변화가 성장과 비용에 미치는 영향을 공시로 확인합니다.",
+        "sourceUrl": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx"
+      }
+    ],
+    "catalysts": [
+      "USDC 평균 잔고 성장으로 금리하락 영향을 상쇄하는지",
+      "파생상품·예측시장·수탁의 수익 증가가 현금비용보다 빠른지",
+      "거래량이 약한 분기에도 고객 유지와 본업 현금흐름이 견조한지"
+    ],
+    "falsifiers": [
+      "점유율 상승에도 수수료율 하락으로 거래 총이익이 지속 악화",
+      "USDC 잔고 성장보다 금리·보상비용 영향이 큼",
+      "보안사고·상품제한으로 고객자산 유출과 비용 증가"
+    ],
+    "sources": [
+      {
+        "title": "Coinbase Q2 2026 실적",
+        "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx",
+        "note": "GAAP/조정 손익, 거래 및 USDC 관련 회사 발표. 시장점유율·온체인 통계는 회사 주장으로 구분.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Coinbase 분기자료",
+        "url": "https://investor.coinbase.com/financials/quarterly-results/default.aspx",
+        "note": "공시 및 분기자료 확인 경로.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "SEC Coinbase 민사소송 취하",
+        "url": "https://www.sec.gov/newsroom/press-releases/2025-47",
+        "note": "집행사건 취하 사실과 정책적 설명.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

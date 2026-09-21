@@ -16,6 +16,7 @@ import time
 import tempfile
 import urllib.error
 import urllib.request
+from urllib.parse import quote
 from datetime import date, datetime, timezone
 
 from financials import extract
@@ -108,12 +109,22 @@ def main():
     for index,c in enumerate(selected,1):
         ticker=c["ticker"]
         identity=lookup.get(ticker.replace('.','-'))
+        if not identity and c.get("cik"):
+            identity={"cik":int(c["cik"]),"ticker":ticker,"sec_name":c["name"]}
+            lookup[ticker.replace('.','-')]=identity
         print(f"[{index}/{len(selected)}] {ticker}",flush=True)
         try:
+            if not identity or not identity.get("cik"):
+                results=fetch(f"https://efts.sec.gov/LATEST/search-index?keysTyped={quote(ticker)}",CACHE/f"identity-{ticker}.json",args.offline)
+                matches=[r for r in results.get("hits",{}).get("hits",[]) if ticker.replace('.','-') in [t.strip().replace('.','-') for t in r.get("_source",{}).get("tickers","").split(',')]]
+                if len(matches)==1:
+                    identity={"cik":int(matches[0]["_id"]),"ticker":ticker,"sec_name":matches[0]["_source"]["entity"]}
+                    lookup[ticker.replace('.','-')]=identity
             if not identity or not identity.get("cik"):raise ValueError("Ticker is absent from SEC listing map; manual identity review required")
             cik=int(identity["cik"])
             subfile=CACHE/f"{cik:010d}-submissions.json"
             sub=fetch(f"https://data.sec.gov/submissions/CIK{cik:010d}.json",subfile,args.offline)
+            identity["sec_name"]=sub.get("name",identity.get("sec_name"))
             current_tickers=sub.get("tickers",[])
             current_exchanges=sub.get("exchanges",[])
             normalized=[t.replace('.','-') for t in current_tickers]

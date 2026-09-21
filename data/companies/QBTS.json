@@ -1,0 +1,183 @@
+{
+  "ticker": "QBTS",
+  "oneLiner": "양자 어닐링·게이트 방식 양자컴퓨팅 플랫폼를 제공하는 D-Wave Quantum.",
+  "businessModel": "양자 어닐링 시스템·클라우드 서비스에 더해 Quantum Circuits 인수로 게이트 모델 개발을 병행합니다. 최적화 문제의 상업적 효용과 범용 기술 개발은 따로 평가합니다.",
+  "revenueStreams": [
+    {
+      "name": "시스템 판매",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 양자 어닐링 시스템·클라우드 서비스에 더해 Quantum Circuits 인수로 게이트 모델 개발을 병행합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.dwavequantum.com/news/news-details/2026/D-Wave-Reports-Second-Quarter-2026-Results/default.aspx"
+    },
+    {
+      "name": "QCaaS·전문 서비스",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 양자 어닐링 시스템·클라우드 서비스에 더해 Quantum Circuits 인수로 게이트 모델 개발을 병행합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.dwavequantum.com/news/news-details/2026/D-Wave-Reports-Second-Quarter-2026-Results/default.aspx"
+    }
+  ],
+  "history": [
+    {
+      "year": 2026,
+      "event": "1월 Quantum Circuits 인수로 게이트 모델 개발 추가."
+    },
+    {
+      "year": 2026,
+      "event": "7월 27일 QBTS 티커를 유지하며 Nasdaq으로 거래소 이전."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 가치와 전환 비용",
+      "detail": "상용 어닐링 운영 경험과 고객 문제를 해결하는 소프트웨어 역량이 있습니다."
+    },
+    {
+      "title": "확장 기반",
+      "detail": "이중 플랫폼은 기회를 넓히지만 아직 경제적 해자의 크기는 실증이 필요합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "사업 위험",
+      "detail": "대형 시스템 판매 한 건이 매출 비교를 왜곡합니다."
+    },
+    {
+      "title": "실행·재무 위험",
+      "detail": "게이트 모델 인수 후 연구비와 현금소모가 늘어날 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "IonQ",
+      "ticker": "IONQ",
+      "comparison": "비교 기업입니다. 양자 방식·상용화 단계가 달라 매출배수 직접 비교는 제한적입니다."
+    },
+    {
+      "name": "Rigetti Computing",
+      "ticker": "RGTI",
+      "comparison": "비교 기업입니다. 양자 방식·상용화 단계가 달라 매출배수 직접 비교는 제한적입니다."
+    },
+    {
+      "name": "Quantum Computing Inc.",
+      "ticker": "QUBT",
+      "comparison": "비교 기업입니다. 양자 방식·상용화 단계가 달라 매출배수 직접 비교는 제한적입니다."
+    }
+  ],
+  "macroLink": "정부·연구기관 예산과 기업 실험 지출이 수요를 결정합니다. 기술 테마 자금 흐름이 작은 현재 매출보다 주가를 더 크게 움직일 수 있습니다.",
+  "monitoring": [
+    "상용문제 성과, 계약매출 전환과 조달를 분기별로 확인합니다.",
+    "반복 생산 매출과 인수기술 검증",
+    "예약 증가에도 현금매출 전환 지연"
+  ],
+  "sources": [
+    {
+      "title": "D-Wave Quantum · 공식 실적·공시",
+      "url": "https://ir.dwavequantum.com/news/news-details/2026/D-Wave-Reports-Second-Quarter-2026-Results/default.aspx",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "D-Wave Quantum · 공식 기업·투자자 자료",
+      "url": "https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-13",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 상용 어닐링 운영 경험과 고객 문제를 해결하는 소프트웨어 역량이 있습니다. 투자판단의 핵심은 반복 생산 매출과 인수기술 검증입니다. 대형 시스템 판매 한 건이 매출 비교를 왜곡합니다.",
+    "businessDrivers": [
+      {
+        "title": "매출을 만드는 변수",
+        "detail": "시스템 판매와 QCaaS·전문 서비스의 성장 경로를 나눕니다. 양자 어닐링 시스템·클라우드 서비스에 더해 Quantum Circuits 인수로 게이트 모델 개발을 병행합니다. 최적화 문제의 상업적 효용과 범용 기술 개발은 따로 평가합니다."
+      },
+      {
+        "title": "확인할 운영지표",
+        "detail": "상용문제 성과, 계약매출 전환과 조달. 신규 계약·매출 인식·현금 회수는 서로 다른 단계입니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "수요와 경기",
+        "detail": "정부·연구기관 예산과 기업 실험 지출이 수요를 결정합니다."
+      },
+      {
+        "title": "비용·금리·정책 전달",
+        "detail": "기술 테마 자금 흐름이 작은 현재 매출보다 주가를 더 크게 움직일 수 있습니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "경제적 해자 가설",
+        "detail": "상용 어닐링 운영 경험과 고객 문제를 해결하는 소프트웨어 역량이 있습니다."
+      },
+      {
+        "title": "해자를 유지하는 조건",
+        "detail": "이중 플랫폼은 기회를 넓히지만 아직 경제적 해자의 크기는 실증이 필요합니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "공식 실적에서 확인한 흐름",
+        "detail": "2026년 2분기 매출은 310만 달러로 전년과 비슷했습니다. 상반기 매출 감소는 전년 시스템 판매의 기저효과를 포함합니다."
+      },
+      {
+        "title": "재무 건전성·이익의 질",
+        "detail": "예약 3,550만 달러는 상반기 지표이며 당기 매출이 아닙니다. 인수 현금유출과 RPO 인식일정을 확인합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "EV/매출은 참고 지표, 현금·상용화 성과를 병행",
+        "peers": [
+          "IONQ",
+          "RGTI",
+          "QUBT"
+        ],
+        "rationale": "사업모델에 근거한 비교군이며 동일한 회계기간·성장률·현금마진으로 맞춰야 합니다. 초기 기업의 단순 매출배수는 기술 성공확률을 반영하지 못합니다.",
+        "watch": "현재 시세·완전희석 주식수·순차입을 확인한 뒤 실제 배수를 산출합니다. 검증되지 않은 목표가나 저평가 결론은 제시하지 않습니다."
+      },
+      "absolute": {
+        "method": "성공확률을 구분한 단계별 현금흐름·잔여현금 시나리오",
+        "drivers": [
+          "QCaaS 생산 이용",
+          "시스템 수주 인식",
+          "인수후 연구비·희석"
+        ],
+        "watch": "성장 둔화·마진 압박·할인율 상승의 하방 시나리오를 비교합니다. 영구성장률은 장기 시장성장보다 보수적으로 두고 추가 증자와 실패 시 잔여현금을 반영합니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "정책·규제의 투자 영향",
+        "detail": "첨단 기술의 수출허가·고객 최종사용자·정부 연구계약 조건을 확인합니다. 지원 발표액을 매출이나 무조건적인 현금으로 넣지 않습니다.",
+        "sourceUrl": "https://ir.dwavequantum.com/news/news-details/2026/D-Wave-Reports-Second-Quarter-2026-Results/default.aspx"
+      }
+    ],
+    "catalysts": [
+      "반복 생산 매출과 인수기술 검증 여부를 다음 공식 실적에서 확인합니다.",
+      "상용문제 성과, 계약매출 전환과 조달의 개선이 현금창출로 연결되는지 확인합니다."
+    ],
+    "falsifiers": [
+      "예약 증가에도 현금매출 전환 지연 시 핵심 가정을 다시 검토합니다.",
+      "게이트 모델 인수 후 연구비와 현금소모가 늘어날 수 있습니다."
+    ],
+    "sources": [
+      {
+        "title": "D-Wave Quantum · 공식 실적·공시",
+        "url": "https://ir.dwavequantum.com/news/news-details/2026/D-Wave-Reports-Second-Quarter-2026-Results/default.aspx",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "D-Wave Quantum · 공식 기업·투자자 자료",
+        "url": "https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-13",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

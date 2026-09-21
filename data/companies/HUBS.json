@@ -1,0 +1,183 @@
+{
+  "ticker": "HUBS",
+  "oneLiner": "중소기업 CRM·마케팅·판매 플랫폼를 제공하는 HubSpot.",
+  "businessModel": "중소·중견기업에 마케팅·CRM·판매·고객서비스 도구를 제공합니다. 무료 고객을 유료 허브와 상위 요금제로 확장하고 AI 기능의 과금 방식을 실험합니다.",
+  "revenueStreams": [
+    {
+      "name": "CRM·마케팅 구독",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 중소·중견기업에 마케팅·CRM·판매·고객서비스 도구를 제공합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2026-results"
+    },
+    {
+      "name": "서비스·기타",
+      "description": "사업을 이해하기 위한 수익원 구분입니다. 중소·중견기업에 마케팅·CRM·판매·고객서비스 도구를 제공합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2026-results"
+    }
+  ],
+  "history": [
+    {
+      "year": 2026,
+      "event": "공식 투자자 자료에서 현재 사업 구성과 전략을 공개."
+    },
+    {
+      "year": 2026,
+      "event": "2026년 2분기 매출 20% 성장과 GAAP 영업흑자가 확인됩니다. 고객 수는 14%, 고객당 평균 구독매출은 4% 증가했습니다."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "고객 가치와 전환 비용",
+      "detail": "통합 고객데이터와 다양한 허브, 파트너 생태계가 교차판매에 유리합니다."
+    },
+    {
+      "title": "확장 기반",
+      "detail": "사용자가 늘며 업무기록이 쌓여 단일 도구보다 교체가 어려워집니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "사업 위험",
+      "detail": "중소기업 폐업·마케팅 축소가 이탈과 신규계약에 반영됩니다."
+    },
+    {
+      "title": "실행·재무 위험",
+      "detail": "AI 가격체계 변경이 이용량을 늘려도 고객당 수익을 희석할 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "CRM",
+      "ticker": "CRM",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "ServiceNow",
+      "ticker": "NOW",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    },
+    {
+      "name": "Workday",
+      "ticker": "WDAY",
+      "comparison": "비교 기업입니다. 제품·고객·성장률·마진 차이를 조정해 비교해야 합니다."
+    }
+  ],
+  "macroLink": "중소기업 경기·채용·광고예산이 직접 변수이며 환율도 보고 성장에 영향을 줍니다. AI 도입 수요가 가격 할인보다 큰 증분 총이익을 만들어야 합니다.",
+  "monitoring": [
+    "고객당 매출, AI 가격체계, 중소기업 이탈를 분기별로 확인합니다.",
+    "복수 허브와 AI 유료화",
+    "고객 증가에도 고객당 수익 악화"
+  ],
+  "sources": [
+    {
+      "title": "HubSpot · 공식 실적·공시",
+      "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2026-results",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "HubSpot · 공식 기업·투자자 자료",
+      "url": "https://ir.hubspot.com/",
+      "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 통합 고객데이터와 다양한 허브, 파트너 생태계가 교차판매에 유리합니다. 투자판단의 핵심은 복수 허브와 AI 유료화입니다. 중소기업 폐업·마케팅 축소가 이탈과 신규계약에 반영됩니다.",
+    "businessDrivers": [
+      {
+        "title": "매출을 만드는 변수",
+        "detail": "CRM·마케팅 구독와 서비스·기타의 성장 경로를 나눕니다. 중소·중견기업에 마케팅·CRM·판매·고객서비스 도구를 제공합니다. 무료 고객을 유료 허브와 상위 요금제로 확장하고 AI 기능의 과금 방식을 실험합니다."
+      },
+      {
+        "title": "확인할 운영지표",
+        "detail": "고객당 매출, AI 가격체계, 중소기업 이탈. 신규 계약·매출 인식·현금 회수는 서로 다른 단계입니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "수요와 경기",
+        "detail": "중소기업 경기·채용·광고예산이 직접 변수이며 환율도 보고 성장에 영향을 줍니다."
+      },
+      {
+        "title": "비용·금리·정책 전달",
+        "detail": "AI 도입 수요가 가격 할인보다 큰 증분 총이익을 만들어야 합니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "경제적 해자 가설",
+        "detail": "통합 고객데이터와 다양한 허브, 파트너 생태계가 교차판매에 유리합니다."
+      },
+      {
+        "title": "해자를 유지하는 조건",
+        "detail": "사용자가 늘며 업무기록이 쌓여 단일 도구보다 교체가 어려워집니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "공식 실적에서 확인한 흐름",
+        "detail": "2026년 2분기 매출 20% 성장과 GAAP 영업흑자가 확인됩니다. 고객 수는 14%, 고객당 평균 구독매출은 4% 증가했습니다."
+      },
+      {
+        "title": "재무 건전성·이익의 질",
+        "detail": "현금흐름 성장과 대규모 자사주매입을 함께 평가하고 수금·주식보상 효과를 분리합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "성장률·현금마진을 맞춘 EV/매출 및 EV/FCF",
+        "peers": [
+          "CRM",
+          "NOW",
+          "WDAY"
+        ],
+        "rationale": "사업모델에 근거한 비교군이며 동일한 회계기간·성장률·현금마진으로 맞춰야 합니다. 동일 산업이라는 이유만으로 같은 배수가 정당화되지는 않습니다.",
+        "watch": "현재 시세·완전희석 주식수·순차입을 확인한 뒤 실제 배수를 산출합니다. 검증되지 않은 목표가나 저평가 결론은 제시하지 않습니다."
+      },
+      "absolute": {
+        "method": "사업별 성장·마진·재투자를 연결한 2단계 FCFF DCF",
+        "drivers": [
+          "고객 수·이탈",
+          "고객당 구독·AI 과금",
+          "판매비·현금마진"
+        ],
+        "watch": "성장 둔화·마진 압박·할인율 상승의 하방 시나리오를 비교합니다. 영구성장률은 장기 시장성장보다 보수적으로 두고 현금·부채·리스·희석을 주당가치에 반영합니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "정책·규제의 투자 영향",
+        "detail": "개인정보·데이터 국외이전·AI 사용 통제와 공공기관 보안·조달 요건이 고객 도입과 서비스 비용을 바꿀 수 있습니다. 회사별 계약·위험요인으로 적용 범위를 확인합니다.",
+        "sourceUrl": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2026-results"
+      }
+    ],
+    "catalysts": [
+      "복수 허브와 AI 유료화 여부를 다음 공식 실적에서 확인합니다.",
+      "고객당 매출, AI 가격체계, 중소기업 이탈의 개선이 현금창출로 연결되는지 확인합니다."
+    ],
+    "falsifiers": [
+      "고객 증가에도 고객당 수익 악화 시 핵심 가정을 다시 검토합니다.",
+      "AI 가격체계 변경이 이용량을 늘려도 고객당 수익을 희석할 수 있습니다."
+    ],
+    "sources": [
+      {
+        "title": "HubSpot · 공식 실적·공시",
+        "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2026-results",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "HubSpot · 공식 기업·투자자 자료",
+        "url": "https://ir.hubspot.com/",
+        "note": "공식 자료에서 확인한 사업·실적과 분석자의 해석을 구분해 작성. 링크의 회계기간을 확인하세요.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

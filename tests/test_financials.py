@@ -51,6 +51,12 @@ class ExtractionTests(unittest.TestCase):
         f=companyfacts(RevenuesNetOfInterestExpense={"USD":[fact(180)]},RevenueFromContractWithCustomerExcludingAssessedTax={"USD":[fact(30)]})
         self.assertEqual(self.run_extract(f,sector="financials")["annual"][-1]["metrics"]["revenue"]["value"],180)
 
+    def test_common_owner_income_precedes_total_group_profit(self):
+        f=companyfacts(NetIncomeLossAvailableToCommonStockholdersBasic={"USD":[fact(40)]},NetIncomeLoss={"USD":[fact(50)]},ProfitLoss={"USD":[fact(100)]})
+        m=self.run_extract(f)["annual"][-1]["metrics"]["netIncome"]
+        self.assertEqual(m["value"],40)
+        self.assertEqual(m["tag"],"NetIncomeLossAvailableToCommonStockholdersBasic")
+
     def test_missing_values_stay_missing_and_source_period_is_explicit(self):
         f=companyfacts(NetIncomeLoss={"USD":[fact(10)]})
         r=self.run_extract(f)
@@ -66,6 +72,21 @@ class ExtractionTests(unittest.TestCase):
         r=self.run_extract(f,sub)
         self.assertEqual(r["latestAnnualReportEnd"],"2025-12-31")
         self.assertTrue(any("2024-12-31" in x for x in r["coverageNotes"]))
+
+    def test_shares_and_debt_keep_their_units_and_balance_dates(self):
+        f=companyfacts(Revenues={"USD":[fact(100)]},WeightedAverageNumberOfDilutedSharesOutstanding={"shares":[fact(10)]},LongTermDebtNoncurrent={"USD":[fact(60,start=None)]},LongTermDebtCurrent={"USD":[fact(5,start=None)]})
+        m=self.run_extract(f)["annual"][-1]["metrics"]
+        self.assertEqual(m["dilutedShares"]["unit"],"shares")
+        self.assertEqual(m["dilutedShares"]["value"],10)
+        self.assertEqual(m["longTermDebt"]["value"],60)
+        self.assertEqual(m["currentDebt"]["value"],5)
+        self.assertIsNone(m["longTermDebt"]["start"])
+
+    def test_interim_stock_compensation_is_explicitly_ytd(self):
+        f=companyfacts(Revenues={"USD":[fact(100),fact(30,start="2026-04-01",end="2026-06-30",filed="2026-08-01",form="10-Q")]},ShareBasedCompensation={"USD":[fact(12),fact(8,start="2026-01-01",end="2026-06-30",filed="2026-08-01",form="10-Q")]})
+        m=self.run_extract(f)["latestQuarter"]["metrics"]["stockCompensation"]
+        self.assertEqual(m["value"],8)
+        self.assertTrue(m["cumulative"])
 
 
 if __name__=="__main__":unittest.main()

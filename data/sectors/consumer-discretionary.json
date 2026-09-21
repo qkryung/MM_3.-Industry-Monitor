@@ -223,6 +223,15 @@
           "watch": "기존점 거래·전문 고객·온라인·보수 수요",
           "ir": "https://corporate.lowes.com/investors",
           "kind": "보통주"
+        },
+        {
+          "ticker": "DASH",
+          "name": "DoorDash",
+          "exchange": "NASDAQ",
+          "business": "음식점·소매점의 주문과 배달을 중개하며 가맹점 도구·광고·멤버십을 제공합니다.",
+          "watch": "주문수·총주문금액·기여이익·주식보상",
+          "ir": "https://ir.doordash.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -366,6 +375,33 @@
           "watch": "RevPAR·객실 순증·개발 파이프라인·수수료",
           "ir": "https://ir.hilton.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "ABNB",
+          "name": "Airbnb",
+          "exchange": "NASDAQ",
+          "business": "숙소 호스트와 여행객을 연결하고 예약에 따른 서비스 수수료를 받습니다.",
+          "watch": "예약 숙박일수·평균 일일요금·마케팅 효율",
+          "ir": "https://investors.airbnb.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "EXPE",
+          "name": "Expedia Group",
+          "exchange": "NASDAQ",
+          "business": "Expedia·Hotels.com·Vrbo와 기업 대상 예약 인프라에서 여행 거래를 중개합니다.",
+          "watch": "예약액·숙박일수·B2B 성장·판매비율",
+          "ir": "https://ir.expediagroup.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NCLH",
+          "name": "Norwegian Cruise Line Holdings",
+          "exchange": "NYSE",
+          "business": "Norwegian·Oceania·Regent 브랜드로 크루즈 여행과 선내 서비스를 판매합니다.",
+          "watch": "순수익률·승객일수·순부채·선박 투자",
+          "ir": "https://www.nclhltd.com/investors",
+          "kind": "보통주"
         }
       ]
     },
@@ -433,6 +469,24 @@
           "watch": "거래 건수·신규 출점·매장 마진",
           "ir": "https://ir.chipotle.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "YUM",
+          "name": "Yum! Brands",
+          "exchange": "NYSE",
+          "business": "KFC·Taco Bell·Habit의 가맹·직영망에서 수익을 얻습니다. Pizza Hut는 2026년 매각해 계속사업과 분리합니다.",
+          "watch": "계속사업 동일점포 매출·순신규 점포·매각대금 배분",
+          "ir": "https://investors.yum.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "BROS",
+          "name": "Dutch Bros",
+          "exchange": "NYSE",
+          "business": "드라이브스루 중심 음료 매장을 직접 운영하고 가맹 로열티를 받습니다.",
+          "watch": "동일점포 거래건수·신규점 수익률·점포 투자비",
+          "ir": "https://investors.dutchbros.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -499,6 +553,15 @@
           "business": "HOKA·UGG 등 신발 브랜드",
           "watch": "브랜드별 성장·직판·도매·재고",
           "ir": "https://ir.deckers.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ONON",
+          "name": "On Holding",
+          "exchange": "NYSE",
+          "business": "프리미엄 러닝화와 의류를 도매·직접 판매 채널로 판매합니다.",
+          "watch": "직접판매 비중·총이익률·재고 증가율",
+          "ir": "https://investors.on-running.com/",
           "kind": "보통주"
         }
       ]

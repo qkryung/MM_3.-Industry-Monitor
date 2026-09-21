@@ -154,6 +154,24 @@
           "watch": "최종 수요와 순환 소재 투자 수익",
           "ir": "https://investors.eastman.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "CF",
+          "name": "CF Industries",
+          "exchange": "NYSE",
+          "business": "천연가스를 원료로 암모니아·질소 비료를 생산합니다.",
+          "watch": "질소가격-가스비 스프레드·가동률·투자",
+          "ir": "https://investor.cfindustries.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MOS",
+          "name": "Mosaic",
+          "exchange": "NYSE",
+          "business": "인산·칼륨 비료를 채굴·제조하고 농업 시장에 유통합니다.",
+          "watch": "제품별 판매량·비료가격·현금원가·부채",
+          "ir": "https://investors.mosaicco.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -229,6 +247,51 @@
           "watch": "철강 스프레드·가동률·알루미늄 투자",
           "ir": "https://ir.steeldynamics.com/",
           "exchange": "NASDAQ",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "BHP",
+          "name": "BHP Group",
+          "exchange": "NYSE",
+          "business": "철광석·구리 등 광물을 대규모 광산에서 생산해 세계 산업 고객에게 공급합니다.",
+          "watch": "원가곡선·구리 생산·철광석 가격·투자",
+          "ir": "https://www.bhp.com/investors",
+          "kind": "ADR"
+        },
+        {
+          "ticker": "RIO",
+          "name": "Rio Tinto",
+          "exchange": "NYSE",
+          "business": "철광석·알루미늄·구리 등 광물을 채굴·제련합니다.",
+          "watch": "광종별 원가·생산량·개발투자·순부채",
+          "ir": "https://www.riotinto.com/en/invest",
+          "kind": "ADR"
+        },
+        {
+          "ticker": "SCCO",
+          "name": "Southern Copper",
+          "exchange": "NYSE",
+          "business": "페루·멕시코에서 구리와 부산물 광물을 채굴·제련합니다.",
+          "watch": "구리 생산·부산물 차감원가·프로젝트 허가",
+          "ir": "https://southerncoppercorp.com/eng/company-presentations/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AA",
+          "name": "Alcoa",
+          "exchange": "NYSE",
+          "business": "보크사이트·알루미나·알루미늄을 생산합니다.",
+          "watch": "South32 자산 인수·조달·금속-원가 스프레드",
+          "ir": "https://investors.alcoa.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CLF",
+          "name": "Cleveland-Cliffs",
+          "exchange": "NYSE",
+          "business": "철광석 원료부터 자동차·산업용 철강까지 공급합니다.",
+          "watch": "열연 가격·자동차 출하·톤당 이익·부채",
+          "ir": "https://www.clevelandcliffs.com/investors",
           "kind": "보통주"
         }
       ]

@@ -1,0 +1,260 @@
+{
+  "ticker": "SPCX",
+  "oneLiner": "발사체·Starlink·AI 인프라를 중심으로 수익을 만드는 SpaceX.",
+  "businessModel": "SpaceX는 2026년 공시에서 Space·Connectivity·AI를 함께 보고하는 상장기업입니다. 발사·개발계약, Starlink 소비자·기업·정부 연결 서비스, AI 솔루션·컴퓨팅 및 광고가 다른 경제성을 가집니다. 2026년 6월 12일부터 거래된 SPCX는 과거 같은 티커를 쓴 다른 증권의 이력과 분리해야 합니다.",
+  "revenueStreams": [
+    {
+      "name": "Space",
+      "description": "고객 발사·정부 개발계약. Starlink 위성의 내부 발사를 외부 매출로 중복 계산하지 않습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm"
+    },
+    {
+      "name": "Connectivity",
+      "description": "Starlink 구독·기업·정부 통신과 Starshield. 가입자·ARPU·설비 교체주기가 가치의 핵심입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm"
+    },
+    {
+      "name": "AI",
+      "description": "AI 솔루션·인프라·구독 및 광고. 대규모 컴퓨팅 투자와 모델개발비가 동반됩니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm"
+    }
+  ],
+  "history": [
+    {
+      "year": 2002,
+      "event": "SpaceX 설립."
+    },
+    {
+      "year": 2026,
+      "event": "6월 12일 Class A가 Nasdaq 및 Nasdaq Texas에서 SPCX로 거래 개시; 8월 Q2 실적 공시."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "발사·위성 수직계열화",
+      "detail": "설계·제조·발사·운영을 연결해 외부 발사 공급과 비용에 대한 의존을 줄입니다."
+    },
+    {
+      "title": "운영 규모·학습",
+      "detail": "반복 발사와 위성 운용 경험, 기업·정부 통합은 새 사업자가 단기간에 복제하기 어렵습니다."
+    },
+    {
+      "title": "별도 검증이 필요한 AI",
+      "detail": "우주 경쟁력이 AI 모델·기업 소프트웨어 해자를 자동으로 보장하지 않습니다. 기술·고객 계약·수익성을 별도로 입증해야 합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "막대한 재투자",
+      "detail": "AI·Starship·위성 투자가 연결 서비스의 현금창출을 초과할 수 있습니다."
+    },
+    {
+      "title": "인수·지배구조",
+      "detail": "대형 인수와 관련자 거래·다중 주식종류는 경제적 권리와 의결권·희석을 복잡하게 만듭니다."
+    },
+    {
+      "title": "기술·허가·안전",
+      "detail": "발사 실패·지연·스펙트럼·환경 허가와 궤도 충돌 위험이 자산 가동률을 낮출 수 있습니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Rocket Lab",
+      "ticker": "RKLB",
+      "comparison": "우주 발사·시스템의 일부 비교군이며 규모·내부 발사·통신이 다릅니다."
+    },
+    {
+      "name": "Iridium",
+      "ticker": "IRDM",
+      "comparison": "위성 연결 서비스 참고군이나 궤도·고객·성장률이 다릅니다."
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "comparison": "AI·클라우드 비교군으로 활용하되 검색 광고와 자본구조 차이를 조정합니다."
+    }
+  ],
+  "macroLink": "정부 우주·국방 예산, 농촌·항공·해상 연결 수요가 기회입니다. 지정학은 계약을 늘릴 수 있지만 국가별 허가·운영 제한도 만들 수 있습니다. 발사체·위성·GPU 시설은 현금이 먼저 나가고 회수가 늦습니다. 금리와 전력·건설 비용이 장기 수익률 및 조달여력에 크게 작용합니다. 고객의 AI 투자 확대가 컴퓨팅 계약을 늘려도 공급과잉·모델 경쟁·칩 노후화가 장기 마진을 낮출 수 있습니다.",
+  "monitoring": [
+    "Starship 재사용 성과와 발사·정비비 검증",
+    "Starlink 가입자와 ARPU·투자후 현금의 동반 개선",
+    "AI 계약의 가동률·수금·GPU 투자수익 검증",
+    "인수 완료조건과 자본구조 공개",
+    "연결서비스 이익 증가보다 AI·우주 현금유출이 구조적으로 빠름",
+    "위성·발사 일정 지연으로 수요 대응과 자산회수 악화",
+    "인수·증자 후 기존 주주의 주당현금가치 감소"
+  ],
+  "sources": [
+    {
+      "title": "SpaceX Q2 2026 SEC 실적공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm",
+      "note": "부문, 손익·capex·자본구조와 거래조건. 회사 기술목표는 전망으로 구분.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Nasdaq SPCX 상장 공지",
+      "url": "https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-8",
+      "note": "신규 상장일과 티커 재사용 주의.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "SpaceX IPO 가격발표",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX_PricingAnnouncement.pdf",
+      "note": "공모가격은 2026년 6월의 발행가격이며 현재 주가가 아님.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "FAA Starship 환경평가",
+      "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-I.pdf",
+      "note": "환경·운영 허가 관련 근거.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: 발사체와 위성통신의 수직계열화가 원가·배포속도에서 강점을 만들지만 주식은 이제 대규모 AI 투자와 인수까지 포함합니다. 연결 서비스 이익 증가만 보고 우량 현금창출 기업으로 평가하면 위험합니다. 사업별 자본투자 후 수익률과 인수·차입·희석을 반영한 주당가치가 핵심입니다.",
+    "businessDrivers": [
+      {
+        "title": "발사·개발",
+        "detail": "고객 발사 수·탑재량·계약 단가와 개발비를 구분합니다. Starship 기술 목표는 회사의 장기 주장으로 두고 성공·재사용·정비비를 순차 검증합니다."
+      },
+      {
+        "title": "Starlink",
+        "detail": "가입자×ARPU에 기업·정부 계약을 더하고 사용자 단말·통신 운영·위성 교체·발사비를 차감합니다. 가입자 확대가 ARPU 하락을 상쇄하는지 중요합니다."
+      },
+      {
+        "title": "AI·계약매출",
+        "detail": "계약총액은 향후 매출과 다르며 이미 인식된 매출을 포함할 수 있습니다. 컴퓨팅 가동률·계약가격·고객 신용·GPU 감가상각과 전력을 함께 모델링합니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "국방·통신 수요",
+        "detail": "정부 우주·국방 예산, 농촌·항공·해상 연결 수요가 기회입니다. 지정학은 계약을 늘릴 수 있지만 국가별 허가·운영 제한도 만들 수 있습니다."
+      },
+      {
+        "title": "금리·자본집약도",
+        "detail": "발사체·위성·GPU 시설은 현금이 먼저 나가고 회수가 늦습니다. 금리와 전력·건설 비용이 장기 수익률 및 조달여력에 크게 작용합니다."
+      },
+      {
+        "title": "AI 투자순환",
+        "detail": "고객의 AI 투자 확대가 컴퓨팅 계약을 늘려도 공급과잉·모델 경쟁·칩 노후화가 장기 마진을 낮출 수 있습니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "발사·위성 수직계열화",
+        "detail": "설계·제조·발사·운영을 연결해 외부 발사 공급과 비용에 대한 의존을 줄입니다."
+      },
+      {
+        "title": "운영 규모·학습",
+        "detail": "반복 발사와 위성 운용 경험, 기업·정부 통합은 새 사업자가 단기간에 복제하기 어렵습니다."
+      },
+      {
+        "title": "별도 검증이 필요한 AI",
+        "detail": "우주 경쟁력이 AI 모델·기업 소프트웨어 해자를 자동으로 보장하지 않습니다. 기술·고객 계약·수익성을 별도로 입증해야 합니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "사업별 수익",
+        "detail": "Q2 2026 총매출은 78.14억 달러, GAAP 순손실은 5.41억 달러였습니다. 연결 서비스의 이익을 Space·AI 연구개발 및 손실과 합쳐 봐야 합니다."
+      },
+      {
+        "title": "EBITDA와 현금의 차이",
+        "detail": "같은 분기의 총 capex는 183.69억 달러였고 대부분이 AI에 투입됐습니다. 조정 EBITDA 흑자를 FCF 흑자로 읽을 수 없습니다."
+      },
+      {
+        "title": "자본조달과 주식수",
+        "detail": "IPO와 채권발행 이후 현금잔고가 늘었지만 이는 영업으로만 축적한 현금이 아닙니다. Class A·B, 인수대가·옵션과 부채·리스·관련자채무를 EV에 포함합니다."
+      },
+      {
+        "title": "미완료 거래",
+        "detail": "Q2 자료의 Cursor 인수는 합의·예정 단계입니다. 평가기준일까지의 완료 여부·가격배분·조달구조를 추가 확인하기 전 기존 현금에서 임의 확정 차감하지 않습니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "부문별 SOTP: 연결서비스 EV/EBITDA·FCF, 발사·AI 별도 비교",
+        "peers": [
+          "RKLB",
+          "IRDM",
+          "GOOGL"
+        ],
+        "rationale": "동일한 통합사업 비교기업이 없습니다. 우주·통신·AI에 각자 다른 배수와 자본비용을 적용하고 내부 거래·공동설비를 중복 계산하지 않습니다.",
+        "watch": "실제 비교에는 같은 기준일 시세·완전희석 주식수·순차입과 동일 회계기간이 필요합니다. 미래 컨센서스와 목표가는 검증 없이 가정하지 않습니다."
+      },
+      "absolute": {
+        "method": "부문별 FCFF DCF와 자금조달 후 SOTP",
+        "drivers": [
+          "고객발사 수·단가·Starship 상용화 확률",
+          "Starlink 가입자·ARPU·위성교체 capex",
+          "AI 가동률·계약단가·GPU 재투자",
+          "인수·관련자채무·모든 주식종류의 완전희석"
+        ],
+        "watch": "양호한 연결서비스 가치와 개발중 사업의 옵션가치를 구분합니다. 보수 시나리오에서 AI 투자의 회수지연·추가 조달·희석을 먼저 반영하며, 자금조달 후 자본수익률이 확인되기 전 목표가를 확정하지 않습니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "발사·환경 인허가",
+        "detail": "FAA 환경평가와 개별 발사·재진입 라이선스는 서로 다릅니다. 환경문서 완료를 무제한 발사 허가로 해석하지 않습니다. 일정 변경은 위성배치와 매출에도 영향을 줍니다.",
+        "sourceUrl": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-I.pdf"
+      },
+      {
+        "title": "통신·정부 계약",
+        "detail": "Q2 자료는 FCC 주파수 관련 승인과 Starshield 계약을 설명합니다. 계약총액은 취소조건·집행·인식시점과 분리하고 국가별 서비스허가·수출통제도 확인해야 합니다.",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm"
+      },
+      {
+        "title": "증권 정체성",
+        "detail": "Nasdaq은 SPCX 티커가 과거 다른 증권에 사용됐으므로 과거 가격 이력을 연결하지 말라고 명시했습니다.",
+        "sourceUrl": "https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-8"
+      }
+    ],
+    "catalysts": [
+      "Starship 재사용 성과와 발사·정비비 검증",
+      "Starlink 가입자와 ARPU·투자후 현금의 동반 개선",
+      "AI 계약의 가동률·수금·GPU 투자수익 검증",
+      "인수 완료조건과 자본구조 공개"
+    ],
+    "falsifiers": [
+      "연결서비스 이익 증가보다 AI·우주 현금유출이 구조적으로 빠름",
+      "위성·발사 일정 지연으로 수요 대응과 자산회수 악화",
+      "인수·증자 후 기존 주주의 주당현금가치 감소"
+    ],
+    "sources": [
+      {
+        "title": "SpaceX Q2 2026 SEC 실적공시",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm",
+        "note": "부문, 손익·capex·자본구조와 거래조건. 회사 기술목표는 전망으로 구분.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Nasdaq SPCX 상장 공지",
+        "url": "https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-8",
+        "note": "신규 상장일과 티커 재사용 주의.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "SpaceX IPO 가격발표",
+        "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX_PricingAnnouncement.pdf",
+        "note": "공모가격은 2026년 6월의 발행가격이며 현재 주가가 아님.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "FAA Starship 환경평가",
+        "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-I.pdf",
+        "note": "환경·운영 허가 관련 근거.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

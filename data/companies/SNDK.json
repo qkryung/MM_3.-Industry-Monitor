@@ -1,0 +1,248 @@
+{
+  "ticker": "SNDK",
+  "oneLiner": "NAND 플래시·SSD 저장장치를 중심으로 수익을 만드는 Sandisk.",
+  "businessModel": "NAND 플래시를 기반으로 데이터센터·PC·모바일·소비자 저장장치를 판매합니다. Kioxia와의 제조·기술 관계가 중요하며 컨트롤러·펌웨어·고객 인증이 단순 비트 생산을 고부가 SSD 판매로 전환합니다. 2025년 Western Digital에서 분리된 뒤의 SNDK와 과거 상장사의 시계열을 무조건 연결하면 안 됩니다.",
+  "revenueStreams": [
+    {
+      "name": "데이터센터",
+      "description": "기업 SSD와 고용량·고성능 NAND 솔루션. 클라우드 인증·출하량·가격·제품 믹스가 성장 동인입니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results"
+    },
+    {
+      "name": "엣지·클라이언트",
+      "description": "PC·모바일·연결기기용 저장장치. OEM 재고·기기 출하와 탑재용량의 영향을 받습니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results"
+    },
+    {
+      "name": "소비자",
+      "description": "메모리카드·외장 SSD·USB 등 브랜드 제품. 판매 채널·재고와 소매 수요가 중요합니다.",
+      "share": null,
+      "period": null,
+      "sourceUrl": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results"
+    }
+  ],
+  "history": [
+    {
+      "year": 2025,
+      "event": "2월 분리 완료 후 2월 24일 SNDK로 Nasdaq 거래 개시."
+    },
+    {
+      "year": 2026,
+      "event": "8월 13일 Investor Day에서 성장전략과 장기 재무모델 발표."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "기술·제조 규모",
+      "detail": "NAND 공정과 IP, Kioxia와의 제조 협력은 신규 진입에 큰 자본·기술 장벽을 형성합니다."
+    },
+    {
+      "title": "SSD 시스템·인증",
+      "detail": "기업 SSD의 펌웨어·내구성·신뢰성·고객 인증이 가격 이상의 차별점입니다."
+    },
+    {
+      "title": "브랜드의 역할과 한계",
+      "detail": "소비자 브랜드와 유통은 유리하지만 메모리 공급과잉 시 가격 하락을 완전히 방어하지 못합니다."
+    }
+  ],
+  "weaknesses": [
+    {
+      "title": "가격 정상화",
+      "detail": "현물·계약가격 하락은 매출과 재고 평가·공장 가동률을 동시에 악화시킵니다."
+    },
+    {
+      "title": "합작·투자 부담",
+      "detail": "공장투자가 연결 현금흐름의 유형자산 취득 외에 합작기업 출자·선급금으로 나타날 수 있습니다."
+    },
+    {
+      "title": "기술·인증 실패",
+      "detail": "신제품 수율·고객 인증 지연은 고부가 믹스 전환과 현금 회수를 늦춥니다."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Micron",
+      "ticker": "MU",
+      "comparison": "NAND와 기업 SSD에서 비교 가능하지만 DRAM·HBM이 섞여 있습니다."
+    },
+    {
+      "name": "Kioxia",
+      "ticker": "285A.T",
+      "comparison": "NAND 중심 비교군이자 제조 파트너로 통화·합작 회계를 맞춰야 합니다."
+    },
+    {
+      "name": "SK hynix",
+      "ticker": "000660.KS",
+      "comparison": "NAND·SSD와 메모리 기술 비교군이나 HBM 비중이 다릅니다."
+    }
+  ],
+  "macroLink": "PC·스마트폰 재고와 데이터센터 수요가 다른 방향으로 움직일 수 있습니다. 업계 웨이퍼 투자와 공정 전환의 비트 공급 증가를 함께 봅니다. AI 학습·추론은 저장 수요를 늘리지만 HBM 수혜를 NAND에 그대로 적용하면 안 됩니다. 빠른 SSD와 저비용 HDD는 사용처·경제성이 다릅니다. 일본 제조 관계와 글로벌 달러 판매로 환율·전력·장비비 변화가 비용에 전달됩니다. 관세가 최종기기 수요를 낮추는 간접 영향도 있습니다.",
+  "monitoring": [
+    "기업 SSD 고객 인증이 실제 매출·총이익으로 전환",
+    "QLC·신공정의 비트당 원가와 수율 개선",
+    "업계 공급규율과 재고 정상 수준 유지",
+    "NAND 가격 하락이 원가 절감보다 빠르게 진행",
+    "재고·매출채권 증가가 매출 성장을 지속 상회",
+    "합작 투자 확대에도 현금수익률·기업 SSD 점유율 개선 실패"
+  ],
+  "sources": [
+    {
+      "title": "Sandisk FY2026 Q4 실적",
+      "url": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results",
+      "note": "가격·물량 설명, 재무제표와 조정손익.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Sandisk FY2025 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm",
+      "note": "분리일·신규 상장·NAND 사업 구성.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Sandisk Investor Day 2026",
+      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-details-growth-strategy-and-long-term-financial-model",
+      "note": "장기 재무목표는 회사 계획이며 확정 실적이 아님.",
+      "accessedOn": "2026-09-21"
+    },
+    {
+      "title": "Sandisk 공식 IR",
+      "url": "https://investor.sandisk.com/",
+      "note": "제품·파트너·최근 이벤트.",
+      "accessedOn": "2026-09-21"
+    }
+  ],
+  "reviewedOn": "2026-09-21",
+  "investmentResearch": {
+    "asOf": "2026-09-21",
+    "thesis": "분석 관점: AI 저장 수요가 NAND 수급을 개선하고 기업 SSD 믹스를 높이는 기회가 있습니다. 그러나 FY2026 4분기의 급격한 가격 상승과 높은 이익을 영구 정상치로 보면 가치가 과대평가됩니다. 핵심은 가격 정상화 이후에도 기술·고객인증·투자규율로 양호한 자본수익률을 유지하는지입니다.",
+    "businessDrivers": [
+      {
+        "title": "물량·가격 분해",
+        "detail": "매출은 비트 출하×비트당 가격에 제품 믹스를 더해 설명합니다. FY2026 4분기의 전분기 매출 증가에 대해 회사는 약 3분의 1이 물량, 3분의 2가 가격이라고 설명했습니다."
+      },
+      {
+        "title": "기업 SSD 전환",
+        "detail": "데이터센터 고객 인증은 시간이 걸리지만 성공하면 고부가 믹스가 개선될 수 있습니다. 인증 발표·양산·고객 매출·현금회수의 단계를 구별합니다."
+      },
+      {
+        "title": "기술·원가",
+        "detail": "층수 증가만으로 수익이 보장되지 않습니다. QLC 비중·수율·컨트롤러·테스트·패키징 원가가 실질 비트당 이익을 결정합니다."
+      }
+    ],
+    "macro": [
+      {
+        "title": "NAND 공급주기",
+        "detail": "PC·스마트폰 재고와 데이터센터 수요가 다른 방향으로 움직일 수 있습니다. 업계 웨이퍼 투자와 공정 전환의 비트 공급 증가를 함께 봅니다."
+      },
+      {
+        "title": "AI와 저장계층",
+        "detail": "AI 학습·추론은 저장 수요를 늘리지만 HBM 수혜를 NAND에 그대로 적용하면 안 됩니다. 빠른 SSD와 저비용 HDD는 사용처·경제성이 다릅니다."
+      },
+      {
+        "title": "환율·제조비",
+        "detail": "일본 제조 관계와 글로벌 달러 판매로 환율·전력·장비비 변화가 비용에 전달됩니다. 관세가 최종기기 수요를 낮추는 간접 영향도 있습니다."
+      }
+    ],
+    "moat": [
+      {
+        "title": "기술·제조 규모",
+        "detail": "NAND 공정과 IP, Kioxia와의 제조 협력은 신규 진입에 큰 자본·기술 장벽을 형성합니다."
+      },
+      {
+        "title": "SSD 시스템·인증",
+        "detail": "기업 SSD의 펌웨어·내구성·신뢰성·고객 인증이 가격 이상의 차별점입니다."
+      },
+      {
+        "title": "브랜드의 역할과 한계",
+        "detail": "소비자 브랜드와 유통은 유리하지만 메모리 공급과잉 시 가격 하락을 완전히 방어하지 못합니다."
+      }
+    ],
+    "financialFocus": [
+      {
+        "title": "최근 실적과 지속성",
+        "detail": "FY2026 4분기 매출은 89.7억 달러로 전분기 대비 51% 증가했습니다. 가격의 기여가 컸으므로 출하 증가만으로 해석하지 않습니다."
+      },
+      {
+        "title": "순이익 정상화",
+        "detail": "GAAP EPS 43.97달러와 비GAAP EPS 39.25달러의 차이를 투자·세금·보상 등 조정표로 연결합니다. 호황 분기 EPS를 네 배 한 수치가 정상 이익은 아닙니다."
+      },
+      {
+        "title": "재무 여력",
+        "detail": "회계연도말 현금 증가와 함께 매출채권도 크게 늘었습니다. 회수일수·고객조건·재고·장기공급계약을 확인해야 이익의 현금화를 평가할 수 있습니다."
+      },
+      {
+        "title": "분리 이후 비교",
+        "detail": "분리 전 carve-out 비용·독립회사 비용·세금·차입을 조정합니다. Kioxia 관련 합작 투자와 현금의 사용 제약을 포함한 전체 재투자액이 중요합니다."
+      }
+    ],
+    "valuation": {
+      "relative": {
+        "method": "중간주기 EV/EBIT·P/E·FCF 수익률; P/B 보조",
+        "peers": [
+          "MU",
+          "285A.T",
+          "000660.KS"
+        ],
+        "rationale": "순수 NAND 노출을 먼저 맞추고 DRAM·HBM 프리미엄이 큰 업체의 배수를 그대로 복제하지 않습니다. 호황 P/E와 불황 P/B를 정상 ROIC 및 FCF와 교차검증합니다.",
+        "watch": "실제 비교에는 같은 기준일 시세·완전희석 주식수·순차입과 동일 회계기간이 필요합니다. 미래 컨센서스와 목표가는 검증 없이 가정하지 않습니다."
+      },
+      "absolute": {
+        "method": "NAND 사이클을 정상화한 FCFF DCF",
+        "drivers": [
+          "비트 수요·가격·제품믹스",
+          "비트당 원가·수율",
+          "합작기업 포함 총 capex",
+          "장기 정상 마진·현금회수·순차입"
+        ],
+        "watch": "기준 시나리오에서 현재 가격·마진이 정상화되는 경로를 반드시 둡니다. 성장 capex를 제외한 이익만 할인하거나 합작 투자금을 누락하면 가치를 부풀립니다."
+      }
+    },
+    "policy": [
+      {
+        "title": "무역·공급망",
+        "detail": "수출통제·관세·일본 제조 관련 규정과 전략 파트너 의존이 생산·판매 위험입니다. 공급계약의 물량·가격·해지 조건을 법적 보장 수익으로 간주하지 않습니다.",
+        "sourceUrl": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results"
+      }
+    ],
+    "catalysts": [
+      "기업 SSD 고객 인증이 실제 매출·총이익으로 전환",
+      "QLC·신공정의 비트당 원가와 수율 개선",
+      "업계 공급규율과 재고 정상 수준 유지"
+    ],
+    "falsifiers": [
+      "NAND 가격 하락이 원가 절감보다 빠르게 진행",
+      "재고·매출채권 증가가 매출 성장을 지속 상회",
+      "합작 투자 확대에도 현금수익률·기업 SSD 점유율 개선 실패"
+    ],
+    "sources": [
+      {
+        "title": "Sandisk FY2026 Q4 실적",
+        "url": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results",
+        "note": "가격·물량 설명, 재무제표와 조정손익.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Sandisk FY2025 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm",
+        "note": "분리일·신규 상장·NAND 사업 구성.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Sandisk Investor Day 2026",
+        "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-details-growth-strategy-and-long-term-financial-model",
+        "note": "장기 재무목표는 회사 계획이며 확정 실적이 아님.",
+        "accessedOn": "2026-09-21"
+      },
+      {
+        "title": "Sandisk 공식 IR",
+        "url": "https://investor.sandisk.com/",
+        "note": "제품·파트너·최근 이벤트.",
+        "accessedOn": "2026-09-21"
+      }
+    ]
+  }
+}

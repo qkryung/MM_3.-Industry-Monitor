@@ -151,6 +151,33 @@
           "watch": "예금 비용, Elavon 결제, 신용비용",
           "ir": "https://ir.usbank.com/overview/default.aspx",
           "kind": "보통주"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup",
+          "exchange": "NYSE",
+          "business": "글로벌 기업금융·결제·증권 업무와 소비자 금융을 운영합니다.",
+          "watch": "유형자기자본수익률·CET1·효율성·신용비용",
+          "ir": "https://www.citigroup.com/citi/investor/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SOFI",
+          "name": "SoFi Technologies",
+          "exchange": "NASDAQ",
+          "business": "모바일 금융 서비스와 대출을 제공하고 금융기관에 기술 플랫폼을 판매합니다.",
+          "watch": "예금비용·개인대출 연체·수수료·희석",
+          "ir": "https://investors.sofi.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NU",
+          "name": "Nu Holdings",
+          "exchange": "NYSE",
+          "business": "브라질·멕시코 등에서 모바일 계좌·카드·대출·투자 서비스를 제공합니다.",
+          "watch": "활성고객·고객당 수익·위험조정 이자마진",
+          "ir": "https://www.investidores.nu/en/",
+          "kind": "보통주"
         }
       ]
     },
@@ -227,6 +254,16 @@
           "watch": "계좌 성장, 거래활동, 순이자이익",
           "ir": "https://investors.interactivebrokers.com/ir/main.php",
           "kind": "보통주"
+        },
+        {
+          "ticker": "HOOD",
+          "name": "Robinhood Markets",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.robinhood.com/",
+          "business": "개인투자자 증권·암호자산·금융 플랫폼",
+          "watch": "순입금, Gold 구독, 거래·금리 수익 구성",
+          "kind": "보통주",
+          "cik": 1783879
         }
       ]
     },
@@ -303,6 +340,33 @@
           "watch": "보험손익, 투자수익, 자산·부채 만기",
           "ir": "https://investor.metlife.com/overview/default.aspx",
           "kind": "보통주"
+        },
+        {
+          "ticker": "ALL",
+          "name": "Allstate",
+          "exchange": "NYSE",
+          "business": "자동차·주택 등 개인 손해보험을 판매하고 보험료를 운용합니다.",
+          "watch": "기초 합산비율·갱신 보험료·대재해 손실",
+          "ir": "https://www.allstateinvestors.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "TRV",
+          "name": "Travelers",
+          "exchange": "NYSE",
+          "business": "기업·개인 손해보험과 보증보험을 판매하며 보험자산을 운용합니다.",
+          "watch": "합산비율·준비금 개발·갱신요율·투자수익",
+          "ir": "https://investor.travelers.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PRU",
+          "name": "Prudential Financial",
+          "exchange": "NYSE",
+          "business": "생명보험·퇴직·연금과 PGIM 자산관리를 통해 위험보장·투자 서비스를 제공합니다.",
+          "watch": "법정자본·해약률·스프레드·운용순유입",
+          "ir": "https://investor.prudential.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -369,6 +433,15 @@
           "business": "대체투자 운용과 보험·전략적 보유사업",
           "watch": "펀드 모집·회수, FRE, 보험사업 위험",
           "ir": "https://ir.kkr.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "APO",
+          "name": "Apollo Global Management",
+          "exchange": "NYSE",
+          "business": "대체자산 운용과 Athene 보험자산의 장기 신용투자를 결합합니다.",
+          "watch": "수수료관련이익·스프레드관련이익·자본·자금유입",
+          "ir": "https://ir.apollo.com/",
           "kind": "보통주"
         }
       ]
@@ -437,6 +510,24 @@
           "watch": "브랜드 결제 성장, 거래마진, 활성 이용",
           "ir": "https://investor.paypal-corp.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "AXP",
+          "name": "American Express",
+          "exchange": "NYSE",
+          "business": "카드 발급·가맹점 결제망·대출을 연결해 가맹점 수수료·연회비·이자를 받습니다.",
+          "watch": "카드 지출·수수료·대손률·혜택비용",
+          "ir": "https://ir.americanexpress.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AFRM",
+          "name": "Affirm Holdings",
+          "exchange": "NASDAQ",
+          "business": "소비자에게 할부 결제를 제공하고 가맹점·대출 이자에서 수익을 얻습니다.",
+          "watch": "거래액·네트워크 수익·대손·조달 스프레드",
+          "ir": "https://investors.affirm.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -504,6 +595,16 @@
           "watch": "반복매출, 금융기술 성장, 인수 부채",
           "ir": "https://ir.nasdaq.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "COIN",
+          "name": "Coinbase Global",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.coinbase.com/",
+          "business": "암호자산 거래·수탁·스테이블코인 인프라",
+          "watch": "거래량과 수수료율, USDC 금리 민감도",
+          "kind": "보통주",
+          "cik": 1679788
         }
       ]
     }

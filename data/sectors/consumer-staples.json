@@ -147,6 +147,42 @@
           "watch": "판매량·가격·브랜드 투자·사업 재편",
           "ir": "https://ir.kraftheinzcompany.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "HSY",
+          "name": "Hershey",
+          "exchange": "NYSE",
+          "business": "초콜릿·제과 브랜드와 짠맛 스낵을 소매 유통망에 판매합니다.",
+          "watch": "가격 대비 판매량·코코아 헤지·총이익률",
+          "ir": "https://investors.thehersheycompany.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CAG",
+          "name": "Conagra Brands",
+          "exchange": "NYSE",
+          "business": "냉동식품·상온식품·스낵 브랜드를 소매와 외식 채널에 판매합니다.",
+          "watch": "유기적 판매량·판촉·재고·순부채",
+          "ir": "https://www.conagrabrands.com/investor-relations",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "TSN",
+          "name": "Tyson Foods",
+          "exchange": "NYSE",
+          "business": "소·돼지·닭고기를 가공하고 가공식품 브랜드를 판매합니다.",
+          "watch": "축종별 영업이익·원료육 가격·가동률",
+          "ir": "https://ir.tyson.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MKC",
+          "name": "McCormick",
+          "exchange": "NYSE",
+          "business": "가정용 향신료와 식품업체·외식업체용 향미 솔루션을 공급합니다.",
+          "watch": "Unilever Foods 거래·신주·통합부채·향미사업 성장",
+          "ir": "https://ir.mccormick.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -222,6 +258,15 @@
           "business": "Dr Pepper 등 음료와 Keurig·JDE Peet’s 커피 사업",
           "watch": "음료 판매량·커피·인수 통합·차입금·분사 계획",
           "ir": "https://investors.keurigdrpepper.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "CELH",
+          "name": "Celsius Holdings",
+          "exchange": "NASDAQ",
+          "business": "CELSIUS·Alani Nu·Rockstar 에너지 음료를 브랜드와 유통망을 통해 판매합니다.",
+          "watch": "소매 판매·유통재고·인수 통합·총이익률",
+          "ir": "https://ir.celsiusholdingsinc.com/",
           "kind": "보통주"
         }
       ]
@@ -299,6 +344,15 @@
           "watch": "중국·여행소매·브랜드 수요·재고·마진 회복",
           "ir": "https://www.elcompanies.com/en/investors",
           "kind": "보통주"
+        },
+        {
+          "ticker": "CHD",
+          "name": "Church & Dwight",
+          "exchange": "NYSE",
+          "business": "ARM & HAMMER 등 생활용품·개인용품 브랜드를 판매합니다.",
+          "watch": "유기적 판매량·브랜드 투자·인수 수익률",
+          "ir": "https://investor.churchdwight.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -365,6 +419,15 @@
           "business": "미국 식료품 유통·자체 브랜드·관련 서비스",
           "watch": "동일점 매출·식품 마진·디지털 주문 경제성",
           "ir": "https://ir.kroger.com/overview/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SYY",
+          "name": "Sysco",
+          "exchange": "NYSE",
+          "business": "외식업체·학교·병원 등에 식품과 관련 물품을 조달·배송합니다.",
+          "watch": "박스 판매량·독립 식당 비중·배송 생산성",
+          "ir": "https://investors.sysco.com/",
           "kind": "보통주"
         }
       ]

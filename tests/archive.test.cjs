@@ -9,17 +9,18 @@ const order=['communication','consumer-discretionary','consumer-staples','energy
 const data={context:JSON.parse(fs.readFileSync(path.join(root,'data/context.json'),'utf8')),sectors:order.map(id=>JSON.parse(fs.readFileSync(path.join(root,'data/sectors',id+'.json'),'utf8')))};
 data.profiles=Object.fromEntries(fs.readdirSync(path.join(root,'data/companies')).filter(f=>f.endsWith('.json')).map(f=>[f.slice(0,-5),JSON.parse(fs.readFileSync(path.join(root,'data/companies',f),'utf8'))]));
 data.financials=JSON.parse(fs.readFileSync(path.join(root,'data/financials.json'),'utf8'));
+data.marketData=JSON.parse(fs.readFileSync(path.join(root,'data/market-data.json'),'utf8'));
 data.updateStatus=JSON.parse(fs.readFileSync(path.join(root,'data/update-status.json'),'utf8'));
 function boot(saved=null,unavailable=false){
   const memory=new Map(saved?[['mm-industry-archive-v1',JSON.stringify(saved)]]:[]);
   const doc={getElementById:id=>id==='archive-data'?{textContent:JSON.stringify(data)}:{textContent:'',classList:{add(){},remove(){}}}};
   const sandbox={document:doc,window:{addEventListener(){}},URL,URLSearchParams,Map,Set,Date,Blob,console,setTimeout:()=>0,clearTimeout(){},localStorage:{getItem:k=>{if(unavailable)throw Error('blocked');return memory.get(k);},setItem:(k,v)=>{if(unavailable)throw Error('blocked');memory.set(k,v);}}};
   vm.createContext(sandbox);
-  for(const name of ['core','views','navigation','treemap','company'])vm.runInContext(fs.readFileSync(path.join(root,'src/js',name+'.js'),'utf8'),sandbox);
+  for(const name of ['core','views','navigation','company-directory','treemap','investment-report','company'])vm.runInContext(fs.readFileSync(path.join(root,'src/js',name+'.js'),'utf8'),sandbox);
   return {A:sandbox.window.IA,memory};
 }
 test('all requested sectors, industries and companies produce navigable views',()=>{
-  const {A}=boot();assert.equal(A.sectors.length,11);assert.equal(A.industries.length,58);assert.equal(A.companies.length,206);
+  const {A}=boot();assert.equal(A.sectors.length,11);assert.equal(A.industries.length,61);assert.equal(A.companies.length,331);
   const pages=[A.views.overview(),A.views.connections(),A.views.glossary(),A.views.library(),A.views.sources(),A.views.updates(),...A.sectors.map(s=>A.views.sector(s.id)),...A.industries.map(i=>A.views.industry(i.id)),...A.companies.map(c=>A.views.company(c.ticker))];
   for(const html of pages){assert.ok(html.includes('<h1>'));assert.ok(!html.includes('undefined'));}
   for(const c of A.companies){assert.ok(A.industryMap.has(c.industryId));assert.ok(A.knownKeys.has('company:'+c.ticker));assert.ok(A.views.industry(c.industryId).includes(`id="company-${c.ticker}"`));}
@@ -27,6 +28,44 @@ test('all requested sectors, industries and companies produce navigable views',(
 test('every company has complete sourced research and financial periods',()=>{
   const {A}=boot();
   for(const c of A.companies){const p=data.profiles[c.ticker],f=data.financials.companies[c.ticker];assert.ok(p,c.ticker+' research');for(const key of ['revenueStreams','history','strengths','weaknesses','competitors','monitoring','sources'])assert.ok(p[key].length>=2,c.ticker+' '+key);assert.ok(f?.annual.length,c.ticker+' annual financials');assert.ok(f.annual.at(-1).metrics.revenue,c.ticker+' revenue');assert.ok(A.views.company(c.ticker).includes('company-history'));}
+});
+
+test('investment reports distinguish peer multiples, currencies and unprofitable issuers',()=>{
+  const {A}=boot();
+  const f=A.data.financials.companies.MSFT,annual=f.annual.at(-1);
+  A.data.marketData.companies.MSFT={price:100,currency:'USD',marketCap:1000,marketCapCurrency:'USD'};
+  annual.metrics.netIncome={value:100,unit:'USD'};
+  assert.equal(A.report.valuationData('MSFT').pe,10);
+  annual.metrics.netIncome.value=-100;
+  assert.equal(A.report.valuationData('MSFT').pe,null);
+  annual.metrics.netIncome={value:100,unit:'USD',tag:'ProfitLoss'};
+  assert.equal(A.report.valuationData('MSFT').pe,null,'total group income cannot price common equity');
+  annual.metrics.netIncome={value:100,unit:'EUR'};
+  assert.equal(A.report.valuationData('MSFT').pe,null);
+  assert.equal(A.report.valuationData('TSM').supported,false);
+  assert.equal(A.report.valuationData('VMRK').supported,false,'pre-merger history cannot price the merged group');
+  assert.equal(A.report.valuationData('VMRK').pb,null);
+  A.data.marketData.companies.CBRE={price:100,currency:'USD',marketCap:1000,marketCapCurrency:'USD'};
+  const cbre=A.data.financials.companies.CBRE.annual.at(-1).metrics;
+  cbre.netIncome={value:100,unit:'USD',tag:'NetIncomeLoss'};
+  cbre.freeCashFlow={value:120,unit:'USD'};
+  assert.equal(A.report.valuationData('CBRE').fcfYield,12,'property services are not a REIT');
+  const value=A.report.ownerCashDcf(100,0,.1,0);
+  assert.ok(Math.abs(value.value-1000)<1e-8);
+  assert.equal(A.report.ownerCashDcf(100,.05,.02,.02),null);
+  assert.equal(A.report.ownerCashDcf(-100,.05,.1,.02),null);
+});
+
+test('all companies have sector-grouped discovery and detailed investment coverage',()=>{
+  const {A}=boot(),groups=A.directory.query().groups;
+  assert.equal(groups.length,11);
+  assert.equal(groups.reduce((n,g)=>n+g.companies.length,0),A.companies.length);
+  for(const ticker of ['COIN','SNDK','SPCX','MU','PLTR','HOOD','IONQ']){
+    const html=A.views.company(ticker);
+    for(const id of ['company-investment','company-macro','company-moat','company-health','company-valuation','company-policy'])assert.ok(html.includes(`id="${id}"`),`${ticker}: ${id}`);
+  }
+  for(const c of A.companies)assert.ok(A.data.profiles[c.ticker].investmentResearch?.thesis,c.ticker);
+  for(const i of A.industries)assert.ok(!A.views.industry(i.id).includes(' ?</a>'));
 });
 test('map preserves weighted areas, has no overlaps and offers a readable list',()=>{
   const {A}=boot(),items=[1,2,3,4,5].map(weight=>({weight})),rects=A.map.partition(items,0,0,1200,800);assert.equal(rects.length,5);

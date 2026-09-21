@@ -138,6 +138,24 @@
           "watch": "LNG 계약 구조와 사업별 투자 수익",
           "ir": "https://www.shell.com/investors.html",
           "kind": "ADR"
+        },
+        {
+          "ticker": "TTE",
+          "name": "TotalEnergies",
+          "exchange": "NYSE",
+          "business": "석유·가스 생산과 LNG·정유·전력 사업을 함께 운영합니다.",
+          "watch": "현금손익분기 유가·LNG 현금흐름·자본수익률",
+          "ir": "https://totalenergies.com/investors",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "BP",
+          "name": "BP",
+          "exchange": "NYSE",
+          "business": "석유·가스 생산과 정유·마케팅·에너지 사업에서 현금을 창출합니다.",
+          "watch": "순부채·자산매각·상류 생산·환원 커버리지",
+          "ir": "https://www.bp.com/en/global/corporate/investors.html",
+          "kind": "ADR"
         }
       ]
     },
@@ -299,6 +317,42 @@
           "ir": "https://lngir.cheniere.com/",
           "exchange": "NYSE",
           "kind": "보통주"
+        },
+        {
+          "ticker": "ENB",
+          "name": "Enbridge",
+          "exchange": "NYSE",
+          "business": "원유·가스 파이프라인과 가스 유틸리티를 통해 운송·배급 요금을 받습니다.",
+          "watch": "배당가능현금·부채배율·프로젝트 가동",
+          "ir": "https://www.enbridge.com/investment-center",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "TRP",
+          "name": "TC Energy",
+          "exchange": "NYSE",
+          "business": "북미 천연가스 운송·저장과 발전 관련 자산을 운영합니다.",
+          "watch": "유지·성장투자·현금배당커버·부채",
+          "ir": "https://www.tcenergy.com/investors/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ET",
+          "name": "Energy Transfer",
+          "exchange": "NYSE",
+          "business": "천연가스·원유·NGL의 집하·처리·운송·수출 인프라를 운영합니다.",
+          "watch": "분배가능현금·레버리지·수수료 비중",
+          "ir": "https://ir.energytransfer.com/",
+          "kind": "보통지분(MLP)"
+        },
+        {
+          "ticker": "EPD",
+          "name": "Enterprise Products Partners",
+          "exchange": "NYSE",
+          "business": "NGL·원유·천연가스의 운송·분별·저장·수출 서비스를 제공합니다.",
+          "watch": "분배금 커버·수수료 현금·성장투자 회수",
+          "ir": "https://ir.enterpriseproducts.com/",
+          "kind": "보통지분(MLP)"
         }
       ]
     },

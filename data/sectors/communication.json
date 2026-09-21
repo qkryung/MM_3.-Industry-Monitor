@@ -146,6 +146,15 @@
           "watch": "광대역 고객·무선 결합·Peacock 손익·테마파크 투자",
           "ir": "https://www.cmcsa.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "ASTS",
+          "name": "AST SpaceMobile",
+          "exchange": "NASDAQ",
+          "business": "일반 스마트폰과 직접 통신하는 저궤도 위성망을 구축해 이동통신사와 연결 서비스를 판매합니다.",
+          "watch": "궤도 위성 수·서비스 가능지역·현금소진",
+          "ir": "https://investors.ast-science.com/",
+          "kind": "보통주"
         }
       ]
     },
@@ -222,6 +231,25 @@
           "watch": "광고 수익화·북미 이용자·Snapchat+·현금흐름",
           "ir": "https://investor.snap.com/overview/default.aspx",
           "kind": "보통주"
+        },
+        {
+          "ticker": "RDDT",
+          "name": "Reddit",
+          "exchange": "NYSE",
+          "business": "주제별 커뮤니티의 이용자 관심사를 광고주와 연결하고 데이터 이용권을 판매합니다.",
+          "watch": "일간 이용자·이용자당 광고매출·주식보상",
+          "ir": "https://investor.redditinc.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "APP",
+          "name": "AppLovin",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.applovin.com/",
+          "business": "앱·커머스 성과형 광고 플랫폼",
+          "watch": "광고주 수익률, AXON 성능, 플랫폼 정책",
+          "kind": "보통주",
+          "cik": 1751008
         }
       ]
     },
@@ -297,6 +325,15 @@
           "business": "음원 녹음물·음악출판 저작권과 아티스트 서비스",
           "watch": "스트리밍 수익·신작·저작권 계약·아티스트 배분",
           "ir": "https://investors.wmg.com/investor-relations/default.aspx",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ROKU",
+          "name": "Roku",
+          "exchange": "NASDAQ",
+          "business": "TV 운영체제와 스트리밍 기기를 통해 시청자를 확보하고 광고·콘텐츠 유통으로 수익을 냅니다.",
+          "watch": "FOX 인수 승인·주식대가·광고 총이익",
+          "ir": "https://www.roku.com/investor",
           "kind": "보통주"
         }
       ]

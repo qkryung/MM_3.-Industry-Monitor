@@ -28,6 +28,16 @@
     document.querySelectorAll('[data-bookmark]').forEach(btn=>{const key=btn.dataset.bookmark;const saved=state.bookmarks.includes(key),large=btn.classList.contains('button');btn.classList.toggle('saved',saved);btn.classList.toggle('active',saved&&large);btn.setAttribute('aria-pressed',String(saved));btn.setAttribute('aria-label',`${A.keyInfo(key)?.name||'항목'} ${saved?'즐겨찾기 해제':'즐겨찾기 추가'}`);btn.title=saved?'즐겨찾기 해제':'즐겨찾기 추가';btn.innerHTML=(saved?'★':'☆')+(large?` <span>${saved?'저장됨':'즐겨찾기'}</span>`:'');});
     document.querySelectorAll('[data-complete]').forEach(btn=>{const complete=state.completed.includes(btn.dataset.complete);btn.classList.toggle('active',complete);btn.setAttribute('aria-pressed',String(complete));btn.textContent=complete?'✓ 학습 완료':'○ 학습 완료 표시';});
   }
+  function updateDirectory(key,value){
+    if(key==='reset'){['research-q','research-sector','research-page'].forEach(k=>route.params.delete(k));}
+    else{
+      if(value&&!(key==='research-sector'&&value==='all'))route.params.set(key,value);else route.params.delete(key);
+      route.params.delete('research-page');
+    }
+    const query=route.params.toString();
+    history.replaceState(null,'','#/overview'+(query?'?'+query:''));
+    A.directory.update(route.params);
+  }
   function showInfo(title,body,actions='<button class="button primary" data-close-dialog>확인</button>'){
     document.getElementById('info-content').innerHTML=`<div class="dialog-title"><h2 id="info-title">${e(title)}</h2><button class="icon-button" data-close-dialog aria-label="닫기">×</button></div>${body}<div class="dialog-actions">${actions}</div>`;
     if(!infoDialog.open)infoDialog.showModal();
@@ -44,6 +54,7 @@
   }
   document.addEventListener('click',event=>{
     const close=event.target.closest('[data-close-dialog]');if(close){close.closest('dialog')?.close();return;}
+    const directoryReset=event.target.closest('[data-directory-reset]');if(directoryReset){updateDirectory('reset');document.getElementById('directory-search').focus({preventScroll:true});return;}
     const b=event.target.closest('[data-bookmark]');if(b){A.toggleBookmark(b.dataset.bookmark);if(route.type==='library'||route.type==='overview')render({keepScroll:true});else refreshControls();A.toast(state.bookmarks.includes(b.dataset.bookmark)?'나의 서재에 저장했습니다.':'즐겨찾기에서 해제했습니다.');return;}
     const c=event.target.closest('[data-complete]');if(c){A.toggleComplete(c.dataset.complete);if(route.type==='library')render({keepScroll:true});else refreshControls();A.toast(state.completed.includes(c.dataset.complete)?'학습 진도를 기록했습니다.':'학습 완료 표시를 해제했습니다.');return;}
     const tree=event.target.closest('[data-tree]');if(tree){const open=A.navigation.toggle(tree.dataset.tree),el=document.getElementById('tree-'+tree.dataset.tree);el.hidden=!open;tree.setAttribute('aria-expanded',String(open));tree.setAttribute('aria-label',`${tree.dataset.sectorName} 하위 산업 ${open?'접기':'펼치기'}`);tree.closest('.tree-group').classList.toggle('is-expanded',open);return;}
@@ -60,10 +71,12 @@
     const el=event.target;
     if(el.matches('[data-note]')){const ok=A.saveNote(el.dataset.note,el.value);document.getElementById('note-status').textContent=ok?'✓ 저장됨':'임시 보관 · 내보내기 필요';document.getElementById('note-count').textContent=el.value.length.toLocaleString()+' / 20,000';}
     if(el.id==='global-search')renderSearch(el.value);
+    if(el.id==='directory-search')updateDirectory('research-q',el.value);
     if(el.id==='glossary-search'){const q=el.value.trim().toLocaleLowerCase();const terms=A.data.context.glossary.filter(g=>[g.term,g.en,g.meaning].join(' ').toLocaleLowerCase().includes(q));document.getElementById('glossary-results').innerHTML=V.glossaryResults(terms);document.getElementById('glossary-count').textContent=terms.length+'개 개념';history.replaceState(null,'','#/glossary'+(el.value?'?q='+encodeURIComponent(el.value):''));}
   });
   document.addEventListener('change',event=>{
     const el=event.target;
+    if(el.id==='directory-sector')updateDirectory('research-sector',el.value);
     if(el.id==='map-sector'||el.id==='map-color'){route.params.set(el.id==='map-sector'?'sector':'color',el.value);history.replaceState(null,'','#/overview?'+route.params);render({keepScroll:true});document.getElementById(el.id)?.focus({preventScroll:true});}
     if(el.id==='financial-period'){route.params.set('period',el.value);history.replaceState(null,'',`#/company/${encodeURIComponent(el.dataset.company)}?`+route.params);render({keepScroll:true});document.getElementById('financial-period')?.focus({preventScroll:true});}
   });

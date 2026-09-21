@@ -147,6 +147,53 @@
           "watch": "프리미엄 스마트폰·자동차·PC·특허 계약",
           "ir": "https://investor.qualcomm.com/",
           "kind": "보통주"
+        },
+        {
+          "ticker": "CRDO",
+          "name": "Credo Technology",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.credosemi.com/",
+          "business": "고속연결 반도체·능동 전기 케이블",
+          "watch": "하이퍼스케일 고객집중, 전력효율과 수율",
+          "kind": "보통주",
+          "cik": 1807794
+        },
+        {
+          "ticker": "ALAB",
+          "name": "Astera Labs",
+          "exchange": "NASDAQ",
+          "ir": "https://ir.asteralabs.com/",
+          "business": "AI 서버 연결 반도체·소프트웨어",
+          "watch": "PCIe·CXL·스위치 채택, 고객별 수요",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ARM",
+          "name": "Arm Holdings",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.arm.com/",
+          "business": "CPU 아키텍처·반도체 설계 IP",
+          "watch": "로열티 단가와 점유율, 라이선스 변동",
+          "kind": "ADR"
+        },
+        {
+          "ticker": "MRVL",
+          "name": "Marvell Technology",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.marvell.com/",
+          "business": "데이터센터 맞춤형 칩·광연결",
+          "watch": "설계승리 매출전환, 광연결과 고객집중",
+          "kind": "보통주",
+          "cik": 1835632
+        },
+        {
+          "ticker": "MPWR",
+          "name": "Monolithic Power Systems",
+          "exchange": "NASDAQ",
+          "ir": "https://www.monolithicpower.com/en/about-mps/investor-relations.html",
+          "business": "고효율 전력관리 반도체",
+          "watch": "AI 서버 전력콘텐츠, 설계채택과 재고",
+          "kind": "보통주"
         }
       ]
     },
@@ -198,21 +245,41 @@
           "kind": "ADR"
         },
         {
-          "ticker": "MU",
-          "name": "Micron Technology",
-          "exchange": "NASDAQ",
-          "business": "DRAM·NAND 등 메모리",
-          "watch": "메모리 가격·고대역폭 메모리·비트 성장·투자",
-          "ir": "https://investors.micron.com/overview/default.aspx",
-          "kind": "보통주"
-        },
-        {
           "ticker": "INTC",
           "name": "Intel",
           "exchange": "NASDAQ",
           "business": "프로세서 설계·제조와 파운드리 사업",
           "watch": "제품 경쟁력·공정 전환·외부 고객·현금",
           "ir": "https://www.intc.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NXPI",
+          "name": "NXP Semiconductors",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.nxp.com/",
+          "business": "자동차·산업용 혼합신호 반도체",
+          "watch": "유통재고, 차량당 탑재량과 공장가동률",
+          "kind": "보통주",
+          "cik": 1413447
+        },
+        {
+          "ticker": "ON",
+          "name": "ON Semiconductor",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.onsemi.com/",
+          "business": "전력·센싱·SiC 반도체",
+          "watch": "전기차 수요, SiC 가동률과 장기계약",
+          "kind": "보통주",
+          "cik": 1097864
+        },
+        {
+          "ticker": "STM",
+          "name": "STMicroelectronics",
+          "exchange": "NYSE",
+          "ir": "https://investors.st.com/",
+          "business": "차량·산업·소비자 혼합신호 반도체",
+          "watch": "재고조정, SiC 투자와 제조비용",
           "kind": "보통주"
         }
       ]
@@ -280,6 +347,15 @@
           "business": "반도체 검사·계측·공정 제어",
           "watch": "수율 관리 수요·검사 투자·서비스 비중",
           "ir": "https://ir.kla.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "ASML",
+          "name": "ASML Holding",
+          "exchange": "NASDAQ",
+          "ir": "https://www.asml.com/en/investors",
+          "business": "EUV·DUV 반도체 노광장비",
+          "watch": "수주변동, 고객투자, 중국 수출허가",
           "kind": "보통주"
         }
       ]
@@ -357,6 +433,145 @@
           "watch": "Creative Cloud 갱신·Firefly 유료화·문서·경쟁",
           "ir": "https://www.adobe.com/investor-relations.html",
           "kind": "보통주"
+        },
+        {
+          "ticker": "PLTR",
+          "name": "Palantir Technologies",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.palantir.com/",
+          "business": "정부·기업 데이터 운영 및 AI 소프트웨어",
+          "watch": "미국 상업 성장, 계약전환, 주식보상 희석",
+          "kind": "보통주",
+          "cik": 1321655
+        },
+        {
+          "ticker": "NOW",
+          "name": "ServiceNow",
+          "exchange": "NYSE",
+          "ir": "https://investor.servicenow.com/",
+          "business": "기업 업무흐름·서비스 관리 소프트웨어",
+          "watch": "cRPO, AI 유료화, 구독 갱신",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SNOW",
+          "name": "Snowflake",
+          "exchange": "NYSE",
+          "ir": "https://investors.snowflake.com/",
+          "business": "사용량 기반 데이터·AI 클라우드",
+          "watch": "소비형 제품매출, 순매출유지율과 클라우드 원가",
+          "kind": "보통주",
+          "cik": 1640147
+        },
+        {
+          "ticker": "DDOG",
+          "name": "Datadog",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.datadoghq.com/",
+          "business": "클라우드 관측·성능 모니터링·보안",
+          "watch": "워크로드 소비량, 복수제품 채택, AI 고객 집중",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "MDB",
+          "name": "MongoDB",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.mongodb.com/",
+          "business": "문서형 데이터베이스·Atlas 클라우드",
+          "watch": "Atlas 소비성장, 신규 앱과 GAAP 이익",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "HUBS",
+          "name": "HubSpot",
+          "exchange": "NYSE",
+          "ir": "https://ir.hubspot.com/",
+          "business": "중소기업 CRM·마케팅·판매 플랫폼",
+          "watch": "고객당 매출, AI 가격체계, 중소기업 이탈",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "TEAM",
+          "name": "Atlassian",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.atlassian.com/ir-home/",
+          "business": "Jira·Confluence 협업과 개발 도구",
+          "watch": "클라우드 이전, 유료좌석과 AI 증분매출",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "WDAY",
+          "name": "Workday",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.workday.com/",
+          "business": "인사·재무 클라우드 업무 시스템",
+          "watch": "구독 backlog, 대형 수주, AI 제품 수익화",
+          "kind": "보통주",
+          "cik": 1327811
+        },
+        {
+          "ticker": "SHOP",
+          "name": "Shopify",
+          "exchange": "NASDAQ",
+          "ir": "https://www.shopify.com/investors",
+          "business": "상점 운영·결제·옴니채널 상거래 플랫폼",
+          "watch": "GMV, 결제 침투율, 총이익 및 현금흐름",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "U",
+          "name": "Unity Software",
+          "exchange": "NYSE",
+          "ir": "https://investors.unity.com/",
+          "business": "실시간 3D 개발엔진·모바일 광고",
+          "watch": "Create 구독과 Grow 광고 회복의 질",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "PATH",
+          "name": "UiPath",
+          "exchange": "NYSE",
+          "ir": "https://ir.uipath.com/",
+          "business": "로봇·AI 에이전트 업무 자동화",
+          "watch": "ARR와 유지율, 에이전트 유료 전환",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "AI",
+          "name": "C3.ai",
+          "exchange": "NYSE",
+          "ir": "https://ir.c3.ai/",
+          "business": "산업용 기업 AI 애플리케이션",
+          "watch": "파일럿 전환, 재건 비용, 현금소모",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "IBM",
+          "name": "IBM",
+          "exchange": "NYSE",
+          "ir": "https://www.ibm.com/investor",
+          "business": "하이브리드 클라우드·소프트웨어·IT 컨설팅",
+          "watch": "Red Hat 성장, 컨설팅 수주, 잉여현금흐름",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "INOD",
+          "name": "Innodata",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.innodata.com/",
+          "business": "AI 학습·평가용 데이터 엔지니어링",
+          "watch": "대형고객 집중, 계약갱신과 인력 생산성",
+          "kind": "보통주",
+          "cik": 903651
+        },
+        {
+          "ticker": "NTNX",
+          "name": "Nutanix",
+          "exchange": "NASDAQ",
+          "ir": "https://ir.nutanix.com/",
+          "business": "기업 하이브리드 멀티클라우드 인프라",
+          "watch": "ACV·ARR, VMware 대체와 파트너 의존",
+          "kind": "보통주"
         }
       ]
     },
@@ -423,6 +638,34 @@
           "business": "네트워크 보안 장비와 구독 서비스",
           "watch": "장비 교체·서비스 매출·계약·마진",
           "ir": "https://investor.fortinet.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "NET",
+          "name": "Cloudflare",
+          "exchange": "NYSE",
+          "ir": "https://cloudflare.net/",
+          "business": "인터넷 보안·엣지 네트워크·개발 플랫폼",
+          "watch": "대형고객, Workers 수익화, 네트워크 투자",
+          "kind": "보통주",
+          "cik": 1477333
+        },
+        {
+          "ticker": "ZS",
+          "name": "Zscaler",
+          "exchange": "NASDAQ",
+          "ir": "https://ir.zscaler.com/",
+          "business": "클라우드 제로트러스트 보안",
+          "watch": "유기적 ARR, 플랫폼 통합, 현금전환",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "OKTA",
+          "name": "Okta",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.okta.com/",
+          "business": "직원·고객·AI 에이전트 신원 보안",
+          "watch": "cRPO, 신규제품, 보안 신뢰 회복",
           "kind": "보통주"
         }
       ]
@@ -499,6 +742,181 @@
           "business": "기업 네트워크 장비·보안·Splunk·협업 소프트웨어",
           "watch": "기업 IT 예산·장비 교체·구독·Splunk 통합",
           "ir": "https://investor.cisco.com/",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "SMCI",
+          "name": "Super Micro Computer",
+          "exchange": "NASDAQ",
+          "ir": "https://ir.supermicro.com/",
+          "business": "AI 서버·랙 통합 및 액체냉각",
+          "watch": "매출총이익률, 운전자본, 공시 신뢰성",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "HPE",
+          "name": "Hewlett Packard Enterprise",
+          "exchange": "NYSE",
+          "ir": "https://investors.hpe.com/",
+          "business": "서버·네트워킹·하이브리드 IT",
+          "watch": "AI 서버 현금회수, Juniper 통합과 부채",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "technology-memory-storage",
+      "name": "메모리·데이터 저장",
+      "en": "Memory & Data Storage",
+      "summary": "DRAM·NAND·하드디스크로 데이터의 빠른 처리와 장기 저장을 지원합니다.",
+      "mechanics": "메모리는 비트 출하량과 비트당 가격, 공정 전환 원가가 이익을 결정합니다. HBM의 적층·패키징과 고객 인증은 범용 DRAM과 다르며, NAND SSD와 HDD는 성능·전력·용량당 비용에 따라 공존합니다. 호황의 높은 가격을 영구화하지 말고 장기 공급 계약과 고객 재고, 제조 투자 회수를 함께 확인합니다.",
+      "watch": [
+        "DRAM·NAND·HDD 가격과 용량 출하량을 분리",
+        "HBM·기업용 SSD 고객 인증과 수율",
+        "설비투자·합작법인 약정·재고 및 감가상각"
+      ],
+      "kpis": [
+        {
+          "name": "비트·용량 출하와 ASP",
+          "meaning": "판매 용량과 단위 용량당 평균가격",
+          "read": "물량 증가와 가격 상승의 기여를 나눠 수급을 봅니다."
+        },
+        {
+          "name": "비트당 원가·매출총이익률",
+          "meaning": "생산 효율과 판매가격 사이의 차이",
+          "read": "공정 전환·수율·제품 구성과 재고평가를 함께 확인합니다."
+        },
+        {
+          "name": "설비투자·재고일수",
+          "meaning": "증설 현금 부담과 판매까지 남은 재고",
+          "read": "증설과 가격 하락이 겹칠 때 현금흐름 악화를 점검합니다."
+        }
+      ],
+      "risks": [
+        "가격 사이클·고객의 이중 주문과 재고 조정",
+        "수출 통제·생산 지역 집중·합작 투자 약정"
+      ],
+      "valuation": "메모리는 호황기의 낮은 P/E보다 중간사이클 마진·현금흐름과 교체원가를 함께 검토합니다. HDD와 NAND, HBM의 자본집약도와 제품 수명 차이를 분리합니다.",
+      "questions": [
+        "가격 정상화 후에도 증설 자본비용을 회수하는가?",
+        "AI용 고부가 제품 성장과 범용 제품 공급 과잉이 동시에 나타나면 어떤 현금흐름이 남는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "SNDK",
+          "name": "Sandisk",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.sandisk.com/",
+          "business": "NAND 플래시·SSD 저장장치",
+          "watch": "NAND 가격, 데이터센터 SSD 인증과 투자회수",
+          "kind": "보통주",
+          "cik": 2023554
+        },
+        {
+          "ticker": "WDC",
+          "name": "Western Digital",
+          "exchange": "NASDAQ",
+          "ir": "https://investor.wdc.com/",
+          "business": "클라우드 중심 HDD 저장장치",
+          "watch": "엑사바이트 출하, 가격, 고용량 기술전환",
+          "kind": "보통주",
+          "cik": 106040
+        },
+        {
+          "ticker": "STX",
+          "name": "Seagate Technology",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.seagate.com/",
+          "business": "대용량 HDD·데이터 저장 솔루션",
+          "watch": "HAMR 양산수율, 클라우드 출하와 부채",
+          "kind": "보통주",
+          "cik": 1137789
+        },
+        {
+          "ticker": "MU",
+          "name": "Micron Technology",
+          "exchange": "NASDAQ",
+          "business": "DRAM·NAND 등 메모리",
+          "watch": "메모리 가격·고대역폭 메모리·비트 성장·투자",
+          "ir": "https://investors.micron.com/overview/default.aspx",
+          "kind": "보통주"
+        }
+      ]
+    },
+    {
+      "id": "technology-quantum-computing",
+      "name": "양자 컴퓨팅",
+      "en": "Quantum Computing",
+      "summary": "양자 하드웨어·클라우드 접근·연구 서비스를 판매하며 상용화와 반복 수익성을 검증하는 산업입니다.",
+      "mechanics": "트랩 이온·초전도·양자 어닐링 등 방식마다 계산 범위와 오류 정정 요구가 다릅니다. 장비 판매, 연구 용역, 클라우드 접근료가 매출로 잡히지만 수주액·예약액이 현금 매출과 같지는 않습니다. 기술 시연에서 고객의 반복 업무로 전환하는지, 연구개발·시설 투자에 필요한 자금을 얼마나 오래 조달할 수 있는지가 핵심입니다.",
+      "watch": [
+        "오류율·논리 큐비트·실용 문제 성능의 정의",
+        "예약·수주에서 검수·매출·현금 회수로의 전환",
+        "인수와 시설 투자 이후 현금 수명·증자·주식보상"
+      ],
+      "kpis": [
+        {
+          "name": "실용 성능·충실도",
+          "meaning": "지정한 문제에서의 계산 성능과 오류 수준",
+          "read": "물리 큐비트 수 하나로 서로 다른 아키텍처를 비교하지 않습니다."
+        },
+        {
+          "name": "유상 고객·반복 매출",
+          "meaning": "실제 비용을 지불하는 고객과 반복되는 사용량",
+          "read": "연구 계약과 상용 고객의 반복 사용을 구분합니다."
+        },
+        {
+          "name": "현금 소진·희석",
+          "meaning": "연구·제조 투자 지출과 자본 조달에 따른 지분 변화",
+          "read": "인수 전 현금으로 인수 후 버틸 기간을 계산하지 않습니다."
+        }
+      ],
+      "risks": [
+        "기술 로드맵 지연·경쟁 방식의 성능 진전",
+        "정부 연구 예산 변동·상용 수요 불확실성과 자본 희석"
+      ],
+      "valuation": "적자 기업의 P/E는 의미가 없습니다. 미래 매출·정상 마진·기술 성공 확률·추가 자금 조달을 나눈 시나리오 현재가치가 필요하며 높은 매출 배수만으로 적정가치를 확정하지 않습니다.",
+      "questions": [
+        "검증된 기술 성과가 고객 비용 절감과 반복 주문으로 연결되는가?",
+        "상용화가 지연될 때 필요한 자본과 기존 주주의 지분은 어떻게 변하는가?"
+      ],
+      "companies": [
+        {
+          "ticker": "IONQ",
+          "name": "IonQ",
+          "exchange": "NYSE",
+          "ir": "https://investors.ionq.com/",
+          "business": "이온트랩 양자컴퓨팅·네트워크 플랫폼",
+          "watch": "상용계약 매출 전환, 기술검증과 인수후 현금",
+          "kind": "보통주",
+          "cik": 1824920
+        },
+        {
+          "ticker": "RGTI",
+          "name": "Rigetti Computing",
+          "exchange": "NASDAQ",
+          "ir": "https://investors.rigetti.com/",
+          "business": "초전도 방식 양자컴퓨터",
+          "watch": "충실도·스케일링, 시스템매출과 현금소진",
+          "kind": "보통주",
+          "cik": 1838359
+        },
+        {
+          "ticker": "QBTS",
+          "name": "D-Wave Quantum",
+          "exchange": "NASDAQ",
+          "ir": "https://ir.dwavequantum.com/",
+          "business": "양자 어닐링·게이트 방식 양자컴퓨팅 플랫폼",
+          "watch": "상용문제 성과, 계약매출 전환과 조달",
+          "kind": "보통주"
+        },
+        {
+          "ticker": "QUBT",
+          "name": "Quantum Computing Inc.",
+          "exchange": "NASDAQ",
+          "ir": "https://quantumcomputinginc.com/investor-relations",
+          "business": "광자 기반 양자·광학 칩 플랫폼",
+          "watch": "파운드리 고객검증, 매출 규모와 희석",
           "kind": "보통주"
         }
       ]
