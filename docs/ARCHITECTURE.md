@@ -2,7 +2,7 @@
 
 ## 휴대 가능한 단일 HTML
 
-사용자가 서버 설치 없이 다른 컴퓨터에서도 열 수 있도록 빌드 결과를 `index.html` 한 파일로 제공합니다. 실행 시 `fetch`, CDN, JavaScript 모듈 로더, 외부 패키지가 필요하지 않습니다. 폰트도 포함하므로 오프라인에서 UI가 바뀌지 않습니다.
+사용자가 서버 설치 없이 다른 컴퓨터에서도 열 수 있도록 빌드 결과를 `3. Industry Study.html` 한 파일로 제공합니다. 실행 시 `fetch`, CDN, JavaScript 모듈 로더, 외부 패키지가 필요하지 않습니다. 폰트도 포함하므로 오프라인에서 UI가 바뀌지 않습니다.
 
 원본은 섹터별 JSON, CSS, JavaScript로 나뉩니다. `scripts/build.py`는 UTF-8 원본을 읽고 검증한 뒤 템플릿에 묶습니다. 날짜나 무작위 값을 빌드마다 삽입하지 않아 같은 소스는 같은 결과를 만듭니다. 글꼴 라이선스는 번들 안에도 포함합니다.
 
@@ -28,7 +28,7 @@ data/market-data.json + data/update-status.json
 
 src/index.html + src/css/* + font + 위 자료
                     ↓
-         scripts/build.py → index.html
+         scripts/build.py → 3. Industry Study.html
 ```
 
 별도의 런타임 프레임워크가 필요하지 않은 규모이며, 구조 변경 시 콘텐츠와 이벤트 코드를 따로 수정할 수 있습니다. 전역 공개 범위는 `window.IA` 하나로 제한했습니다.
@@ -81,7 +81,7 @@ Yahoo chart + Nasdaq screener → update_market.py → market-data.json
 
 공식 자료 수동 검토 → companies/*.json의 investmentResearch·기본 설명
 
-위 저장 자료 + 화면 소스 → build.py → 오프라인 index.html
+위 저장 자료 + 화면 소스 → build.py → 오프라인 3. Industry Study.html
 ```
 
 공식 원문 수동 보완은 자동 수집과 같은 기간·단위·출처 구조로 관리합니다. CNI의 CAD 재무, NU의 IFRS 귀속 이익·자본, SPCX의 투자설명서 연결 범위, AMH의 임대 매출처럼 표준 API만으로 부족한 항목을 추가하며 회사가 발표한 FCF·NOI·조정 매출과 혼용하지 않습니다. VMRK는 합병 전 EQR의 과거 실적임을 유지하고 현재 시가총액과 결합한 평가 계산을 보류합니다.

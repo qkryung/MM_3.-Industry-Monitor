@@ -90,7 +90,7 @@ def main():
     if (DATA/"financials.json").exists():
         backup=ROOT/"backups"/stamp;backup.mkdir(parents=True,exist_ok=True)
         shutil.copy2(DATA/"financials.json",backup/"financials.json")
-        if (ROOT/"index.html").exists():shutil.copy2(ROOT/"index.html",backup/"index.html")
+        if (ROOT/"3. Industry Study.html").exists():shutil.copy2(ROOT/"3. Industry Study.html",backup/"3. Industry Study.html")
     try:
         listing=fetch("https://www.sec.gov/files/company_tickers_exchange.json",CACHE/"listings.json",args.offline)
     except Exception as exc:

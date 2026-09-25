@@ -61,4 +61,4 @@
 
 현재 빌드는 11개 섹터, 산업별 KPI 3개 이상, 기업 2개 이상 및 고유 ID를 검증합니다. 산업 수·대표 기업 수를 의도적으로 늘렸다면 `tests/archive.test.cjs`의 데이터 개수 기대값도 갱신하세요. 새로운 대분류 추가는 UI·검증 정책 변경을 포함하는 별도 작업입니다.
 
-변경 후 `python scripts/build.py`, `python -m unittest discover -s tests -p "test_*.py"`, `node --test tests/archive.test.cjs`를 실행하고 `index.html`을 새로 열어 수정한 산업과 검색 결과를 확인하세요. GitHub에는 소스와 재생성한 HTML을 함께 올리면 됩니다.
+변경 후 `python scripts/build.py`, `python -m unittest discover -s tests -p "test_*.py"`, `node --test tests/archive.test.cjs`를 실행하고 `3. Industry Study.html`을 새로 열어 수정한 산업과 검색 결과를 확인하세요. GitHub에는 소스와 재생성한 HTML을 함께 올리면 됩니다.

@@ -112,7 +112,7 @@ def main() -> None:
     output = template.replace("<!--@FAVICON-->", favicon).replace("<!--@STYLES-->", f"<style>\n{styles}\n</style>").replace("<!--@DATA-->", f'<script type="application/json" id="archive-data">{payload}</script>').replace("<!--@SCRIPTS-->", f"<script>\n{scripts}\n</script>")
     require("<!--@" not in output, "Unreplaced template marker")
     require("</script" not in scripts.lower(), "Unsafe inline script close sequence")
-    target = ROOT / "index.html"
+    target = ROOT / "3. Industry Study.html"
     target.write_text(output, encoding="utf-8", newline="\n")
     print(f"Built {target.name}: {len(output.encode('utf-8')):,} bytes")
     print(json.dumps(stats, ensure_ascii=False))

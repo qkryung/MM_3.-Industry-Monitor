@@ -6,7 +6,7 @@
 
 ## 바로 열기
 
-[index.html](index.html)을 Chrome 또는 Edge에서 엽니다. 열람에는 설치·계정·API 키·서버가 필요하지 않습니다. 폰트·콘텐츠·화면 기능이 HTML에 포함되어 있으며, 공식 IR·공시 링크를 방문할 때는 인터넷이 필요합니다.
+[3. Industry Study.html](3.%20Industry%20Study.html)을 Chrome 또는 Edge에서 엽니다. 열람에는 설치·계정·API 키·서버가 필요하지 않습니다. 폰트·콘텐츠·화면 기능이 HTML에 포함되어 있으며, 공식 IR·공시 링크를 방문할 때는 인터넷이 필요합니다.
 
 - 왼쪽 탐색 메뉴에서 섹터별 아이콘, 선택 상태, 산업·기업 수를 확인하고 하위 산업을 펼치거나 접습니다.
 - 11개 섹터와 세부 산업을 트리맵·목록으로 탐색하고 기업 상세로 이동합니다.
@@ -52,7 +52,7 @@ git clone https://github.com/qkryung/MM_3.-Industry-Monitor.git
 cd MM_3.-Industry-Monitor
 ```
 
-폴더의 `index.html`을 Chrome 또는 Edge로 열면 됩니다. Git 없이 저장소의 **Code → Download ZIP**으로 내려받을 수도 있고, 읽기만 한다면 HTML 한 파일만 복사해도 됩니다. 비공개 저장소라면 해당 저장소에 접근할 수 있는 GitHub 계정으로 인증해야 합니다.
+폴더의 `3. Industry Study.html`을 Chrome 또는 Edge로 열면 됩니다. Git 없이 저장소의 **Code → Download ZIP**으로 내려받을 수도 있고, 읽기만 한다면 HTML 한 파일만 복사해도 됩니다. 비공개 저장소라면 해당 저장소에 접근할 수 있는 GitHub 계정으로 인증해야 합니다.
 
 다음에 다른 컴퓨터에서 반영한 내용을 받으려면 프로젝트 폴더에서 실행합니다.
 
@@ -60,18 +60,18 @@ cd MM_3.-Industry-Monitor
 git pull --ff-only
 ```
 
-로컬 수정이 있으면 먼저 검토하고 커밋한 뒤 받아오세요. 데이터나 화면을 수정했다면 `build.bat`으로 생성한 `index.html`도 소스와 함께 커밋·푸시해야 다른 컴퓨터에서 같은 결과를 볼 수 있습니다. `update.bat`은 로컬 데이터와 HTML을 갱신하며 GitHub에 자동 업로드하지 않습니다.
+로컬 수정이 있으면 먼저 검토하고 커밋한 뒤 받아오세요. 데이터나 화면을 수정했다면 `build.bat`으로 생성한 `3. Industry Study.html`도 소스와 함께 커밋·푸시해야 다른 컴퓨터에서 같은 결과를 볼 수 있습니다. `update.bat`은 로컬 데이터와 HTML을 갱신하며 GitHub에 자동 업로드하지 않습니다.
 
 개인 학습 기록은 브라우저에 저장되며 GitHub와 자동 동기화되지 않습니다.
 
 1. 기존 컴퓨터의 **나의 서재 → 기록 내보내기**에서 `industry-study-YYYY-MM-DD.json`을 저장합니다.
-2. 새 컴퓨터에서 프로젝트를 내려받고 `index.html`을 엽니다.
+2. 새 컴퓨터에서 프로젝트를 내려받고 `3. Industry Study.html`을 엽니다.
 3. **나의 서재 → 기록 가져오기**에서 내보낸 JSON을 선택합니다.
 4. 즐겨찾기·학습 진도는 합쳐집니다. 겹치는 메모는 기본적으로 현재 기기 내용을 유지하며, 가져온 메모로 바꾸려면 가져오기 창에서 선택합니다.
 
 내보낸 개인 기록, `personal/`, `backups/`, `logs/`, `.cache/`는 `.gitignore`에서 제외합니다. 개인 기록 JSON은 별도 개인 보관 장소에 두세요. 브라우저를 바꾸거나 파일 경로를 옮기거나 브라우저 데이터를 지우기 전에도 기록을 내보내는 것이 좋습니다. `file://` 저장소 구분은 브라우저마다 다를 수 있습니다.
 
-저장소에는 `src/`, `data/`, `assets/`, `scripts/`, `tests/`, 문서와 재생성한 `index.html`을 함께 관리합니다. 별도 상위 프로젝트 경로나 비밀 API 키는 필요하지 않습니다. GitHub Pages를 별도로 설정하면 저장소 루트를 게시 대상으로 사용할 수 있으며, 저장소 업로드만으로 웹사이트가 자동 공개되지는 않습니다.
+저장소에는 `src/`, `data/`, `assets/`, `scripts/`, `tests/`, 문서와 재생성한 `3. Industry Study.html`을 함께 관리합니다. 별도 상위 프로젝트 경로나 비밀 API 키는 필요하지 않습니다. GitHub Pages를 별도로 설정하면 저장소 루트를 게시 대상으로 사용할 수 있으며(주소 끝에 `3.%20Industry%20Study.html`을 붙여 엽니다), 저장소 업로드만으로 웹사이트가 자동 공개되지는 않습니다.
 
 ## 갱신과 재빌드
 
@@ -121,7 +121,7 @@ python scripts/build.py
 ## 파일 구조와 검증
 
 ```text
-index.html                       바로 여는 완성본
+3. Industry Study.html           바로 여는 완성본
 build.bat / update.bat            재빌드 / 데이터 갱신
 data/
   sectors/                       섹터별 JSON

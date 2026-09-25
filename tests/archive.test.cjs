@@ -102,5 +102,5 @@ test('blocked browser storage still supports temporary records and exportable st
   const {A}=boot(null,true);const key='industry:'+A.industries[0].id;A.saveNote(key,'temporary');assert.equal(A.isPersistent(),false);assert.equal(A.state.notes[key].text,'temporary');assert.ok(A.views.library().includes('영구 저장'));
 });
 test('committed HTML embeds content, scripts and font without runtime network dependencies',()=>{
-  const html=fs.readFileSync(path.join(root,'index.html'),'utf8');assert.ok(html.includes('data:font/woff2;base64,'));assert.ok(html.includes('id="archive-data"'));assert.ok(!/<script[^>]+src=/.test(html));assert.ok(!/<link[^>]+rel="stylesheet"/.test(html));assert.ok(!html.includes('<!--@'));assert.ok(html.includes('Vivmark Residential'));
+  const html=fs.readFileSync(path.join(root,'3. Industry Study.html'),'utf8');assert.ok(html.includes('data:font/woff2;base64,'));assert.ok(html.includes('id="archive-data"'));assert.ok(!/<script[^>]+src=/.test(html));assert.ok(!/<link[^>]+rel="stylesheet"/.test(html));assert.ok(!html.includes('<!--@'));assert.ok(html.includes('Vivmark Residential'));
 });
