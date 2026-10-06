@@ -1,7 +1,7 @@
 {
-  "startedAt": "2026-09-21T05:22:56.748366+00:00",
-  "asOf": "2026-09-21",
-  "mode": "offline",
+  "startedAt": "2026-09-23T01:34:51.337456+00:00",
+  "asOf": "2026-09-23",
+  "mode": "SEC network",
   "updated": [
     "VZ",
     "T",
@@ -340,7 +340,7 @@
   "warnings": [
     {
       "ticker": "LISTINGS",
-      "error": "No cached source; using saved identities and verifying each issuer through current SEC submissions",
+      "error": "HTTP Error 403: Forbidden; using saved identities and verifying each issuer through current SEC submissions",
       "preserved": false
     },
     {
@@ -349,6 +349,19 @@
     }
   ],
   "researchNote": "기업의 사업·연혁·강약점·경쟁 구도는 수동 검토 콘텐츠입니다. 이 배치는 상장 정보·공시 재무·최근 공시 목록을 갱신하고 HTML을 재생성합니다. 서술의 검토일은 자동 변경하지 않습니다.",
-  "researchReviewDue": [],
-  "completedAt": "2026-09-21T05:23:19.620122+00:00"
+  "researchReviewDue": [
+    "WMG",
+    "TTWO",
+    "ONON",
+    "TRP",
+    "BX",
+    "NVO",
+    "THC",
+    "GE",
+    "ADC",
+    "VICI",
+    "ADBE",
+    "QBTS"
+  ],
+  "completedAt": "2026-09-23T01:40:29.365233+00:00"
 }
