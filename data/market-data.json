@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-21",
-  "retrievedAt": "2026-09-21T05:16:58.791623+00:00",
+  "asOf": "2026-11-26",
+  "retrievedAt": "2026-11-26T04:56:54.149173+00:00",
   "companies": {
     "A": {
       "ticker": "A",
@@ -6290,6 +6290,27 @@
       "priceApiUrl": "https://query1.finance.yahoo.com/v8/finance/chart/UDR?interval=1d&range=5d",
       "marketCapSourceUrl": "https://www.nasdaq.com/market-activity/stocks/udr",
       "notes": []
+    },
+    "ANT": {
+      "ticker": "ANT",
+      "name": "Anthropic, PBC",
+      "price": 82.79,
+      "currency": "USD",
+      "priceTime": "2026-11-25T21:00:02+00:00",
+      "tradingDate": "2026-11-25",
+      "retrievedAt": "2026-11-26T04:56:54.149173+00:00",
+      "marketCap": null,
+      "marketCapCurrency": "USD",
+      "marketCapAsOf": null,
+      "marketCapRetrievedAt": null,
+      "marketCapSource": "Nasdaq stock screener",
+      "priceSource": "Yahoo Finance chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/ANT/",
+      "priceApiUrl": "https://query1.finance.yahoo.com/v8/finance/chart/ANT?interval=1d&range=5d",
+      "marketCapSourceUrl": "https://www.nasdaq.com/market-activity/stocks/ant",
+      "notes": [
+        "시세 공급자 간 가격 차이가 3%를 넘어 시가총액 배수 계산을 제외했습니다."
+      ]
     }
   },
   "errors": [],

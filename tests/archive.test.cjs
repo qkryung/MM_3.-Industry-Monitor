@@ -20,7 +20,7 @@ function boot(saved=null,unavailable=false){
   return {A:sandbox.window.IA,memory};
 }
 test('all requested sectors, industries and companies produce navigable views',()=>{
-  const {A}=boot();assert.equal(A.sectors.length,11);assert.equal(A.industries.length,61);assert.equal(A.companies.length,331);
+  const {A}=boot();assert.equal(A.sectors.length,11);assert.equal(A.industries.length,61);assert.equal(A.companies.length,332);
   const pages=[A.views.overview(),A.views.connections(),A.views.glossary(),A.views.library(),A.views.sources(),A.views.updates(),...A.sectors.map(s=>A.views.sector(s.id)),...A.industries.map(i=>A.views.industry(i.id)),...A.companies.map(c=>A.views.company(c.ticker))];
   for(const html of pages){assert.ok(html.includes('<h1>'));assert.ok(!html.includes('undefined'));}
   for(const c of A.companies){assert.ok(A.industryMap.has(c.industryId));assert.ok(A.knownKeys.has('company:'+c.ticker));assert.ok(A.views.industry(c.industryId).includes(`id="company-${c.ticker}"`));}
@@ -60,7 +60,7 @@ test('all companies have sector-grouped discovery and detailed investment covera
   const {A}=boot(),groups=A.directory.query().groups;
   assert.equal(groups.length,11);
   assert.equal(groups.reduce((n,g)=>n+g.companies.length,0),A.companies.length);
-  for(const ticker of ['COIN','SNDK','SPCX','MU','PLTR','HOOD','IONQ']){
+  for(const ticker of ['COIN','SNDK','SPCX','MU','PLTR','HOOD','IONQ','ANT']){
     const html=A.views.company(ticker);
     for(const id of ['company-investment','company-macro','company-moat','company-health','company-valuation','company-policy'])assert.ok(html.includes(`id="${id}"`),`${ticker}: ${id}`);
   }

@@ -45,7 +45,9 @@ def apply_adjustments(current, adjustment=None, predecessor=None, supplement=Non
             refresh_derivations(existing["metrics"])
         current["annual"]=[by_end[d] for d in sorted(by_end)[-3:]]
         q=supplement.get("latestQuarter")
-        if q and q["end"]<=cutoff and all(available_on(m)<=cutoff for m in q["metrics"].values()):
+        # A manual quarter is only the "latest quarter" while it is newer than the latest annual period.
+        latest_annual=current["annual"][-1]["end"] if current["annual"] else ""
+        if q and latest_annual<q["end"]<=cutoff and all(available_on(m)<=cutoff for m in q["metrics"].values()):
             if not current.get("latestQuarter") or q["end"]>current["latestQuarter"]["end"]:current["latestQuarter"]=q
             elif q["end"]==current["latestQuarter"]["end"]:
                 for key,m in q["metrics"].items():

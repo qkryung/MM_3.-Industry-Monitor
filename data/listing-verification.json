@@ -2,7 +2,7 @@
   "checkedOn": null,
   "source": "https://www.sec.gov/files/company_tickers_exchange.json",
   "scope": "Ticker/exchange identity; differences require manual review.",
-  "total": 331,
+  "total": 332,
   "mismatches": [],
   "companies": [
     {
@@ -243,6 +243,16 @@
       "cik": 1596532,
       "verifiedOn": "2026-10-23",
       "identitySource": "https://data.sec.gov/submissions/CIK0001596532.json",
+      "matched": true
+    },
+    {
+      "ticker": "ANT",
+      "name": "Anthropic",
+      "exchange": "NASDAQ",
+      "sec_name": "Anthropic, PBC",
+      "cik": 2130357,
+      "verifiedOn": "2026-11-26",
+      "identitySource": "https://data.sec.gov/submissions/CIK0002130357.json",
       "matched": true
     },
     {

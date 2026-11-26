@@ -1,6 +1,6 @@
 # 데이터 모델
 
-학습 설명·투자 해석, 공시 숫자, 관측 시세, 개인 기록을 별도 계층으로 관리합니다. 현재 범위는 11개 섹터·61개 산업·183개 KPI·331개 기업입니다. JSON은 UTF-8이며 `scripts/build.py`가 현재 데이터와 화면 코드를 단일 `3. Industry Study.html`에 포함합니다. 브라우저는 실행 중 외부 API에서 데이터를 가져오지 않습니다.
+학습 설명·투자 해석, 공시 숫자, 관측 시세, 개인 기록을 별도 계층으로 관리합니다. 현재 범위는 11개 섹터·61개 산업·183개 KPI·332개 기업입니다. JSON은 UTF-8이며 `scripts/build.py`가 현재 데이터와 화면 코드를 단일 `3. Industry Study.html`에 포함합니다. 브라우저는 실행 중 외부 API에서 데이터를 가져오지 않습니다.
 
 ## 식별자와 연결
 
@@ -126,7 +126,7 @@ Nasdaq의 가격과 Yahoo의 관측 가격 차이가 3%를 넘으면 시가총�
 ## 수동 보완과 갱신 기록
 
 - `financial-adjustments.json`: 티커별 법인 범위 주석·원문, 필요 시 `predecessorCik`, `historyThrough`를 명시합니다.
-- `financial-supplements.json`: 공식 IR·공시 원문에서 직접 확인한 `annual`·`latestQuarter` 지표와 보완 설명을 담습니다. 자동 API 수치와 같은 기간·단위·출처 필드를 사용합니다. TM·TSM·VMRK에 더해 CNI·NU·SPCX·AMH의 필요한 기간·항목을 보완하며 원문별 통화·귀속·합병 전후 범위를 명시합니다.
+- `financial-supplements.json`: 공식 IR·공시 원문에서 직접 확인한 `annual`·`latestQuarter` 지표와 보완 설명을 담습니다. 자동 API 수치와 같은 기간·단위·출처 필드를 사용합니다. TM·TSM·VMRK에 더해 CNI·NU·SPCX·AMH·ANT의 필요한 기간·항목을 보완하며 원문별 통화·귀속·합병 전후 범위를 명시합니다.
 - `update-status.json`: 실행 기준일, 성공·보존·오류·경고 목록, 서술 검토 대상과 완료 시점을 담습니다.
 - `listing-verification.json`: SEC 식별자·거래소와 서술의 대조 결과를 담습니다. 누락·불일치는 수동 검토 대상입니다.
 

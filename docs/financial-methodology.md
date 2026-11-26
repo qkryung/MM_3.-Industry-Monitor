@@ -55,7 +55,7 @@
 
 ## 수동 보완과 법인 변화
 
-표준 API에 필요한 값이 없지만 공식 IR 연차보고서·실적 발표에서 확인한 경우 `financial-supplements.json`으로 보완합니다. 각 값에 기간·공시일·단위·원문을 남기고 자동 수치보다 오래된 제출본으로 덮어쓰지 않습니다. 배치 갱신은 수동 보완의 검토를 대신하지 않습니다. 새 공시가 나오면 원문을 다시 읽어 보완 자료를 수정해야 합니다.
+표준 API에 필요한 값이 없지만 공식 IR 연차보고서·실적 발표에서 확인한 경우 `financial-supplements.json`으로 보완합니다. 각 값에 기간·공시일·단위·원문을 남기고 자동 수치보다 오래된 제출본으로 덮어쓰지 않습니다. 배치 갱신은 수동 보완의 검토를 대신하지 않습니다. 새 공시가 나오면 원문을 다시 읽어 보완 자료를 수정해야 합니다. 수동 보완한 분기는 확보한 최신 연간 종료일보다 늦을 때만 최신 분기로 사용하며, 더 최근의 연간 실적이 확보되면 오래된 보완 분기는 표시하지 않습니다.
 
 SEC 제출일을 확인하지 못한 IR 수치는 `filed: null`을 유지합니다. 확인된 발표일(`releasedOn`)이나 보수적인 원문 확인일(`availableOn`)을 기준일 필터에 사용하고, 이사회 승인일(`authorizedOn`)을 제출일로 바꾸지 않습니다. 화면에도 제출일 미확인·발표일 또는 원문 확인일을 구분합니다. TM·TSM·VMRK의 일부 수치와 다음 보완을 포함합니다.
 
@@ -65,6 +65,7 @@ SEC 제출일을 확인하지 못한 IR 수치는 `filed: null`을 유지합니�
 | NU | SEC 6-K 첨부 [2025년 연간](https://www.sec.gov/Archives/edgar/data/1691493/000129281426000499/nufs4q25_6k.htm) 및 [2026년 2분기](https://www.sec.gov/Archives/edgar/data/1691493/000129281426004225/nufs2q26_6k.htm) IFRS 연결 재무제표. Total revenue를 사용하며 관리회계 조정 매출과 구분. 순이익·자본은 모회사 소유주 귀속 |
 | SPCX | [2026-06-05 공식 EU 투자설명서 요약](https://assets.ctfassets.net/4xftowcfqjsd/2nC81GOlUFkrnsC6J1v393/d016e2b66139e98be67dc58c1b58765c/SpaceX_-_EU_Prospectus_Summary_-_June_5__2026.pdf)의 2023~2025 연간 재무. AI 결합을 반영한 원문 범위·IPO 이전 자본구조이며 주주 귀속 순이익을 사용. 투자현금흐름을 CAPEX로 대체하지 않음 |
 | AMH | [2025년 실적 공시](https://www.sec.gov/Archives/edgar/data/1562401/000156240126000007/amh1231258kexhibit991.htm) 및 [2026년 2분기 발표](https://investors.amh.com/events-and-presentations/press-releases/news-details/2026/AMH-Reports-Second-Quarter-2026-Financial-and-Operating-Results/)의 Rental and other single-family property revenue. 천 달러를 달러로 환산하며 동일 주택 NOI·FFO와 구분 |
+| ANT | SEC [424B4 투자설명서](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm)(2026-11-19 제출)의 2023~2025 감사 연결 재무와 2026년 3분기 미감사 분기 손익·9월 말 재무상태표. IPO 이전 자본구조이며 자기자본은 상환전환우선주를 제외한 결손. 분기 현금흐름·주식보상은 1~9월 누적. 유형자산 취득에 리스 선급금·컴퓨트 약정 지급을 더하지 않고, 회사의 조정 영업손익을 GAAP 영업손익과 혼용하지 않음 |
 
 법인 승계가 있는 경우 `financial-adjustments.json`에서 이전 CIK·연결 가능한 과거 종료일·설명·근거를 명시합니다. 예를 들어 XOM은 2026년 7월 1일 법인 승계로 SEC CIK가 변경되어 이전 법인의 과거 공시를 출처와 함께 연결합니다. 원문은 [ExxonMobil 승계 8-K12B](https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0001193125-26-291990/d71068d8k12b.htm)입니다.
 

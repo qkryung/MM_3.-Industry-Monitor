@@ -49,6 +49,15 @@ class AdjustmentTests(unittest.TestCase):
         self.assertIsNone(after['annual'][0]['metrics']['revenue']['filed'])
         self.assertEqual(after['annual'][0]['metrics']['revenue']['value'],100)
 
+    def test_manual_quarter_is_dropped_once_a_newer_annual_period_exists(self):
+        quarter=dict(end='2026-09-30',kind='quarter',metrics={'revenue':metric(end='2026-09-30')})
+        current=issuer();current['annual']=[record('2026-12-31')]
+        result=apply_adjustments(current,supplement={'latestQuarter':copy.deepcopy(quarter)},cutoff='2027-03-01')
+        self.assertIsNone(result['latestQuarter'])
+        earlier=issuer();earlier['annual']=[record('2025-12-31')]
+        result=apply_adjustments(earlier,supplement={'latestQuarter':copy.deepcopy(quarter)},cutoff='2027-03-01')
+        self.assertEqual(result['latestQuarter']['end'],'2026-09-30')
+
     def test_recent_annual_report_supersedes_older_quarter_warning(self):
         current=issuer();current['annual']=[record('2026-06-30')];current['latestQuarterReportEnd']='2026-03-31'
         self.assertEqual(apply_adjustments(current)['coverageNotes'],[])
